@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
 #EXTINF:0 audio-track="rus",Первый канал HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:0 audio-track="rus",Первый канал HD
