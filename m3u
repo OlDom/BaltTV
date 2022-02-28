@@ -12,7 +12,7 @@ https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
 #EXTINF:0 audio-track="rus",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0 audio-track="rus",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
 #EXTINF:0 audio-track="rus",РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:0 audio-track="rus",МИР 24
