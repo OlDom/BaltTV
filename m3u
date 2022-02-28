@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:0 audio-track="rus",Первый канал HD
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
+#EXTINF:0 audio-track="rus",Первый канал HD
+https://edge3.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
+#EXTINF:0 audio-track="rus",Первый канал
+http://91.185.3.218:4000/play/603
+#EXTINF:0 audio-track="rus",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:0 audio-track="rus",РТР Планета
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:0 audio-track="rus",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0 audio-track="rus",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0 audio-track="rus",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0 audio-track="rus",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 audio-track="rus",НТВ Мир
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:0 audio-track="rus",ТВ3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:0 audio-track="rus",РЕН ТВ
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:0 audio-track="rus",ТНТ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
+#EXTINF:0 audio-track="rus",Дождь
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:0 audio-track="rus",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0 audio-track="rus",Шансон
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0 audio-track="rus",Euronews
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0 audio-track="rus",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 audio-track="rus",Дом Кино Премиум
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:0 audio-track="rus",A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:0 audio-track="rus",A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:0 audio-track="rus",A HBO
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:0 audio-track="rus",Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0 audio-track="rus",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:0 audio-track="rus",Киносвидание
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:0 audio-track="rus",Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:0 audio-track="rus",Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:0 audio-track="rus",КИНОСЕРИЯ
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+#EXTINF:0 audio-track="rus",Кинокомедия
+http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:0 audio-track="rus",ТВ Центр
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:0 audio-track="rus",Время
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:0 audio-track="rus",СТБ
+http://91.238.194.116:8030/stb
+
