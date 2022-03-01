@@ -7,7 +7,7 @@ https://edge3.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
 http://91.185.3.218:4000/play/603
 #EXTINF:0 audio-track="rus",Россия 1 HD
 
-https://raw.githubusercontent.com/OlDom/BaltTV/main/rossia1
+https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:0 audio-track="rus",НТВ
 https://s107.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/i4a1ed92a451a0865dc53bdbbcbcec32dsplaylist.m3u8
