@@ -6,7 +6,9 @@ https://edge3.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
 #EXTINF:0 audio-track="rus",Первый канал
 http://91.185.3.218:4000/play/603
 #EXTINF:0 audio-track="rus",Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+
+https://raw.githubusercontent.com/OlDom/BaltTV/main/rossia1
+
 #EXTINF:0 audio-track="rus",НТВ
 https://s107.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/i4a1ed92a451a0865dc53bdbbcbcec32dsplaylist.m3u8
 #EXTINF:0 audio-track="rus",РТР Планета
