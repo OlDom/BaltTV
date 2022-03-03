@@ -1,10 +1,33 @@
-#EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
-#EXTINF:0 audio-track="rus",Первый канал HD
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:0 audio-track="rus",Первый канал HD
-https://edge3.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
-#EXTINF:0 audio-track="rus",Первый канал
-http://91.185.3.218:4000/play/603
+
+EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
+https://xml.okis.ru/files/1/9/3/193399/03a.03.22.m3u
+
+#EXTINF:0,Первый канал HD
+#EXTGRP:общие
+https://xml.okis.ru/files/1/9/3/193399/1tv.m3u
+#EXTINF:0,Первый канал СНГ
+#EXTGRP:общие
+https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:0,РТР Планета
+#EXTGRP:общие
+http://37.17.12.124:8901/play/a008
+#EXTINF:0,НТВ Мир
+#EXTGRP:общие
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:общие
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:общие
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0,ТВ 3
+#EXTGRP:общие
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:общие
+http://91.185.3.218:4000/play/623
+
+
 #EXTINF:0 audio-track="rus",Россия 1 HD
 
 https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
@@ -13,58 +36,91 @@ https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 https://s107.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/i4a1ed92a451a0865dc53bdbbcbcec32dsplaylist.m3u8
 #EXTINF:0 audio-track="rus",РТР Планета
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
-#EXTINF:0 audio-track="rus",Известия
+
+
+
+#EXTINF:0,Россия 24
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
+#EXTINF:0,Вечерняя Москва
+#EXTGRP:новости
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:0,РБК
+#EXTGRP:новости
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0,Известия
+#EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0 audio-track="rus",Россия 24
-https://a3569458026-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:0 audio-track="rus",РБК
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:0 audio-track="rus",МИР 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 audio-track="rus",НТВ Мир
-http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:0 audio-track="rus",ТВ3
-https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:0 audio-track="rus",РЕН ТВ
-https://sc.id-tv.kz/RenTV.m3u8
-#EXTINF:0 audio-track="rus",ТНТ
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
-#EXTINF:0 audio-track="rus",Дождь
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:0 audio-track="rus",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:0 audio-track="rus",Шансон
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:0 audio-track="rus",Euronews
+#EXTINF:0,Euronews
+#EXTGRP:новости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0 audio-track="rus",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0 audio-track="rus",Дом Кино Премиум
-https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:0 audio-track="rus",A1
-http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:0 audio-track="rus",A2
-http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:0 audio-track="rus",A HBO
+#EXTINF:0,RT Док
+#EXTGRP:новости
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:0,360
+#EXTGRP:новости
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:новости
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+#EXTINF:0,8 канал
+#EXTGRP:другие
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:0,История
+#EXTGRP:другие
+http://ott-cdn.ucom.am/s40/04.m3u8
+#EXTINF:0,Победа
+#EXTGRP:другие
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0,Наука
+#EXTGRP:другие
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:0,A HBO
+#EXTGRP:другие
 http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:0 audio-track="rus",Фантастика Sci-Fi
+#EXTINF:0,ТНТ 4
+#EXTGRP:другие
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:другие
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:0,Шансон
+#EXTGRP:другие
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0,Время
+#EXTGRP:другие
+http://91.185.3.218:4000/play/607
+#EXTINF:0,Авто 24
+#EXTGRP:другие
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:0,Бобер
+#EXTGRP:другие
+http://109.200.130.124:7006/play/a02g
+#EXTINF:0,Мир HD
+#EXTGRP:другие
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+
+
+#EXTINF:0,Фантастика Sci-Fi
+#EXTGRP:кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:0 audio-track="rus",Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0 audio-track="rus",Киносвидание
-http://94.154.83.88:10000/kinosvidanie
-#EXTINF:0 audio-track="rus",Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:0 audio-track="rus",Кинохит
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:0 audio-track="rus",КИНОСЕРИЯ
-https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:0 audio-track="rus",Кинокомедия
-http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:0 audio-track="rus",ТВ Центр
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:0 audio-track="rus",Время
-https://sc.id-tv.kz:443/Vremya_36_37.m3u8
-#EXTINF:0 audio-track="rus",СТБ
-http://91.238.194.116:8030/stb
+#EXTINF:0,Дом кино
+#EXTGRP:кино
+http://91.185.3.218:4000/play/606
+#EXTINF:0,Дорама
+#EXTGRP:кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP:кино
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:0,КиноКлуб
+#EXTGRP:кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
+
 
