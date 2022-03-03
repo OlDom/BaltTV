@@ -1,0 +1,131 @@
+#EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
+
+Дом кино (1080p)
+http://91.185.3.218:4000/play/606
+
+Дорама (480p)
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+Кинопремьера [Not 24/7]
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+
+Кинохит [Not 24/7]
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+
+IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+
+Euronews
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+http://91.185.3.218:4000/play/410
+
+RT Doc
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+
+360
+https://video1.in-news.ru/360/index.m3u8
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+
+Первый СНГ
+http://91.185.3.218:4000/play/603
+
+РЕН ТВ
+http://91.185.3.218:4000/play/623
+
+Россия 
+https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
+http://91.185.3.218:4000/play/602
+
+Время
+http://91.185.3.218:4000/play/607
+
+КиноКлуб
+http://autopilot.catcast.tv/content/39005/index.m3u8
+
+Авто 24
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+
+РТР Планета беларусь
+http://37.17.12.124:8901/play/a008
+
+Бобер
+http://109.200.130.124:7006/play/a02g
+
+Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+НТВ Мир
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
+http://ott-cdn.ucom.am/s17/04.m3u8
+
+Пятница
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+
+РБК
+http://92.50.128.180/utv/1358/index.m3u8
+
+Русский Иллюзион
+http://86.57.178.105:10823
+
+ТВ 3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+
+ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
+
+ТНТ 4
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+
+Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+
+Шансон
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+A HBO
+http://ott-cdn.ucom.am/s64/04.m3u8
+
+Домашний
+http://ott-cdn.ucom.am/s88/04.m3u8
+
+Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+
+Первый канал HD
+https://xml.okis.ru/files/1/9/3/193399/1tv.m3u
+
+Первый канал СНГ
+https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+http://ott-cdn.ucom.am/s14/04.m3u8
+http://91.185.3.218:4000/play/603
+
+Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+
+История
+http://ott-cdn.ucom.am/s40/04.m3u8
+
+8 канал
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+
+Вечерняя Москва
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+
+
+
+
+
+
