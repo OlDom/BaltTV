@@ -1,13 +1,15 @@
 
 EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
-https://xml.okis.ru/files/1/9/3/193399/03a.03.22.m3u
 
 #EXTINF:0,Первый канал HD
 #EXTGRP:общие
-https://xml.okis.ru/files/1/9/3/193399/1tv.m3u
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:0,Первый канал СНГ
 #EXTGRP:общие
 https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:общие
+https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP:общие
 http://37.17.12.124:8901/play/a008
@@ -28,29 +30,18 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 http://91.185.3.218:4000/play/623
 
 
-#EXTINF:0 audio-track="rus",Россия 1 HD
-
-https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-
-#EXTINF:0 audio-track="rus",НТВ
-https://s107.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/i4a1ed92a451a0865dc53bdbbcbcec32dsplaylist.m3u8
-#EXTINF:0 audio-track="rus",РТР Планета
-https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
-
-
-
-#EXTINF:0,Россия 24
-#EXTGRP:новости
-https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
-#EXTINF:0,Вечерняя Москва
-#EXTGRP:новости
-http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:0,РБК
-#EXTGRP:новости
-http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:0,Известия
 #EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
+#EXTINF:0,РБК
+#EXTGRP:новости
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0,Вечерняя Москва
+#EXTGRP:новости
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:0,Euronews
 #EXTGRP:новости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
@@ -77,9 +68,6 @@ https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,Наука
 #EXTGRP:другие
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:0,A HBO
-#EXTGRP:другие
-http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:0,ТНТ 4
 #EXTGRP:другие
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
@@ -103,7 +91,9 @@ http://109.200.130.124:7006/play/a02g
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 
-
+#EXTINF:0,A HBO
+#EXTGRP:другие
+http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:0,Фантастика Sci-Fi
 #EXTGRP:кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
