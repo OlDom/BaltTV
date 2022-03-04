@@ -13,10 +13,9 @@ https://a1566399135-s27836.cdn.ngenix.net/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0,ТВ Центр
 #EXTGRP:общие
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:0,
+#EXTINF:0,ОТР
 #EXTGRP:общие
-
+https://bl.webcaster.pro/media/start/free_eb00a1bf4efa433ba363dbb6ca47fe95_hd/5_1585122629/104b37404992b6a18b1a305c70ada2bd/1646458122.m3u8?live=15&seek=1646414877&ref=https%3A%2F%2Fsmotret.tv&
 #EXTINF:0,РТР Планета
 #EXTGRP:общие
 http://ott-cdn.ucom.am/s15/04.m3u8
