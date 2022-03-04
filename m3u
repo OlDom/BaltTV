@@ -19,6 +19,9 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:общие
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP:общие
+https://clck.ru/dWosD
 #EXTINF:0,Звезда
 #EXTGRP:общие
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
