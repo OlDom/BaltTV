@@ -10,8 +10,6 @@ https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:общие
 https://a1566399135-s27836.cdn.ngenix.net/hls2/russia_hd/playlist_6.m3u8
-
-
 #EXTINF:0,ТВ Центр
 #EXTGRP:общие
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -21,7 +19,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:0,РТР Планета
 #EXTGRP:общие
-http://37.17.12.124:8901/play/a008
+http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
