@@ -62,6 +62,10 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Euronews
 #EXTGRP:новости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0,Про Бизнес
+#EXTGRP:новости
+https://ok.ru/res/i/video/stub.mp4
+
 #EXTINF:0,RT Док
 #EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
