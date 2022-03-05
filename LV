@@ -4,7 +4,7 @@
 #EXTINF:0,Первый канал HD
 #EXTGRP:общие
 https://xml.okis.ru/files/1/9/3/193399/1tv.m3u
-#EXTINF:0,Первый канал СНГ
+#EXTINF:0,Первый канал
 #EXTGRP:общие
 https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,Россия 1
