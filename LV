@@ -90,9 +90,9 @@ http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:0,ТНТ 4
 #EXTGRP:другие
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:0,
+#EXTINF:0,ТЕО ТВ
 #EXTGRP:другие
-
+https://teotv.ru/live/site/playlist.m3u8
 #EXTINF:0,Шансон
 #EXTGRP:другие
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
