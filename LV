@@ -40,6 +40,9 @@ https://a1566399135-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:0,Санкт-Петербург
 #EXTGRP:общие
 https://a1566399135-s27836.cdn.ngenix.net/hls2/ext_spbtv/playlist_4.m3u8
+#EXTINF:0,Своё ТВ
+#EXTGRP:общие
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP:новости
