@@ -34,18 +34,22 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 #EXTINF:0,РЕН ТВ
 #EXTGRP:общие
 http://91.185.3.218:4000/play/623
-
-
+#EXTINF:0,Культура
+#EXTGRP:общие
+https://a1566399135-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:общие
+https://a1566399135-s27836.cdn.ngenix.net/hls2/ext_spbtv/playlist_4.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP:новости
-https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
+https://a1566399135-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Вечерняя Москва
 #EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:0,РБК
 #EXTGRP:новости
-http://92.50.128.180/utv/1358/index.m3u8
+https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:0,Известия
 #EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -61,8 +65,6 @@ https://video1.in-news.ru/360/index.m3u8
 #EXTINF:0,Мир 24
 #EXTGRP:новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-
 #EXTINF:0,8 канал
 #EXTGRP:другие
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
@@ -99,8 +101,9 @@ http://109.200.130.124:7006/play/a02g
 #EXTINF:0,Мир HD
 #EXTGRP:другие
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-
+#EXTINF:0,Первый российский национальный канал
+#EXTGRP:другие
+https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
 
 #EXTINF:0,Фантастика Sci-Fi
 #EXTGRP:кино
