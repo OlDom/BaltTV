@@ -1,9 +1,10 @@
 #EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
+#EXTINF:0,Первый канал
+#EXTGRP:общие
+https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,Первый канал HD
 #EXTGRP:общие
-
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-
 #EXTINF:0,Россия 1
 #EXTGRP:общие
 https://a1566399135-s27836.cdn.ngenix.net/hls2/russia_hd/playlist_6.m3u8
@@ -19,9 +20,6 @@ https://bl.webcaster.pro/media/start/free_eb00a1bf4efa433ba363dbb6ca47fe95_hd/5_
 #EXTINF:0,ТНТ HD
 #EXTGRP:общие
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:0,Первый канал 
-#EXTGRP:общие
-https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP:общие
 http://ott-cdn.ucom.am/s15/04.m3u8
@@ -67,6 +65,192 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:0,Вечерняя Москва
 #EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+
+
+
+#EXTINF:0,TV 1000
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:0,TV 1000 Action
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch47/video.m3u8
+#EXTINF:0,TV 1000 World Kino
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:0,ViP Comedy
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch44/video.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch43/video.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch45/video.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP:кино
+http://91.185.3.218:4000/play/606
+#EXTINF:0,Amedia Hit HD
+#EXTGRP:кино
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:0,КиноКлуб
+#EXTGRP:кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:кино
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:0,Фантастика Sci-Fi
+#EXTGRP:кино
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Star Cinema
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch56/video.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:0,FilmBox Arthouse
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch63/video.m3u8
+#EXTINF:0,Bollywood
+#EXTGRP:кино
+http://iptv.prosto.tv:7000/ch61/video.m3u8
+#EXTINF:0,
+#EXTGRP:кино
+
+#EXTINF:0,
+#EXTGRP:кино
+
+#EXTINF:0,
+#EXTGRP:кино
+
+
+
+#EXTINF:0,X-Stream
+#EXTGRP:спорт
+http://iptv.prosto.tv:7000/ch313/video.m3u8
+#EXTINF:0,XSPORT
+#EXTGRP:спорт
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:0,FightBox HD
+#EXTGRP:спорт
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+#EXTINF:0,
+#EXTGRP:спорт
+
+
+#EXTINF:0,RecreatiON
+#EXTGRP:relax
+http://iptv.prosto.tv:7000/ch324/video.m3u8
+#EXTINF:0,RELAXON
+#EXTGRP:relax
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+
+
+#EXTINF:0,Rybalka-UA
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch88/video.m3u8
+#EXTINF:0,Наука-UA
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch90/video.m3u8
+#EXTINF:0,Дача HD
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch92/video.m3u8
+#EXTINF:0,Travel Channel
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch100/video.m3u8
+#EXTINF:0,English Club
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:0,Fast & FunBox HD
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:0,FASHIONBOX
+#EXTGRP:познание
+http://iptv.prosto.tv:7000/ch144/video.m3u8
+#EXTINF:0,
+#EXTGRP:познание
+
+#EXTINF:0,
+#EXTGRP:познание
+
+#EXTINF:0,
+#EXTGRP:познание
+
+#EXTINF:0,
+#EXTGRP:познание
+
+#EXTINF:0,
+#EXTGRP:познание
+
+
+#EXTINF:0,Смайлик
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch215/video.m3u8
+#EXTINF:0,Tiji
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:0,Піксель
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch67/video.m3u8
+#EXTINF:0,NIKI Kids
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:0,NIKI Junior HD
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:0,Nicktoons
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:0,LaLe
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch77/video.m3u8
+#EXTINF:0,Gulli Girl
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:детям
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:0,
+#EXTGRP:детям
+
+#EXTINF:0,
+#EXTGRP:детям
+
+#EXTINF:0,
+#EXTGRP:детям
+
 #EXTINF:0,Первый российский национальный канал
 #EXTGRP:другие
 https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
@@ -100,24 +284,3 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:0,Авто 24
 #EXTGRP:другие
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
-#EXTINF:0,Дом кино
-#EXTGRP:кино
-http://91.185.3.218:4000/play/606
-#EXTINF:0,Amedia Hit HD
-#EXTGRP:кино
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP:кино
-https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:0,КиноКлуб
-#EXTGRP:кино
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:кино
-https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-#EXTINF:0,Дорама
-#EXTGRP:кино
-http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:0,Фантастика Sci-Fi
-#EXTGRP:кино
-https://autopilot.catcast.tv/content/38801/index.m3u8
