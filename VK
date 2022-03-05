@@ -1,0 +1,1223 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://i.ibb.co/nrqSbyJ/IMG-20210127-160135-244.jpg", https://t.me/Playlist_m3u8
+https://t.me/Playlist_m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый канал HD
+http://91.192.168.251:5050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Россия К
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ
+http://91.221.201.2:7100/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Известия FHD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Известия HD
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  РБК
+http://92.50.128.180/utv/1358/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Рен ТВ
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Рен ТВ
+http://91.221.201.2:7100/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дождь HD
+http://185.228.135.48:8080/tv_dozhd_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  360°
+http://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  360°
+https://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Че
+http://46.174.83.66/Che/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ю
+http://46.174.83.66/U/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  TV1000 World Kino
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Hollywood
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Hollywood HD
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paramount Channel
+http://185.228.135.48:8080/tv_paramount_channel_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paramount Comedy
+http://46.34.209.243:80/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кинокомедия HD
+http://46.34.209.243:80/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Киносвидание HD
+http://46.34.209.243:80/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кинохит
+https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Киноужас
+http://109.239.128.126:8080/kinouzhas/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Киноужас FHD
+http://91.185.3.218:4000/play/259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Индийское кино
+http://46.174.83.66/Indiiskoe_kino/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Наше новое кино
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Наше новое кино HD
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia 1
+http://46.34.209.243:80/btv/SWM/A1/A1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia 2 FHD
+http://46.34.209.243:80/btv/SWM/A2/A2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia Hit
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia Hit FHD
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia Premium HD
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amedia Premium FHD
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НСТ
+http://91.221.201.2:7100/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НСТ HD
+http://46.34.209.243:80/btv/SWM/HCT/HCT.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дорама HD
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кинопоказ
+http://91.221.201.2:7006/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Феникс Плюс
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Иллюзион+
+http://185.228.135.48:8080/tv_illuzion_plus_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Zee TV
+http://194.213.23.7:3304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дом кино
+http://46.174.83.66/Dom_Kino/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дом кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ Хит
+http://fwryalta.trkcrimea.ru/yalta.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ Хит
+http://185.228.135.48:8080/tv_ntv_hit_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ Сериал
+http://185.228.135.48:8080/tv_ntv_serial_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  День Победы
+http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Millenium TV
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Millenium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Фантастика Sci-Fi
+https://v2.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ужастик
+https://v2.catcast.tv/content/38896/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  T24
+http://185.228.135.48:8080/tv_t24_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paradise HD
+http://195.154.242.229/Paradise_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paradox HD
+http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Premiere HD
+http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Premium HD
+http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Serial HD
+http://195.154.242.229/Serial_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Thriller HD
+http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Victory HD
+http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  РуКино HD
+http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VHS HD
+http://195.154.242.229/VHS_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  USSR HD
+http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2183.png" group-title="Без категории",  Discovery Channel FHD
+http://46.34.209.243:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1184.png" group-title="Без категории",  Animal Planet FHD
+http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1026.png" group-title="Без категории",  Nat Geo Wild FHD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1026.png" group-title="Без категории",  Nat Geo Wild HD
+http://46.34.209.243:80/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/102.png" group-title="Без категории",  National Geographic
+http://185.228.135.48:8080/tv_national_geographic_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/425.png" group-title="Без категории",  TLC HD
+http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1261.png" group-title="Без категории",  Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1014.png" group-title="Без категории",  Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3236.png" group-title="Без категории",  Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2951.png" group-title="Без категории",  History 2
+http://46.34.209.243:80/btv/SWM/History2HD/History2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1770.png" group-title="Без категории",  History FHD
+http://46.34.209.243:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1770.png" group-title="Без категории",  History HD
+http://46.34.209.243:80/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2356.png" group-title="Без категории",  History 2 HD
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2951.png" group-title="Без категории",  History 2 HD
+http://46.34.209.243:80/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Travel Channel
+http://185.228.135.48:8080/tv_travel_channel_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Точка отрыва
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1044.png" group-title="Без категории",  Загородная жизнь HD
+http://46.34.209.243:80/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Морской
+http://46.174.83.66/Morskoi_HD/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ПОЕХАЛИ!
+http://212.76.29.27/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Конный мир
+http://83.222.205.10:38080/konnyimir/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Просвещение
+http://185.228.135.48:8080/tv_prosveshenie_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый вегетарианский
+http://185.228.135.48:8080/tv_perviy_vegetarianskiy_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Здоровое ТВ
+http://185.228.135.48:8080/tv_zdorovoe_tv_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Доктор
+http://185.228.135.48:8080/tv_doctor_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Бобер
+http://185.228.135.48:8080/tv_bober_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Авто Плюс
+http://185.228.135.48:8080/tv_avto_plus_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Авто 24
+http://185.228.135.48:8080/tv_avto24_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Драйв
+http://185.228.135.48:8080/tv_drive_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Усадьба
+http://185.228.135.48:8080/tv_usadba_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Живая планета
+http://185.228.135.48:8080/tv_zhivaya_planeta_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Диалоги о рыбалке
+http://185.228.135.48:8080/tv_dialogi_o_rybalke_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Охотник и рыболов
+http://185.228.135.48:8080/tv_ohotnik_i_rybolov_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Оружие
+http://185.228.135.48:8080/tv_oruzhie_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дикая рыбалка HD
+http://91.221.201.2:7100/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дикая охота HD
+http://91.221.201.2:7100/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ Стиль
+http://185.228.135.48:8080/tv_ntv_stil_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТВ Право
+http://185.228.135.48:8080/tv_ntv_pravo_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Совершенно секретно
+http://185.228.135.48:8080/tv_sovershenno_sekretno_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Тайна
+http://185.228.135.48:8080/tv_taina_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  RTG HD
+http://46.174.83.66/RTG_HD/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Моя планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Моя планета HD
+http://185.228.135.48:8080/tv_planeta_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  История
+http://185.228.135.48:8080/tv_istoriya_sd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ЛитКлуб ТВ Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ЛитКлуб ТВ Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  NASA TV
+https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Твое ТВ
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  DW
+http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  О!
+http://46.174.83.66/O/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Disney Channel
+http://46.174.83.66/Disney/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Уникум
+http://46.174.83.66/Unikum/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport 2
+http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport 2 HD
+http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport Gold FHD
+http://185.228.135.48:8080/tv_eurosport_gold_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UFC HD
+http://91.185.3.218:4000/play/401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UFC ТВ HD
+http://185.228.135.48:8080/tv_ufc_tv_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Viasat Sport HD
+http://185.228.135.48:8080/tv_viasat_sport_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2883584/1/1/playlist.m3u8
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  KHL HD
+http://91.185.3.218:4000/play/404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мир баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории", ~ A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Eurosport 1 HD
+http://93.152.174.144:4000/play/eurosport1sp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  HOT SPORT 2
+http://93.152.174.144:4000/play/hotsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 5 PLUS
+http://93.152.174.144:4000/play/s5plus/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sky Sports F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sport 4
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sports 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sports 3
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sports 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bein Sports 5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Музыкальный HD
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Музыкальный HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  HDFashion&Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  М1 HD
+http://live.m2.tv/hls2/720/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ecnulo
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории", ~ TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  AIVA
+http://194.190.78.91:8080/aivaya/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  HITV
+http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  HITV FHD
+http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  HITV HD
+http://rosshow.gcdn.co/streams/1410_290/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MUSIC PLUS
+http://79.172.214.45:10190/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MUZZIK HIP-HOP
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Blue Crabs TV
+http://stream-norst.cf:8080/crabs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Москва Доверие
+http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Москва Доверие
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Башкортостан 24
+http://live.gtrk.tv/hls/b24-hls.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  12 канал HD
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Телестанция Мир (Новосибирск)
+http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Тюменское время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Енисей HD
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ОТВ (Одинцово)
+http://185.18.4.16/live/3m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Красногорск ТВ
+http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ветта 24 Пермь
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  К16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Сургут 24
+http://video1.in-news.ru/c24/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТВК 24 (Красноярск)
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кубань 24
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Белгород 24 HD
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дагестан
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Ингушетия
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  11 канал (Пенза)
+http://85.234.33.64/stream/c11.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Чайковский ТВ
+http://178.170.233.3:8889/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Ярославский HD
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Псковский
+http://194.190.78.91/pskov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  СТРК Сочи
+http://sochi-strk.ru:2015/STRK/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории", ~ Саратов 24
+http://saratov24.tv:80/online/playlist.php
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Аист
+http://141.101.205.134:8080/hls/tvaist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Астрахань 24
+http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  10 канал (Новокузнецк)
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Кузбасс 1
+http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Эфир ТВ
+http://89.232.125.186/online_tv_Efir/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Татарстан 24
+http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Югран
+http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  8 канал
+http://80.94.225.126:8080/8kanalHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Белрос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Белсат
+http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Белсат HD
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  СТВ Беларусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Беларусь 4 Витебск
+http://95.46.208.8:26258/belarus4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТРО
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Седьмой канал
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kazakh TV
+http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый канал Евразия
+https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Dombyra TV
+https://sc.id-tv.kz/Dombyra_38_39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  H1
+http://timeshift.arpinet.am/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kentron HD
+http://cdn.onarmtv.com/str/4/output.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ArmNews HD
+http://cdn.onarmtv.com/str/10/output.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  NAXCIVAN TV
+http://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MEDENIYET TV HD
+http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории", ~ AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Інтер
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1+1
+http://91.235.69.230:10003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1+1 HD
+http://194.146.190.241:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2+2 HD
+http://194.146.190.241:4000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  К1
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Star Cinema Украина HD
+http://95.67.12.94:9001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Star Family Украина HD
+http://95.67.12.94:9002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  М1
+http://live.m2.tv/hls2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  М2
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Прямой
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Прямой HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  24 канал
+http://streamvideol1.luxnet.ua/news24/news24.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  3 Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  РАИ
+http://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТРК Аверс (Луцк)
+https://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ГИТ (Луцк)
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Алекс (Запорожье)
+http://46.46.112.223/live/livestream1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Алекс (Запорожье)
+http://46.46.112.223/hls/alexua_576.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТВ 5 (Запорожье)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ВТВ Плюс (Херсон)
+http://193.107.128.8:8552/play/a007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Nobel TV (Днепр)
+http://159.224.232.27:1234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  City TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Odesa Live
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТРК Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТВА
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Думская.TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Инший (Одесса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Инший HD
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Одесса Fashion
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТИС
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Западный (Львов)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Городской HD (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Тернополь 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Черновицкий проминь
+http://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Перший діловий
+https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ATR
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kratu
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Lale
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Херсон
+http://193.107.128.8:8552/play/a016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Moldova 1 HD
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Moldova 2 HD
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Moldova 1 HD
+http://87.248.191.169:80
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТНТ Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  STV HD Комрат
+http://188.138.130.130:8080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  NTS
+http://5.56.77.9:50000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Русская ночь
+http://46.174.83.66/Russkaya_Noch/mpegts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Redlight
+http://93.152.174.144:4000/play/Redlight/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Penthouse Gold
+http://93.152.174.144:4000/play/Penthouse/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Erotic Sensations
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Fetish Factory
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Extasy/LeoTV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Latina
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Gay
+http://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bigass HD
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Hard Core
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Milf HD
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  POV HD 720
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Man2Man
+http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
