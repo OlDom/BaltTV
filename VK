@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i.ibb.co/nrqSbyJ/IMG-20210127-160135-244.jpg", https://t.me/Playlist_m3u8
-https://t.me/Playlist_m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый канал HD
-http://91.192.168.251:5050
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
