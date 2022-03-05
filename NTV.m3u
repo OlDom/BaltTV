@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF:-1,НТВ
+http://176.114.16.54:80/ntv/index.m3u8
+#EXTINF:-1,НТВ Мир
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1,НТВ
+https://plbl.m9.lfstrm.tv/ntv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,НТВ
+#EXTGRP:Для ForkPlayer
+http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG—NTV/03/plst.m3u8
