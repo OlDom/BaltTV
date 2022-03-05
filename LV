@@ -43,6 +43,9 @@ https://a1566399135-s27836.cdn.ngenix.net/hls2/ext_spbtv/playlist_4.m3u8
 #EXTINF:0,Своё ТВ
 #EXTGRP:общие
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:0,БРИКС ТВ
+#EXTGRP:общие
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP:новости
