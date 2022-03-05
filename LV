@@ -43,9 +43,8 @@ https://a1566399135-s27836.cdn.ngenix.net/hls2/ext_spbtv/playlist_4.m3u8
 #EXTINF:0,Своё ТВ
 #EXTGRP:общие
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:0,БРИКС ТВ
+#EXTINF:0,
 #EXTGRP:общие
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP:новости
@@ -62,9 +61,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Euronews
 #EXTGRP:новости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0,Про Бизнес
+#EXTINF:0,
 #EXTGRP:новости
-https://ok.ru/res/i/video/stub.mp4
 
 #EXTINF:0,RT Док
 #EXTGRP:новости
@@ -78,9 +76,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,8 канал
 #EXTGRP:другие
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:0,История
+#EXTINF:0,
 #EXTGRP:другие
-http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:0,Победа
 #EXTGRP:другие
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
