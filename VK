@@ -1,302 +1,349 @@
 #EXTM3U
-
 #EXTINF:-1, tvg-logo="https://i.ibb.co/BNJjdNr/IMG-20210301-214958-861.jpg", https://t.me/Playlist_m3u8
 https://t.me/Playlist_m3u8
 #EXTM3UF:-1 tvg-logo="https://i.ibb.co/BNJjdNr/IMG-20210301-214958-861.jpg", https://t.me/Playlist_m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1 канал Українського радіо
-http://185.185.252.75:8000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ПравдаТУТ Київ
-http://185.185.252.75:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Рада UA
-http://185.185.252.75:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2 канал радіо Промінь
-http://185.185.252.75:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Радіо Культура
-http://185.185.252.75:8000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТРК Киев
-http://185.185.252.75:8000/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kyiv LIVE
-http://185.185.252.75:8000/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Киев
-http://185.185.252.75:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Крим
-http://185.185.252.75:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Культура
-http://185.185.252.75:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Перший
-http://185.185.252.75:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТЕТ
-http://185.185.252.75:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2+2
-http://185.185.252.75:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  OCE HD
-http://185.185.252.75:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  СТБ
-http://185.185.252.75:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ICTV HD
-http://185.185.252.75:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Новый канал
-http://185.185.252.75:8000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  1+1
-http://185.185.252.75:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Inter
-http://185.185.252.75:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  K1
-http://185.185.252.75:8000/play/a00k/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  K2
-http://185.185.252.75:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НТН
-http://185.185.252.75:8000/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Бигуди
-http://185.185.252.75:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 1
-http://185.185.252.75:8000/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 2
-http://185.185.252.75:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  8 канал (укр.)
-http://185.185.252.75:8000/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Глас
-http://185.185.252.75:8000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kino 1
-http://185.185.252.75:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Nickelodeon Europe
-http://185.185.252.75:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Наше любимое кино
-http://185.185.252.75:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  English club
-http://185.185.252.75:8000/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Film.Ua Drama
-http://185.185.252.75:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Bolt
-http://185.185.252.75:8000/play/a00y/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  FilmBox
-http://185.185.252.75:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paramount channel
-http://185.185.252.75:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Paramount Comedy
-http://185.185.252.75:8000/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Star Cinema
-http://185.185.252.75:8000/play/a012/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Star Family
-http://185.185.252.75:8000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Enter Film
-http://185.185.252.75:8000/play/a014/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Zoom
-http://185.185.252.75:8000/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Мега
-http://185.185.252.75:8000/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Trofey
-http://185.185.252.75:8000/play/a017/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Дача
-http://185.185.252.75:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Epoque
-http://185.185.252.75:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Квартал ТВ
-http://185.185.252.75:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  History
-http://185.185.252.75:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Сонце
-http://185.185.252.75:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ПлюсПлюс
-http://185.185.252.75:8000/play/a01d/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Малятко TV
-http://185.185.252.75:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Пиксель
-http://185.185.252.75:8000/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Эко-ТВ
-http://185.185.252.75:8000/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Niki Kids
-http://185.185.252.75:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Niki Junior
-http://185.185.252.75:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Детский мир
-http://185.185.252.75:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Украина
-http://185.185.252.75:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  EU Music
-http://185.185.252.75:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  НЛО TV
-http://185.185.252.75:8000/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Горизонт
-http://185.185.252.75:8000/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ЧП.INFO
-http://185.185.252.75:8000/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  5 канал
-http://185.185.252.75:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  VIP Megahit
-http://185.185.252.75:8000/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Прямий
-http://185.185.252.75:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Еспресо TV HD
-http://185.185.252.75:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Униан
-http://185.185.252.75:8000/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  24 новини
-http://185.185.252.75:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  А1 Одесса
-http://185.185.252.75:8000/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Genuine TV HD
-http://185.185.252.75:8000/play/a01z/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ATR HD
-http://185.185.252.75:8000/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Renome
-http://185.185.252.75:8000/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Первый Деловой
-http://185.185.252.75:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Euronews
-http://185.185.252.75:8000/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Indigo
-http://185.185.252.75:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Milady Television
-http://185.185.252.75:8000/play/a022/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Quiz TV
-http://185.185.252.75:8000/play/a023/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 1 Baltic
-http://185.185.252.75:8000/play/a024/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 2 Baltic
-http://185.185.252.75:8000/play/a025/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Sport 1 HD
-http://185.185.252.75:8000/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Надія
-http://185.185.252.75:8000/play/a027/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  34 канал
-http://185.185.252.75:8000/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  M2
-http://185.185.252.75:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  4ever music HD
-http://185.185.252.75:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  OTV
-http://185.185.252.75:8000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Черноморская ТРК
-http://185.185.252.75:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Телевсесвит
-http://185.185.252.75:8000/play/a02d/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Nauka
-http://185.185.252.75:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Terra
-http://185.185.252.75:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ПравдаТУТ Київ
-http://185.185.252.75:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Рада UA
-http://185.185.252.75:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2 канал радіо Промінь
-http://185.185.252.75:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Радіо Культура
-http://185.185.252.75:8000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТРК Киев
-http://185.185.252.75:8000/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  Kyiv LIVE
-http://185.185.252.75:8000/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Киев
-http://185.185.252.75:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Крим
-http://185.185.252.75:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Культура
-http://185.185.252.75:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  UA:Перший
-http://185.185.252.75:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  ТЕТ
-http://185.185.252.75:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  2+2
-http://185.185.252.75:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Без категории",  OCE HD
-http://185.185.252.75:8000/play/a00e/index.m3u8
+#EXTINF:-1,2x2
+http://95.52.161.96:82/play/a01b
+#EXTINF:-1,AMEDIA 2
+http://95.52.161.96:82/play/a00x
+#EXTINF:-1,Amedia 1
+http://95.52.161.96:82/play/a02x
+#EXTINF:-1,Amedia 2 HD
+http://95.52.161.96:82/play/a01q
+#EXTINF:-1,Ani
+http://95.52.161.96:82/play/a02i
+#EXTINF:-1,Animal Planet HD
+http://95.52.161.96:82/play/a02s
+#EXTINF:-1,BRIDGE TV
+http://95.52.161.96:82/play/a02t
+#EXTINF:-1,BRIDGE TV Classic
+http://95.52.161.96:82/play/a01m
+#EXTINF:-1,BRIDGE TV DELUXE
+http://95.52.161.96:82/play/a02g
+#EXTINF:-1,BRIDGE TV HITS
+http://95.52.161.96:82/play/a01l
+#EXTINF:-1,C Music
+http://95.52.161.96:82/play/a01o
+#EXTINF:-1,DTX
+http://95.52.161.96:82/play/a01e
+#EXTINF:-1,Discovery Channel
+http://95.52.161.96:82/play/a026
+#EXTINF:-1,Fashion HD
+http://95.52.161.96:82/play/a00s
+#EXTINF:-1,Home and Garden
+http://95.52.161.96:82/play/a03g
+#EXTINF:-1,ID: Investigation Discovery
+http://95.52.161.96:82/play/a028
+#EXTINF:-1,Ocean TV
+http://95.52.161.96:82/play/a03j
+#EXTINF:-1,RTG HD
+http://95.52.161.96:82/play/a02d
+#EXTINF:-1,Sony HD 
+http://95.52.161.96:82/play/a01r
+#EXTINF:-1,T24
+http://95.52.161.96:82/play/a01i
+#EXTINF:-1,TLC Russia
+http://95.52.161.96:82/play/a027
+#EXTINF:-1,ViP Premiere
+http://95.52.161.96:82/play/a03h
+#EXTINF:-1,iConcerts HD
+http://95.52.161.96:82/play/a002
+#EXTINF:-1,lime
+http://95.52.161.96:82/play/a03x
+#EXTINF:-1,test 4-LOVE NATURE
+http://95.52.161.96:82/play/a03d
+#EXTINF:-1,Авто 24
+http://95.52.161.96:82/play/a01y
+#EXTINF:-1,В гостях у сказки
+http://95.52.161.96:82/play/a03k
+#EXTINF:-1,Глазами Туриста HD
+http://95.52.161.96:82/play/a035
+#EXTINF:-1,Детский мир
+http://95.52.161.96:82/play/a02e
+#EXTINF:-1,Дикая охота HD
+http://95.52.161.96:82/play/a03c
+#EXTINF:-1,Дикая рыбалка HD
+http://95.52.161.96:82/play/a03b
+#EXTINF:-1,Дикий
+http://95.52.161.96:82/play/a02f
+#EXTINF:-1,Доктор
+http://95.52.161.96:82/play/a01u
+#EXTINF:-1,Живая природа HD
+http://95.52.161.96:82/play/a03i
+#EXTINF:-1,История
+http://95.52.161.96:82/play/a01d
+#EXTINF:-1,КИНОМИКС HD
+http://95.52.161.96:82/play/a00k
+#EXTINF:-1,КИНОПРЬЕМЕРА
+http://95.52.161.96:82/play/a03t
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://95.52.161.96:82/play/a03q
+#EXTINF:-1,КИНОСЕМЬЯ
+http://95.52.161.96:82/play/a03r
+#EXTINF:-1,КХЛ HD
+http://95.52.161.96:82/play/a02r
+#EXTINF:-1,Кино ТВ HD
+http://95.52.161.96:82/play/a003
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://95.52.161.96:82/play/a00j
+#EXTINF:-1,МУЗ
+http://95.52.161.96:82/play/a036
+#EXTINF:-1,Матч Арена
+http://95.52.161.96:82/play/a02p
+#EXTINF:-1,Матч Боец
+http://95.52.161.96:82/play/a02o
+#EXTINF:-1,Матч Игра
+http://95.52.161.96:82/play/a02u
+#EXTINF:-1,Матч Страна
+http://95.52.161.96:82/play/a02q
+#EXTINF:-1,Матч ТВ HD
+http://95.52.161.96:82/play/a01p
+#EXTINF:-1,Матч Футбол 1
+http://95.52.161.96:82/play/a02l
+#EXTINF:-1,Матч Футбол 2
+http://95.52.161.96:82/play/a02m
+#EXTINF:-1,Матч Футбол 3
+http://95.52.161.96:82/play/a02n
+#EXTINF:-1,Мир
+http://95.52.161.96:82/play/a03m
+#EXTINF:-1,Москва 24
+http://95.52.161.96:82/play/a02v
+#EXTINF:-1,Моя Планета
+http://95.52.161.96:82/play/a01t
+#EXTINF:-1,МультиМузыка 
+http://95.52.161.96:82/play/a01a
+#EXTINF:-1,НСТВ
+http://95.52.161.96:82/play/a01w
+#EXTINF:-1,НТВ HD
+http://95.52.161.96:82/play/a02j
+#EXTINF:-1,НТВ Право
+http://95.52.161.96:82/play/a00m
+#EXTINF:-1,НТВ Сериал
+http://95.52.161.96:82/play/a00n
+#EXTINF:-1,НТВ Стиль
+http://95.52.161.96:82/play/a00l
+#EXTINF:-1,Наука
+http://95.52.161.96:82/play/a01s
+#EXTINF:-1,Ностальгия
+http://95.52.161.96:82/play/a01x
+#EXTINF:-1,Общественное ТВ России
+http://95.52.161.96:82/play/a03n
+#EXTINF:-1,Первый Канал HD
+http://95.52.161.96:82/play/a02y
+#EXTINF:-1,Петербург 5 канал(+2
+http://95.52.161.96:82/play/a039
+#EXTINF:-1,Победа720
+http://95.52.161.96:82/play/a032
+#EXTINF:-1,Продвижение (Москва)
+http://95.52.161.96:82/play/a03l
+#EXTINF:-1,Пятница
+http://95.52.161.96:82/play/a029
+#EXTINF:-1,РБК ТВ
+http://95.52.161.96:82/play/a01v
+#EXTINF:-1,РЕН (+2)
+http://95.52.161.96:82/play/a038
+#EXTINF:-1,Россия HD
+http://95.52.161.96:82/play/a02z
+#EXTINF:-1,Россия К
+http://95.52.161.96:82/play/a03p
+#EXTINF:-1,Русская комедия
+http://95.52.161.96:82/play/a02w
+#EXTINF:-1,Русский Бестселлер
+http://95.52.161.96:82/play/a01j
+#EXTINF:-1,Русский Детектив
+http://95.52.161.96:82/play/a01g
+#EXTINF:-1,Русский Роман
+http://95.52.161.96:82/play/a01f
+#EXTINF:-1,Синема
+http://95.52.161.96:82/play/a01k
+#EXTINF:-1,ТВ Центр Москва
+http://95.52.161.96:82/play/a03o
+#EXTINF:-1,ТЕЛЕКАФЕ
+http://95.52.161.96:82/play/a01h
+#EXTINF:-1,Телеканал 360\'
+http://95.52.161.96:82/play/a01c
+#EXTINF:-1,Точка отрыва
+http://95.52.161.96:82/play/a00i
+#EXTINF:-1,Чаваш Ен
+http://95.52.161.96:82/play/a00p
+#EXTINF:-1,Че
+http://95.52.161.96:82/play/a02a
+#EXTINF:-1,Шансон ТВ
+http://95.52.161.96:82/play/a00r
+#EXTINF:-1,Юрган
+http://95.52.161.96:82/play/a00q
+#EXTINF:-1,365 дней ТВ
+http://95.52.161.96:81/play/a02c
+#EXTINF:-1,Bollywood HD
+http://95.52.161.96:81/play/a05e
+#EXTINF:-1,Da Vinci Learning
+http://95.52.161.96:81/play/a040
+#EXTINF:-1,Disney
+http://95.52.161.96:81/play/a03u
+#EXTINF:-1,EUROSPORT 1 HD
+http://95.52.161.96:81/play/a05c
+#EXTINF:-1,Eurosport 1
+http://95.52.161.96:81/play/a057
+#EXTINF:-1,FOX
+http://95.52.161.96:81/play/a02f
+#EXTINF:-1,HDL
+http://95.52.161.96:81/play/a01r
+#EXTINF:-1,MTV
+http://95.52.161.96:81/play/a03m
+#EXTINF:-1,Nat Geo Wild
+http://95.52.161.96:81/play/a02g
+#EXTINF:-1,National Geographic
+http://95.52.161.96:81/play/a01u
+#EXTINF:-1,OCEAN-TV
+http://95.52.161.96:81/play/a02i
+#EXTINF:-1,Paramount Channel
+http://95.52.161.96:81/play/a03n
+#EXTINF:-1,RT DOC
+http://95.52.161.96:81/play/a030
+#EXTINF:-1,RU TV
+http://95.52.161.96:81/play/a05n
+#EXTINF:-1,Shop and Show
+http://95.52.161.96:81/play/a051
+#EXTINF:-1,Sony SciFi
+http://95.52.161.96:81/play/a04d
+#EXTINF:-1,SonyTurbo
+http://95.52.161.96:81/play/a04e
+#EXTINF:-1,Spike
+http://95.52.161.96:81/play/a03o
+#EXTINF:-1,TV1000
+http://95.52.161.96:81/play/a043
+#EXTINF:-1,TV1000 Action
+http://95.52.161.96:81/play/a042
+#EXTINF:-1,TV1000 Русское Кино
+http://95.52.161.96:81/play/a041
+#EXTINF:-1,Travel Channel HD
+http://95.52.161.96:81/play/a05f
+#EXTINF:-1,Travel+Adventure
+http://95.52.161.96:81/play/a05h
+#EXTINF:-1,Travel+Adventure
+http://95.52.161.96:81/play/a04g
+#EXTINF:-1,Viasat Explore
+http://95.52.161.96:81/play/a044
+#EXTINF:-1,Viasat History
+http://95.52.161.96:81/play/a045
+#EXTINF:-1,Viasat Nature
+http://95.52.161.96:81/play/a046
+#EXTINF:-1,АРМЕНИЯ ТВ
+http://95.52.161.96:81/play/a02h
+#EXTINF:-1,БОБЁР
+http://95.52.161.96:81/play/a01v
+#EXTINF:-1,Беларусь24
+http://95.52.161.96:81/play/a033
+#EXTINF:-1,Ваш телемагазин
+http://95.52.161.96:81/play/a05r
+#EXTINF:-1,Время: далекое и близкое
+http://95.52.161.96:81/play/a01w
+#EXTINF:-1,Доверие
+http://95.52.161.96:81/play/a02y
+#EXTINF:-1,Дом Кино
+http://95.52.161.96:81/play/a01x
+#EXTINF:-1,Дом Кино Премиум HD
+http://95.52.161.96:81/play/a05b
+#EXTINF:-1,Домашний
+http://95.52.161.96:81/play/a03z
+#EXTINF:-1,Евроновости
+http://95.52.161.96:81/play/a04c
+#EXTINF:-1,Европа Плюс ТВ
+http://95.52.161.96:81/play/a02b
+#EXTINF:-1,Загородная Жизнь
+http://95.52.161.96:81/play/a03k
+#EXTINF:-1,Звезда-1
+http://95.52.161.96:81/play/a03b
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://95.52.161.96:81/play/a01b
+#EXTINF:-1,Известия
+http://95.52.161.96:81/play/a04w
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://95.52.161.96:81/play/a01e
+#EXTINF:-1,КИНОСЕРИЯ
+http://95.52.161.96:81/play/a01i
+#EXTINF:-1,КИНОХИТ
+http://95.52.161.96:81/play/a04h
+#EXTINF:-1,КОННЫЙ МИР HD
+http://95.52.161.96:81/play/a05g
+#EXTINF:-1,КУЛЬТУРА 82
+http://95.52.161.96:81/play/a05q
+#EXTINF:-1,Карусель
+http://95.52.161.96:81/play/a03h
+#EXTINF:-1,Кухня ТВ
+http://95.52.161.96:81/play/a01g
+#EXTINF:-1,Ля-минор ТВ
+http://95.52.161.96:81/play/a01h
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://95.52.161.96:81/play/a03w
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://95.52.161.96:81/play/a036
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://95.52.161.96:81/play/a01s
+#EXTINF:-1,МИР PREMIUM
+http://95.52.161.96:81/play/a029
+#EXTINF:-1,МОСФИЛЬМ
+http://95.52.161.96:81/play/a05m
+#EXTINF:-1,МУЛЬТ
+http://95.52.161.96:81/play/a03q
+#EXTINF:-1,Матч ТВ-1
+http://95.52.161.96:81/play/a03d
+#EXTINF:-1,Мир 24
+http://95.52.161.96:81/play/a04j
+#EXTINF:-1,Авто
+http://95.52.161.96:81/play/a03i
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://95.52.161.96:81/play/a01l
+#EXTINF:-1,НОВОСТИ360
+http://95.52.161.96:81/play/a02w
+#EXTINF:-1,НТВ-1
+http://95.52.161.96:81/play/a03e
+#EXTINF:-1,Первый Канал-1
+http://95.52.161.96:81/play/a038
+#EXTINF:-1,Первый канал HD
+http://95.52.161.96:81/play/a02a
+#EXTINF:-1,Петербург 5 канал
+http://95.52.161.96:81/play/a047
+#EXTINF:-1,РЕН-1
+http://95.52.161.96:81/play/a03j
+#EXTINF:-1,РЖД ТВ
+http://95.52.161.96:81/play/a032
+#EXTINF:-1,РОДНОЕ КИНО
+http://95.52.161.96:81/play/a01k
+#EXTINF:-1,Россия 1 HD
+http://95.52.161.96:81/play/a02t
+#EXTINF:-1,Россия 1-1
+http://95.52.161.96:81/play/a039
+#EXTINF:-1,Россия 24
+http://95.52.161.96:81/play/a05p
+#EXTINF:-1,Русская ночь
+http://95.52.161.96:81/play/a01m
+#EXTINF:-1,СТС
+http://95.52.161.96:81/play/a03f
+#EXTINF:-1,СТС Love
+http://95.52.161.96:81/play/a04a
+#EXTINF:-1,Союз
+http://95.52.161.96:81/play/a03v
+#EXTINF:-1,Страна.СуперТВ
+http://95.52.161.96:81/play/a05o
+#EXTINF:-1,ТВ-3
+http://95.52.161.96:81/play/a04i
+#EXTINF:-1,ТНТ-1
+http://95.52.161.96:81/play/a03g
+#EXTINF:-1,ТНТ4
+http://95.52.161.96:81/play/a05l
+#EXTINF:-1,Усадьба-ТВ
+http://95.52.161.96:81/play/a02e
+#EXTINF:-1,Ю-ТВ
+http://95.52.161.96:81/play/a04l
+#EXTINF:-1,Наука HD
+http://95.52.161.96:82/play/a03z
+#EXTINF:-1,РБК ТВ
+http://95.52.161.96:82/play/a03y
+#EXTINF:-1,Т24
+http://95.52.161.96:82/play/a040
+#EXTINF:-1,Известия
+http://95.52.161.96:81/play/a05s
+#EXTINF:-1,Россия 1
+http://95.52.161.96:81/play/a04r
