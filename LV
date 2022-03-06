@@ -10,11 +10,8 @@ https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 https://a1566399135-s27836.cdn.ngenix.net/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
-
-
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-
-#EXTINF:0,ТВ 3
+#EXTINF:0,ТВ3
 #EXTGRP:общие
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:0,ОТР
@@ -44,6 +41,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0,Своё ТВ
 #EXTGRP:общие
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+
+
 #EXTINF:0,Известия
 #EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -132,16 +131,56 @@ http://iptv.prosto.tv:7000/ch61/video.m3u8
 #EXTGRP:кино
 
 
+#EXTINF:0,Шансон ТВ
+#EXTGRP:музыка
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0,9 Волна
+#EXTGRP:музыка
+http://win.cdn.bonus-tv.ru:8080/9volna/index.m3u8
+#EXTINF:0,Retro Music Tv
+#EXTGRP:музыка
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,Первый Музыкальный RU HD BY
+#EXTGRP:музыка
+http://rtmp.one.by:2300
+#EXTINF:0,Первый Музыкальный BY
+#EXTGRP:музыка
+http://rtmp.one.by:1200
+#EXTINF:0,Первый Музыкальный RU BY
+#EXTGRP:музыка
+http://rtmp.one.by:2200
+#EXTINF:0,Первый Музыкальный BY [FHD]
+#EXTGRP:музыка
+http://rtmp.one.by:1300
+#EXTINF:0,1Music Channel Hungary
+#EXTGRP:музыка
+http://1music.hu/1music.m3u8
+#EXTINF:0,1HD
+#EXTGRP:музыка
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0,Alsace 20
+#EXTGRP:музыка
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0,Kronehit TV 
+#EXTGRP:музыка
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0,
+#EXTGRP:музыка
 
-#EXTINF:0,X-Stream
+
+
+#EXTINF:0,Астрахань.Ru Sport HD
 #EXTGRP:спорт
-http://iptv.prosto.tv:7000/ch313/video.m3u8
-#EXTINF:0,XSPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:0,Red Bull TV
 #EXTGRP:спорт
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:0,FightBox HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,Arryadia
 #EXTGRP:спорт
-http://iptv.prosto.tv:7000/ch118/video.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,Turkmen Спорт
+#EXTGRP:спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:0,
 #EXTGRP:спорт
 
@@ -163,27 +202,24 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0,
 #EXTGRP:спорт
 
-#EXTINF:0,
-#EXTGRP:спорт
 
-
-#EXTINF:0,RecreatiON
+#EXTINF:0,Luxury
 #EXTGRP:relax
-http://iptv.prosto.tv:7000/ch324/video.m3u8
+http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0,RELAXON
 #EXTGRP:relax
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 
 
-#EXTINF:0,Rybalka-UA
+#EXTINF:0,Вместе РФ
 #EXTGRP:познание
-http://iptv.prosto.tv:7000/ch88/video.m3u8
-#EXTINF:0,Наука-UA
+http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
+#EXTINF:0,Просвещение
 #EXTGRP:познание
-http://iptv.prosto.tv:7000/ch90/video.m3u8
-#EXTINF:0,Дача HD
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0,Univer TV HD
 #EXTGRP:познание
-http://iptv.prosto.tv:7000/ch92/video.m3u8
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:0,Travel Channel
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch100/video.m3u8
@@ -212,18 +248,21 @@ http://iptv.prosto.tv:7000/ch144/video.m3u8
 #EXTGRP:познание
 
 
-#EXTINF:0,Смайлик
+#EXTINF:0,Мульт
 #EXTGRP:детям
-http://iptv.prosto.tv:7000/ch215/video.m3u8
-#EXTINF:0,Tiji
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,Kinder TV
 #EXTGRP:детям
-http://iptv.prosto.tv:7000/ch73/video.m3u8
-#EXTINF:0,Піксель
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,O!
 #EXTGRP:детям
-http://iptv.prosto.tv:7000/ch67/video.m3u8
-#EXTINF:0,NIKI Kids
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:0,LaLe
 #EXTGRP:детям
-http://iptv.prosto.tv:7000/ch71/video.m3u8
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0,WOW!TV
+#EXTGRP:детям
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:0,NIKI Junior HD
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch72/video.m3u8
@@ -236,9 +275,7 @@ http://iptv.prosto.tv:7000/ch68/video.m3u8
 #EXTINF:0,Nick Jr
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch69/video.m3u8
-#EXTINF:0,LaLe
-#EXTGRP:детям
-http://iptv.prosto.tv:7000/ch77/video.m3u8
+
 #EXTINF:0,Gulli Girl
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch74/video.m3u8
