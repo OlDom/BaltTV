@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:0,Канал 1
 http://50.7.231.220:8081/100/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 2
+#EXTINF:0,СТБ
 http://50.7.231.220:8081/101/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 3
+#EXTINF:0,Уникум
 http://50.7.231.220:8081/102/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 4
+#EXTINF:0,ICTV
 http://50.7.231.220:8081/103/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 5
+#EXTINF:0,CINEMA
 http://50.7.231.220:8081/104/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 6
+#EXTINF:0,TNT4
 http://50.7.231.220:8081/105/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 7
+#EXTINF:0,Пятница
 http://50.7.231.220:8081/106/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 8
+#EXTINF:0,Ю
 http://50.7.231.220:8081/107/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 9
+#EXTINF:0,365 дней
 http://50.7.231.220:8081/108/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 10
 http://50.7.231.220:8081/109/index.m3u8?wmsAuthSign=okad
