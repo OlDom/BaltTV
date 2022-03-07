@@ -21,7 +21,7 @@ http://50.7.231.220:8081/108/index.m3u8?wmsAuthSign=okad
 http://50.7.231.220:8081/109/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Viasat Nature
 http://50.7.231.220:8081/110/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 12
+#EXTINF:0,Viasat History HD
 http://50.7.231.220:8081/111/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 13
 http://50.7.231.220:8081/112/index.m3u8?wmsAuthSign=okad
