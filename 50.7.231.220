@@ -53,47 +53,47 @@ http://50.7.231.220:8081/124/index.m3u8?wmsAuthSign=okad
 http://50.7.231.220:8081/125/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Еврокино
 http://50.7.231.220:8081/126/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 28
+#EXTINF:0,НСТ
 http://50.7.231.220:8081/127/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 29
+#EXTINF:0,ИНДИЙСКОЕ КИНО
 http://50.7.231.220:8081/128/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 30
+#EXTINF:0,КИНОКОМЕДИЯ
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 31
+#EXTINF:0,Иллбзион+
 http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 32
+#EXTINF:0,Русский Иллюзион
 http://50.7.231.220:8081/131/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 33
+#EXTINF:0,Amedia 1
 http://50.7.231.220:8081/132/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 34
+#EXTINF:0,ТВ 21
 http://50.7.231.220:8081/133/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 35
 http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 36
+#EXTINF:0,Русский Бестселлер
 http://50.7.231.220:8081/135/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 37
+#EXTINF:0,Русский Детектив
 http://50.7.231.220:8081/136/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 38
+#EXTINF:0,TV 1000
 http://50.7.231.220:8081/137/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 39
+#EXTINF:0,TV 1000 Action
 http://50.7.231.220:8081/138/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 40
+#EXTINF:0,TV 1000 Русское кино
 http://50.7.231.220:8081/139/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 41
+#EXTINF:0,VIP PREMIERE
 http://50.7.231.220:8081/140/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 42
+#EXTINF:0,VIP MEGAHIT
 http://50.7.231.220:8081/141/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 43
+#EXTINF:0,VIP COMEDY
 http://50.7.231.220:8081/142/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 44
 http://50.7.231.220:8081/143/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 45
+#EXTINF:0,Жара
 http://50.7.231.220:8081/144/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 46
+#EXTINF:0,sci-fi
 http://50.7.231.220:8081/145/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 47
+#EXTINF:0,Авто 24
 http://50.7.231.220:8081/146/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 48
+#EXTINF:0,Авто плюс
 http://50.7.231.220:8081/147/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 49
 http://50.7.231.220:8081/148/index.m3u8?wmsAuthSign=okad
@@ -105,39 +105,39 @@ http://50.7.231.220:8081/150/index.m3u8?wmsAuthSign=okad
 http://50.7.231.220:8081/151/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 53
 http://50.7.231.220:8081/152/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 54
+#EXTINF:0,2x2
 http://50.7.231.220:8081/153/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 55
+#EXTINF:0,Disney Channel
 http://50.7.231.220:8081/154/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 56
+#EXTINF:0, nick
 http://50.7.231.220:8081/155/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 57
+#EXTINF:0, Уникум
 http://50.7.231.220:8081/156/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 58
+#EXTINF:0, Карусель
 http://50.7.231.220:8081/157/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 59
+#EXTINF:0,Радость моя
 http://50.7.231.220:8081/158/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 60
+#EXTINF:0,ТНТ MUSIC
 http://50.7.231.220:8081/159/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 61
+#EXTINF:0,BRIDGE
 http://50.7.231.220:8081/160/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 62
 http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 63
+#EXTINF:0,M1
 http://50.7.231.220:8081/162/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 64
+#EXTINF:0,МУЗ
 http://50.7.231.220:8081/163/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 65
+#EXTINF:0,MUSIC BOX
 http://50.7.231.220:8081/164/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 66
+#EXTINF:0,Шансон
 http://50.7.231.220:8081/165/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 67
+#EXTINF:0,O TV
 http://50.7.231.220:8081/166/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 68
 http://50.7.231.220:8081/167/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 69
+#EXTINF:0,RUSSIAN MUSIC BOX
 http://50.7.231.220:8081/168/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 70
+#EXTINF:0,Перец
 http://50.7.231.220:8081/169/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 71
 http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=okad
@@ -147,15 +147,15 @@ http://50.7.231.220:8081/171/index.m3u8?wmsAuthSign=okad
 http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 74
 http://50.7.231.220:8081/173/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 75
+#EXTINF:0,MTV
 http://50.7.231.220:8081/174/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 76
+#EXTINF:0,MTV TOP
 http://50.7.231.220:8081/175/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 77
+#EXTINF:0,MTV Channel
 http://50.7.231.220:8081/176/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 78
 http://50.7.231.220:8081/177/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,Канал 79
+#EXTINF:0,Мульт
 http://50.7.231.220:8081/178/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Канал 80
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=okad
