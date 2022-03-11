@@ -15,7 +15,7 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 
 #EXTINF:0,НТВ
 #EXTGRP:общие
-http://46.174.83.66/NTV//mpegts
+http://46.174.83.66/NTV/mpegts
 
 #EXTINF:0,ТВ3
 #EXTGRP:общие
