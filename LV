@@ -16,7 +16,9 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:общие
-https://bl.webcaster.pro/media/start/free_eb00a1bf4efa433ba363dbb6ca47fe95_hd/5_1585122629/10ccc0f923f7cc854b9c01026b7cd45f/1646946767.m3u8?live=15&amp;seek=1646903522&amp;ref=https%3A%2F%2Fotr-online.ru%2Fonline%2F&amp;
+
+http://46.174.83.66/OTR/mpegts
+
 #EXTINF:0,ТНТ HD
 #EXTGRP:общие
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
