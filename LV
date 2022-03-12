@@ -1,5 +1,9 @@
 #EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
 
+#EXTINF:0,Первый HD
+#EXTGRP:общие
+https://edge3.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
+
 #EXTINF:0,Первый Канал
 #EXTGRP:общие
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
