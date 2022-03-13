@@ -24,6 +24,10 @@ http://46.174.83.66/NTV/mpegts
 #EXTGRP:общие
 https://sc.id-tv.kz:443/NTV_34_35.m3u8?token=iptv.org.ua
 
+#EXTINF:0,РТР
+#EXTGRP:общие
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
 #EXTINF:0,ТВ Центр
 #EXTGRP:общие
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
