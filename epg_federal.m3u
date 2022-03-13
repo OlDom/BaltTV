@@ -45,7 +45,7 @@ http://80.237.51.37:8118
 http://80.237.51.37:8119
 
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="RU" tvg-language="Russian" tvg-logo="http://toplogos.ru/images/logo-muz-tv.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Муз ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, Муз ТВ) Mobile/15E148
+
 http://80.237.51.37:8120
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="Comedy" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Քոմեդի (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
