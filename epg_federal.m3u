@@ -40,7 +40,7 @@ http://80.237.51.37:8118
 #EXTINF:0,ТНТ
 http://80.237.51.37:8119
 
-#EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="RU" tvg-language="Russian" tvg-logo="http://toplogos.ru/images/logo-muz-tv.png" group-title="Music" user-agent="",Муз ТВ
+#EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="RU" tvg-language="Russian" tvg-logo="http://toplogos.ru/images/logo-muz-tv.png" group-title="Music",Муз ТВ
 http://80.237.51.37:8120
 
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="Comedy" ,Armenia Քոմեդի
