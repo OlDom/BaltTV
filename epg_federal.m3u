@@ -1,0 +1,52 @@
+#EXTM3U
+
+url-tvg=https://ottepg.ru/ottepg.xml.gz
+
+ x-tvg-url="https://ottepg.ru/ottepg.xml.gz,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+#EXTINF:0,Канал 1
+http://80.237.51.37:8100
+#EXTINF:0,Первый канал
+http://80.237.51.37:8101
+#EXTINF:0,Россия 1
+http://80.237.51.37:8102
+#EXTINF:0,Матч!
+http://80.237.51.37:8103
+#EXTINF:0,НТВ
+http://80.237.51.37:8104
+#EXTINF:0,Пятый Канал
+http://80.237.51.37:8105
+#EXTINF:0,Россия К
+http://80.237.51.37:8106
+#EXTINF:0,Россия 24
+http://80.237.51.37:8107
+#EXTINF:0,Карусель
+http://80.237.51.37:8108
+#EXTINF:0,ОТР
+http://80.237.51.37:8109
+#EXTINF:0,ТВ Центр
+http://80.237.51.37:8110
+#EXTINF:0,РЕН ТВ
+http://80.237.51.37:8111
+#EXTINF:0,Спас
+http://80.237.51.37:8112
+#EXTINF:0,СТС
+http://80.237.51.37:8113
+#EXTINF:0,Домашний
+http://80.237.51.37:8114
+#EXTINF:0,ТВ 3
+http://80.237.51.37:8115
+#EXTINF:0,Пятница
+http://80.237.51.37:8116
+#EXTINF:0,Звезда
+http://80.237.51.37:8117
+#EXTINF:0,Мир
+http://80.237.51.37:8118
+#EXTINF:0,ТНТ
+http://80.237.51.37:8119
+
+#EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="RU" tvg-language="Russian" tvg-logo="http://toplogos.ru/images/logo-muz-tv.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://80.237.51.37:8120
+#EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="Comedy" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Քոմեդի (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s32/index.m3u8
