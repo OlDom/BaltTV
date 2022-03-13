@@ -16,7 +16,9 @@ https://a1566399135-s27836.cdn.ngenix.net/hls2/russia_hd/playlist_6.m3u8
 https://streaming.spbtv.com/eyJvc19uYW1lIjoiaU9TIiwidXNlcl91aWQiOiJhbm9ueW1vdXNfODFlMDQzMGEtM2E3Mi00OWZmLWFlNGMtZWM0Y2RkM2RjOTNhIiwiYWdlX3JhdGluZ190YWciOiIxNi1ydXNzaWFuIiwicHJvdG9jb2wiOiJobHMiLCJkcm0iOiJzcGJ0dmNhcyIsInNlc3Npb25faWQiOiI5NjJhYTViOC00MGQwLTQ3N2MtODYyNy01NzFhMzA4YWFmMzIiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy5zcGJ0di5jb20iLCJpcF9hZGRyZXNzIjoiOTAuMTY5LjEyNS4xMCIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjItMDMtMTFUMTg6NTA6MDdaIiwic3RyZWFtX25hbWUiOiIyMTMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFBgWsG__vgcxgBfK0KFJbict_yrvAhRq2DR67glamTCiwCUKoLg27PFsvw%3D%3D/ip_v5/213.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:общие
+
 http://46.174.83.66/NTV/mpegts
+
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
