@@ -1,7 +1,6 @@
 #EXTM3U
 x-tvg-url="https://ottepg.ru/ottepg.xml.gz,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
-#EXTINF:0,Канал 1
-http://80.237.51.37:8100
+
 #EXTINF:0,Первый канал
 http://80.237.51.37:8101
 #EXTINF:0,Россия 1
