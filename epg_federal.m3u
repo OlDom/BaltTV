@@ -5,6 +5,12 @@ x-tvg-url="https://ottepg.ru/ottepg.xml.gz,https://iptv-org.github.io/epg/guides
 http://80.237.51.37:8101
 #EXTINF:0,Россия 1
 http://80.237.51.37:8102
+
+
+#EXTINF:0,РтР
+#EXTGRP:общие
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
 #EXTINF:0,Матч!
 http://80.237.51.37:8103
 #EXTINF:0,НТВ
