@@ -9,13 +9,13 @@ http://80.237.51.37:8100
 http://80.237.51.37:8101
 #EXTINF:0,Россия 1
 http://80.237.51.37:8102
-#EXTINF:0,Матч ТВ
+#EXTINF:0,Матч!
 http://80.237.51.37:8103
 #EXTINF:0,НТВ
 http://80.237.51.37:8104
 #EXTINF:0,Пятый Канал
 http://80.237.51.37:8105
-#EXTINF:0,Россия-Культура
+#EXTINF:0,Россия К
 http://80.237.51.37:8106
 #EXTINF:0,Россия 24
 http://80.237.51.37:8107
@@ -23,7 +23,7 @@ http://80.237.51.37:8107
 http://80.237.51.37:8108
 #EXTINF:0,ОТР
 http://80.237.51.37:8109
-#EXTINF:0,ТВЦ
+#EXTINF:0,ТВ Центр
 http://80.237.51.37:8110
 #EXTINF:0,РЕН ТВ
 http://80.237.51.37:8111
@@ -45,7 +45,7 @@ http://80.237.51.37:8118
 http://80.237.51.37:8119
 
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="RU" tvg-language="Russian" tvg-logo="http://toplogos.ru/images/logo-muz-tv.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Муз ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, Муз ТВ) Mobile/15E148
 http://80.237.51.37:8120
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="Comedy" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Քոմեդի (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
