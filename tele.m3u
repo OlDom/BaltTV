@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 2
+http://212.29.231.242:8080/btv_1/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Россия 1
+http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Матч Премьера
+http://212.29.231.242:8080/btv_3/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Discovery SCI
+http://212.29.231.242:8080/btv_4/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 6
+http://212.29.231.242:8080/btv_5/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 7
+http://212.29.231.242:8080/btv_6/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 8
+http://212.29.231.242:8080/btv_7/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 9
+http://212.29.231.242:8080/btv_8/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 10
+http://212.29.231.242:8080/btv_9/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,5 канал
+http://212.29.231.242:8080/btv_10/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,HOLYWOOD
+http://212.29.231.242:8080/btv_11/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Discovery channel
+http://212.29.231.242:8080/btv_12/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 14
+http://212.29.231.242:8080/btv_13/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Домашний
+http://212.29.231.242:8080/btv_14/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ТВ 3
+http://212.29.231.242:8080/btv_15/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Ентер Фильм
+http://212.29.231.242:8080/btv_16/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Карусель
+http://212.29.231.242:8080/btv_17/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 19
+http://212.29.231.242:8080/btv_18/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Ю
+http://212.29.231.242:8080/btv_19/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Eurosport 1
+http://212.29.231.242:8080/btv_20/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,TV 1000
+http://212.29.231.242:8080/btv_21/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Viasat History
+http://212.29.231.242:8080/btv_22/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ТНТ
+http://212.29.231.242:8080/btv_23/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 25
+http://212.29.231.242:8080/btv_24/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 26
+http://212.29.231.242:8080/btv_25/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Bkk.pbjy +
+http://212.29.231.242:8080/btv_26/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Heccrbq Bk.pbjy
+http://212.29.231.242:8080/btv_27/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,НТВ
+http://212.29.231.242:8080/btv_28/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 30
+http://212.29.231.242:8080/btv_29/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,РЕН ТВ
+http://212.29.231.242:8080/btv_30/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Уникум
+http://212.29.231.242:8080/btv_31/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,RU.TV
+http://212.29.231.242:8080/btv_32/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Еврокино
+http://212.29.231.242:8080/btv_33/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,СТС
+http://212.29.231.242:8080/btv_34/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Первый канал
+http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Jim Jam
+http://212.29.231.242:8080/btv_36/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Disney
+http://212.29.231.242:8080/btv_37/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Кухня ТВ
+http://212.29.231.242:8080/btv_38/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,FOX
+http://212.29.231.242:8080/btv_39/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,FOX Life
+http://212.29.231.242:8080/btv_40/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Матч Арена
+http://212.29.231.242:8080/btv_41/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Eurosport 2
+http://212.29.231.242:8080/btv_42/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 44
+http://212.29.231.242:8080/btv_43/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Телекафе
+http://212.29.231.242:8080/btv_44/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 46
+http://212.29.231.242:8080/btv_45/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 47
+http://212.29.231.242:8080/btv_46/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,National Geographic
+http://212.29.231.242:8080/btv_47/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Бутон
+http://212.29.231.242:8080/btv_48/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ICTV
+http://212.29.231.242:8080/btv_49/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,1+1
+http://212.29.231.242:8080/btv_50/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Че
+http://212.29.231.242:8080/btv_51/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Первый 1v.com
+http://212.29.231.242:8080/btv_52/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Planeta RTR
+http://212.29.231.242:8080/btv_53/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Olala
+http://212.29.231.242:8080/btv_54/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 56
+http://212.29.231.242:8080/btv_55/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 57
+http://212.29.231.242:8080/btv_56/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Матч
+http://212.29.231.242:8080/btv_57/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 59
+http://212.29.231.242:8080/btv_58/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Сарафан
+http://212.29.231.242:8080/btv_59/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ТВЦ
+http://212.29.231.242:8080/btv_60/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Евроновости
+http://212.29.231.242:8080/btv_61/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Россия-Культура
+http://212.29.231.242:8080/btv_62/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Animal Planet
+http://212.29.231.242:8080/btv_63/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Шансон ТВ
+http://212.29.231.242:8080/btv_64/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 66
+http://212.29.231.242:8080/btv_65/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Планета HD
+http://212.29.231.242:8080/btv_66/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Боец
+http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Новый
+http://212.29.231.242:8080/btv_68/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,СТБ
+http://212.29.231.242:8080/btv_69/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Охото и рыбалка
+http://212.29.231.242:8080/btv_70/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Мир ТВ
+http://212.29.231.242:8080/btv_71/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Nickelodion
+http://212.29.231.242:8080/btv_72/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 74
+http://212.29.231.242:8080/btv_73/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 75
+http://212.29.231.242:8080/btv_74/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,TV 8
+http://212.29.231.242:8080/btv_75/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Дождь
+http://212.29.231.242:8080/btv_76/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 78
+http://212.29.231.242:8080/btv_77/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 1
+http://212.29.231.242:8080/btv_77/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 2
+http://212.29.231.242:8080/btv_78/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,TV 1000 Русское кино
+http://212.29.231.242:8080/btv_79/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Киноканал
+http://212.29.231.242:8080/btv_80/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 5
+http://212.29.231.242:8080/btv_81/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,9 канал Израиль
+http://212.29.231.242:8080/btv_82/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 7
+http://212.29.231.242:8080/btv_83/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Победа
+http://212.29.231.242:8080/btv_84/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 9
+http://212.29.231.242:8080/btv_85/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Amedia HBO
+http://212.29.231.242:8080/btv_86/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,SD REX
+http://212.29.231.242:8080/btv_87/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ТНТ 4
+http://212.29.231.242:8080/btv_88/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Sci Fi
+http://212.29.231.242:8080/btv_89/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Заставка
+http://212.29.231.242:8080/btv_90/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,ГУЛN
+http://212.29.231.242:8080/btv_91/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 16
+http://212.29.231.242:8080/btv_92/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 17
+http://212.29.231.242:8080/btv_93/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Мужской порно
+http://212.29.231.242:8080/btv_94/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,National Geographic WILD
+http://212.29.231.242:8080/btv_95/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 20
+http://212.29.231.242:8080/btv_96/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Home+
+http://212.29.231.242:8080/btv_97/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Ностальгия
+http://212.29.231.242:8080/btv_98/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Т 24
+http://212.29.231.242:8080/btv_99/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,N12
+http://212.29.231.242:8080/btv_100/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 25
+http://212.29.231.242:8080/btv_101/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 26
+http://212.29.231.242:8080/btv_102/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 27
+http://212.29.231.242:8080/btv_103/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 28
+http://212.29.231.242:8080/btv_104/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Точикистон
+http://212.29.231.242:8080/btv_105/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Психология
+http://212.29.231.242:8080/btv_106/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 31
+http://212.29.231.242:8080/btv_107/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 32
+http://212.29.231.242:8080/btv_108/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 33
+http://212.29.231.242:8080/btv_109/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 34
+http://212.29.231.242:8080/btv_110/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Канал 35
+http://212.29.231.242:8080/btv_111/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
