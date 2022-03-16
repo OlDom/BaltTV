@@ -22,15 +22,12 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
 #EXTINF:0,НТВ
 #EXTGRP:общие
-https://streaming.spbtv.com/eyJvc19uYW1lIjoiaU9TIiwidXNlcl91aWQiOiJhbm9ueW1vdXNfODFlMDQzMGEtM2E3Mi00OWZmLWFlNGMtZWM0Y2RkM2RjOTNhIiwiYWdlX3JhdGluZ190YWciOiIxNi1ydXNzaWFuIiwicHJvdG9jb2wiOiJobHMiLCJkcm0iOiJzcGJ0dmNhcyIsInNlc3Npb25faWQiOiI5NjJhYTViOC00MGQwLTQ3N2MtODYyNy01NzFhMzA4YWFmMzIiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy5zcGJ0di5jb20iLCJpcF9hZGRyZXNzIjoiOTAuMTY5LjEyNS4xMCIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjItMDMtMTFUMTg6NTA6MDdaIiwic3RyZWFtX25hbWUiOiIyMTMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFBgWsG__vgcxgBfK0KFJbict_yrvAhRq2DR67glamTCiwCUKoLg27PFsvw%3D%3D/ip_v5/213.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:общие
 http://46.174.83.66/NTV/mpegts
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
 https://sc.id-tv.kz:443/NTV_34_35.m3u8?token=iptv.org.ua
 
-#EXTINF:0,РТР
+#EXTINF:0,РТР Планета
 #EXTGRP:общие
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
@@ -508,42 +505,57 @@ http://iptv.prosto.tv:7000/ch317/video.m3u8
 http://50.7.231.220:8081/111/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:0,НТВ
-#EXTGRP:
+#EXTGRP:резерв
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
 
 
 #EXTINF:0,Мульт и Музыка
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_225/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Luxury
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Санкт-Петербург
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_227/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Кинопремьера
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_228/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Мульт
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_229/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Русский Роман
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_230/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Русский Бестселлер
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_231/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Рыболов
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_232/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Первый космический
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_233/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,ТехЗаст
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_234/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Blue Hustler
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_235/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Кинотеатр
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_236/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Foreign Languages
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_237/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,ТехЗаст
+#EXTGRP:резерв
 http://212.29.231.242:8080/btv_238/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 
 
 
 #EXTINF: -1 group-title = "Кино" tvg-logo = "https://dvb.by/sources/logos/1125.png", Кинокомедия
+#EXTGRP:резерв
 http://46.174.83.66/Kinokomedia/mpegts
 #EXTINF: -1 group-title = "Кино", Индийское кино
 http://46.174.83.66/Indiiskoe_kino/mpegts
@@ -568,87 +580,128 @@ http://46.174.83.66/MirBasketbola/mpegts
 
 
 #EXTINF:-1 tvg-id="40791" tvg-logo="https://avdmono.do.am/avdlogo/Cinema.png",AVD TV
+#EXTGRP:резерв
 http://v2.catcast.tv/content/40791/index.m3u8
 #EXTINF:-1,2x2
+#EXTGRP:резерв
 http://46.174.83.66/2x2/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,365
+#EXTGRP:резерв
 http://46.174.83.66/365/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,8 канал
+#EXTGRP:резерв
 http://46.174.83.66/8_kanal/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,BridgeTV
+#EXTGRP:резерв
 http://46.174.83.66/BridgeTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,CTC
+#EXTGRP:резерв
 http://46.174.83.66/CTC/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Drive
+#EXTGRP:резерв
 http://46.174.83.66/Drive/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Euronews
+#EXTGRP:резерв
 http://46.174.83.66/Euronews/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Gulli_Girl
+#EXTGRP:резерв
 http://46.174.83.66/Gulli_Girl/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,HDL
+#EXTGRP:резерв
 http://46.174.83.66/HDL/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Illusion+
+#EXTGRP:резерв
 http://46.174.83.66/Illusion+/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Indiiskoe_kino
+#EXTGRP:резерв
 http://46.174.83.66/Indiiskoe_kino/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Karusel
+#EXTGRP:резерв
 http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Kultura
+#EXTGRP:резерв
 http://46.174.83.66/Kultura/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Матч! Игра
+#EXTGRP:резерв
 http://46.174.83.66/Match_Igra/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Mir
+#EXTGRP:резерв
 http://46.174.83.66/Mir/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Mir Basketbola HD [zona-iptv.ru]
+#EXTGRP:резерв
 http://46.174.83.66/MirBasketbola/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,MuzTV
+#EXTGRP:резерв
 http://46.174.83.66/MuzTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,NTV
+#EXTGRP:резерв
 http://46.174.83.66/NTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1,O
+#EXTINF:-1,О!
+#EXTGRP:резерв
 http://46.174.83.66/O/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,OTR
+#EXTGRP:резерв
 http://46.174.83.66/OTR/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Psihologiya21
+#EXTGRP:резерв
 http://46.174.83.66/Psihologiya21/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,RBC
+#EXTGRP:резерв
 http://46.174.83.66/RBC/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,RenTV
+#EXTGRP:резерв
 http://46.174.83.66/RenTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1,Retro
+#EXTINF:-1,Retro#EXTGRP:резерв
 http://46.174.83.66/Retro/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,RU_TV
+#EXTGRP:резерв
 http://46.174.83.66/RU_TV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Russia1
+#EXTGRP:резерв
 http://46.174.83.66/Russia1/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Russia24
+#EXTGRP:резерв
 http://46.174.83.66/Russia24/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Russkaya_Noch
+#EXTGRP:резерв
 http://46.174.83.66/Russkaya_Noch/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Spas
+#EXTGRP:резерв
 http://46.174.83.66/Spas/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,TNT
+#EXTGRP:резерв
 http://46.174.83.66/TNT/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,TNT4
+#EXTGRP:резерв
 http://46.174.83.66/TNT4/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,TV3
+#EXTGRP:резерв
 http://46.174.83.66/TV3/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,TVCentr
+#EXTGRP:резерв
 http://46.174.83.66/TVCentr/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,U
+#EXTGRP:резерв
 http://46.174.83.66/U/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Usadba
+#EXTGRP:резерв
 http://46.174.83.66/Usadba/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Zdorovoe_TV
+#EXTGRP:резерв
 http://46.174.83.66/Zdorovoe_TV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Zoopark
+#EXTGRP:резерв
 http://46.174.83.66/Zoopark/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Zvezda
+#EXTGRP:резерв
 http://46.174.83.66/Zvezda/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Домашний
+#EXTGRP:резерв
 http://46.174.83.66/Domashniy/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Первый канал
+#EXTGRP:резерв
 http://46.174.83.66/1/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1,Пятый (СПБ.)
+#EXTGRP:резерв
 http://46.174.83.66/5Kanal/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 
