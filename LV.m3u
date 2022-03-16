@@ -558,24 +558,34 @@ http://212.29.231.242:8080/btv_238/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXa
 #EXTGRP:резерв
 http://46.174.83.66/Kinokomedia/mpegts
 #EXTINF: -1 group-title = "Кино", Индийское кино
+#EXTGRP:резерв
 http://46.174.83.66/Indiiskoe_kino/mpegts
 #EXTINF:-1 group-title="Кино",Дом кино
+#EXTGRP:резерв
 http://46.174.83.66/Dom_Kino/mpegts
-#EXTINF: -1 group-title = "Познавательные", Морской 
+#EXTINF: -1 group-title = "Познавательные", Морской
+#EXTGRP:резерв 
 http://46.174.83.66/Morskoi_HD/mpegts
 #EXTINF: -1 group-title = "Познавательные", RTG HD
+#EXTGRP:резерв
 http://46.174.83.66/RTG_HD/mpegts
 #EXTINF: -1 group-title = "Россия", Че
+#EXTGRP:резерв
 http://46.174.83.66/Che/mpegts
 #EXTINF: -1 group-title = "Россия", Ю
+#EXTGRP:резерв
 http://46.174.83.66/U/mpegts
 #EXTINF: -1 group-title = "Детские", О!
+#EXTGRP:резерв
 http://46.174.83.66/O/mpegts
 #EXTINF: -1 group-title = "Детские", Уникум
+#EXTGRP:резерв
 http://46.174.83.66/Unikum/mpegts
 #EXTINF: -1 group-title = "Детские", Disney Channel
+#EXTGRP:резерв
 http://46.174.83.66/Disney/mpegts
 #EXTINF: -1 group-title = "Спорт", Мир баскетбола
+#EXTGRP:резерв
 http://46.174.83.66/MirBasketbola/mpegts
 
 
