@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U http://www.teleguide.info/download/new3/xmltv.xml.gz
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/nrqSbyJ/IMG-20210127-160135-244.jpg", https://t.me/Playlist_m3u8
 https://t.me/Playlist_m3u8
