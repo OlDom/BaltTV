@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://ottepg.ru/ottepg.xml.gz
+#EXTM3U http://www.teleguide.info/download/new3/xmltv.xml.gz
 #EXTINF:0 tvg-rec="7",РБК-ТВ
 #EXTGRP:новости
 http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/106/index.m3u8
