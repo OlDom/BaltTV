@@ -92,6 +92,9 @@ http://91.185.3.218:4000/play/603
 #EXTINF:0,НТВ
 #EXTGRP:новости
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:0,Т24
+#EXTGRP:познание
+http://195.26.83.96:7024/play/83
 #EXTINF:0,Abaza
 #EXTGRP:познание
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
@@ -167,6 +170,15 @@ http://iptv.prosto.tv:7000/ch144/video.m3u8
 #EXTINF:0,Fast  FunBox HD
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:0,Русский Детектив
+#EXTGRP:кино
+http://195.26.83.96:7024/play/79
+#EXTINF:0,Русский Бестселлер
+#EXTGRP:кино
+http://195.26.83.96:7024/play/80
+#EXTINF:0,Русский Роман
+#EXTGRP:кино
+http://195.26.83.96:7024/play/81
 #EXTINF:0,Иллюзион +
 #EXTGRP:кино
 http://212.29.231.242:8080/btv_26/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
@@ -425,6 +437,9 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:другие
 http://46.174.83.66/NTV/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP:детям
+http://195.26.83.96:7024/play/73
 #EXTINF:0,Карусель
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_17/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
@@ -479,207 +494,3 @@ http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXa
 #EXTINF:0,RELAXON
 #EXTGRP:relax
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:скрытые
-http://a.stroj-bt.com:89/sever/sever/12718
-#EXTINF:0,НТВ HD
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_28/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Рен HD
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_30/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Уникум
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_31/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,RU.TV
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_32/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Еврокино
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_33/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,СТС
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_34/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Первый канал
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,МАТЧ! Страна
-#EXTGRP:скрытые
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:0,Jim Jam
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_36/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Disney
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_37/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Кухня ТВ
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_38/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,FOX
-#EXTGRP:скрытые
-http://212.29.231.242:8080/btv_39/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,English Club
-#EXTGRP:скрытые
-http://iptv.prosto.tv:7000/ch206/video.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_228/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Русский Роман
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_230/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Русский Бестселлер
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_231/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Рыболов
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_232/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Первый космический
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_233/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,ТехЗаст
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_238/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Blue Hustler
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_235/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Кинотеатр
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_236/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Foreign Languages
-#EXTGRP:unsorted
-http://212.29.231.242:8080/btv_237/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Индийское кино
-#EXTGRP:unsorted
-http://46.174.83.66/Indiiskoe_kino/mpegts
-#EXTINF:0,Морской
-#EXTGRP:unsorted
-http://46.174.83.66/Morskoi_HD/mpegts
-#EXTINF:0,RTG HD
-#EXTGRP:unsorted
-http://46.174.83.66/RTG_HD/mpegts
-#EXTINF:0,Че
-#EXTGRP:unsorted
-http://46.174.83.66/Che/mpegts
-#EXTINF:0,Ю
-#EXTGRP:unsorted
-http://46.174.83.66/U/mpegts
-#EXTINF:0,О!
-#EXTGRP:unsorted
-http://46.174.83.66/O/mpegts
-#EXTINF:0,Disney Channel
-#EXTGRP:unsorted
-http://46.174.83.66/Disney/mpegts
-#EXTINF:0,Мир баскетбола
-#EXTGRP:unsorted
-http://46.174.83.66/MirBasketbola/mpegts
-#EXTINF:0,AVD TV
-#EXTGRP:unsorted
-http://v2.catcast.tv/content/40791/index.m3u8
-#EXTINF:0,2x2
-#EXTGRP:unsorted
-http://46.174.83.66/2x2/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,365
-#EXTGRP:unsorted
-http://46.174.83.66/365/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,BridgeTV
-#EXTGRP:unsorted
-http://46.174.83.66/BridgeTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,CTC
-#EXTGRP:unsorted
-http://46.174.83.66/CTC/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Drive
-#EXTGRP:unsorted
-http://46.174.83.66/Drive/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Gulli_Girl
-#EXTGRP:unsorted
-http://46.174.83.66/Gulli_Girl/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Illusion+
-#EXTGRP:unsorted
-http://46.174.83.66/Illusion+/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Indiiskoe_kino
-#EXTGRP:unsorted
-http://46.174.83.66/Indiiskoe_kino/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Kultura
-#EXTGRP:unsorted
-http://46.174.83.66/Kultura/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Матч! Игра
-#EXTGRP:unsorted
-http://46.174.83.66/Match_Igra/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Mir
-#EXTGRP:unsorted
-http://46.174.83.66/Mir/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Mir Basketbola HD [zona-iptv.ru]
-#EXTGRP:unsorted
-http://46.174.83.66/MirBasketbola/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,MuzTV
-#EXTGRP:unsorted
-http://46.174.83.66/MuzTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,NTV
-#EXTGRP:unsorted
-http://46.174.83.66/NTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,O
-#EXTGRP:unsorted
-http://46.174.83.66/O/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,OTR
-#EXTGRP:unsorted
-http://46.174.83.66/OTR/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Psihologiya21
-#EXTGRP:unsorted
-http://46.174.83.66/Psihologiya21/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,RBC
-#EXTGRP:unsorted
-http://46.174.83.66/RBC/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,RenTV
-#EXTGRP:unsorted
-http://46.174.83.66/RenTV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Retro
-#EXTGRP:unsorted
-http://46.174.83.66/Retro/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,RU_TV
-#EXTGRP:unsorted
-http://46.174.83.66/RU_TV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Russia1
-#EXTGRP:unsorted
-http://46.174.83.66/Russia1/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Russia24
-#EXTGRP:unsorted
-http://46.174.83.66/Russia24/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Russkaya_Noch
-#EXTGRP:unsorted
-http://46.174.83.66/Russkaya_Noch/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Spas
-#EXTGRP:unsorted
-http://46.174.83.66/Spas/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,TNT
-#EXTGRP:unsorted
-http://46.174.83.66/TNT/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,TNT4
-#EXTGRP:unsorted
-http://46.174.83.66/TNT4/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,TV3
-#EXTGRP:unsorted
-http://46.174.83.66/TV3/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,TVCentr
-#EXTGRP:unsorted
-http://46.174.83.66/TVCentr/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,U
-#EXTGRP:unsorted
-http://46.174.83.66/U/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Usadba
-#EXTGRP:unsorted
-http://46.174.83.66/Usadba/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Zdorovoe_TV
-#EXTGRP:unsorted
-http://46.174.83.66/Zdorovoe_TV/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Zoopark
-#EXTGRP:unsorted
-http://46.174.83.66/Zoopark/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Zvezda
-#EXTGRP:unsorted
-http://46.174.83.66/Zvezda/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,Пятый (СПБ.)
-#EXTGRP:unsorted
-http://46.174.83.66/5Kanal/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:0,НТВ
-#EXTGRP:unsorted
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
