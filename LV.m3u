@@ -24,6 +24,9 @@ https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=97EZOCf3_
 #EXTINF:0,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1647984000&s=391
+#EXTINF:0,Россия-Культура
+#EXTGRP:общие
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1647983400&s=506
 #EXTINF:0,НТВ
 #EXTGRP:общие
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
