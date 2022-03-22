@@ -21,6 +21,8 @@ http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:0,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=97EZOCf3_4RByK9u4x0NWw&e=1647984180
+#EXTINF:0,РТР Планета СНГ
+#EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1647984000&s=391
 #EXTINF:0,НТВ
 #EXTGRP:общие
