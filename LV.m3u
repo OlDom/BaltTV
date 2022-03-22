@@ -17,7 +17,7 @@ https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Россия-Планета (Европа)
 #EXTGRP:общие
-http://ott-cdn.ucom.am/s15/04.m3u8
+http://212.29.231.242:8080/btv_53/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=97EZOCf3_4RByK9u4x0NWw&e=1647984180
