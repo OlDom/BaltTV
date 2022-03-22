@@ -267,9 +267,9 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,TV 1000
 #EXTGRP:кино
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Дом кино
+#EXTINF:0,Дом кино премиум
 #EXTGRP:кино
-http://46.174.83.66/Dom_Kino/mpegts
+http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,FOX Russia
 #EXTGRP:кино
 http://109.200.130.124:15500/fox
