@@ -1,4 +1,8 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
+
+#EXTINF:0,Первый канал СНГ
+#EXTGRP:общие
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,Первый HD
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
