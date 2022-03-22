@@ -36,9 +36,6 @@ http://92.46.127.146:8080/ntv/index.m3u8?telegramm=yossotv
 #EXTINF:0,НТВ Мир
 #EXTGRP:другие
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:0,Brics
-#EXTGRP:общие
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP:общие
 http://50.7.231.220:8081/218/index.m3u8?wmsAuthSign=okad
@@ -47,16 +44,19 @@ http://50.7.231.220:8081/218/index.m3u8?wmsAuthSign=okad
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP:общие
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP:общие
 http://50.7.231.220:8081/237/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,ТВ3
+#EXTINF:0,ТВ-3
 #EXTGRP:общие
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:общие
 http://46.174.83.66/OTR/mpegts
+#EXTINF:0,Brics
+#EXTGRP:общие
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
 #EXTINF:0,ТНТ HD
 #EXTGRP:общие
