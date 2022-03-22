@@ -64,7 +64,7 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:новости
-https://a1566399135-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=UCjV3-k3e4SGwXI5NF6bxQ&e=1647948780
 #EXTINF:0,РБК-ТВ
 #EXTGRP:новости
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
