@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:0,Первый канал СНГ
+#EXTINF:0,Первый канал
 #EXTGRP:общие
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:0,Первый HD
@@ -15,16 +15,25 @@ https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,РТР Планета
+#EXTINF:0,Россия-Планета (Европа)
 #EXTGRP:общие
 http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:0,РТР Планета СНГ
+#EXTGRP:общие
+https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=97EZOCf3_4RByK9u4x0NWw&e=1647984180
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1647984000&s=391
 #EXTINF:0,НТВ
 #EXTGRP:общие
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
+#EXTINF:0,НТВ
+#EXTGRP:другие
+http://46.174.83.66/NTV/index.m3u8
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
 http://92.46.127.146:8080/ntv/index.m3u8?telegramm=yossotv
-
+#EXTINF:0,НТВ Мир
+#EXTGRP:другие
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:0,Brics
 #EXTGRP:общие
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
@@ -439,12 +448,6 @@ http://109.200.130.124:7006/play/a02g
 #EXTINF:0,Авто 24
 #EXTGRP:другие
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
-#EXTINF:0,НТВ Мир
-#EXTGRP:другие
-http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:другие
-http://46.174.83.66/NTV/index.m3u8
 #EXTINF:0,Мама
 #EXTGRP:детям
 http://195.26.83.96:7024/play/73
