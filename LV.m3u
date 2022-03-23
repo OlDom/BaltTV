@@ -4,16 +4,16 @@
 #EXTGRP:общие
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 
-#EXTINF:0,Первый HD
+#EXTINF:-1 tvg-id="1" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/3df/3dfb27fc23607f347badd3f2e0760c1b.png" group-title="общие" ,Первый HD										
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Первый HD
+#EXTINF:-1 tvg-id="1" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/3df/3dfb27fc23607f347badd3f2e0760c1b.png" group-title="общие" ,Первый HD										
 #EXTGRP:общие
 http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:-1 tvg-id="2" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/529/5292c2bb3ea6c18c9d164a80cba280dd.png" group-title="общие" ,Россия 1										
 #EXTGRP:общие
 https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:-1 tvg-id="2" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/529/5292c2bb3ea6c18c9d164a80cba280dd.png" group-title="общие" ,Россия 1										
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Россия-Планета (Европа)
@@ -25,28 +25,28 @@ https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=-nKM-EABr
 #EXTINF:0,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1647984000&s=391
-#EXTINF:0,Россия-Культура
+#EXTINF:-1 tvg-id="5" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/f03/f0367ca740a75a59af818963e6d27c6f.png" group-title="общие" ,Россия-Культура											
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1647983400&s=506
-#EXTINF:0,НТВ HD
+#EXTINF:-1 tvg-id="4" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/c76/c76ad58310976501a58b0da96ee5d7ad.png" group-title="общие" ,НТВ HD										
 #EXTGRP:общие
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8?e=1647547072&amp;md5=sHwDqPMht0UMPgfhycq3sQ&amp;DVR
-#EXTINF:0,НТВ
-#EXTGRP:другие
+#EXTINF:-1 tvg-id="4" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/c76/c76ad58310976501a58b0da96ee5d7ad.png" group-title="общие" ,НТВ										
+#EXTGRP:общие
 http://46.174.83.66/NTV/index.m3u8
 #EXTINF:0,НТВ Мир
 #EXTGRP:общие
 http://92.46.127.146:8080/ntv/index.m3u8?telegramm=yossotv
 #EXTINF:0,НТВ Мир
-#EXTGRP:другие
+#EXTGRP:общие
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP:общие
 http://50.7.231.220:8081/218/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,ТВ Центр
+#EXTINF:-1 tvg-id="3" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/32a/32a682e6addc094d69337462b30be711.png" group-title="общие" ,ТВЦ										
 #EXTGRP:общие
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,Звезда
+#EXTINF:-1 tvg-id="330" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/b9c/b9c231ec1c73dfc7c9fc7219b822ff2b.png" group-title="общие" ,Звезда										
 #EXTGRP:общие
 http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:0,Москва Доверие
@@ -64,19 +64,19 @@ http://212.29.231.242:8080/btv_30/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXae
 #EXTINF:0,Пятница
 #EXTGRP:общие
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:0,ОТР
+#EXTINF:-1 tvg-id="1000" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/95d/95d9bc867b80e46717168ca74385b8f1.png" group-title="общие" ,ОТР										
 #EXTGRP:общие
 http://46.174.83.66/OTR/mpegts
 #EXTINF:0,Brics
 #EXTGRP:общие
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:0,ТНТ HD
+#EXTINF:-1 tvg-id="101" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/c6d/c6d6cc6f2357935838dd50d883287784.png" group-title="общие" ,ТНТ HD										
 #EXTGRP:общие
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:0,Сарафан
 #EXTGRP:общие
 http://50.7.231.220:8081/209/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,СТС
+#EXTINF:-1 tvg-id="104" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/9b9/9b9e33b72279b8232e0dbc9d7b83567b.png" group-title="общие" ,СТС										
 #EXTGRP:общие
 http://46.174.83.66/CTC/mpegts
 #EXTINF:0,Санкт-Петербург
