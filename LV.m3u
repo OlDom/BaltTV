@@ -208,6 +208,9 @@ http://iptv.prosto.tv:7000/ch120/video.m3u8
 #EXTINF:0,Русский Детектив
 #EXTGRP:кино
 http://195.26.83.96:7024/play/79
+#EXTINF:0,Душевное кино
+#EXTGRP:кино
+http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Русский Бестселлер
 #EXTGRP:кино
 http://195.26.83.96:7024/play/80
