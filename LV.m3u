@@ -94,7 +94,7 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ztbT2NPYMh1imYD.jpg" group-title="новости" ,Известия
 #EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/30.png" group-title="новости" ,Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1647948600&s=330
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2tMgt3DvGOUvCwD.png" group-title="новости" ,РБК-ТВ
 #EXTGRP:новости
