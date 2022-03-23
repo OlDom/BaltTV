@@ -67,7 +67,7 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/cmwxM19OOrdEZZY.png" group-title="общие" ,ОТР										
 #EXTGRP:общие
 http://46.174.83.66/OTR/mpegts
-#EXTINF:0,Brics
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/01ffcb6d-6d70-4027-9668-ae2d17fd9526.png" group-title="общие" ,Brics
 #EXTGRP:общие
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/zkW6HEbfbJ5xZOU.png" group-title="общие" ,ТНТ HD										
@@ -111,7 +111,7 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/JE2Jdtt1pqDjClw.jpg" group-title="новости" ,RT Док
 #EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:0,Вечерняя Москва
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/57276f6f-b0a0-4098-88e9-18d7a3b31108.png" group-title="новости" ,Вечерняя Москва
 #EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Ssazg4AJNNjpdJn.png" group-title="новости" ,ЕСПРЕСО
@@ -179,7 +179,7 @@ http://50.7.231.220:8081/120/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j9hUWXiZ4jqa6K0.png" group-title="познание" ,Просвещение
 #EXTGRP:познание
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:0,Министерство идей HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/1021150f-6efb-4b81-8d64-a6cc441c69cf.png" group-title="познание" ,Министерство идей HD
 #EXTGRP:познание
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PxdEDrzAdIduzhc.png" group-title="познание" ,Вместе РФ
@@ -188,7 +188,7 @@ http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/mt1eUJpAesKK1hR.jpg" group-title="познание" ,Здоровое ТВ
 #EXTGRP:познание
 http://46.174.83.66/Zdorovoe_TV/mpegts
-#EXTINF:0,Univer TV HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/24300725-97ba-4336-b8f3-426f77217b8d.png" group-title="познание" ,Univer TV HD
 #EXTGRP:познание
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ngIy57OCetiz4Gm.png" group-title="познание" ,HDL
@@ -200,7 +200,7 @@ http://50.7.231.220:8081/224/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Sls0KI6wRIwzhPQ.png" group-title="познание" ,FASHIONBOX
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch144/video.m3u8
-#EXTINF:0,Fast  FunBox HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/a4df2b39-b1f4-4ac3-8a34-aec8677cef6e.png" group-title="познание" ,Fast  FunBox HD
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch120/video.m3u8
 
@@ -209,7 +209,7 @@ http://iptv.prosto.tv:7000/ch120/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dKJ12QeSWsNCWQg.png" group-title="кино" ,Русский Детектив
 #EXTGRP:кино
 http://195.26.83.96:7024/play/79
-#EXTINF:0,Душевное кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c0a16be2-6cd1-4029-b2b2-c1fccccbde4f.png" group-title="кино" ,Душевное кино
 #EXTGRP:кино
 http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dgetqSKbzMJN6U0.png" group-title="кино" ,Русский Бестселлер
@@ -239,7 +239,7 @@ http://iptv.prosto.tv:7000/ch44/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/S2YCsunji7c2eRU.png" group-title="кино" ,VIP Serial
 #EXTGRP:кино
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Кино 1 International
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/4880174a-b8d4-4d94-af60-75067e43a983.png" group-title="кино" ,Кино 1 International
 #EXTGRP:кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/D1kczx2wayLEH8Z.png" group-title="кино" ,TV XXI
@@ -293,7 +293,7 @@ http://50.7.231.220:8081/215/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/oWq1Cay2pOUG0iq.png" group-title="кино" ,КИНОКЛУБ
 #EXTGRP:кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Фантастика Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/cfbb9a40-7b1f-40d2-96db-1e244ba0b9b7.png" group-title="кино" ,Фантастика Sci-Fi
 #EXTGRP:кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MFAvd7RgmynbIPr.jpg" group-title="кино" ,Дорама
@@ -332,13 +332,13 @@ http://212.29.231.242:8080/btv_42/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXae
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6C0MSoAZ9KBDun1.png" group-title="спорт" ,Viasat Sport
 #EXTGRP:спорт
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,НТВ Спорт Союз HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/74.png" group-title="спорт" ,НТВ Спорт Союз
 #EXTGRP:спорт
 http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=gelow74
-#EXTINF:0,Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/3afee43d-e5e0-42f4-9694-fa6d6bf20a52.png" group-title="спорт" ,Red Bull TV
 #EXTGRP:спорт
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Fox Sports News
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/dc3d9674-c9b1-4525-a029-9077071900d4.png" group-title="спорт" ,Fox Sports News
 #EXTGRP:спорт
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FSkEYka1rVuINgp.png" group-title="спорт" ,КХЛ HD
@@ -362,22 +362,22 @@ http://83.222.205.10:38080/konnyimir/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nq7V6KDOC4C4bYj.jpg" group-title="спорт" ,Моторспорт ТВ
 #EXTGRP:спорт
 http://50.7.231.220:8081/230/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,MavTV Select
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/faa6076d-93e4-49d7-965c-9122b38bd5fe.png" group-title="спорт" ,MavTV Select
 #EXTGRP:спорт
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Астрахань.Ru Sport HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/6af5edaf-89cd-49a7-a5ed-73b8a444bb1a.png" group-title="спорт" ,Астрахань.Ru Sport HD
 #EXTGRP:спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:0,Arryadia
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/955ca0a5-5946-4007-8317-5d0dcf079d8f.png" group-title="спорт" ,Arryadia
 #EXTGRP:спорт
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0,Turkmen Sport HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c7b0a460-2914-4a78-93f2-791c86c4d4d1.png" group-title="спорт" ,Turkmen Sport HD
 #EXTGRP:спорт
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="спорт" ,МАТЧ ТВ
 #EXTGRP:спорт
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
-#EXTINF:0,НТВ Спорт Союз
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/74.png" group-title="спорт" ,НТВ Спорт Союз
 #EXTGRP:спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -395,16 +395,16 @@ http://st1.astra-uk.ru:81/22ba9fface1ae61f4ff94abc134b1d22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iikb2GDvrlINPVY.png" group-title="музыка" ,Шансон ТВ
 #EXTGRP:музыка
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:0,MTV Biggest Pop HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/3aaed654-2f81-4d78-a196-69226a3e1fd2.png" group-title="музыка" ,MTV Biggest Pop HD
 #EXTGRP:музыка
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0,m2o
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/49322a0b-eb49-4db4-8a7b-1fc52d77bd45.png" group-title="музыка" ,m2o
 #EXTGRP:музыка
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0,M6 Music FR
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/a3b7eff9-418e-4ed1-a87b-b97d5ed764e4.png" group-title="музыка" ,M6 Music FR
 #EXTGRP:музыка
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:0,Krone hit HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/cdc55366-cc80-4f2f-b8ae-142a7ea8ce20.png" group-title="музыка" ,Krone hit HD
 #EXTGRP:музыка
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/gTlki6soqSdGjiq.png" group-title="музыка" ,Музыка первого
@@ -413,7 +413,7 @@ http://50.7.231.220:8081/225/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOOP2poJnFhnFsh.png" group-title="музыка" ,BRIDGE TV HITS
 #EXTGRP:музыка
 http://50.7.231.220:8081/217/index.m3u8?wmsAuthSign=okad
-#EXTINF:0,MM
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/396.png" group-title="музыка" ,MM
 #EXTGRP:музыка
 http://50.7.231.220:8081/199/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/m4QLJue3xLsOUlD.png" group-title="музыка" ,9 волна
@@ -431,19 +431,19 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="музыка" ,Первый Музыкальный RU BY
 #EXTGRP:музыка
 http://rtmp.one.by:2200
-#EXTINF:0,Первый Музыкальный BY [FHD]
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/2b170ad1-f667-4012-92e9-33855e3f662c.png" group-title="музыка" ,Первый Музыкальный BY [FHD]
 #EXTGRP:музыка
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nlRJhMXOAMdVS9P.jpeg" group-title="музыка" ,1Music Channel Hungary
 #EXTGRP:музыка
 http://1music.hu/1music.m3u8
-#EXTINF:0,Alsace 20
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/054dd654-b426-431d-a229-b52262cf826a.png" group-title="музыка" ,Alsace 20
 #EXTGRP:музыка
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0,Kronehit TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/dc01024f-5fa8-46ff-a9cc-4ab98f056925.png" group-title="музыка" ,Kronehit TV
 #EXTGRP:музыка
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:0,Deejay Tv
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/1200px-Logo_Deejay.svg.png" group-title="музыка" ,Deejay Tv
 #EXTGRP:музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
@@ -452,7 +452,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/buYPMeWLhTu2qpj.png" group-title="другие" ,Ю ТВ
 #EXTGRP:другие
 http://46.174.83.66/U/mpegts
-#EXTINF:0,Первый российский национальный канал
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/f91a2c53-db67-4cb0-8d6c-274cd03b2d11.png" group-title="другие" ,Первый российский национальный канал
 #EXTGRP:другие
 https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="другие" ,Наука HD
@@ -467,7 +467,7 @@ http://91.185.3.218:4000/play/607
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/O2pSxn5HF3Ha03X.jpg" group-title="другие" ,8 канал
 #EXTGRP:другие
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
-#EXTINF:0,ТЕО ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/a1408aad-0e4e-4ad5-8905-41a5d055e29b.png" group-title="другие" ,ТЕО ТВ
 #EXTGRP:другие
 https://teotv.ru/live/site/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tnVW2TZbD7F0uba.png" group-title="другие" ,ТНТ4
@@ -494,10 +494,10 @@ https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4wghc5fjYUOmbYZ.png" group-title="детям" ,Мульт и Музыка
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_225/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,Kinder TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/b4023510-f639-469e-9974-34e0c9751d1c.png" group-title="детям" ,Kinder TV
 #EXTGRP:детям
 http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,WOW!TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c6d11fa9-5fcf-40be-abcf-7e8334267aac.png" group-title="детям" ,WOW!TV
 #EXTGRP:детям
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z9DsUx14NkLVr1h.jpg" group-title="детям" ,Gulli Girl
@@ -521,14 +521,14 @@ http://50.7.231.220:8081/210/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ru6Pr6y384RCmyB.png" group-title="детям" ,Cartoon Network
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:0,Karusel
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/125.png" group-title="детям" ,Карусель
 #EXTGRP:детям
 http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DQ22xhdKt9dU0iV.png" group-title="детям" ,Мульт
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_229/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 
-#EXTINF:0,FTV UHD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/15400.png" group-title="релакс" ,FTV UHD
 #EXTGRP:relax
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Dng9WhO2yOMS22r.jpg" group-title="relax" ,hdfashion
@@ -537,6 +537,6 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/hSKIAB26L1G8AzC.png" group-title="relax" ,Luxury
 #EXTGRP:relax
 http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:0,RELAXON
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/73f3ae60-9bcb-4da4-9c8b-c58c2108c661.png" group-title="релакс" ,RELAXON
 #EXTGRP:relax
 http://iptv.prosto.tv:7000/ch317/video.m3u8
