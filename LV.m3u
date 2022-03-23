@@ -1,8 +1,9 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:0,Первый канал
+#EXTINF:-1 tvg-id="1" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.tricolor.tv/upload/iblock/90a/90a719bdd204f7017bcb67b5814d8fa0.png" group-title="общие" ,Первый канал
 #EXTGRP:общие
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+
 #EXTINF:0,Первый HD
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_35/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
