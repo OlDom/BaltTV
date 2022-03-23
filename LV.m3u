@@ -91,36 +91,36 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ztbT2NPYMh1imYD.jpg" group-title="общие" ,Известия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ztbT2NPYMh1imYD.jpg" group-title="новости" ,Известия
 #EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1647948600&s=330
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2tMgt3DvGOUvCwD.png" group-title="общие" ,РБК-ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2tMgt3DvGOUvCwD.png" group-title="новости" ,РБК-ТВ
 #EXTGRP:новости
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Mx5hTxUm9RyQx8m.png" group-title="общие" ,Euronews
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Mx5hTxUm9RyQx8m.png" group-title="новости" ,Euronews
 #EXTGRP:новости
 http://46.174.83.66/Euronews/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BEkNDU38QcIUx9t.jpg" group-title="общие" ,Мир 24
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BEkNDU38QcIUx9t.jpg" group-title="новости" ,Мир 24
 #EXTGRP:новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MbKx97jkRAAdTdw.png" group-title="общие" ,360
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MbKx97jkRAAdTdw.png" group-title="новости" ,360
 #EXTGRP:новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/JE2Jdtt1pqDjClw.jpg" group-title="общие" ,RT Док
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/JE2Jdtt1pqDjClw.jpg" group-title="новости" ,RT Док
 #EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:0,Вечерняя Москва
 #EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Ssazg4AJNNjpdJn.png" group-title="общие" ,ЕСПРЕСО
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Ssazg4AJNNjpdJn.png" group-title="новости" ,ЕСПРЕСО
 #EXTGRP:новости
 http://50.7.231.220:8081/211/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="общие" ,Первый канал
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="новости" ,Первый канал
 #EXTGRP:новости
 http://91.185.3.218:4000/play/603
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="общие" ,НТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="новости" ,НТВ
 #EXTGRP:новости
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
 
@@ -131,73 +131,73 @@ http://195.26.83.96:7024/play/83
 #EXTINF:0,Abaza
 #EXTGRP:познание
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GklDLgjo4jlW04D.png" group-title="общие" ,Планета HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GklDLgjo4jlW04D.png" group-title="познание" ,Планета HD
 #EXTGRP:познание
 http://50.7.231.220:8081/118/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OMCtmxB64YGg9rQ.png" group-title="общие" ,Discovery Science
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OMCtmxB64YGg9rQ.png" group-title="познание" ,Discovery Science
 #EXTGRP:познание
 http://212.29.231.242:8080/btv_4/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/klDWFWswI6tdm7E.png" group-title="общие" ,Viasat Golf HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/klDWFWswI6tdm7E.png" group-title="познание" ,Viasat Golf HD
 #EXTGRP:познание
 http://212.29.231.242:8080/btv_22/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="общие" ,Наука 2.0
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="познание" ,Наука 2.0
 #EXTGRP:познание
 http://50.7.231.220:8081/115/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IRzeusXo21O11xS.jpg" group-title="общие" ,Оружие
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IRzeusXo21O11xS.jpg" group-title="познание" ,Оружие
 #EXTGRP:познание
 http://50.7.231.220:8081/117/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4nnPTPKRZY1QIZN.jpg" group-title="общие" ,История
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4nnPTPKRZY1QIZN.jpg" group-title="познание" ,История
 #EXTGRP:познание
 http://50.7.231.220:8081/212/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GKw4xgGpFCf6ziz.png" group-title="общие" ,Viasat Nature
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GKw4xgGpFCf6ziz.png" group-title="познание" ,Viasat Nature
 #EXTGRP:познание
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FUN2Ca8eBgCgojf.png" group-title="общие" ,Viasat History HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FUN2Ca8eBgCgojf.png" group-title="познание" ,Viasat History HD
 #EXTGRP:познание
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4EqPAUO4ngtEUYt.jpg" group-title="общие" ,Viasat Explorer
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4EqPAUO4ngtEUYt.jpg" group-title="познание" ,Viasat Explorer
 #EXTGRP:познание
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OyjS7WENNPgROWl.png" group-title="общие" ,Психология 21
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OyjS7WENNPgROWl.png" group-title="познание" ,Психология 21
 #EXTGRP:познание
 http://46.174.83.66/Psihologiya21/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yc2dYJFlVZeAWRC.png" group-title="общие" ,Усадьба
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yc2dYJFlVZeAWRC.png" group-title="познание" ,Усадьба
 #EXTGRP:познание
 http://46.174.83.66/Usadba/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fdXCTQFL3osLvuW.png" group-title="общие" ,Охота и рыбалка
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fdXCTQFL3osLvuW.png" group-title="познание" ,Охота и рыбалка
 #EXTGRP:познание
 http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/t9jmErL8dEuCvQQ.jpeg" group-title="общие" ,Travel Channel
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/t9jmErL8dEuCvQQ.jpeg" group-title="познание" ,Travel Channel
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch100/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/8Zd5zAFeUzN7OLn.png" group-title="общие" ,В мире животных HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/8Zd5zAFeUzN7OLn.png" group-title="познание" ,В мире животных HD
 #EXTGRP:познание
 http://50.7.231.220:8081/221/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z8S7GpH92y8ms4y.PNG" group-title="общие" ,Доктор
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z8S7GpH92y8ms4y.PNG" group-title="познание" ,Доктор
 #EXTGRP:познание
 http://50.7.231.220:8081/120/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j9hUWXiZ4jqa6K0.png" group-title="общие" ,Просвещение
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j9hUWXiZ4jqa6K0.png" group-title="познание" ,Просвещение
 #EXTGRP:познание
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:0,Министерство идей HD
 #EXTGRP:познание
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PxdEDrzAdIduzhc.png" group-title="общие" ,Вместе РФ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PxdEDrzAdIduzhc.png" group-title="познание" ,Вместе РФ
 #EXTGRP:познание
 http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/mt1eUJpAesKK1hR.jpg" group-title="общие" ,Здоровое ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/mt1eUJpAesKK1hR.jpg" group-title="познание" ,Здоровое ТВ
 #EXTGRP:познание
 http://46.174.83.66/Zdorovoe_TV/mpegts
 #EXTINF:0,Univer TV HD
 #EXTGRP:познание
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ngIy57OCetiz4Gm.png" group-title="общие" ,HDL
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ngIy57OCetiz4Gm.png" group-title="познание" ,HDL
 #EXTGRP:познание
 http://46.174.83.66/HDL/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/A8wpvoBqksczxIq.png" group-title="общие" ,H2
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/A8wpvoBqksczxIq.png" group-title="познание" ,H2
 #EXTGRP:познание
 http://50.7.231.220:8081/224/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Sls0KI6wRIwzhPQ.png" group-title="общие" ,FASHIONBOX
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Sls0KI6wRIwzhPQ.png" group-title="познание" ,FASHIONBOX
 #EXTGRP:познание
 http://iptv.prosto.tv:7000/ch144/video.m3u8
 #EXTINF:0,Fast  FunBox HD
@@ -206,130 +206,130 @@ http://iptv.prosto.tv:7000/ch120/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dKJ12QeSWsNCWQg.png" group-title="общие" ,Русский Детектив
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dKJ12QeSWsNCWQg.png" group-title="кино" ,Русский Детектив
 #EXTGRP:кино
 http://195.26.83.96:7024/play/79
 #EXTINF:0,Душевное кино
 #EXTGRP:кино
 http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dgetqSKbzMJN6U0.png" group-title="общие" ,Русский Бестселлер
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dgetqSKbzMJN6U0.png" group-title="кино" ,Русский Бестселлер
 #EXTGRP:кино
 http://195.26.83.96:7024/play/80
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tsEXyJBFMQ5FRqR.jpg" group-title="общие" ,Русский Роман
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tsEXyJBFMQ5FRqR.jpg" group-title="кино" ,Русский Роман
 #EXTGRP:кино
 http://195.26.83.96:7024/play/81
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/VsWCuzoRzltMjPr.png" group-title="общие" ,Иллюзион +
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/VsWCuzoRzltMjPr.png" group-title="кино" ,Иллюзион +
 #EXTGRP:кино
 http://212.29.231.242:8080/btv_26/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ZAXkTdv4r8SIrrZ.png" group-title="общие" ,Русский Иллюзион
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ZAXkTdv4r8SIrrZ.png" group-title="кино" ,Русский Иллюзион
 #EXTGRP:кино
 http://212.29.231.242:8080/btv_27/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/AA4VqdIzl5h3fAk.png" group-title="общие" ,Наше любимое HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/AA4VqdIzl5h3fAk.png" group-title="кино" ,Наше любимое HD
 #EXTGRP:кино
 http://50.7.231.220:8081/236/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="общие" ,VIP Premiere
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="кино" ,VIP Premiere
 #EXTGRP:кино
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="общие" ,VIP Megahit
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="кино" ,VIP Megahit
 #EXTGRP:кино
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Bdln2liY1rbmMUV.jpg" group-title="общие" ,ViP Comedy
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Bdln2liY1rbmMUV.jpg" group-title="кино" ,ViP Comedy
 #EXTGRP:кино
 http://iptv.prosto.tv:7000/ch44/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/S2YCsunji7c2eRU.png" group-title="общие" ,VIP Serial
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/S2YCsunji7c2eRU.png" group-title="кино" ,VIP Serial
 #EXTGRP:кино
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP:кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/D1kczx2wayLEH8Z.png" group-title="общие" ,TV XXI
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/D1kczx2wayLEH8Z.png" group-title="кино" ,TV XXI
 #EXTGRP:кино
 http://50.7.231.221:8081/133/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fZaHK8uudny1Elx.jpg" group-title="общие" ,Кинохит
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fZaHK8uudny1Elx.jpg" group-title="кино" ,Кинохит
 #EXTGRP:кино
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rCxKj0Bdv3m82P5.png" group-title="общие" ,Кинопремьера HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rCxKj0Bdv3m82P5.png" group-title="кино" ,Кинопремьера HD
 #EXTGRP:кино
 http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/xqCQbgPPImu5K6q.jpg" group-title="общие" ,Киносерия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/xqCQbgPPImu5K6q.jpg" group-title="кино" ,Киносерия
 #EXTGRP:кино
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SRbGlu4gH0vXra6.jpg" group-title="общие" ,Киносемья
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SRbGlu4gH0vXra6.jpg" group-title="кино" ,Киносемья
 #EXTGRP:кино
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/0fKYPJ1Wg0gi0Qh.jpg" group-title="общие" ,Страшное HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/0fKYPJ1Wg0gi0Qh.jpg" group-title="кино" ,Страшное HD
 #EXTGRP:кино
 http://50.7.231.220:8081/216/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SlYsuS6TOmfflZN.png" group-title="общие" ,Киноужас HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SlYsuS6TOmfflZN.png" group-title="кино" ,Киноужас HD
 #EXTGRP:кино
 http://50.7.231.220:8081/227/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FJZkzvovpJDQNxE.png" group-title="общие" ,Amedia Hit HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FJZkzvovpJDQNxE.png" group-title="кино" ,Amedia Hit HD
 #EXTGRP:кино
 http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/zR5NXJ4PQoYU1bA.png" group-title="общие" ,Amedia 1
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/zR5NXJ4PQoYU1bA.png" group-title="кино" ,Amedia 1
 #EXTGRP:кино
 http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/56xsQc67JkxFZYL.png" group-title="общие" ,A2 HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/56xsQc67JkxFZYL.png" group-title="кино" ,A2 HD
 #EXTGRP:кино
 http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/eeFmelXr5iIKLHj.png" group-title="общие" ,TV1000 Action
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/eeFmelXr5iIKLHj.png" group-title="кино" ,TV1000 Action
 #EXTGRP:кино
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/jvCKldHshBsCrJe.png" group-title="общие" ,TV 1000
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/jvCKldHshBsCrJe.png" group-title="кино" ,TV 1000
 #EXTGRP:кино
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/NSLFk1XO8QGlez6.png" group-title="общие" ,Дом кино премиум
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/NSLFk1XO8QGlez6.png" group-title="кино" ,Дом кино премиум
 #EXTGRP:кино
 http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IFNcEGuNH4kpcsv.jpg" group-title="общие" ,FOX Russia
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IFNcEGuNH4kpcsv.jpg" group-title="кино" ,FOX Russia
 #EXTGRP:кино
 http://109.200.130.124:15500/fox
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IpAX92ZQ3X1H5Yk.jpg" group-title="общие" ,Хит HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IpAX92ZQ3X1H5Yk.jpg" group-title="кино" ,Хит HD
 #EXTGRP:кино
 http://50.7.231.220:8081/219/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nZFdg7JvbrabwmX.png" group-title="общие" ,Bolt
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nZFdg7JvbrabwmX.png" group-title="кино" ,Bolt
 #EXTGRP:кино
 http://50.7.231.220:8081/215/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/oWq1Cay2pOUG0iq.png" group-title="общие" ,КИНОКЛУБ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/oWq1Cay2pOUG0iq.png" group-title="кино" ,КИНОКЛУБ
 #EXTGRP:кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,Фантастика Sci-Fi
 #EXTGRP:кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MFAvd7RgmynbIPr.jpg" group-title="общие" ,Дорама
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MFAvd7RgmynbIPr.jpg" group-title="кино" ,Дорама
 #EXTGRP:кино
 http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/99gnunrzK95XBp0.jpg" group-title="общие" ,Hollywood HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/99gnunrzK95XBp0.jpg" group-title="кино" ,Hollywood HD
 #EXTGRP:кино
 http://212.29.231.242:8080/btv_11/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/WauxWkeTFelAblU.png" group-title="общие" ,FilmBox
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/WauxWkeTFelAblU.png" group-title="кино" ,FilmBox
 #EXTGRP:кино
 http://50.7.231.220:8081/214/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iFax60JOXiKiASp.jpg" group-title="общие" ,Bollywood
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iFax60JOXiKiASp.jpg" group-title="кино" ,Bollywood
 #EXTGRP:кино
 http://iptv.prosto.tv:7000/ch61/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Kh0UUjpbJ9jyyTf.png" group-title="общие" ,Star Cinema
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Kh0UUjpbJ9jyyTf.png" group-title="кино" ,Star Cinema
 #EXTGRP:кино
 http://iptv.prosto.tv:7000/ch56/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="общие" ,VIP Premiere
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="кино" ,VIP Premiere
 #EXTGRP:кино
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="общие" ,VIP Megahit
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="кино" ,VIP Megahit
 #EXTGRP:кино
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="общие" ,НТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="кино" ,НТВ
 #EXTGRP:кино
 http://80.237.51.37:8104
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nUJbxzUGII23UfK.png" group-title="общие" ,Eurosport 1 HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nUJbxzUGII23UfK.png" group-title="спорт" ,Eurosport 1 HD
 #EXTGRP:спорт
 http://212.29.231.242:8080/btv_20/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/HNU5TH3ZQTrRnuQ.jpg" group-title="общие" ,Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/HNU5TH3ZQTrRnuQ.jpg" group-title="спорт" ,Eurosport 2
 #EXTGRP:спорт
 http://212.29.231.242:8080/btv_42/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6C0MSoAZ9KBDun1.png" group-title="общие" ,Viasat Sport
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6C0MSoAZ9KBDun1.png" group-title="спорт" ,Viasat Sport
 #EXTGRP:спорт
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,НТВ Спорт Союз HD
@@ -341,25 +341,25 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0,Fox Sports News
 #EXTGRP:спорт
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FSkEYka1rVuINgp.png" group-title="общие" ,КХЛ HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FSkEYka1rVuINgp.png" group-title="спорт" ,КХЛ HD
 #EXTGRP:спорт
 http://46.174.83.66/KHL_HD/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/onPvLtuE9YqIyuK.jpeg" group-title="общие" ,Матч Премьер
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/onPvLtuE9YqIyuK.jpeg" group-title="спорт" ,Матч Премьер
 #EXTGRP:спорт
 http://212.29.231.242:8080/btv_3/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="общие" ,Матч! HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="спорт" ,Матч! HD
 #EXTGRP:спорт
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Pun5zBz44Gb8nBn.jpg" group-title="общие" ,Матч! Арена
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Pun5zBz44Gb8nBn.jpg" group-title="спорт" ,Матч! Арена
 #EXTGRP:спорт
 http://212.29.231.242:8080/btv_41/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/UyYfMKdIl5xd8Zq.jpg" group-title="общие" ,Матч! Планета
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/UyYfMKdIl5xd8Zq.jpg" group-title="спорт" ,Матч! Планета
 #EXTGRP:спорт
 https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ahhTbUP3fmhXsSu.jpg" group-title="общие" ,Конный Мир
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ahhTbUP3fmhXsSu.jpg" group-title="спорт" ,Конный Мир
 #EXTGRP:спорт
 http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nq7V6KDOC4C4bYj.jpg" group-title="общие" ,Моторспорт ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nq7V6KDOC4C4bYj.jpg" group-title="спорт" ,Моторспорт ТВ
 #EXTGRP:спорт
 http://50.7.231.220:8081/230/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,MavTV Select
@@ -374,7 +374,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m
 #EXTINF:0,Turkmen Sport HD
 #EXTGRP:спорт
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="общие" ,МАТЧ ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="спорт" ,МАТЧ ТВ
 #EXTGRP:спорт
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
 #EXTINF:0,НТВ Спорт Союз
@@ -383,16 +383,16 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/aQFTZSKOBK70d1s.png" group-title="общие" ,Муз-ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/aQFTZSKOBK70d1s.png" group-title="музыка" ,Муз-ТВ
 #EXTGRP:музыка
 http://46.174.83.66/MuzTV/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6mSL9fg3A4vt534.jpg" group-title="общие" ,1HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6mSL9fg3A4vt534.jpg" group-title="музыка" ,1HD
 #EXTGRP:музыка
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BHznaQKjPwnkH9M.jpg" group-title="общие" ,ТНТ Music
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BHznaQKjPwnkH9M.jpg" group-title="музыка" ,ТНТ Music
 #EXTGRP:музыка
 http://st1.astra-uk.ru:81/22ba9fface1ae61f4ff94abc134b1d22/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iikb2GDvrlINPVY.png" group-title="общие" ,Шансон ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iikb2GDvrlINPVY.png" group-title="музыка" ,Шансон ТВ
 #EXTGRP:музыка
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:0,MTV Biggest Pop HD
@@ -407,34 +407,34 @@ http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0,Krone hit HD
 #EXTGRP:музыка
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/gTlki6soqSdGjiq.png" group-title="общие" ,Музыка первого
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/gTlki6soqSdGjiq.png" group-title="музыка" ,Музыка первого
 #EXTGRP:музыка
 http://50.7.231.220:8081/225/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOOP2poJnFhnFsh.png" group-title="общие" ,BRIDGE TV HITS
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOOP2poJnFhnFsh.png" group-title="музыка" ,BRIDGE TV HITS
 #EXTGRP:музыка
 http://50.7.231.220:8081/217/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,MM
 #EXTGRP:музыка
 http://50.7.231.220:8081/199/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/m4QLJue3xLsOUlD.png" group-title="общие" ,9 волна
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/m4QLJue3xLsOUlD.png" group-title="музыка" ,9 волна
 #EXTGRP:музыка
 http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Al1B9X5o21ny5JQ.png" group-title="общие" ,Retro Music Tv
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Al1B9X5o21ny5JQ.png" group-title="музыка" ,Retro Music Tv
 #EXTGRP:музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="общие" ,Первый Музыкальный RU HD BY
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="музыка" ,Первый Музыкальный RU HD BY
 #EXTGRP:музыка
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="общие" ,Первый Музыкальный BY
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="музыка" ,Первый Музыкальный BY
 #EXTGRP:музыка
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="общие" ,Первый Музыкальный RU BY
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/9eNREz2PDyZwmzK.jpg" group-title="музыка" ,Первый Музыкальный RU BY
 #EXTGRP:музыка
 http://rtmp.one.by:2200
 #EXTINF:0,Первый Музыкальный BY [FHD]
 #EXTGRP:музыка
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nlRJhMXOAMdVS9P.jpeg" group-title="общие" ,1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nlRJhMXOAMdVS9P.jpeg" group-title="музыка" ,1Music Channel Hungary
 #EXTGRP:музыка
 http://1music.hu/1music.m3u8
 #EXTINF:0,Alsace 20
@@ -449,49 +449,49 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/buYPMeWLhTu2qpj.png" group-title="общие" ,Ю ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/buYPMeWLhTu2qpj.png" group-title="другие" ,Ю ТВ
 #EXTGRP:другие
 http://46.174.83.66/U/mpegts
 #EXTINF:0,Первый российский национальный канал
 #EXTGRP:другие
 https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="общие" ,Наука HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="другие" ,Наука HD
 #EXTGRP:другие
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/lsv0XiAzOC5jbQd.png" group-title="общие" ,Мир HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/lsv0XiAzOC5jbQd.png" group-title="другие" ,Мир HD
 #EXTGRP:другие
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dqS71fTZ7Q0ggIX.jpg" group-title="общие" ,Время
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dqS71fTZ7Q0ggIX.jpg" group-title="другие" ,Время
 #EXTGRP:другие
 http://91.185.3.218:4000/play/607
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/O2pSxn5HF3Ha03X.jpg" group-title="общие" ,8 канал
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/O2pSxn5HF3Ha03X.jpg" group-title="другие" ,8 канал
 #EXTGRP:другие
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
 #EXTINF:0,ТЕО ТВ
 #EXTGRP:другие
 https://teotv.ru/live/site/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tnVW2TZbD7F0uba.png" group-title="общие" ,ТНТ4
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tnVW2TZbD7F0uba.png" group-title="другие" ,ТНТ4
 #EXTGRP:другие
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2qFR2KWQw4cBdak.png" group-title="общие" ,Бобёр
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2qFR2KWQw4cBdak.png" group-title="другие" ,Бобёр
 #EXTGRP:другие
 http://109.200.130.124:7006/play/a02g
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ChIw5e0mHH1RYZy.png" group-title="общие" ,Авто 24
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ChIw5e0mHH1RYZy.png" group-title="другие" ,Авто 24
 #EXTGRP:другие
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4ia342bvrCqY9Rx.jpg" group-title="общие" ,Мама
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4ia342bvrCqY9Rx.jpg" group-title="детям" ,Мама
 #EXTGRP:детям
 http://195.26.83.96:7024/play/73
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TOo5BjrqBkNA2VO.png" group-title="общие" ,Карусель
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TOo5BjrqBkNA2VO.png" group-title="детям" ,Карусель
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_17/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/n2z3jaNvpanRujI.jpg" group-title="общие" ,O!
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/n2z3jaNvpanRujI.jpg" group-title="детям" ,O!
 #EXTGRP:детям
 https://sc.id-tv.kz/o_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4wghc5fjYUOmbYZ.png" group-title="общие" ,Мульт и Музыка
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4wghc5fjYUOmbYZ.png" group-title="детям" ,Мульт и Музыка
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_225/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,Kinder TV
@@ -500,40 +500,41 @@ http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,WOW!TV
 #EXTGRP:детям
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z9DsUx14NkLVr1h.jpg" group-title="общие" ,Gulli Girl
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z9DsUx14NkLVr1h.jpg" group-title="детям" ,Gulli Girl
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch74/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/RAH0L7AXMmYtnT0.png" group-title="общие" ,LaLe
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/RAH0L7AXMmYtnT0.png" group-title="детям" ,LaLe
 #EXTGRP:детям
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="общие" ,NIKI Junior
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="детям" ,NIKI Junior
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch72/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MgYHPVpvmynnOVa.png" group-title="общие" ,Nicktoons
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MgYHPVpvmynnOVa.png" group-title="детям" ,Nicktoons
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch70/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PKFKAWwoKz2Xd5C.png" group-title="общие" ,Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PKFKAWwoKz2Xd5C.png" group-title="детям" ,Nickelodeon
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch68/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="общие" ,Nick Jr
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="детям" ,Nick Jr
 #EXTGRP:детям
 http://50.7.231.220:8081/210/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ru6Pr6y384RCmyB.png" group-title="общие" ,Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ru6Pr6y384RCmyB.png" group-title="детям" ,Cartoon Network
 #EXTGRP:детям
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:0,Karusel
 #EXTGRP:детям
 http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DQ22xhdKt9dU0iV.png" group-title="общие" ,Мульт
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DQ22xhdKt9dU0iV.png" group-title="детям" ,Мульт
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_229/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+
 #EXTINF:0,FTV UHD
 #EXTGRP:relax
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Dng9WhO2yOMS22r.jpg" group-title="общие" ,hdfashion
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Dng9WhO2yOMS22r.jpg" group-title="relax" ,hdfashion
 #EXTGRP:relax
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/hSKIAB26L1G8AzC.png" group-title="общие" ,Luxury
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/hSKIAB26L1G8AzC.png" group-title="relax" ,Luxury
 #EXTGRP:relax
 http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:0,RELAXON
