@@ -541,3 +541,4 @@ http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXa
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/73f3ae60-9bcb-4da4-9c8b-c58c2108c661.png" group-title="релакс" ,RELAXON
 #EXTGRP:релакс
 http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF
