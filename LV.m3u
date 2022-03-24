@@ -19,10 +19,10 @@ http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaeq
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/113.png" group-title="общие" ,Россия-Планета (Европа)
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_53/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/WG93ZZidGK1pFpA.png" group-title="общие" ,РТР Планета СНГ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/1136.png" group-title="общие" ,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=-nKM-EABrPEarYe6UIYEzg&e=1647990180
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/WG93ZZidGK1pFpA.png" group-title="общие" ,РТР Планета СНГ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/1136.png" group-title="общие" ,РТР Планета СНГ
 #EXTGRP:общие
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1647984000&s=391
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/K4t7E4nEw5Kwmgn.jpg" group-title="общие" ,Россия-Культура											
