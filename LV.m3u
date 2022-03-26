@@ -127,6 +127,9 @@ http://91.185.3.218:4000/play/603
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="новости" ,НТВ
 #EXTGRP:новости
 http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://online-red.com/images/tv/bashkortostan-24.png" group-title="новости" ,Башкортостан 24
+#EXTGRP:новости
+http://live.gtrk.tv/720/b24-720.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/992.png" group-title="познание" ,Т24
