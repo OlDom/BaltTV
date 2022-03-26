@@ -115,6 +115,9 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/57276f6f-b0a0-4098-88e9-18d7a3b31108.png" group-title="новости" ,Вечерняя Москва
 #EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="новости" ,CGTN
+#EXTGRP:новости
+http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Ssazg4AJNNjpdJn.png" group-title="новости" ,ЕСПРЕСО
 #EXTGRP:новости
 http://50.7.231.220:8081/211/index.m3u8?wmsAuthSign=okad
