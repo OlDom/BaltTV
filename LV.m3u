@@ -492,12 +492,17 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/855.png" group-title="другие" ,БелРос
 #EXTGRP:другие
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4ia342bvrCqY9Rx.jpg" group-title="детям" ,Мама
 #EXTGRP:детям
 http://195.26.83.96:7024/play/73
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TOo5BjrqBkNA2VO.png" group-title="детям" ,Карусель
 #EXTGRP:детям
 http://212.29.231.242:8080/btv_17/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-ani-tv-8064.jpg" group-title="детям" ,Ani
+#EXTGRP:детям
+http://50.7.231.221:8081/190/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/n2z3jaNvpanRujI.jpg" group-title="детям" ,O!
 #EXTGRP:детям
 https://sc.id-tv.kz/o_34_35.m3u8
