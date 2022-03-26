@@ -489,6 +489,9 @@ https://sc.id-tv.kz:443/Avto24_36_37.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i0.1616.ro/media/601/3161/38616/19548998/2/4_884.jpg" group-title="другие" ,TV Pro
 #EXTGRP:другие
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/855.png" group-title="другие" ,БелРос
+#EXTGRP:другие
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4ia342bvrCqY9Rx.jpg" group-title="детям" ,Мама
 #EXTGRP:детям
 http://195.26.83.96:7024/play/73
