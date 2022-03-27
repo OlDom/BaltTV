@@ -42,7 +42,7 @@ http://92.46.127.146:8080/ntv/index.m3u8?telegramm=yossotv
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4BxFfQM67iNfmE8.png" group-title="общие" ,Победа
 #EXTGRP:общие
-http://50.7.231.220:8081/218/index.m3u8?wmsAuthSign=okad
+http://5.199.214.236:81/udp/239.255.0.238:1234?zone/
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/okFP98GJjWU8dH8.png" group-title="общие" ,ТВЦ										
 #EXTGRP:общие
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
