@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="http://130.61.37.244:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJUZXN0In0.ge8cGyX9cwdDmCVk2PlvJuasEzSQmNWhAjiRDREpLRLy-Wlh3PvE40J1mWUbpNDsbMWAG3mxgBfWj0LfF3oa9A" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-id="hlsproxy-253" tvg-name="Еврокино HD" tvg-logo="http://pl.ottg.tv/icon/5240.png" group-title="Кино",Еврокино HD
+#EXTGRP:Кино
+http://130.61.37.244:2020/channel/4cdc1f54/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-245" tvg-name="Домашние животные" tvg-logo="http://pl.ottg.tv/icon/3646.png" group-title="Познавательные",Домашние животные
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/63454775/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-53817" tvg-name="Дикая охота HD" tvg-logo="http://pl.ottg.tv/icon/9212.png" group-title="Познавательные",Дикая охота HD
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n47d0b257/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-345" tvg-name="Наука 2.0" tvg-logo="http://pl.ottg.tv/icon/5138.png" group-title="Познавательные",Наука 2.0
+#EXTGRP:Познавательные
+http://130.61.37.244:2020/channel/n7b1ac134/index.m3u8?q=90978cd7618ce71b6c6d99175db89ebd
+#EXTINF:-1 tvg-id="hlsproxy-100326" tvg-name="Моя Стихия HD" tvg-logo="http://pl.ottg.tv/icon/7138.png" group-title="Познавательные",Моя Стихия HD
