@@ -96,7 +96,7 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/30.png" group-title="новости" ,Россия 24
 #EXTGRP:новости
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2tMgt3DvGOUvCwD.png" group-title="новости" ,РБК-ТВ
 #EXTGRP:новости
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
