@@ -45,7 +45,7 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 http://5.199.214.236:81/udp/239.255.0.238:1234?zone/
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/okFP98GJjWU8dH8.png" group-title="общие" ,ТВЦ										
 #EXTGRP:общие
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+http://212.122.80.182:38167/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j5iT38lIRqCAkG1.png" group-title="общие" ,Звезда										
 #EXTGRP:общие
 http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
