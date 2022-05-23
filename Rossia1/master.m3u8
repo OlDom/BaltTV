@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=400000
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=chunklist_b400000.m3u8?md5=DXJO_76s2ZWG-fs1OHxZ3w&e=1653314580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXT-X-STREAM-INF:BANDWIDTH=800000
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=chunklist_b800000.m3u8?md5=DXJO_76s2ZWG-fs1OHxZ3w&e=1653314580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXT-X-STREAM-INF:BANDWIDTH=1600000
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=chunklist_b1600000.m3u8?md5=DXJO_76s2ZWG-fs1OHxZ3w&e=1653314580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
