@@ -1,1 +1,4 @@
-<meta name="referrer" content="origin" id="meta_referrer" /><input id="redir" type="hidden" value="http://dmitry-tv.ml/hls/zabava/region/SPB/CH_SPB.m3u8" /><script>window.opener=null;window.location.replace(document.getElementById('redir').value);</script><noscript><META http-equiv="refresh" content="0;URL='http://dmitry-tv.ml/hls/zabava/region/SPB/CH_SPB.m3u8'"><form action="http://dmitry-tv.ml/hls/zabava/region/SPB/CH_SPB.m3u8" method="POST"><input type="submit" value="Continue" /></form></noscript>
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=5242880,PROGRAM-ID=1
+http://a787200764-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/playlist.m3u8?utcstart=1634896800&version=2
