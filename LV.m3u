@@ -99,7 +99,7 @@ http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Mx5hTxUm9RyQx8m.png" group-title="новости" ,Euronews
 #EXTGRP:новости
-http://46.174.83.66/Euronews/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
+https://www.youtube.com/embed/YG0lEwYLaxk?autoplay=1&enablejsapi=1&showinfo=0&mute=1&embed_config=%7B%22primaryThemeColor%22%3A%22%23003865%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fru_euronews_new%2Flive%22%2C%22cust_params%22%3A%22player_type%3Dpfp%26lng%3Dru%26ntvPlacement%3D1108721%26page%3Dlive%26%22%7D%2C%22nonPersonalizedAd%22%3Afalse%2C%22disableAds%22%3Afalse%7D%7D&origin=https%3A%2F%2Fru.euronews.com&widgetid=1
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BEkNDU38QcIUx9t.jpg" group-title="новости" ,Мир 24
 #EXTGRP:новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
