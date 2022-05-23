@@ -15,7 +15,7 @@ http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 #EXTGRP:общие
-http://212.29.231.242:8080/btv_2/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/113.png" group-title="общие" ,Россия-Планета (Европа)
 #EXTGRP:общие
 http://212.29.231.242:8080/btv_53/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
