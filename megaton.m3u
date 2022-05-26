@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1,Первый канал +2
+http://31.173.178.110:8205/play/a05q/index.m3u8
+#EXTINF:-1,Россия 1 +2
+http://31.173.178.110:8205/play/a09w/index.m3u8
+#EXTINF:-1,МАТЧ!
+http://31.173.178.110:8205/play/a0a0/index.m3u8
+#EXTINF:-1,HTB +2
+http://31.173.178.110:8205/play/a05r/index.m3u8
+#EXTINF:-1,Пятый канал +2
+http://31.173.178.110:8205/play/a07w/index.m3u8
+#EXTINF:-1,Россия К
+http://31.173.178.110:8205/play/a0a1/index.m3u8
+#EXTINF:-1,Россия 24
+http://31.173.178.110:8205/play/a0a2/index.m3u8
+#EXTINF:-1,Карусель +2
+http://31.173.178.110:8205/play/a07p/index.m3u8
+#EXTINF:-1,ТВЦ +2
+http://31.173.178.110:8205/play/a05s/index.m3u8
+#EXTINF:-1,PEH TB +2
+http://31.173.178.110:8205/play/a07o/index.m3u8
+#EXTINF:-1,СПАС
+http://31.173.178.110:8205/play/a0a3/index.m3u8
+#EXTINF:-1,СТС
+http://31.173.178.110:8205/play/a09n/index.m3u8
+#EXTINF:-1,Домашний
+http://31.173.178.110:8205/play/a09m/index.m3u8
+#EXTINF:-1,ТВ-3
+http://31.173.178.110:8205/play/a0a4/index.m3u8
+#EXTINF:-1,ПЯТНИЦА
+http://31.173.178.110:8205/play/a0a5/index.m3u8
+#EXTINF:-1,Звезда +2
+http://31.173.178.110:8205/play/a07t/index.m3u8
+#EXTINF:-1,МИР
+http://31.173.178.110:8205/play/a0a6/index.m3u8
+#EXTINF:-1,ТНТ +2
+http://31.173.178.110:8205/play/a05t/index.m3u8
+#EXTINF:-1,МУЗ
+http://31.173.178.110:8205/play/a09e/index.m3u8
+#EXTINF:-1,A1
+http://31.173.178.110:8205/play/a07k/index.m3u8
+#EXTINF:-1,A2
+http://31.173.178.110:8205/play/a07l/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://31.173.178.110:8205/play/a07m/index.m3u8
+#EXTINF:-1,CTC Love
+http://31.173.178.110:8205/play/a09o/index.m3u8
+#EXTINF:-1,FOX
+http://31.173.178.110:8205/play/a05i/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://31.173.178.110:8205/play/a06d/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://31.173.178.110:8205/play/a06e/index.m3u8
+#EXTINF:-1,Наука
+http://31.173.178.110:8205/play/a0bw/index.m3u8
+#EXTINF:-1,Star Cinema
+http://31.173.178.110:8205/play/a07j/index.m3u8
+#EXTINF:-1,TB 1000 Русское кино
+http://31.173.178.110:8205/play/a05a/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://31.173.178.110:8205/play/a059/index.m3u8
+#EXTINF:-1,Дом Кино
+http://31.173.178.110:8205/play/a07f/index.m3u8
+#EXTINF:-1,ЕвроКино
+http://31.173.178.110:8205/play/a06i/index.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://31.173.178.110:8205/play/a08p/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://31.173.178.110:8205/play/a06k/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://31.173.178.110:8205/play/a09u/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://31.173.178.110:8205/play/a08q/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://31.173.178.110:8205/play/a08r/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://31.173.178.110:8205/play/a090/index.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+http://31.173.178.110:8205/play/a08w/index.m3u8
+#EXTINF:-1,КИНОХИТ
+http://31.173.178.110:8205/play/a08s/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://31.173.178.110:8205/play/a06l/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://31.173.178.110:8205/play/a08x/index.m3u8
+#EXTINF:-1,Мир сериала
+http://31.173.178.110:8205/play/a06j/index.m3u8
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://31.173.178.110:8205/play/a08z/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://31.173.178.110:8205/play/a07s/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://31.173.178.110:8205/play/a07v/index.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://31.173.178.110:8205/play/a08y/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://31.173.178.110:8205/play/a080/index.m3u8
+#EXTINF:-1,Русский роман
+http://31.173.178.110:8205/play/a082/index.m3u8
+#EXTINF:-1,Супер
+http://31.173.178.110:8205/play/a09i/index.m3u8
+#EXTINF:-1,Че
+http://31.173.178.110:8205/play/a09q/index.m3u8
+#EXTINF:-1,Ю-ТВ
+http://31.173.178.110:8205/play/a09h/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://31.173.178.110:8205/play/a068/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://31.173.178.110:8205/play/a05f/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://31.173.178.110:8205/play/a05e/index.m3u8
+#EXTINF:-1,БОКС ТВ
+http://31.173.178.110:8205/play/a081/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://31.173.178.110:8205/play/a09f/index.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://31.173.178.110:8205/play/a094/index.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://31.173.178.110:8205/play/a095/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://31.173.178.110:8205/play/a096/index.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://31.173.178.110:8205/play/a097/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://31.173.178.110:8205/play/a098/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://31.173.178.110:8205/play/a099/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://31.173.178.110:8205/play/a09a/index.m3u8
+#EXTINF:-1,Телеканал КХЛ
+http://31.173.178.110:8205/play/a09g/index.m3u8
+#EXTINF:-1,365 дней ТВ
+http://31.173.178.110:8205/play/a08n/index.m3u8
+#EXTINF:-1,Animal Planet
+http://31.173.178.110:8205/play/a078/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://31.173.178.110:8205/play/a07a/index.m3u8
+#EXTINF:-1,Discovery Science
+http://31.173.178.110:8205/play/a09r/index.m3u8
+#EXTINF:-1,National Geographic
+http://31.173.178.110:8205/play/a07d/index.m3u8
+#EXTINF:-1,Outdoor Channel
+http://31.173.178.110:8205/play/a05v/index.m3u8
+#EXTINF:-1,Travel Channel
+http://31.173.178.110:8205/play/a05x/index.m3u8
+#EXTINF:-1,Travel+Adventure
+http://31.173.178.110:8205/play/a06f/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://31.173.178.110:8205/play/a05b/index.m3u8
+#EXTINF:-1,Viasat History
+http://31.173.178.110:8205/play/a05c/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://31.173.178.110:8205/play/a05d/index.m3u8
+#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
+http://31.173.178.110:8205/play/a05g/index.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://31.173.178.110:8205/play/a084/index.m3u8
+#EXTINF:-1,Доктор
+http://31.173.178.110:8205/play/a09b/index.m3u8
+#EXTINF:-1,Известия
+http://31.173.178.110:8205/play/a0bu/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://31.173.178.110:8205/play/a08u/index.m3u8
+#EXTINF:-1,Мама
+http://31.173.178.110:8205/play/a05m/index.m3u8
+#EXTINF:-1,Морской
+http://31.173.178.110:8205/play/a07x/index.m3u8
+#EXTINF:-1,НТВ Право
+http://31.173.178.110:8205/play/a07q/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://31.173.178.110:8205/play/a07y/index.m3u8
+#EXTINF:-1,Радость моя
+http://31.173.178.110:8205/play/a06h/index.m3u8
+#EXTINF:-1,ТЕЛЕКАФЕ
+http://31.173.178.110:8205/play/a07i/index.m3u8
+#EXTINF:-1,Усадьба-ТВ
+http://31.173.178.110:8205/play/a05h/index.m3u8
+#EXTINF:-1,BRIDGE TV HITS
+http://31.173.178.110:8205/play/a05y/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://31.173.178.110:8205/play/a061/index.m3u8
+#EXTINF:-1,MTV
+http://31.173.178.110:8205/play/a07c/index.m3u8
+#EXTINF:-1,RU.TV
+http://31.173.178.110:8205/play/a05w/index.m3u8
+#EXTINF:-1,THT MUSIC
+http://31.173.178.110:8205/play/a09j/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://31.173.178.110:8205/play/a07h/index.m3u8
+#EXTINF:-1,История
+http://31.173.178.110:8205/play/a0bv/index.m3u8
+#EXTINF:-1,2X2
+http://31.173.178.110:8205/play/a062/index.m3u8
+#EXTINF:-1,Ani
+http://31.173.178.110:8205/play/a07u/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://31.173.178.110:8205/play/a079/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://31.173.178.110:8205/play/a05z/index.m3u8
+#EXTINF:-1,JimJam
+http://31.173.178.110:8205/play/a06a/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://31.173.178.110:8205/play/a07e/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://31.173.178.110:8205/play/a06b/index.m3u8
+#EXTINF:-1,O!
+http://31.173.178.110:8205/play/a07b/index.m3u8
+#EXTINF:-1,TiJi
+http://31.173.178.110:8205/play/a064/index.m3u8
+#EXTINF:-1,Детский
+http://31.173.178.110:8205/play/a09s/index.m3u8
+#EXTINF:-1,Моя Планета
+http://31.173.178.110:8205/play/a0bt/index.m3u8
+#EXTINF:-1,Канал Disney
+http://31.173.178.110:8205/play/a09d/index.m3u8
+#EXTINF:-1,Малыш
+http://31.173.178.110:8205/play/a091/index.m3u8
+#EXTINF:-1,Мульт
+http://31.173.178.110:8205/play/a07r/index.m3u8
+#EXTINF:-1,Мультимания
+http://31.173.178.110:8205/play/a083/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://31.173.178.110:8205/play/a07z/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://31.173.178.110:8205/play/a05n/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://31.173.178.110:8205/play/a05l/index.m3u8
+#EXTINF:-1,THT4
+http://31.173.178.110:8205/play/a060/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://31.173.178.110:8205/play/a092/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://31.173.178.110:8205/play/a08t/index.m3u8
+#EXTINF:-1,Комедия
+http://31.173.178.110:8205/play/a09v/index.m3u8
+#EXTINF:-1,ABTO24
+http://31.173.178.110:8205/play/a066/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://31.173.178.110:8205/play/a08o/index.m3u8
+#EXTINF:-1,АРМЕНИЯ ТВ
+http://31.173.178.110:8205/play/a05k/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://31.173.178.110:8205/play/a0by/index.m3u8
+#EXTINF:-1,ТНВ-Планета
+http://31.173.178.110:8205/play/a09p/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://31.173.178.110:8205/play/a0af/index.m3u8
+#EXTINF:-1,FOX HD
+http://31.173.178.110:8205/play/a0a9/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://31.173.178.110:8205/play/a0ag/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://31.173.178.110:8205/play/a0ae/index.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://31.173.178.110:8205/play/a0ad/index.m3u8
+#EXTINF:-1,VIP Comedy
+http://31.173.178.110:8205/play/a0aa/index.m3u8
+#EXTINF:-1,VIP Megahit
+http://31.173.178.110:8205/play/a0ab/index.m3u8
+#EXTINF:-1,ПОБЕДА
+http://31.173.178.110:8205/play/a0a7/index.m3u8
+#EXTINF:-1,Россия 1
+http://31.173.178.110:8205/play/a09z/index.m3u8
+#EXTINF:-1,БОБЁР
+http://31.173.178.110:8205/play/a0bo/index.m3u8
+#EXTINF:-1,Время: далекое и близкое
+http://31.173.178.110:8205/play/a0bp/index.m3u8
+#EXTINF:-1,НСТ
+http://31.173.178.110:8205/play/a0be/index.m3u8
+#EXTINF:-1,ПOЕХАЛИ!!
+http://31.173.178.110:8205/play/a0bf/index.m3u8
+#EXTINF:-1,Amedia Premium
+http://31.173.178.110:8205/play/a0br/index.m3u8
+#EXTINF:-1,BOLT
+http://31.173.178.110:8205/play/a0bq/index.m3u8
+#EXTINF:-1,Fox Life
+http://31.173.178.110:8205/play/a0bg/index.m3u8
+#EXTINF:-1,Hollywood
+http://31.173.178.110:8205/play/a0bs/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://31.173.178.110:8205/play/a0bh/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://31.173.178.110:8205/play/a0bi/index.m3u8
+#EXTINF:-1,MTV Rocks
+http://31.173.178.110:8205/play/a0bk/index.m3u8
+#EXTINF:-1,TLC
+http://31.173.178.110:8205/play/a0bl/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://31.173.178.110:8205/play/a0bm/index.m3u8
+#EXTINF:-1,VH1 European
+http://31.173.178.110:8205/play/a0bn/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://31.173.178.110:8205/play/a0c1/index.m3u8
+#EXTINF:-1,CTC Kids HD
+http://31.173.178.110:8205/play/a0c2/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.173.178.110:8205/play/a0bz/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://31.173.178.110:8205/play/a0c0/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://31.173.178.110:8205/play/a0c3/index.m3u8
+#EXTINF:-1,VIP Premiere
+http://31.173.178.110:8205/play/a0ac/index.m3u8
