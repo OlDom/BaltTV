@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j5iT38lIRqCAkG1.png" group-title="общие" ,Звезда										
 #EXTGRP:общие
 http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/1136.png" group-title="общие" ,РТР Планета СНГ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/1136.png" group-title="общие" ,Беларусь РТР
 #EXTGRP:общие
-https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8?md5=-nKM-EABrPEarYe6UIYEzg&e=1647990180
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/1136.png" group-title="общие" ,РТР Планета СНГ
 #EXTGRP:общие
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
