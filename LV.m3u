@@ -116,7 +116,7 @@ http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Mx5hTxUm9RyQx8m.png" group-title="новости" ,Euronews
 #EXTGRP:новости
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+http://185.37.150.46:80/Euronews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BEkNDU38QcIUx9t.jpg" group-title="новости" ,Мир 24
 #EXTGRP:новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
