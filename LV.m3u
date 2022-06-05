@@ -219,78 +219,76 @@ http://http-microimpuls.cdnvideo.ru/tochkatv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dKJ12QeSWsNCWQg.png" group-title="кино" ,Русский Детектив
-#EXTGRP:кино
-http://195.26.83.96:7024/play/79
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c0a16be2-6cd1-4029-b2b2-c1fccccbde4f.png" group-title="кино" ,Душевное кино
-#EXTGRP:кино
-http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dgetqSKbzMJN6U0.png" group-title="кино" ,Русский Бестселлер
-#EXTGRP:кино
-http://195.26.83.96:7024/play/80
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tsEXyJBFMQ5FRqR.jpg" group-title="кино" ,Русский Роман
-#EXTGRP:кино
-http://195.26.83.96:7024/play/81
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/VsWCuzoRzltMjPr.png" group-title="кино" ,Иллюзион +
-#EXTGRP:кино
-http://212.29.231.242:8080/btv_26/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ZAXkTdv4r8SIrrZ.png" group-title="кино" ,Русский Иллюзион
-#EXTGRP:кино
-http://212.29.231.242:8080/btv_27/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/AA4VqdIzl5h3fAk.png" group-title="кино" ,Наше любимое HD
-#EXTGRP:кино
-http://50.7.231.220:8081/236/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="кино" ,VIP Premiere
-#EXTGRP:кино
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="кино" ,VIP Megahit
-#EXTGRP:кино
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Bdln2liY1rbmMUV.jpg" group-title="кино" ,ViP Comedy
-#EXTGRP:кино
-http://iptv.prosto.tv:7000/ch44/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/S2YCsunji7c2eRU.png" group-title="кино" ,VIP Serial
-#EXTGRP:кино
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/4880174a-b8d4-4d94-af60-75067e43a983.png" group-title="кино" ,Кино 1 International
-#EXTGRP:кино
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/D1kczx2wayLEH8Z.png" group-title="кино" ,TV XXI
-#EXTGRP:кино
-http://50.7.231.221:8081/133/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fZaHK8uudny1Elx.jpg" group-title="кино" ,Кинохит
-#EXTGRP:кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rCxKj0Bdv3m82P5.png" group-title="кино" ,Кинопремьера HD
-#EXTGRP:кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/xqCQbgPPImu5K6q.jpg" group-title="кино" ,Киносерия
-#EXTGRP:кино
-https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SRbGlu4gH0vXra6.jpg" group-title="кино" ,Киносемья
-#EXTGRP:кино
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/0fKYPJ1Wg0gi0Qh.jpg" group-title="кино" ,Страшное HD
-#EXTGRP:кино
-http://50.7.231.220:8081/216/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SlYsuS6TOmfflZN.png" group-title="кино" ,Киноужас HD
-#EXTGRP:кино
-http://50.7.231.220:8081/227/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FJZkzvovpJDQNxE.png" group-title="кино" ,Amedia Hit HD
-#EXTGRP:кино
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/zR5NXJ4PQoYU1bA.png" group-title="кино" ,Amedia 1
-#EXTGRP:кино
-http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/56xsQc67JkxFZYL.png" group-title="кино" ,A2 HD
-#EXTGRP:кино
-http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/eeFmelXr5iIKLHj.png" group-title="кино" ,TV1000 Action
-#EXTGRP:кино
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/jvCKldHshBsCrJe.png" group-title="кино" ,TV 1000
-#EXTGRP:кино
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино",Amedia 1					
+http://http-microimpuls.cdnvideo.ru/amedia1/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Amedia 2					
+http://http-microimpuls.cdnvideo.ru/amedia2/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Amedia hit					
+http://http-microimpuls.cdnvideo.ru/amediahit/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Amedia Premium HD					
+http://http-microimpuls.cdnvideo.ru/amediapremiumhd/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",Дом кино					
+http://http-microimpuls.cdnvideo.ru/domkino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185										
+#EXTINF:-1 group-title="кино",Еврокино					
+http://http-microimpuls.cdnvideo.ru/evrokino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Fox Life					
+http://http-microimpuls.cdnvideo.ru/foxlife/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",Иллюзион+					
+http://http-microimpuls.cdnvideo.ru/illusionplus/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино" tvg-logo="http://epg.it999.ru/img/798.png" ,Индийское кино					
+http://http-microimpuls.cdnvideo.ru/indiatv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Кинохит					
+http://http-microimpuls.cdnvideo.ru/kinohit/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Киносвидание					
+http://http-microimpuls.cdnvideo.ru/kinosvidanie/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Наше новое кино					
+http://http-microimpuls.cdnvideo.ru/nashenovoekino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Киноужас					
+http://http-microimpuls.cdnvideo.ru/kinouzhas/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Киномикс					
+http://http-microimpuls.cdnvideo.ru/kinoplus/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Киносемья					
+http://http-microimpuls.cdnvideo.ru/premiera/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Родное кино					
+http://http-microimpuls.cdnvideo.ru/rodnoekino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Киносерия					
+http://http-microimpuls.cdnvideo.ru/mnogotv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Мужское кино					
+http://http-microimpuls.cdnvideo.ru/muzhskoekino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Мужское кино HD					
+http://http-microimpuls.cdnvideo.ru/muzhskoekinohd/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Кинопоказ					
+http://http-microimpuls.cdnvideo.ru/kinopokaz/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Крик ТВ					
+http://http-microimpuls.cdnvideo.ru/kriktv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",СуперГерои					
+http://http-microimpuls.cdnvideo.ru/malysh/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",НСТ					
+http://http-microimpuls.cdnvideo.ru/nst/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",Русский бестселлер					
+http://http-microimpuls.cdnvideo.ru/russkiybestseller/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Русский детектив					
+http://http-microimpuls.cdnvideo.ru/russkiydetektiv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",Русский роман					
+http://http-microimpuls.cdnvideo.ru/russkiyroman/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",Теледом HD					
+http://http-microimpuls.cdnvideo.ru/teledomhd/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="кино",TV1000					
+http://http-microimpuls.cdnvideo.ru/tv1000/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",TV1000 Action					
+http://http-microimpuls.cdnvideo.ru/tv1000action/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="кино",TV1000 русское кино					
+http://http-microimpuls.cdnvideo.ru/tv1000russkoekino/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
+#EXTINF:-1 group-title="кино" tvg-logo="http://epg.it999.ru/img/309.png" ,TV XXI					
+http://http-microimpuls.cdnvideo.ru/tvxxi/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/NSLFk1XO8QGlez6.png" group-title="кино" ,Дом кино премиум
 #EXTGRP:кино
 http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=okad
