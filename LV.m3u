@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="общие" ,Первый канал
 #EXTGRP:общие
