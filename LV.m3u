@@ -95,7 +95,7 @@ http://195.158.222.7:8131//index.m3u8
 http://46.174.83.66/CTC/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/581.png" group-title="общие" ,Санкт-Петербург
 #EXTGRP:общие
-http://212.29.231.242:8080/btv_227/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+http://178.217.72.66:8080/225.201.2.29/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FOCuf9mXP3WwOMh.png" group-title="общие" ,Домашний
 #EXTGRP:общие
 http://46.174.83.66/Domashniy/mpegts
