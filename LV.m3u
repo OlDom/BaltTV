@@ -172,84 +172,50 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 http://http-microimpuls.cdnvideo.ru/moskva24/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/992.png" group-title="познание" ,Т24
-#EXTGRP:познание
-http://195.26.83.96:7024/play/83
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/4bf1a18e-e2c5-4bec-b4f8-38ef8be23328.png" group-title="познание" ,Abaza
-#EXTGRP:познание
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GklDLgjo4jlW04D.png" group-title="познание" ,Планета HD
-#EXTGRP:познание
-http://50.7.231.220:8081/118/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OMCtmxB64YGg9rQ.png" group-title="познание" ,Discovery Science
-#EXTGRP:познание
-http://212.29.231.242:8080/btv_4/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/klDWFWswI6tdm7E.png" group-title="познание" ,Viasat Golf HD
-#EXTGRP:познание
-http://212.29.231.242:8080/btv_22/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="познание" ,Наука 2.0
-#EXTGRP:познание
-http://50.7.231.220:8081/115/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IRzeusXo21O11xS.jpg" group-title="познание" ,Оружие
-#EXTGRP:познание
-http://50.7.231.220:8081/117/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4nnPTPKRZY1QIZN.jpg" group-title="познание" ,История
-#EXTGRP:познание
-http://50.7.231.220:8081/212/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/GKw4xgGpFCf6ziz.png" group-title="познание" ,Viasat Nature
-#EXTGRP:познание
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FUN2Ca8eBgCgojf.png" group-title="познание" ,Viasat History HD
-#EXTGRP:познание
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4EqPAUO4ngtEUYt.jpg" group-title="познание" ,Viasat Explorer
-#EXTGRP:познание
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/OyjS7WENNPgROWl.png" group-title="познание" ,Психология 21
-#EXTGRP:познание
-http://46.174.83.66/Psihologiya21/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yc2dYJFlVZeAWRC.png" group-title="познание" ,Усадьба
-#EXTGRP:познание
-http://46.174.83.66/Usadba/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/fdXCTQFL3osLvuW.png" group-title="познание" ,Охота и рыбалка
-#EXTGRP:познание
-http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/t9jmErL8dEuCvQQ.jpeg" group-title="познание" ,Travel Channel
-#EXTGRP:познание
-http://iptv.prosto.tv:7000/ch100/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/8Zd5zAFeUzN7OLn.png" group-title="познание" ,В мире животных HD
-#EXTGRP:познание
-http://50.7.231.220:8081/221/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z8S7GpH92y8ms4y.PNG" group-title="познание" ,Доктор
-#EXTGRP:познание
-http://50.7.231.220:8081/120/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j9hUWXiZ4jqa6K0.png" group-title="познание" ,Просвещение
-#EXTGRP:познание
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/1021150f-6efb-4b81-8d64-a6cc441c69cf.png" group-title="познание" ,Министерство идей HD
-#EXTGRP:познание
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PxdEDrzAdIduzhc.png" group-title="познание" ,Вместе РФ
-#EXTGRP:познание
-http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/mt1eUJpAesKK1hR.jpg" group-title="познание" ,Здоровое ТВ
-#EXTGRP:познание
-http://46.174.83.66/Zdorovoe_TV/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/24300725-97ba-4336-b8f3-426f77217b8d.png" group-title="познание" ,Univer TV HD
-#EXTGRP:познание
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ngIy57OCetiz4Gm.png" group-title="познание" ,HDL
-#EXTGRP:познание
-http://46.174.83.66/HDL/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/A8wpvoBqksczxIq.png" group-title="познание" ,H2
-#EXTGRP:познание
-http://50.7.231.220:8081/224/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Sls0KI6wRIwzhPQ.png" group-title="познание" ,FASHIONBOX
-#EXTGRP:познание
-http://iptv.prosto.tv:7000/ch144/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/a4df2b39-b1f4-4ac3-8a34-aec8677cef6e.png" group-title="познание" ,Fast  FunBox HD
-#EXTGRP:познание
-http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:-1 group-title="познание",Усадьба					
+http://http-microimpuls.cdnvideo.ru/usadba/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185									
+#EXTINF:-1 group-title="познание",Зоопарк					
+http://http-microimpuls.cdnvideo.ru/zoopark/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Zoo TV					
+http://http-microimpuls.cdnvideo.ru/zootv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",В мире животных HD					
+http://http-microimpuls.cdnvideo.ru/animalfamilyhd/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185										
+#EXTINF:-1 group-title="познание",Nat Geo Wild					
+http://http-microimpuls.cdnvideo.ru/natgeowild/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Ocean TV					
+http://http-microimpuls.cdnvideo.ru/oceantv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Охота и рыбалка					
+http://http-microimpuls.cdnvideo.ru/ohotairibalka/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185										
+#EXTINF:-1 group-title="познание",RTG TV					
+http://http-microimpuls.cdnvideo.ru/rtg/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",RTG HD					
+http://http-microimpuls.cdnvideo.ru/rtghd/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",24 техно					
+http://http-microimpuls.cdnvideo.ru/24techno/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание" tvg-logo="http://epg.it999.ru/img/153.png" ,Авто 24					
+http://http-microimpuls.cdnvideo.ru/avto24/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Авто плюс					
+http://http-microimpuls.cdnvideo.ru/avtoplus/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",Драйв					
+http://http-microimpuls.cdnvideo.ru/draiv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Еда					
+http://http-microimpuls.cdnvideo.ru/eda/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",История					
+http://http-microimpuls.cdnvideo.ru/istoriya/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",Просвещение					
+http://http-microimpuls.cdnvideo.ru/prosveshenie/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",Театр					
+http://http-microimpuls.cdnvideo.ru/teatr/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+#EXTINF:-1 group-title="познание",Телепутешествия					
+http://http-microimpuls.cdnvideo.ru/teletravel/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
+#EXTINF:-1 group-title="познание",Точка ТВ					
+http://http-microimpuls.cdnvideo.ru/tochkatv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
 
 
 
