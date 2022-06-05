@@ -9,7 +9,7 @@ https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 http://185.44.75.203:38171/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 #EXTGRP:общие
-http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
+https://1tv-live-gcore.gcdn.co/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 #EXTGRP:общие
 https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
