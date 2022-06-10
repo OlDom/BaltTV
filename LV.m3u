@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/38.png" group-title="общие",Первый канал					
-http://http-microimpuls.cdnvideo.ru/perviy/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=perviytest				
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/656.png" group-title="общие",Россия 1					
 http://http-microimpuls.cdnvideo.ru/rossia1/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/24.png" group-title="общие",НТВ					
-http://http-microimpuls.cdnvideo.ru/ntv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntv
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="общие" ,Первый канал
 http://195.158.222.7:8102//index.m3u8
