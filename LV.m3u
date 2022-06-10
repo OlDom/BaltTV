@@ -53,7 +53,7 @@ http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
 http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4BxFfQM67iNfmE8.png" group-title="общие" ,Победа
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+http://128.0.27.41:8080/239.211.211.169/mpegts
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/okFP98GJjWU8dH8.png" group-title="общие" ,ТВЦ										
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/HYrkd0rDbcdFLKa.png" group-title="общие" ,Москва Доверие
