@@ -1,16 +1,15 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/38.png" group-title="общие",Первый канал					
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id607_MSKSG-PVR-1--Perviy_SD_Studiya/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImV4cCI6MTY2OTg0NjMxMCwiaHdpZCI6ImUwZGEyZTkwNjhjNTQwMDc1YzllMDgxZmM4ODlhNDZkZjYyNTQ4ODJhMWZlZDNmYzQ1YTQ0MzQ0ODBkNTkyOGIiLCJsYXN0X3JlcV9kYXRlIjoxNjU0NDY3MjE1LCJzZXNzaW9uX2lkIjoiNDU4OTQ2OTlhOWQwM2FmMDBhYTM3ZDk2ZDY0MDhiMzAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nRa1Oui5plnQxs5X4-XLI0nV3CRsT5fiuNZxnMMbmPY			
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/656.png" group-title="общие",Россия 1					
 http://http-microimpuls.cdnvideo.ru/rossia1/ch.m3u8?st=OiTeOC94Yld-UeAJIkASTw&e=1654881506			
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/24.png" group-title="общие",НТВ					
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntv
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
+http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="общие" ,Первый канал
 http://195.158.222.7:8102//index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://0400.42web.io/m3u/PBK.png" group-title="общие" ,Первый Балтийский LT									
-http://185.44.75.203:38171/play/a00w/index.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
@@ -43,8 +42,7 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 http://188.93.94.140/rtr/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/K4t7E4nEw5Kwmgn.jpg" group-title="общие" ,Россия-Культура											
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1647983400&s=506
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
-http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://84.17.61.200:8085/udp/238.2.16.220:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ										
