@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/38.png" group-title="общие",Первый канал					
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id607_MSKSG-PVR-1--Perviy_SD_Studiya/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImV4cCI6MTY2OTg0NjMxMCwiaHdpZCI6ImUwZGEyZTkwNjhjNTQwMDc1YzllMDgxZmM4ODlhNDZkZjYyNTQ4ODJhMWZlZDNmYzQ1YTQ0MzQ0ODBkNTkyOGIiLCJsYXN0X3JlcV9kYXRlIjoxNjU0NDY3MjE1LCJzZXNzaW9uX2lkIjoiNDU4OTQ2OTlhOWQwM2FmMDBhYTM3ZDk2ZDY0MDhiMzAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nRa1Oui5plnQxs5X4-XLI0nV3CRsT5fiuNZxnMMbmPY			
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/656.png" group-title="общие",Россия 1					
-http://http-microimpuls.cdnvideo.ru/rossia1/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
+http://http-microimpuls.cdnvideo.ru/rossia1/ch.m3u8?st=OiTeOC94Yld-UeAJIkASTw&e=1654881506			
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/24.png" group-title="общие",НТВ					
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntv
 
