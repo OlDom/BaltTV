@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/25.png" group-title="общие",ТНТ					
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd						
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15554.png" group-title="общие",РЕН ТВ					
-https://sc.id-tv.kz/RenTV.m3u8								
+https://sc.id-tv.kz/RenTV_36_37.m3u8							
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/141.png" group-title="общие",ТНТ4					
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 
