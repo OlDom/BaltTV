@@ -23,61 +23,17 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
 https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/25.png" group-title="общие",ТНТ					
-http://http-microimpuls.cdnvideo.ru/tnt/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd						
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15554.png" group-title="общие",РЕН ТВ					
-http://http-microimpuls.cdnvideo.ru/rentv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185											
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rentv											
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/141.png" group-title="общие",ТНТ4					
-http://http-microimpuls.cdnvideo.ru/comedytv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/138.png" group-title="общие",Оружие					
-http://http-microimpuls.cdnvideo.ru/oruzhie/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/170.png" group-title="общие",2x2					
-http://http-microimpuls.cdnvideo.ru/2x2/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/14.png" group-title="общие",5 канал					
-http://http-microimpuls.cdnvideo.ru/5kanal/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/350.png" group-title="общие",8 канал					
-http://http-microimpuls.cdnvideo.ru/8kanal/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/676.png" group-title="общие",Че					
-http://http-microimpuls.cdnvideo.ru/che/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/51.png" group-title="общие",Домашний					
-http://http-microimpuls.cdnvideo.ru/domashniy/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185				
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/140.png" group-title="общие",Ностальгия					
-http://http-microimpuls.cdnvideo.ru/nostalgia/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185				
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/984.png" group-title="общие",Победа					
-http://http-microimpuls.cdnvideo.ru/pobeda/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/931.png" group-title="общие",Поехали!					
-http://http-microimpuls.cdnvideo.ru/poehali/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15545.png" group-title="общие",Пятница!					
-http://http-microimpuls.cdnvideo.ru/pyatnica/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/23.png" group-title="общие",Совершенно секретно					
-http://http-microimpuls.cdnvideo.ru/sovershennosekretno/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185		
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15569.png" group-title="общие",СТС					
-http://http-microimpuls.cdnvideo.ru/sts/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/604.png" group-title="общие",СТС Love					
-http://http-microimpuls.cdnvideo.ru/stslove/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ad/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0%21.svg/revision/latest/scale-to-width-down/220?cb=20210218213833&path-prefix=ru" group-title="общие",Суббота!					
-http://http-microimpuls.cdnvideo.ru/super/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/614.png" group-title="общие",Телекафе					
-http://http-microimpuls.cdnvideo.ru/telekafe/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15544.png" group-title="общие",ТВ3					
-http://http-microimpuls.cdnvideo.ru/tv3/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/712.png" group-title="общие",ТВЦ					
-http://http-microimpuls.cdnvideo.ru/tvcentr/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/76.png" group-title="общие",Ю					
-http://http-microimpuls.cdnvideo.ru/utv/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185						
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/164.png" group-title="общие",Вопросы и ответы					
-http://http-microimpuls.cdnvideo.ru/voprosyiotvety/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185			
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/119.png" group-title="общие",Время					
-http://http-microimpuls.cdnvideo.ru/vremya/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185							
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/508.png" group-title="общие",Загородная жизнь					
-http://http-microimpuls.cdnvideo.ru/zagorodnayazhizn/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185					
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/160.png" group-title="общие",Живи					
-http://http-microimpuls.cdnvideo.ru/zhivi/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImV4cCI6MTY2OTg0NjMxMCwiaHdpZCI6ImUwZGEyZTkwNjhjNTQwMDc1YzllMDgxZmM4ODlhNDZkZjYyNTQ4ODJhMWZlZDNmYzQ1YTQ0MzQ0ODBkNTkyOGIiLCJsYXN0X3JlcV9kYXRlIjoxNjU0NDY3MjE1LCJzZXNzaW9uX2lkIjoiNDU4OTQ2OTlhOWQwM2FmMDBhYTM3ZDk2ZDY0MDhiMzAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nRa1Oui5plnQxs5X4-XLI0nV3CRsT5fiuNZxnMMbmPY				
+
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j5iT38lIRqCAkG1.png" group-title="общие" ,Звезда +2									
 http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFshZx6VLe5hjQLQ9VIQwpIAmuxShqGZJAbKc1=s900-c-k-c0x00ffffff-no-rj" group-title="общие" ,Звезда Плюс					
-http://http-microimpuls.cdnvideo.ru/zvezdaplus/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
+
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/576.png" group-title="общие" ,Беларусь РТР
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
