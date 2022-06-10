@@ -47,8 +47,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1647983400&s=506
 http://84.17.61.200:8085/udp/238.2.16.220:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ										
 http://46.174.83.66/NTV/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
-http://195.158.222.7:8093//index.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
