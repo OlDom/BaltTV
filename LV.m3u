@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/25.png" group-title="общие",ТНТ					
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd						
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15554.png" group-title="общие",РЕН ТВ					
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rentv											
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rentv										
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/141.png" group-title="общие",ТНТ4					
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImV4cCI6MTY2OTg0NjMxMCwiaHdpZCI6ImUwZGEyZTkwNjhjNTQwMDc1YzllMDgxZmM4ODlhNDZkZjYyNTQ4ODJhMWZlZDNmYzQ1YTQ0MzQ0ODBkNTkyOGIiLCJsYXN0X3JlcV9kYXRlIjoxNjU0NDY3MjE1LCJzZXNzaW9uX2lkIjoiNDU4OTQ2OTlhOWQwM2FmMDBhYTM3ZDk2ZDY0MDhiMzAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nRa1Oui5plnQxs5X4-XLI0nV3CRsT5fiuNZxnMMbmPY				
 
