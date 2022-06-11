@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/38.png" group-title="общие",Первый канал					
 https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/656.png" group-title="общие",Россия 1					
-http://185.37.150.46/Rossiya_HD/tracks-v1a1/index.m3u8			
+http://128.0.27.41:8080/239.211.200.2/mpegts		
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 
