@@ -7,15 +7,13 @@ http://128.0.27.41:8080/239.211.200.2/mpegts
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/yuYGD8bY5OHX4dJ.png" group-title="общие" ,Первый канал
-http://195.158.222.7:8102//index.m3u8
+
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd?e=1646046751
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 http://128.0.27.41:8080/239.211.200.1/mpegts
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5129
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
