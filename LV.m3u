@@ -241,6 +241,8 @@ http://84.17.61.200:8085/udp/238.2.0.14:1234
 http://84.17.61.200:8085/udp/238.2.0.54:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1152s.png" group-title="спорт" ,Матч! Футбол 2
 http://84.17.61.200:8085/udp/238.2.0.205:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.oreol.tv/img/Fut_3_HD.jpg" group-title="спорт" ,Матч! Футбол 3
+http://91.219.23.234:8000/play/281/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport HD
 http://84.17.61.200:8085/udp/238.2.16.198:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport
