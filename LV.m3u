@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 				
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый канал									
-http://84.17.61.200:8085/udp/238.2.0.1:1234
+http://85.112.114.11:8088/udp/238.2.47.89:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 http://84.17.61.200:8085/udp/238.2.0.2:1234		
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
