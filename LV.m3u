@@ -132,41 +132,41 @@ http://84.17.61.200:8085/udp/238.2.0.83:1234
 http://84.17.61.200:8085/udp/238.2.0.81:1234
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/667.png" group-title="кино" ,Кинопремьера HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3207s.png" group-title="кино" ,Кинопремьера HD
 http://84.17.61.200:8085/udp/238.2.16.183:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/700.png" group-title="кино" ,Киносвидание
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3583s.png" group-title="кино" ,Киносвидание
 http://84.17.61.200:8085/udp/238.2.0.11:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/672.png" group-title="кино" ,Родное кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1058s.png" group-title="кино" ,Родное кино
 http://84.17.61.200:8085/udp/238.2.0.12:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/669.png" group-title="кино" ,Киносемья
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1654s.png" group-title="кино" ,Киносемья
 http://84.17.61.200:8085/udp/238.2.0.13:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/kinosvidanie.png" group-title="кино" ,Киносвидание
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3583s.png" group-title="кино" ,Киносвидание
 http://84.17.61.200:8085/udp/238.2.0.11:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/1288.png" group-title="кино" ,Кинокомедия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1125s.png" group-title="кино" ,Кинокомедия
 http://84.17.61.200:8085/udp/238.2.0.26:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/indiyskoyekino.png" group-title="кино" ,Индийское кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1046s.png" group-title="кино" ,Индийское кино
 http://84.17.61.200:8085/udp/238.2.0.62:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/nashenovoyekino.png" group-title="кино" ,Наше новое кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1059s.png" group-title="кино" ,Наше новое кино
 http://84.17.61.200:8085/udp/238.2.0.35:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/muzhskoyekino.png" group-title="кино" ,Мужское кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3094s.png" group-title="кино" ,Мужское кино
 http://84.17.61.200:8085/udp/238.2.0.209:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/rodnoekino.png" group-title="кино" ,Родное кино
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1058s.png" group-title="кино" ,Родное кино
 http://84.17.61.200:8085/udp/238.2.0.12:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/kinoseriya.png" group-title="кино" ,Киносемья
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1654s.png" group-title="кино" ,Киносемья
 http://84.17.61.200:8085/udp/238.2.0.13:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/43.png" group-title="кино" ,Кинохит
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3584s.png" group-title="кино" ,Кинохит
 http://84.17.61.200:8085/udp/238.2.0.33:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/kinomiks.png" group-title="кино" ,Киномикс
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1123s.png" group-title="кино" ,Киномикс
 http://84.17.61.200:8085/udp/238.2.0.167:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ru/komedia.png" group-title="кино" ,Комедийное
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3173s.png" group-title="кино" ,Комедийное
 http://84.17.61.200:8085/udp/238.2.0.129:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/671.png" group-title="кино" ,Киносерия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1147s.png" group-title="кино" ,Киносерия
 http://84.17.61.200:8085/udp/238.2.0.208:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/948.png" group-title="кино" ,Комедийное HD
 http://84.17.61.200:8085/udp/238.2.16.138:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/654.png" group-title="кино" ,Мужское кино HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3094s.png" group-title="кино" ,Мужское кино HD
 http://84.17.61.200:8085/udp/238.2.16.148:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/884.png" group-title="кино" ,Шокирующее HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3238s.png" group-title="кино" ,Шокирующее HD
 http://84.17.61.200:8085/udp/238.2.16.137:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/12409.png" group-title="кино" ,.black
 http://84.17.61.200:8085/udp/238.2.0.235:1234
