@@ -207,63 +207,47 @@ http://84.17.61.200:8085/udp/238.2.0.201:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/183.png" group-title="кино" ,Русский роман
 http://84.17.61.200:8085/udp/238.2.0.172:1234
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nUJbxzUGII23UfK.png" group-title="спорт" ,Eurosport 1 HD
-#EXTGRP:спорт
-http://212.29.231.242:8080/btv_20/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/HNU5TH3ZQTrRnuQ.jpg" group-title="спорт" ,Eurosport 2
-#EXTGRP:спорт
-http://212.29.231.242:8080/btv_42/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6C0MSoAZ9KBDun1.png" group-title="спорт" ,Viasat Sport
-#EXTGRP:спорт
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/74.png" group-title="спорт" ,НТВ Спорт Союз
-#EXTGRP:спорт
-http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=gelow74
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/3afee43d-e5e0-42f4-9694-fa6d6bf20a52.png" group-title="спорт" ,Red Bull TV
-#EXTGRP:спорт
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/dc3d9674-c9b1-4525-a029-9077071900d4.png" group-title="спорт" ,Fox Sports News
-#EXTGRP:спорт
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/FSkEYka1rVuINgp.png" group-title="спорт" ,КХЛ HD
-#EXTGRP:спорт
-http://46.174.83.66/KHL_HD/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/onPvLtuE9YqIyuK.jpeg" group-title="спорт" ,Матч Премьер
-#EXTGRP:спорт
-http://212.29.231.242:8080/btv_3/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="спорт" ,Матч! HD
-#EXTGRP:спорт
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Pun5zBz44Gb8nBn.jpg" group-title="спорт" ,Матч! Арена
-#EXTGRP:спорт
-http://212.29.231.242:8080/btv_41/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/UyYfMKdIl5xd8Zq.jpg" group-title="спорт" ,Матч! Планета
-#EXTGRP:спорт
-https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ahhTbUP3fmhXsSu.jpg" group-title="спорт" ,Конный Мир
-#EXTGRP:спорт
-http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nq7V6KDOC4C4bYj.jpg" group-title="спорт" ,Моторспорт ТВ
-#EXTGRP:спорт
-http://50.7.231.220:8081/230/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/faa6076d-93e4-49d7-965c-9122b38bd5fe.png" group-title="спорт" ,MavTV Select
-#EXTGRP:спорт
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/6af5edaf-89cd-49a7-a5ed-73b8a444bb1a.png" group-title="спорт" ,Астрахань.Ru Sport HD
-#EXTGRP:спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/955ca0a5-5946-4007-8317-5d0dcf079d8f.png" group-title="спорт" ,Arryadia
-#EXTGRP:спорт
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c7b0a460-2914-4a78-93f2-791c86c4d4d1.png" group-title="спорт" ,Turkmen Sport HD
-#EXTGRP:спорт
-http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/wrm50NAkg6RbUcr.png" group-title="спорт" ,МАТЧ ТВ
-#EXTGRP:спорт
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/74.png" group-title="спорт" ,НТВ Спорт Союз
-#EXTGRP:спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1019s.png" group-title="спорт" ,Extreme Sports
+http://84.17.61.200:8085/udp/238.2.0.53:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2965s.png" group-title="спорт" ,Eurosport 1 HD
+http://84.17.61.200:8085/udp/238.2.16.145:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2963s.png" group-title="спорт" ,Eurosport 1
+http://84.17.61.200:8085/udp/238.2.0.15:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3141s.png" group-title="спорт" ,Eurosport 2
+http://84.17.61.200:8085/udp/238.2.0.43:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://troya.tv/images/chIcons/138.png?62879e8992d95" group-title="спорт" ,КХЛ Prime HD
+http://84.17.61.200:8085/udp/238.2.16.177:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru"  tvg-logo="http://troya.tv/images/chIcons/138.png?62879e8992d95"group-title="спорт" ,КХЛ
+http://84.17.61.200:8085/udp/238.2.0.149:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1089s.png" group-title="спорт" ,МАТЧ! ТВ
+http://84.17.61.200:8085/udp/238.2.0.5:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1127s.png" group-title="спорт" ,Матч! Премьер
+http://84.17.61.200:8085/udp/238.2.0.37:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3260s.png" group-title="спорт" ,Матч! Премьер HD
+http://84.17.61.200:8085/udp/238.2.16.250:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2310s.png" group-title="спорт" ,Матч! Арена
+http://84.17.61.200:8085/udp/238.2.0.136:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2312s.png" group-title="спорт" ,Матч! Арена HD
+http://84.17.61.200:8085/udp/238.2.16.146:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1156s.png" group-title="спорт" ,Матч! Боец
+http://84.17.61.200:8085/udp/238.2.0.30:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3591s.png" group-title="спорт" ,Матч! Страна
+http://84.17.61.200:8085/udp/238.2.0.134:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1203s.png" group-title="спорт" ,Матч! Игра
+http://84.17.61.200:8085/udp/238.2.0.153:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2307s.png" group-title="спорт" ,Матч! Планета
+http://84.17.61.200:8085/udp/238.2.0.14:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1111s.png" group-title="спорт" ,Матч! Футбол 1
+http://84.17.61.200:8085/udp/238.2.0.54:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1152s.png" group-title="спорт" ,Матч! Футбол 2
+http://84.17.61.200:8085/udp/238.2.0.205:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport HD
+http://84.17.61.200:8085/udp/238.2.16.198:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport
+http://84.17.61.200:8085/udp/238.2.0.77:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1155s.png" group-title="спорт" ,Авто плюс
+http://84.17.61.200:8085/udp/238.2.0.29:1234
+
 
 
 
