@@ -407,8 +407,7 @@ http://iptv.prosto.tv:7000/ch70/video.m3u8
 http://iptv.prosto.tv:7000/ch68/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ru6Pr6y384RCmyB.png" group-title="детям" ,Cartoon Network
 http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/125.png" group-title="детям" ,Карусель
-http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
+
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/15400.png" group-title="релакс" ,FTV UHD
