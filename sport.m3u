@@ -76,10 +76,8 @@ http://srv05.varcdn.top/ua1/index.m3u8
 http://srv05.varcdn.top/ua2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png" group-title="спорт" ,Футбол 3
 https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,FITE
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://turnheelwrestling.com/wp-content/uploads/2019/08/FITE-TV-1024x576.jpg" group-title="спорт" ,FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img2/6130.png" group-title="спорт" ,Insport HD
-https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg" group-title="спорт" ,MavTV Europe
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.fightnewsaustralia.com/wp-content/uploads/2017/06/M-1-Global-logo.png" group-title="спорт" ,M-1 Global
