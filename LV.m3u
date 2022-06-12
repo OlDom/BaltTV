@@ -381,6 +381,8 @@ http://84.17.61.200:8085/udp/238.2.0.98:1234
 http://84.17.61.200:8085/udp/238.2.0.116:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1136s.png" group-title="детям" ,Мультимузыка
 http://84.17.61.200:8085/udp/238.2.0.156:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/125.png" group-title="детям" ,Карусель
+http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1148s.png" group-title="детям" ,Tiji
 http://84.17.61.200:8085/udp/238.2.0.218:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3588s.png" group-title="детям" ,Nick Jr
