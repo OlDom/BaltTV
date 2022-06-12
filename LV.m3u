@@ -143,17 +143,12 @@ http://50.7.231.220:8081/214/index.m3u8?wmsAuthSign=okad
 #EXTGRP:кино
 http://iptv.prosto.tv:7000/ch61/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Kh0UUjpbJ9jyyTf.png" group-title="кино" ,Star Cinema
-#EXTGRP:кино
 http://iptv.prosto.tv:7000/ch56/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4YHIC7wxnGcojdN.png" group-title="кино" ,VIP Premiere
-#EXTGRP:кино
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DOAgXqNNhj0IEXS.png" group-title="кино" ,VIP Megahit
-#EXTGRP:кино
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/sJjVxH3sVRYR3r0.jpg" group-title="кино" ,НТВ
-#EXTGRP:кино
-http://80.237.51.37:8104
+
 
 #EXTINF:-1 group-title="фильм ,TV1000
 http://84.17.61.200:8085/udp/238.2.0.82:1234
