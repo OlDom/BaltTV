@@ -14,6 +14,8 @@ http://84.17.61.200:8085/udp/238.2.16.73:1234
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
+http://84.17.61.200:8085/udp/238.2.16.220:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ										
 http://46.174.83.66/NTV/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/25.png" group-title="общие",ТНТ					
@@ -38,8 +40,7 @@ http://188.93.94.140/rtr/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/K4t7E4nEw5Kwmgn.jpg" group-title="общие" ,Россия-Культура											
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1647983400&s=506
 
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
-http://84.17.61.200:8085/udp/238.2.16.220:1234
+
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
 http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
@@ -81,7 +82,7 @@ http://46.174.83.66/Domashniy/mpegts
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/140.png" group-title="общие" ,Ностальгия
 http://84.17.61.200:8085/udp/238.2.0.206:1234
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/23.png" group-title="общие" ,Совершенно секретно
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/23.png" group-title="тест" ,Совершенно секретно
 http://84.17.61.200:8085/udp/238.2.0.224:1234
 
 
