@@ -83,39 +83,26 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ztbT2NPYMh1imYD.jpg" group-title="новости" ,Известия
-#EXTGRP:новости
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/30.png" group-title="новости" ,Россия 24
-#EXTGRP:новости
 http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2tMgt3DvGOUvCwD.png" group-title="новости" ,РБК-ТВ
-#EXTGRP:новости
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Mx5hTxUm9RyQx8m.png" group-title="новости" ,Euronews
-#EXTGRP:новости
 http://185.37.150.46:80/Euronews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/BEkNDU38QcIUx9t.jpg" group-title="новости" ,Мир 24
-#EXTGRP:новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MbKx97jkRAAdTdw.png" group-title="новости" ,360
-#EXTGRP:новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/136.png" group-title="новости" ,RT
-#EXTGRP:новости
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/JE2Jdtt1pqDjClw.jpg" group-title="новости" ,RT Док
-#EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/57276f6f-b0a0-4098-88e9-18d7a3b31108.png" group-title="новости" ,Вечерняя Москва
-#EXTGRP:новости
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="новости" ,CGTN
-#EXTGRP:новости
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/59.png" group-title="новости" ,Москва 24
-#EXTGRP:новости
-http://http-microimpuls.cdnvideo.ru/moskva24/ch.m3u8?st=86Y5H2Abo2gpF8Pgv1vQlA&e=1654536185
-
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/60.png" group-title="новости" ,Дождь
 http://84.17.61.200:8085/udp/238.2.0.151:1234
 
