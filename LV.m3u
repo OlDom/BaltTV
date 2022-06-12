@@ -113,34 +113,24 @@ http://84.17.61.200:8085/udp/238.2.0.151:1234
 
 
 ##EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/NSLFk1XO8QGlez6.png" group-title="тест" ,Дом кино премиум
-#EXTGRP:кино
 http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IFNcEGuNH4kpcsv.jpg" group-title="тест" ,FOX Russia
-#EXTGRP:кино
 http://109.200.130.124:15500/fox
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/IpAX92ZQ3X1H5Yk.jpg" group-title="тест" ,Хит HD
-#EXTGRP:кино
 http://50.7.231.220:8081/219/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/nZFdg7JvbrabwmX.png" group-title="тест" ,Bolt
-#EXTGRP:кино
 http://50.7.231.220:8081/215/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/oWq1Cay2pOUG0iq.png" group-title="тест" ,КИНОКЛУБ
-#EXTGRP:кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/cfbb9a40-7b1f-40d2-96db-1e244ba0b9b7.png" group-title="тест" ,Фантастика Sci-Fi
-#EXTGRP:кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MFAvd7RgmynbIPr.jpg" group-title="тест" ,Дорама
-#EXTGRP:кино
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/99gnunrzK95XBp0.jpg" group-title="тест" ,Hollywood HD
-#EXTGRP:кино
 http://212.29.231.242:8080/btv_11/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/WauxWkeTFelAblU.png" group-title="тест" ,FilmBox
-#EXTGRP:кино
 http://50.7.231.220:8081/214/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iFax60JOXiKiASp.jpg" group-title="кино" ,Bollywood
-#EXTGRP:кино
 http://iptv.prosto.tv:7000/ch61/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Kh0UUjpbJ9jyyTf.png" group-title="кино" ,Star Cinema
 http://iptv.prosto.tv:7000/ch56/video.m3u8
