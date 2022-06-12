@@ -247,7 +247,26 @@ http://84.17.61.200:8085/udp/238.2.16.198:1234
 http://84.17.61.200:8085/udp/238.2.0.77:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1155s.png" group-title="спорт" ,Авто плюс
 http://84.17.61.200:8085/udp/238.2.0.29:1234
-
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://www.vsetv.com/pic/channel_logos/798.gif" group-title="спорт" ,Trace Sport Stars HD
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg" group-title="спорт" ,MavTV Europe
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2364.png" group-title="спорт" ,Setanta Sports 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2363.png" group-title="спорт" ,Setanta Sports 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2782.png" group-title="спорт" ,Телеканал Футбол
+http://213.172.73.170:8081/nimble_live/1025__Futbol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f2d7c376c2f047995bf1a457b08845f4_high.png" group-title="спорт" ,FightBox HD
+https://cdnua03.hls.tv/178/hls/l1mn64hrdycqk7wsujo235tzbap8gief/230/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2189.png" group-title="спорт" ,Футбол 1
+http://srv05.varcdn.top/ua1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2190.png" group-title="спорт" ,Футбол 2
+http://srv05.varcdn.top/ua2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png" group-title="спорт" ,Футбол 3
+https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2530.png" group-title="спорт" ,СТАРТ HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5471
 
 
 
