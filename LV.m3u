@@ -207,6 +207,22 @@ http://84.17.61.200:8085/udp/238.2.0.201:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/183.png" group-title="кино" ,Русский роман
 http://84.17.61.200:8085/udp/238.2.0.172:1234
 
+
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/116.png" group-title="кино" ,Еврокино
+http://84.17.61.200:8085/udp/238.2.0.96:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/115.png" group-title="кино" ,Иллюзион+
+http://84.17.61.200:8085/udp/238.2.0.202:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/182.png" group-title="кино" ,НСТ
+http://84.17.61.200:8085/udp/238.2.0.93:1234
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/153.png" group-title="кино" ,Ретро
+http://84.17.61.200:8085/udp/238.2.0.87:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/114.png" group-title="кино" ,Русский Иллюзион
+http://84.17.61.200:8085/udp/238.2.0.201:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/183.png" group-title="кино" ,Русский роман
+http://84.17.61.200:8085/udp/238.2.0.172:1234
+
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1019s.png" group-title="спорт" ,Extreme Sports
 http://84.17.61.200:8085/udp/238.2.0.53:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2965s.png" group-title="спорт" ,Eurosport 1 HD
@@ -267,10 +283,8 @@ http://srv05.varcdn.top/ua1/index.m3u8
 http://srv05.varcdn.top/ua2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png" group-title="спорт" ,Футбол 3
 https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,FITE
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://turnheelwrestling.com/wp-content/uploads/2019/08/FITE-TV-1024x576.jpg" group-title="спорт" ,FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img2/6130.png" group-title="спорт" ,Insport HD
-https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg" group-title="спорт" ,MavTV Europe
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.fightnewsaustralia.com/wp-content/uploads/2017/06/M-1-Global-logo.png" group-title="спорт" ,M-1 Global
@@ -291,6 +305,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://www.vsetv.com/pic/channel_logos/798.gif" group-title="спорт" ,Trace Sport Stars HD
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
+
 
 
 
