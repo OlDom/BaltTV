@@ -372,53 +372,42 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4ia342bvrCqY9Rx.jpg" group-title="детям" ,Мама
-#EXTGRP:детям
 http://195.26.83.96:7024/play/73
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TOo5BjrqBkNA2VO.png" group-title="детям" ,Карусель
-#EXTGRP:детям
-http://212.29.231.242:8080/btv_17/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-ani-tv-8064.jpg" group-title="детям" ,Ani
-#EXTGRP:детям
-http://50.7.231.221:8081/190/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/n2z3jaNvpanRujI.jpg" group-title="детям" ,O!
-#EXTGRP:детям
-https://sc.id-tv.kz/o_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4wghc5fjYUOmbYZ.png" group-title="детям" ,Мульт и Музыка
-#EXTGRP:детям
-http://212.29.231.242:8080/btv_225/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/b4023510-f639-469e-9974-34e0c9751d1c.png" group-title="детям" ,Kinder TV
-#EXTGRP:детям
-http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/c6d11fa9-5fcf-40be-abcf-7e8334267aac.png" group-title="детям" ,WOW!TV
-#EXTGRP:детям
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/z9DsUx14NkLVr1h.jpg" group-title="детям" ,Gulli Girl
-#EXTGRP:детям
-http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1916s.png" group-title="детям" ,Мульт
+http://84.17.61.200:8085/udp/238.2.0.200:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://w7.pngwing.com/pngs/178/1019/png-transparent-unicum-hd-logo-thumbnail.png" group-title="детям" ,Уникум
+http://84.17.61.200:8085/udp/238.2.0.98:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://w7.pngwing.com/pngs/568/34/png-transparent-television-channel-high-definition-television-studio-apartment-online-and-offline-others-love-television-child-thumbnail.png" group-title="детям" ,Мультимания
+http://84.17.61.200:8085/udp/238.2.0.116:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1136s.png" group-title="детям" ,Мультимузыка
+http://84.17.61.200:8085/udp/238.2.0.156:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1148s.png" group-title="детям" ,Tiji
+http://84.17.61.200:8085/udp/238.2.0.218:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3588s.png" group-title="детям" ,Nick Jr
+http://84.17.61.200:8085/udp/238.2.0.240:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1249s.png" group-title="детям" ,Gulli Girl
+http://84.17.61.200:8085/udp/238.2.0.217:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/3/3d/JimJam_Logo.png" group-title="детям" ,Jim Jam
+http://84.17.61.200:8085/udp/238.2.0.166:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png" group-title="детям" ,Nickelodeon HD
+http://84.17.61.200:8085/udp/238.2.16.174:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1037s.png" group-title="детям" ,Детский мир
+http://84.17.61.200:8085/udp/238.2.0.20:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3587s.png" group-title="детям" ,Nickelodeon
+http://84.17.61.200:8085/udp/238.2.0.21:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/RAH0L7AXMmYtnT0.png" group-title="детям" ,LaLe
-#EXTGRP:детям
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="детям" ,NIKI Junior
-#EXTGRP:детям
 http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/MgYHPVpvmynnOVa.png" group-title="детям" ,Nicktoons
-#EXTGRP:детям
 http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/PKFKAWwoKz2Xd5C.png" group-title="детям" ,Nickelodeon
-#EXTGRP:детям
 http://iptv.prosto.tv:7000/ch68/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="детям" ,Nick Jr
-#EXTGRP:детям
-http://50.7.231.220:8081/210/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ru6Pr6y384RCmyB.png" group-title="детям" ,Cartoon Network
-#EXTGRP:детям
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/125.png" group-title="детям" ,Карусель
-#EXTGRP:детям
 http://46.174.83.66/Karusel/index.m3u8?https://avdmono.do.am/ip/RUtv.m3u
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/DQ22xhdKt9dU0iV.png" group-title="детям" ,Мульт
-#EXTGRP:детям
-http://212.29.231.242:8080/btv_229/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/15400.png" group-title="релакс" ,FTV UHD
 #EXTGRP:релакс
