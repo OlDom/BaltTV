@@ -46,3 +46,10 @@ http://84.17.61.200:8085/udp/238.2.0.29:1234
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg" group-title="спорт" ,MavTV Europe
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2364.png" group-title="спорт" ,Setanta Sports 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2363.png" group-title="спорт" ,Setanta Sports 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
