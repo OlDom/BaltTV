@@ -1,0 +1,44 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1019s.png" group-title="спорт" ,Extreme Sports
+http://84.17.61.200:8085/udp/238.2.0.53:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2965s.png" group-title="спорт" ,Eurosport 1 HD
+http://84.17.61.200:8085/udp/238.2.16.145:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2963s.png" group-title="спорт" ,Eurosport 1
+http://84.17.61.200:8085/udp/238.2.0.15:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3141s.png" group-title="спорт" ,Eurosport 2
+http://84.17.61.200:8085/udp/238.2.0.43:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://troya.tv/images/chIcons/138.png?62879e8992d95" group-title="спорт" ,КХЛ Prime HD
+http://84.17.61.200:8085/udp/238.2.16.177:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru"  tvg-logo="http://troya.tv/images/chIcons/138.png?62879e8992d95"group-title="спорт" ,КХЛ
+http://84.17.61.200:8085/udp/238.2.0.149:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1089s.png" group-title="спорт" ,МАТЧ! ТВ
+http://84.17.61.200:8085/udp/238.2.0.5:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1127s.png" group-title="спорт" ,Матч! Премьер
+http://84.17.61.200:8085/udp/238.2.0.37:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3260s.png" group-title="спорт" ,Матч! Премьер HD
+http://84.17.61.200:8085/udp/238.2.16.250:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2310s.png" group-title="спорт" ,Матч! Арена
+http://84.17.61.200:8085/udp/238.2.0.136:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2312s.png" group-title="спорт" ,Матч! Арена HD
+http://84.17.61.200:8085/udp/238.2.16.146:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1156s.png" group-title="спорт" ,Матч! Боец
+http://84.17.61.200:8085/udp/238.2.0.30:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3591s.png" group-title="спорт" ,Матч! Страна
+http://84.17.61.200:8085/udp/238.2.0.134:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1203s.png" group-title="спорт" ,Матч! Игра
+http://84.17.61.200:8085/udp/238.2.0.153:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2307s.png" group-title="спорт" ,Матч! Планета
+http://84.17.61.200:8085/udp/238.2.0.14:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1111s.png" group-title="спорт" ,Матч! Футбол 1
+http://84.17.61.200:8085/udp/238.2.0.54:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1152s.png" group-title="спорт" ,Матч! Футбол 2
+http://84.17.61.200:8085/udp/238.2.0.205:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport HD
+http://84.17.61.200:8085/udp/238.2.16.198:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1120s.png" group-title="спорт" ,Viasat Sport
+http://84.17.61.200:8085/udp/238.2.0.77:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1155s.png" group-title="спорт" ,Авто плюс
+http://84.17.61.200:8085/udp/238.2.0.29:1234
