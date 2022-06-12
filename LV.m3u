@@ -271,19 +271,19 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg" group-title="спорт" ,MavTV Europe
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,M-1 Global
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.fightnewsaustralia.com/wp-content/uploads/2017/06/M-1-Global-logo.png" group-title="спорт" ,M-1 Global
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,Motor Racing
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://st2.depositphotos.com/4149157/6382/v/950/depositphotos_63828707-stock-illustration-motor-racing-logo-event.jpg" group-title="спорт" ,Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,MySports 1 HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MySports_Logo.svg/1200px-MySports_Logo.svg.png" group-title="спорт" ,MySports 1 HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="спорт" ,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/462.jpg" group-title="спорт" ,Red Bull TV HD
 http://213.172.73.132:8081/nimble_live/6046_RedBull_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,Sports Tonight
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://pbs.twimg.com/profile_images/1276389537074348034/q_BY68-j_400x400.jpg" group-title="спорт" ,Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="спорт" ,Turkmen Sport
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/TurkmenistanSport.jpg/800px-TurkmenistanSport.jpg" group-title="спорт" ,Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.seekpng.com/png/full/282-2820818_stadium-stadium-tv-logo-png.png" group-title="спорт" ,UFC Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
