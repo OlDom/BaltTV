@@ -339,6 +339,34 @@ http://178.217.72.66:8080/225.201.2.183/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Здоровое ТВ
 http://178.217.72.66:8080/225.201.3.5/video.m3u8
 
+#EXTINF:-1 group-title="ОСС" ,Наука
+http://178.217.72.66:8080/225.201.3.20/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Моя планета
+http://178.217.72.66:8080/225.201.3.19/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Охота и рыбалка
+http://178.217.72.66:8080/225.201.3.1/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,24 Техно
+http://178.217.72.66:8080/225.201.3.16/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,RTG TV
+http://178.217.72.66:8080/225.201.2.120/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Travel Channel
+http://178.217.72.66:8080/225.201.2.3/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Investigation Discovery
+http://178.217.72.66:8080/225.201.2.70/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,National Geographic
+http://178.217.72.66:8080/225.201.3.67/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Ocean TV
+http://178.217.72.66:8080/225.201.7.24/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Домашние животные
+http://178.217.72.66:8080/225.201.3.7/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Viasat Explore
+http://178.217.72.66:8080/225.201.7.16/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Viasat History
+http://178.217.72.66:8080/225.201.7.17/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Viasat Nature
+http://178.217.72.66:8080/225.201.7.18/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,.black
+http://178.217.72.66:8080/225.201.2.213/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/aQFTZSKOBK70d1s.png" group-title="музыка" ,Муз-ТВ
