@@ -330,13 +330,13 @@ http://178.217.72.66:8080/225.201.2.104/video.m3u8
 http://178.217.72.66:8080/225.201.2.214/video.m3u8
 #EXTINF:-1 group-title="познание" ,Психология 21
 http://178.217.72.66:8080/225.201.3.8/video.m3u8
-#EXTINF:-1 group-title="познание" ,Красная линия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Красная линия
 http://178.217.72.66:8080/225.201.3.17/video.m3u8
-#EXTINF:-1 group-title="познание" ,Кто есть кто
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Кто есть кто
 http://178.217.72.66:8080/225.201.2.59/video.m3u8
-#EXTINF:-1 group-title="познание" ,Кухня ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Кухня ТВ
 http://178.217.72.66:8080/225.201.2.183/video.m3u8
-#EXTINF:-1 group-title="познание" ,Здоровое ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Здоровое ТВ
 http://178.217.72.66:8080/225.201.3.5/video.m3u8
 
 
