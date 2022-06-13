@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://toplogos.ru/images/logo-musicbox-russia.png" group-title="музыка" ,Russian Music Box
+http://84.17.61.200:8085/udp/238.2.0.230:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://avk-wellcom.ru/assets/tvip-pics/24/24_europaplustv_logo.png" group-title="музыка" ,Европа плюс ТВ
+http://84.17.61.200:8085/udp/238.2.0.160:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://images.o2.cz/_pub/e9/63/c1/680022_1603218_Logo_MEZZOLiveHD.jpg" group-title="музыка" ,Mezzo Live HD
+http://84.17.61.200:8085/udp/238.2.16.165:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="музыка" ,MTV Live HD
+http://84.17.61.200:8085/udp/238.2.16.144:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i.ytimg.com/vi/KzbX6h6LcSw/maxresdefault.jpg" group-title="музыка" ,Bridge HD
+http://84.17.61.200:8085/udp/238.2.16.154:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://kinoserials.ru/uploads/posts/2022-01/maxresdefault1.jpg" group-title="музыка" ,Bridge TV
+http://84.17.61.200:8085/udp/238.2.0.69:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://pro-tv.biz/upload/iblock/d46/bridge_hits_2019.PNG" group-title="музыка" ,Bridge TV Hits
+http://84.17.61.200:8085/udp/238.2.0.72:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://bridgetv.ru/s/uploads/photo_2017-09-11_14-56-29-1505132097-1505168184-1505173371.jpg" group-title="музыка" ,Bridge TV Русский Хит
+http://84.17.61.200:8085/udp/238.2.0.158:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.nts.su/upload/news/tnt-music-kvadr.jpg" group-title="музыка" ,ТНТ Music
+http://84.17.61.200:8085/udp/238.2.0.71:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://2sat.net/upload/image/news/2016/07/mcm_top.jpg" group-title="музыка" ,MCM TOP
+http://84.17.61.200:8085/udp/238.2.0.45:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.pikpng.com/pngl/m/284-2848566_location-plymouth-pavilions-png-club-mtv-logo-club.png" group-title="музыка" ,MTV Club
+http://84.17.61.200:8085/udp/238.2.0.46:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2018/11/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE.jpg" group-title="музыка" ,Музыка первого
+http://84.17.61.200:8085/udp/238.2.0.133:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://kinoserials.ru/uploads/posts/2021-12/1639073750_mtv90s11.png" group-title="музыка" ,MTV 90s
+http://84.17.61.200:8085/udp/238.2.0.239:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://logosdownload.com/logo/mtv-hits-logo-big.png" group-title="музыка" ,MTV Hits
+http://84.17.61.200:8085/udp/238.2.0.238:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/MuzTV_Logo.png" group-title="музыка" ,МузТВ
+http://84.17.61.200:8085/udp/238.2.0.10:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i.ytimg.com/vi/2FNcDuqPnDc/maxresdefault.jpg" group-title="музыка" ,MTV 80s
+http://84.17.61.200:8085/udp/238.2.0.51:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i.pinimg.com/originals/f8/cb/51/f8cb51edc5519e19c9f8f14d3a2d0ffd.jpg" group-title="музыка" ,RU.TV
+http://84.17.61.200:8085/udp/238.2.0.63:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0t4s61rg-720.jpg" group-title="музыка" ,Шансон ТВ
+http://84.17.61.200:8085/udp/238.2.0.67:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/11/1-HD.jpg" group-title="музыка" ,1HD
+http://84.17.61.200:8085/udp/238.2.16.110:1234
