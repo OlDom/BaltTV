@@ -6,8 +6,8 @@ http://85.112.114.11:8088/udp/238.2.47.89:1234
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8		
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://pic.rutube.ru/video/6f/e5/6fe5fa8bf8cfaed72b0b5775ab1b27eb.jpg" group-title="test" ,Место встречи	
+https://salam-2.rutube.ru/dive/river-1-401.rutube.ru/arpY61OLF64tfWT_TXXjvA/hls-vod/7Uz3uhZcPfT2Lqpm0-_-iw/1655184938/1760/0x500003970b782c67/081a6959e5924602a954d34cd08a4d2e.mp4.m3u8?i=1280x720_3134
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 http://84.17.61.200:8085/udp/238.2.16.73:1234
