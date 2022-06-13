@@ -84,6 +84,15 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 http://84.17.61.200:8085/udp/238.2.0.206:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png"  group-title="общие" ,ЕДА Премиум HD
 http://84.17.61.200:8085/udp/238.2.16.141:1234
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3161s.png" group-title="общие" ,НТВ ПРАВО https://dvb.by/sources/logos/3161s.png
+http://89.104.114.26:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/n/ntv_serial.gif" group-title="общие" ,НТВ СЕРИАЛ
+http://89.104.114.26:8080/ntv_serial/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3163s.png" group-title="общие" ,НТВ СТИЛЬ
+http://89.104.114.26:8080/ntv_stil/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3435s.png" group-title="общие" ,НТВ ХИТ
+http://89.104.114.26:8080/ntv_hit/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ztbT2NPYMh1imYD.jpg" group-title="новости" ,Известия
