@@ -61,10 +61,10 @@ http://84.17.61.200:8085/udp/238.2.16.138:1234
 http://84.17.61.200:8085/udp/238.2.16.148:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3238s.png" group-title="кино" ,Шокирующее HD
 http://84.17.61.200:8085/udp/238.2.16.137:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/12409.png" group-title="кино" ,.black
-http://84.17.61.200:8085/udp/238.2.0.235:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/12409.png" group-title="кино" ,.sci-fi
-http://84.17.61.200:8085/udp/238.2.0.102:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/b/black_tv.gif" group-title="спорт" ,.black
+http://178.217.72.66:8080/225.201.2.213/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/a/axn-scifi.gif" group-title="спорт" ,.sci-fi
+http://178.217.72.66:8080/225.201.2.212/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/170.png" group-title="кино" ,2х2
 http://84.17.61.200:8085/udp/238.2.0.100:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15424.png" group-title="кино" ,Cinema
