@@ -63,7 +63,7 @@ https://cdnua03.hls.tv/178/hls/l1mn64hrdycqk7wsujo235tzbap8gief/230/stream.m3u8
 http://srv05.varcdn.top/ua1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2190.png" group-title="спорт" ,Футбол 2
 http://srv05.varcdn.top/ua2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png" group-title="спорт" ,Футбол 3
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://s-vodafone.ollcdn.net/img/12/f5/07/12f507futbol-3-hd.png" group-title="спорт" ,Футбол 3
 https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://turnheelwrestling.com/wp-content/uploads/2019/08/FITE-TV-1024x576.jpg" group-title="спорт" ,FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
