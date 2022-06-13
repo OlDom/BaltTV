@@ -31,7 +31,7 @@ http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
 
 
 
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/576.png" group-title="общие" ,Беларусь РТР
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/576.png" group-title="общие" ,РТР Беларусь
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/1137.png" group-title="общие" ,РТР
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
