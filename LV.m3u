@@ -307,9 +307,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 
 
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
-
-
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3410s.png" group-title="познание" ,Наука
 http://178.217.72.66:8080/225.201.3.20/video.m3u8
