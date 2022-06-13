@@ -311,51 +311,50 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3410s.png" group-title="спорт" ,Наука
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3410s.png" group-title="познание" ,Наука
 http://178.217.72.66:8080/225.201.3.20/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1143s.png" group-title="спорт" ,Моя планета
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1143s.png" group-title="познание" ,Моя планета
 http://178.217.72.66:8080/225.201.3.19/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1069s.png" group-title="спорт" ,Охота и рыбалка
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1069s.png" group-title="познание" ,Охота и рыбалка
 http://178.217.72.66:8080/225.201.3.1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/t/techno.gif" group-title="спорт" ,24 Техно
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/t/techno.gif" group-title="познание" ,24 Техно
 http://178.217.72.66:8080/225.201.3.16/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/r/rtg_tv_.gif" group-title="спорт" ,RTG TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/r/rtg_tv_.gif" group-title="познание" ,RTG TV
 http://178.217.72.66:8080/225.201.2.120/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1369s.png" group-title="спорт" ,Travel Channel
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1369s.png" group-title="познание" ,Travel Channel
 http://178.217.72.66:8080/225.201.2.3/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3482s.png" group-title="спорт" ,Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3482s.png" group-title="познание" ,Investigation Discovery
 http://178.217.72.66:8080/225.201.2.70/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3060s.png" group-title="спорт" ,National Geographic
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3060s.png" group-title="познание" ,National Geographic
 http://178.217.72.66:8080/225.201.3.67/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/o/ocean.gif" group-title="спорт" ,Ocean TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/o/ocean.gif" group-title="познание" ,Ocean TV
 http://178.217.72.66:8080/225.201.7.24/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/s/stream_pets_tv.gif" group-title="спорт" ,Домашние животные
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/s/stream_pets_tv.gif" group-title="познание" ,Домашние животные
 http://178.217.72.66:8080/225.201.3.7/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_explorer.gif" group-title="спорт" ,Viasat Explore
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_explorer.gif" group-title="познание" ,Viasat Explore
 http://178.217.72.66:8080/225.201.7.16/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_history.gif" group-title="спорт" ,Viasat History
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_history.gif" group-title="познание" ,Viasat History
 http://178.217.72.66:8080/225.201.7.17/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_nature.gif" group-title="спорт" ,Viasat Nature
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_nature.gif" group-title="познание" ,Viasat Nature
 http://178.217.72.66:8080/225.201.7.18/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/d/doc-tv_.gif" group-title="спорт" ,Доктор
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/d/doc-tv_.gif" group-title="познание" ,Доктор
 http://178.217.72.66:8080/225.201.3.18/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1109s.png" group-title="спорт" ,Усадьба
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1109s.png" group-title="познание" ,Усадьба
 http://178.217.72.66:8080/225.201.3.4/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1175s.png" group-title="спорт" ,Телекафе
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1175s.png" group-title="познание" ,Телекафе
 http://178.217.72.66:8080/225.201.2.104/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2858s.png" group-title="спорт" ,Продвижение
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2858s.png" group-title="познание" ,Продвижение
 http://178.217.72.66:8080/225.201.2.214/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1130s.png" group-title="спорт" ,Психология 21
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1130s.png" group-title="познание" ,Психология 21
 http://178.217.72.66:8080/225.201.3.8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2112s.png" group-title="спорт" ,Красная линия
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2112s.png" group-title="познание" ,Красная линия
 http://178.217.72.66:8080/225.201.3.17/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1271s.png" group-title="спорт" ,Кто есть кто
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1271s.png" group-title="познание" ,Кто есть кто
 http://178.217.72.66:8080/225.201.2.59/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1115s.png" group-title="спорт" ,Кухня ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1115s.png" group-title="познание" ,Кухня ТВ
 http://178.217.72.66:8080/225.201.2.183/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1044s.png" group-title="спорт" ,Здоровое ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1044s.png" group-title="познание" ,Здоровое ТВ
 http://178.217.72.66:8080/225.201.3.5/video.m3u8
-http://178.217.72.66:8080/225.201.2.213/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/aQFTZSKOBK70d1s.png" group-title="музыка" ,Муз-ТВ
