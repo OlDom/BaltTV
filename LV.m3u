@@ -83,6 +83,9 @@ http://46.174.83.66/Domashniy/mpegts
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/140.png" group-title="общие" ,Ностальгия
 http://84.17.61.200:8085/udp/238.2.0.206:1234
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://avk-wellcom.ru/assets/smotr-pics/411/tv_logo_TOP.png" group-title="общие" ,Совершенно секретно
+#EXTINF:-1 group-title="ОСС" ,Совершенно секретно
+http://178.217.72.66:8080/225.201.2.115/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png"  group-title="общие" ,ЕДА Премиум HD
 http://84.17.61.200:8085/udp/238.2.16.141:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3161s.png" group-title="общие" ,НТВ ПРАВО
