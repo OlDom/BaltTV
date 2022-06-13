@@ -170,7 +170,7 @@ http://84.17.61.200:8085/udp/238.2.0.13:1234
 http://84.17.61.200:8085/udp/238.2.0.33:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1123s.png" group-title="кино" ,Киномикс
 http://84.17.61.200:8085/udp/238.2.0.167:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3173s.png" group-title="кино" ,Комедийное
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="кино" ,Кинопоказ
 http://84.17.61.200:8085/udp/238.2.0.129:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1147s.png" group-title="кино" ,Киносерия
 http://84.17.61.200:8085/udp/238.2.0.208:1234
