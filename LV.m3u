@@ -220,19 +220,6 @@ http://84.17.61.200:8085/udp/238.2.0.172:1234
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/116.png" group-title="кино" ,Еврокино
-http://84.17.61.200:8085/udp/238.2.0.96:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/115.png" group-title="кино" ,Иллюзион+
-http://84.17.61.200:8085/udp/238.2.0.202:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/182.png" group-title="кино" ,НСТ
-http://84.17.61.200:8085/udp/238.2.0.93:1234
-
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/153.png" group-title="кино" ,Ретро
-http://84.17.61.200:8085/udp/238.2.0.87:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/114.png" group-title="кино" ,Русский Иллюзион
-http://84.17.61.200:8085/udp/238.2.0.201:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/183.png" group-title="кино" ,Русский роман
-http://84.17.61.200:8085/udp/238.2.0.172:1234
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1019s.png" group-title="спорт" ,Extreme Sports
 http://84.17.61.200:8085/udp/238.2.0.53:1234
@@ -246,6 +233,8 @@ http://84.17.61.200:8085/udp/238.2.0.43:1234
 http://84.17.61.200:8085/udp/238.2.16.177:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru"  tvg-logo="http://troya.tv/images/chIcons/138.png?62879e8992d95"group-title="спорт" ,КХЛ
 http://84.17.61.200:8085/udp/238.2.0.149:1234
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru"  tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/1521843/2a00000175f4a4304593ef5a089f8aa21dfa/214x121"group-title="спорт" ,Конный Мир
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1089s.png" group-title="спорт" ,МАТЧ! ТВ
 http://84.17.61.200:8085/udp/238.2.0.5:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1127s.png" group-title="спорт" ,Матч! Премьер
