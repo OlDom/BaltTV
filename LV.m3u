@@ -398,42 +398,69 @@ http://84.17.61.200:8085/udp/238.2.16.110:1234
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/buYPMeWLhTu2qpj.png" group-title="другие" ,Ю ТВ
-#EXTGRP:другие
-http://46.174.83.66/U/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/f91a2c53-db67-4cb0-8d6c-274cd03b2d11.png" group-title="другие" ,Первый российский национальный канал
-#EXTGRP:другие
-https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/TqpFPQiu19CABwy.jpg" group-title="другие" ,Наука HD
-#EXTGRP:другие
-http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/lsv0XiAzOC5jbQd.png" group-title="другие" ,Мир HD
-#EXTGRP:другие
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/dqS71fTZ7Q0ggIX.jpg" group-title="другие" ,Время
-#EXTGRP:другие
-http://91.185.3.218:4000/play/607
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/O2pSxn5HF3Ha03X.jpg" group-title="другие" ,8 канал
-#EXTGRP:другие
-http://80.94.225.126:8080/8kanalHD/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/a1408aad-0e4e-4ad5-8905-41a5d055e29b.png" group-title="другие" ,ТЕО ТВ
-#EXTGRP:другие
-https://teotv.ru/live/site/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/tnVW2TZbD7F0uba.png" group-title="другие" ,ТНТ4
-#EXTGRP:другие
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/2qFR2KWQw4cBdak.png" group-title="другие" ,Бобёр
-#EXTGRP:другие
-http://109.200.130.124:7006/play/a02g
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/ChIw5e0mHH1RYZy.png" group-title="другие" ,Авто 24
-#EXTGRP:другие
-https://sc.id-tv.kz:443/Avto24_36_37.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://i0.1616.ro/media/601/3161/38616/19548998/2/4_884.jpg" group-title="другие" ,TV Pro
-#EXTGRP:другие
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/855.png" group-title="другие" ,БелРос
-#EXTGRP:другие
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="ОСС" tvg-logo="http://epg.it999.ru/img/2432.png" ,Живая Планета
+http://178.217.72.66:8080/225.201.3.12/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Время
+http://178.217.72.66:8080/225.201.2.201/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Грозный
+http://178.217.72.66:8080/225.201.2.218/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,КВН ТВ
+http://178.217.72.66:8080/225.201.2.126/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,ЛДПР ТВ
+http://178.217.72.66:8080/225.201.3.79/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Спас
+http://178.217.72.66:8080/225.201.7.1/video.m3u8
+#EXTINF:-1 group-title="ОСС" tvg-logo="http://epg.it999.ru/img/933.png" ,ТНВ-Планета
+http://178.217.72.66:8080/225.201.8.1/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Точка ТВ
+http://178.217.72.66:8080/225.201.3.11/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Ю
+http://178.217.72.66:8080/225.201.3.75/video.m3u8
+#EXTINF:-1 group-title="ОСС" ,Ювелирочка
+http://178.217.72.66:8080/225.201.2.116/video.m3u8
+
+
+
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
+http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png",Animal Planet
+http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/123.png",Da Vinci Learning
+http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg",DTX
+http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/105.png",Galaxy TV
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png",History
+http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/128.jpg",ID Xtra
+http://213.172.73.170:8081/nimble_live/1050__ID_Xtra/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://epg.it999.ru/img/2138.png" ,BOLT
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/345.jpg",Ocko Expres
+http://213.172.73.132:8081/nimble_live/4055_Ocko_Expres/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/346.jpg",Ocko Star
+http://213.172.73.132:8081/nimble_live/4056_Ocko_Star/playlist.m3u8
+
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Страна FM HD
+http://213.172.73.132:8081/nimble_live/StranaFM_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/63.png",TMB
+http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
+
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/99.jpg",CNN International
+http://213.172.73.170:8081/nimble_live/1044__CNN_International/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/134.png",Мир
+http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
+
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/357.jpg",ATR
+http://213.172.73.132:8081/nimble_live/4079_ATR/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/179.png",Fashion TV
+http://213.172.73.170:8081/nimble_live/1036__Fashion/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/212.png",Kronehit HD
+http://213.172.73.132:8081/nimble_live/4072_Kronehit_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg",TLC
+http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
+st.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://static.tildacdn.com/tild6238-6638-4934-b463-346639356330/1.png" group-title="детям" ,В гостях у сказки
 http://178.217.72.66:8080/225.201.2.83/video.m3u8
