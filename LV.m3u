@@ -411,7 +411,7 @@ http://178.217.72.66:8080/225.201.3.11/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2678s.png" group-title="другие" ,Ю
 http://178.217.72.66:8080/225.201.3.75/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2089s.png" group-title="другие" ,Ювелирочка
-http://178.217.72.66:8080/225.201.2.116/video.m3u8
+http://http-microimpuls.cdnvideo.ru/juvelirochka/ch.m3u8?st=tUbXaxzbiA3C9ofm5YNgvg&e=1655314957
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg" group-title="другие" ,365 Дней
 http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png" group-title="другие" ,Animal Planet
