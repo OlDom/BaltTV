@@ -269,8 +269,6 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2363.png" group-title="спорт" ,Setanta Sports 2 HD
 https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2782.png" group-title="спорт" ,Телеканал Футбол
-http://213.172.73.170:8081/nimble_live/1025__Futbol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f2d7c376c2f047995bf1a457b08845f4_high.png" group-title="спорт" ,FightBox HD
 https://cdnua03.hls.tv/178/hls/l1mn64hrdycqk7wsujo235tzbap8gief/230/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2189.png" group-title="спорт" ,Футбол 1
