@@ -394,67 +394,62 @@ http://84.17.61.200:8085/udp/238.2.16.110:1234
 
 
 
-#EXTINF:-1 group-title="другие" tvg-logo="http://epg.it999.ru/img/2432.png" ,Живая Планета
+
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2049s.png" group-title="другие" ,Живая Планета
 http://178.217.72.66:8080/225.201.3.12/video.m3u8
-#EXTINF:-1 group-title="другие" ,Время
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1174s.png" group-title="другие" ,Время
 http://178.217.72.66:8080/225.201.2.201/video.m3u8
-#EXTINF:-1 group-title="другие" ,Грозный
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1288s.png" group-title="другие" ,Грозный
 http://178.217.72.66:8080/225.201.2.218/video.m3u8
-#EXTINF:-1 group-title="другие" ,КВН ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2936s.png" group-title="другие" ,КВН ТВ
 http://178.217.72.66:8080/225.201.2.126/video.m3u8
-#EXTINF:-1 group-title="другие" ,ЛДПР ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1979s.png" group-title="другие" ,ЛДПР ТВ
 http://178.217.72.66:8080/225.201.3.79/video.m3u8
-#EXTINF:-1 group-title="другие" ,Спас
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://irecommend.ru/sites/default/files/product-images/8155/U7aQMKDqLYwhPbKSDWtsw.jpg" group-title="другие" ,Спас
 http://178.217.72.66:8080/225.201.7.1/video.m3u8
-#EXTINF:-1 group-title="другие" tvg-logo="http://epg.it999.ru/img/933.png" ,ТНВ-Планета
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://petrovich-sat.com/wp-content/uploads/2016/03/7df8790ef71add55b10022698f878578.jpg" group-title="другие" ,ТНВ-Планета
 http://178.217.72.66:8080/225.201.8.1/video.m3u8
-#EXTINF:-1 group-title="другие" ,Точка ТВ
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1928s.png" group-title="другие" ,Точка ТВ
 http://178.217.72.66:8080/225.201.3.11/video.m3u8
-#EXTINF:-1 group-title="другие" ,Ю
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2678s.png" group-title="другие" ,Ю
 http://178.217.72.66:8080/225.201.3.75/video.m3u8
-#EXTINF:-1 group-title="другие" ,Ювелирочка
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2089s.png" group-title="другие" ,Ювелирочка
 http://178.217.72.66:8080/225.201.2.116/video.m3u8
-
-
-
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg" group-title="другие" ,365 Дней
 http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png" group-title="другие" ,Animal Planet
 http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/123.png",Da Vinci Learning
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/123.png" group-title="другие" ,Da Vinci Learning
 http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg",DTX
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg" group-title="другие" ,DTX
 http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/105.png",Galaxy TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/105.png" group-title="другие" ,Galaxy TV
 http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png",History
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png" group-title="другие" ,History
 http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/128.jpg",ID Xtra
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/128.jpg" group-title="другие" ,ID Xtra
 http://213.172.73.170:8081/nimble_live/1050__ID_Xtra/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://epg.it999.ru/img/2138.png" ,BOLT
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2138.png" group-title="другие" ,BOLT
 http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/345.jpg",Ocko Expres
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/345.jpg" group-title="другие" ,Ocko Expres
 http://213.172.73.132:8081/nimble_live/4055_Ocko_Expres/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/346.jpg",Ocko Star
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/346.jpg" group-title="другие" ,Ocko Star
 http://213.172.73.132:8081/nimble_live/4056_Ocko_Star/playlist.m3u8
-
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Страна FM HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3133s.png" group-title="другие" ,Страна FM HD
 http://213.172.73.132:8081/nimble_live/StranaFM_HD/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/63.png",TMB
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/63.png" group-title="другие" ,TMB
 http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
-
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/99.jpg",CNN International
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/99.jpg" group-title="другие" ,CNN International
 http://213.172.73.170:8081/nimble_live/1044__CNN_International/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/134.png",Мир
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/134.png" group-title="другие" ,Мир
 http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
-
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/357.jpg",ATR
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/357.jpg" group-title="другие" ,ATR
 http://213.172.73.132:8081/nimble_live/4079_ATR/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/179.png",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/179.png" group-title="другие" ,Fashion TV
 http://213.172.73.170:8081/nimble_live/1036__Fashion/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/212.png",Kronehit HD
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/212.png" group-title="другие" ,Kronehit HD
 http://213.172.73.132:8081/nimble_live/4072_Kronehit_HD/playlist.m3u8
-#EXTINF:-1 group-title="другие"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg",TLC
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg" group-title="другие" ,TLC
 http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
 st.m3u8
 
