@@ -485,8 +485,6 @@ http://84.17.61.200:8085/udp/238.2.0.166:1234
 http://84.17.61.200:8085/udp/238.2.16.174:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1037s.png" group-title="детям" ,Детский мир
 http://84.17.61.200:8085/udp/238.2.0.20:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3587s.png" group-title="детям" ,Nickelodeon
-http://84.17.61.200:8085/udp/238.2.0.21:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/RAH0L7AXMmYtnT0.png" group-title="детям" ,LaLe
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/SXUcOr5kfmFx0eu.jpg" group-title="детям" ,NIKI Junior
