@@ -176,9 +176,9 @@ http://84.17.61.200:8085/udp/238.2.16.138:1234
 http://84.17.61.200:8085/udp/238.2.16.148:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3238s.png" group-title="кино" ,Шокирующее HD
 http://84.17.61.200:8085/udp/238.2.16.137:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/12409.png" group-title="кино" ,.black
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://img.s-tv.ru/logos/SonyTurbo.jpg" group-title="кино" ,.black
 http://84.17.61.200:8085/udp/238.2.0.235:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/12409.png" group-title="кино" ,.sci-fi
+#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.pngkey.com/png/full/117-1173630_sci-fi-universal-logo-scifi-universal.png" group-title="кино" ,.sci-fi
 http://84.17.61.200:8085/udp/238.2.0.102:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/170.png" group-title="кино" ,2х2
 http://84.17.61.200:8085/udp/238.2.0.100:1234
