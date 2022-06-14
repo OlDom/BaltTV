@@ -470,7 +470,7 @@ http://84.17.61.200:8085/udp/238.2.0.218:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3588s.png" group-title="детям" ,Nick Jr
 http://84.17.61.200:8085/udp/238.2.0.240:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1249s.png" group-title="детям" ,Gulli Girl
-http://84.17.61.200:8085/udp/238.2.0.217:1234
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/3/3d/JimJam_Logo.png" group-title="детям" ,Jim Jam
 http://84.17.61.200:8085/udp/238.2.0.166:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png" group-title="детям" ,Nickelodeon HD
