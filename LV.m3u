@@ -451,7 +451,7 @@ http://213.172.73.170:8081/nimble_live/1036__Fashion/playlist.m3u8
 http://213.172.73.132:8081/nimble_live/4072_Kronehit_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg" group-title="другие" ,TLC
 http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
-st.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://static.tildacdn.com/tild6238-6638-4934-b463-346639356330/1.png" group-title="детям" ,В гостях у сказки
