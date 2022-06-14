@@ -121,7 +121,7 @@ http://84.17.61.200:8085/udp/238.2.0.151:1234
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/1037.png" group-title="кино" ,КИНО ТВ HD
-http://live-1.otcnet.ru/kinotvsd/mono.m3u8
+http://91.219.23.234:8000/play/561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/iFax60JOXiKiASp.jpg" group-title="кино" ,Bollywood
 http://iptv.prosto.tv:7000/ch61/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Kh0UUjpbJ9jyyTf.png" group-title="кино" ,Star Cinema
@@ -308,9 +308,9 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3410s.png" group-title="познание" ,Наука
-http://178.217.72.66:8080/225.201.3.20/video.m3u8
+http://84.17.61.200:8085/udp/238.2.0.155:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1143s.png" group-title="познание" ,Моя планета
-http://178.217.72.66:8080/225.201.3.19/video.m3u8
+http://91.219.23.234:8000/play/393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1069s.png" group-title="познание" ,Охота и рыбалка
 http://178.217.72.66:8080/225.201.3.1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/t/techno.gif" group-title="познание" ,24 Техно
