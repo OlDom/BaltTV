@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый канал									
 http://85.112.114.11:8088/udp/238.2.47.89:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
-http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8		
+http://84.17.61.200:8085/udp/238.2.16.173:1234		
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
@@ -35,10 +35,7 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/113.png" group-title="общие" ,РТР Планета
 http://188.93.94.140/rtr/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/K4t7E4nEw5Kwmgn.jpg" group-title="общие" ,Россия-Культура											
-http://178.217.72.66:8080/225.201.2.23/video.m3u8
-
-
-
+http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,НТВ Мир
 http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/4BxFfQM67iNfmE8.png" group-title="общие" ,Победа
@@ -312,11 +309,11 @@ http://84.17.61.200:8085/udp/238.2.0.155:1234
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1143s.png" group-title="познание" ,Моя планета
 http://91.219.23.234:8000/play/393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1069s.png" group-title="познание" ,Охота и рыбалка
-http://178.217.72.66:8080/225.201.3.1/video.m3u8
+http://iptv.rpk-rost.ru:8080/hls/058/058.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/t/techno.gif" group-title="познание" ,24 Техно
 http://178.217.72.66:8080/225.201.3.16/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/r/rtg_tv_.gif" group-title="познание" ,RTG TV
-http://178.217.72.66:8080/225.201.2.120/video.m3u8
+http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1369s.png" group-title="познание" ,Travel Channel
 http://178.217.72.66:8080/225.201.2.3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3482s.png" group-title="познание" ,Investigation Discovery
