@@ -500,16 +500,3 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/15400.png" group-title="релакс" ,FTV UHD
-#EXTGRP:релакс
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Dng9WhO2yOMS22r.jpg" group-title="релакс" ,hdfashion
-#EXTGRP:релакс
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/hSKIAB26L1G8AzC.png" group-title="релакс" ,Luxury
-#EXTGRP:релакс
-http://212.29.231.242:8080/btv_226/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/upictures/73f3ae60-9bcb-4da4-9c8b-c58c2108c661.png" group-title="релакс" ,RELAXON
-#EXTGRP:релакс
-http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF
