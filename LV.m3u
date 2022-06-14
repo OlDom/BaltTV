@@ -25,7 +25,8 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/j5iT38lIRqCAkG1.png" group-title="общие" ,Звезда +2									
 http://dmitry-tv.ml/hls/T2/CH_ZVEZDAHD.m3u8
 
-
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://1net.by/data/media/images/5fad82f3957cc.jpg" group-title="общие" ,Совершенно секретно
+http://84.17.61.200:8085/udp/238.2.0.224:1234
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/576.png" group-title="общие" ,РТР Беларусь
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
