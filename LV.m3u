@@ -4,8 +4,7 @@
 http://85.112.114.11:8088/udp/238.2.47.89:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1										
 http://84.17.61.200:8085/udp/238.2.16.173:1234	
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия 1
-http://cz1.iptv.monster/173/video.m3u8?token=BF963183F1725E8	
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
@@ -56,8 +55,7 @@ http://91.234.255.242:8000/play/a032/index.m3u8
 http://84.17.61.200:8085/udp/238.2.16.111:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/39.png" group-title="общие" ,РЕН ТВ
 http://188.227.44.167:8080/ren-tv/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/718.png" group-title="общие" ,РЕН ТВ +2
-http://46.47.0.231:10001/play/352/index.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/6eSlZdPl2fVi5Hg.png" group-title="общие" ,Пятница
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/cmwxM19OOrdEZZY.png" group-title="общие" ,ОТР										
