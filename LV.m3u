@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 				
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://avk-wellcom.ru/assets/24h-img/4f01cf9e69600ef5fa1bd69f793998be.png" group-title="общие" ,Россия1 HD										
+http://185.37.150.46/Rossiya_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый HD										
 http://84.17.61.200:8085/udp/238.2.16.73:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия1 HD										
-http://185.37.150.46/Rossiya_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/Omc0DQ2JdLDnptK.png" group-title="общие" ,Россия1
+https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/rDKu04MiffBoTjp.png" group-title="общие" ,Первый канал									
 http://85.112.114.11:8088/udp/238.2.47.89:1234
 
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1475s.png" group-title="общие" ,Россия1
-https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://widget.ottplayer.tv/pictures/24.png" style="height: 8.38125em; width: 8.38125em; top: 0.2em; left: 3.35938em;">" group-title="общие" ,НТВ HD										
 http://84.17.61.200:8085/udp/238.2.16.220:1234
