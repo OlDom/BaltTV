@@ -83,7 +83,7 @@ http://178.217.72.66:8080/225.201.2.115/video.m3u8
 http://84.17.61.200:8085/udp/238.2.16.141:1234
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/2041.png" group-title="общие" ,        НТВ Хит
 http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3161s.png" group-title="общие" ,        НТВ ПРАВО
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/1753.png" group-title="общие" ,        НТВ ПРАВО
 http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/1754.png" group-title="общие" ,        НТВ СЕРИАЛ
 http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/playlist.m3u8
