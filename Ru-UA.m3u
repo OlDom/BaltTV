@@ -85,8 +85,7 @@ http://85.206.57.253:8981/l154/mono.m3u8
 http://85.206.57.253:8981/l153/mono.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="другие" ,Nicktoons
 http://85.206.57.253:8981/l155/mono.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="другие" ,RTVI
-http://85.206.57.253:8981/l52/mono.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="другие" ,Smart Zone HD
 http://85.206.57.253:8981/a179/mono.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="http://epg.it999.ru/img/4042.png" group-title="другие" ,iConcerts
