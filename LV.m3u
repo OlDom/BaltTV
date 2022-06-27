@@ -307,50 +307,69 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3410s.png" group-title="познание" ,        Наука
-http://84.17.61.200:8085/udp/238.2.0.155:1234
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1143s.png" group-title="познание" ,        Моя планета
-http://91.219.23.234:8000/play/393/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1069s.png" group-title="познание" ,        Охота и рыбалка
-http://iptv.rpk-rost.ru:8080/hls/058/058.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/t/techno.gif" group-title="познание" ,        24 Техно
-http://178.217.72.66:8080/225.201.3.16/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/r/rtg_tv_.gif" group-title="познание" ,        RTG TV
-http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1369s.png" group-title="познание" ,        Travel Channel
-http://178.217.72.66:8080/225.201.2.3/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3482s.png" group-title="познание" ,        Investigation Discovery
-http://178.217.72.66:8080/225.201.2.70/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/3060s.png" group-title="познание" ,        National Geographic
-http://178.217.72.66:8080/225.201.3.67/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/o/ocean.gif" group-title="познание" ,        Ocean TV
-http://178.217.72.66:8080/225.201.7.24/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/s/stream_pets_tv.gif" group-title="познание" ,        Домашние животные
-http://178.217.72.66:8080/225.201.3.7/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_explorer.gif" group-title="познание" ,        Viasat Explore
-http://178.217.72.66:8080/225.201.7.16/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_history.gif" group-title="познание" ,        Viasat History
-http://178.217.72.66:8080/225.201.7.17/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/v/viasat_nature.gif" group-title="познание" ,        Viasat Nature
-http://178.217.72.66:8080/225.201.7.18/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://www.ph4.ru/DL/LOGO/d/doc-tv_.gif" group-title="познание" ,        Доктор
-http://178.217.72.66:8080/225.201.3.18/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1109s.png" group-title="познание" ,        Усадьба
-http://178.217.72.66:8080/225.201.3.4/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1175s.png" group-title="познание" ,        Телекафе
-http://178.217.72.66:8080/225.201.2.104/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2858s.png" group-title="познание" ,        Продвижение
-http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1130s.png" group-title="познание" ,        Психология 21
-http://178.217.72.66:8080/225.201.3.8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/2112s.png" group-title="познание" ,        Красная линия
-http://178.217.72.66:8080/225.201.3.17/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1271s.png" group-title="познание" ,        Кто есть кто
-http://178.217.72.66:8080/225.201.2.59/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1115s.png" group-title="познание" ,        Кухня ТВ
-http://178.217.72.66:8080/225.201.2.183/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://dvb.by/sources/logos/1044s.png" group-title="познание" ,        Здоровое ТВ
-http://178.217.72.66:8080/225.201.3.5/video.m3u8
+
+
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Animal Planet HD
+http://193.111.244.35:8001/animalplanet/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Investigation Discovery
+http://193.111.244.35:8001/idxtra/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Nat Geo Wild
+http://193.111.244.35:8001/natgeowild/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,National Geographic
+http://193.111.244.35:8001/natgeo/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Ocean TV
+http://193.111.244.35:8001/ocean/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Discovery Science HD
+http://193.111.244.35:8001/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,DTX HD
+http://193.111.244.35:8001/dtxhd/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Глазами туриста HD
+http://193.111.244.35:8001/outdoor/index.m3u8
+
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Перпетум мобиле HD
+http://193.111.244.35:8001/perpetuum/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Победа
+http://193.111.244.35:8001/pobeda/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Русский иллюзион
+http://193.111.244.35:8001/rusilluzion/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,СТС Kids HD
+http://193.111.244.35:8001/stskids/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,СТС Love
+http://193.111.244.35:8001/stslove/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,ТВЦ
+http://193.111.244.35:8001/tvc/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Театр
+http://193.111.244.35:8001/teatr/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Усадьба
+http://193.111.244.35:8001/usadba/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Animal Planet HD
+http://85.206.57.253:8981/a18/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Discovery Channel
+http://85.206.57.253:8981/l17/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Discovery Channel HD
+http://85.206.57.253:8981/a17/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Discovery Science HD
+http://85.206.57.253:8981/l76/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,DTX HD
+http://85.206.57.253:8981/a78/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Investigation Discovery HD
+http://85.206.57.253:8981/a46/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Viasat Explore HD
+http://85.206.57.253:8981/a19/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Viasat History HD
+http://85.206.57.253:8981/a20/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Viasat Nature HD
+http://85.206.57.253:8981/a59/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Охота и рыбалка
+http://85.206.57.253:8981/l70/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Travel Channel HD
+http://85.206.57.253:8981/a44/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,RTG International
+http://85.206.57.253:8981/l94/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,TravelXP HD
+http://85.206.57.253:8981/a158/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,B Platinum HD
+http://85.206.57.253:8981/a139/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-country="RU" tvg-language="ru" tvg-logo="https://toplogos.ru/images/logo-musicbox-russia.png" group-title="музыка" ,        Russian Music Box
