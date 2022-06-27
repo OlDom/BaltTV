@@ -336,8 +336,7 @@ http://193.111.244.35:8001/rusilluzion/index.m3u8
 http://193.111.244.35:8001/stskids/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,СТС Love
 http://193.111.244.35:8001/stslove/index.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,ТВЦ
-http://193.111.244.35:8001/tvc/index.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Театр
 http://193.111.244.35:8001/teatr/index.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="" group-title="познание" ,Усадьба
