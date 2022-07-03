@@ -1,0 +1,38 @@
+#EXTM3U url-tvg="http://myott.tv/api/epg.xml.gz"
+
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/135.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/138.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/183.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/121.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 Россия
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/136.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/181.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",RTVi
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/91.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Суббота
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/269.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/227.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/229.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",8 канал
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/299.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
+#EXTGRP:Общие
+http://myott.top/stream/EHTC5R2IVC/237.m3u8
