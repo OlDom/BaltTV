@@ -25,7 +25,10 @@ http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/69.png" group-title="общие" ,        НТВ Мир
 http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/okFP98GJjWU8dH8.png" group-title="общие" ,        ТВЦ										
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://core.uniplayer.net/icons/thumbnails/okFP98GJjWU8dH8.png" group-title="общие" ,        ТВЦ
+http://46.174.83.66/TVCentr/index.m3u8
+
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/25.png" group-title="общие",ТНТ					
 http://91.219.23.234:8000/play/19/index.m3u8					
 #EXTINF:-1 tvg-country="RU" tvg-language="ru" tvg-logo="https://ottplayer.tv/public/images/lib_channels/15554.png" group-title="общие",РЕН ТВ					
