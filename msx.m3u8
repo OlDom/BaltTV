@@ -1,0 +1,904 @@
+#EXTM3U catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}"
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1629272336862.png",2х2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1599805389053.png",Кто куда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1624452237573.png",.black
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1624451536880.png",.red
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SET/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1624451786310.png",.red
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1624451950181.png",.sci-fi
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1560425542498.png",1HD Music Television
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1622809863304.png",360°
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1622809908409.png",360° Новости
+https://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1648643398966.png",A1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1648643465358.png",A2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1558506763526.png",AIVA
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1648642230785.png",AMEDIA Hit
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1503641191846.png",Amedia Premium
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1605274448600.png",Ani
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1533125795461.png",Bolt Россия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638793261445.png",BRIDGE
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638793821379.png",BRIDGE CLASSIC
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638794078181.png",BRIDGE DELUXE
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638794131568.png",BRIDGE HITS
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638793720856.png",BRIDGE РУССКИЙ ХИТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1650450022829.png",BRIDGE ФРЭШ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEFRESH/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638793911014.png",BRIDGE ШЛЯГЕР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1516103952307.png",Babes TV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425382671371.png",Baby TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1616055882282.png",Blue Hustler
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BLUEHUSTLER/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1454049131902.png",Bollywood HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1433138354674.png",Brazzers TV Europe
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRAZZERSTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574062742905.png",CCTV4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CCTV4/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574062928132.png",CGTN
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNENG/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574063048454.png",CGTN Russian
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNRUS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1485928479301.png",Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1501139776643.png",Clubbing TV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601473640374.png",Comedy Radio
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1594733436394.png",Da Vinci
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1655201332858.png",English Class
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLASSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="4К (UltraHD)" drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1651222108523.png", Eromania 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EROMANIA4K/bw20000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"" drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1651222108523.png",Eromania 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EROMANIA4K/bw6000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425387074801.png",Extreme Sports
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1565695833587.png",Exxxotica
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1551766925118.png",FAN HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471351323780.png",FOX HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1507614176074.png",Fox Life HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1603395264714.png",Gagsnetwork
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1472706412081.png",Gulli Girl
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1588058876718.png",HISTORY2 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1458225093542.png",History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1614668619243.png",Hollywood HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HOLLYWOODHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1631084096091.png",KHL
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KHLHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646985907253.png",KHL Prime
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KHLPRIMEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1653397821864.png",KINOLIVING
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOLIVINGHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1566892072470.png",Kazakh TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Телемагазины"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601974824144.png",Leomax
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425385043529.png",MCM TOP
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638518691127.png",MMA-TV.com
+https://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425385572274.png",Mezzo
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425390210914.png",Mezzo Live HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1596200017387.png",Music Box Gold
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1596199980184.png",Music Box Russia
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1489729455941.png",Nat Geo Wild
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646985366517.png",Nat Geo Wild HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1489729143719.png",National Geographic
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1489729241673.png",National Geographic HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1584427189068.png",Ocean-TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1653917857869.png",Plan B
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PLANBHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="4К (UltraHD)" drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1652704521787.png", QUADRO 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_QUADRO4K/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"" drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1652704521787.png",QUADRO 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_QUADRO4K/bw6000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1639658453494.png",RT DE
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1454049016265.png",RTG HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1441625067620.png",Russia Today HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1454049756571.png",RTД
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1516358516969.png",RU.TV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1650545364387.png",Red Lips
+https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLIPSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601473760602.png",Relax FM
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1622793141379.png",Russian Extreme
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="4К (UltraHD)"  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1573453562354.png", Russian Extreme Ultra
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw20000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные""  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1573453562354.png",Russian Extreme Ultra
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw6000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1572345539127.png",SHOT TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1597833168509.png",Song TV Armenia
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVARMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1597832924537.png",Song TV Russia
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVRUSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1640671233097.png",START Air
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTAIRHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1642142130270.png",START World
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTWORLDHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Телемагазины"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1524205516864.png",Shop&Show
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Телемагазины"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425299198017.png",Shopping live
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1533125192463.png",Star Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1533125520949.png",Star Family
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425302188626.png",TV XXI
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638187911113.png",TV1000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1639988024838.png",TV1000 Action
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1636353667047.png",TV1000 Русское Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1482156093895.png",Tiji
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1612855674297.png",Travel+Adventure
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELANDADVENTUREHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="4К (UltraHD)"  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1615788352599.png", Ultra HD Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw20000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы""  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1615788352599.png",Ultra HD Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1545976065304.png",VIP Serial
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1506319245567.png",ViP Comedy
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1506319193155.png",ViP Megahit
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1506319116145.png",ViP Premiere
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1464616687348.png",Viasat Explore HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1464616540053.png",Viasat History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1516091702351.png",Viasat Nature HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425391559683.png",Viasat Nature/History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425386535558.png",Viasat Sport
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1448867073944.png",Viasat Sport HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1541759557549.png",WORLD FASHION CHANNEL HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1606731944344.png",Zee TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580455246868.png",ZooПарк
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1650464732680.png",ducktv
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DUCKTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425387797906.png",Авто Плюс
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601474649923.png",Авторадио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1488176388016.png",Анекдот ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1537439623518.png",БелРос
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1442902900665.png",Беларусь 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1591092344897.png",Бобёр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1507795960654.png",Большая Азия HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646912682453.png",В гостях у сказки
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1614929348817.png",ВМЕСТЕ-РФ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1524650896892.png",Восток ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VOSTOKTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1599748017408.png",Время
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1549268097970.png",Всё ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1549268135218.png",Всё ТВ
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574345052271.png",Глазами туриста
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1336378583382.png",Детский Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601473726596.png",Детское радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1499341750184.png",Диалоги о рыбалке
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1538028371524.png",Дикая охота HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1538028757124.png",Дикая рыбалка HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1524478279631.png",Дикий
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1605274251341.png",Доктор
+https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1604299896036.png",Дом Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1604299864506.png",Дом Кино ПРЕМИУМ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575874041798.png",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIYHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1541768840943.png",Дорама
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580454773812.png",Драйв
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575981507484.png",Дума ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425385199388.png",Европа Плюс ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1502880172475.png",Еда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1502952633753.png",Еда Премиум
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1539096225193.png",ЖАРА HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1606732252040.png",ЖИВИ!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534242056952.png",Жар Птица
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1472129847458.png",Живая Планета
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574344983191.png",Живая природа
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1626851022637.png",Живи активно HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIAKTIVNOHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1628772473232.png",ЗВЕЗДА Плюс
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDAPLUSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1578657067959.png",Загородная жизнь HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1603394901780.png",Зал суда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1579164288768.png",Звезда
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580454852027.png",Иллюзион +
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1459259917182.png",История
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1469512076322.png",КВН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471243401319.png",КИНОКОМЕДИЯ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471243458620.png",КИНОМИКС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534311301921.png",КИНОПРЕМЬЕРА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534311339995.png",КИНОСВИДАНИЕ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534311403248.png",КИНОСЕМЬЯ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1616571602984.png",КИНОСЕРИЯ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOSERIAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1574062649448.png",КИНОУЖАС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534311437993.png",КИНОХИТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1533043711630.png",Калейдоскоп ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1597927803753.png",Канал Disney
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_OTT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1602679153198.png",Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1652686298214.png",Карусель HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSELHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1495000032337.png",Кино ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1650276698306.png",Ключ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KEY/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1472129494171.png",Комедия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1510821584344.png",Красная Линия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1550218029719.png",Кухня ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1488193389187.png",ЛДПР ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Региональные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1591339854357.png",Лен ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1519648374682.png",Любимое Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1586541167625.png",Ля-минор
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1652357074760.png",Лёва
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LEVAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1532675563555.png",МАТЧ ПРЕМЬЕР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1453700696979.png",МАТЧ! АРЕНА HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1453700114633.png",МАТЧ! БОЕЦ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOETZ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1454071396911.png",МАТЧ! ИГРА HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1453700220434.png",МАТЧ! ФУТБОЛ 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1453700336425.png",МАТЧ! ФУТБОЛ 2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1454070321799.png",МАТЧ! ФУТБОЛ 3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1631702541617.png",МИР HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471243537308.png",МУЖСКОЕ КИНО
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425381834093.png",Мама
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1579164168085.png",Матч ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1579164168085.png",Матч ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1572951170107.png",Матч ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1551445284149.png",Матч! Страна
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575874162948.png",Мир
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425300539337.png",Мир 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575016456253.png",Мир Баскетбола
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRBASKETBOLA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1557907177169.png",Мир сериала
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1613631439102.png",Мосфильм. Золотая коллекция
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575380909228.png",Моторспорт ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1459172528404.png",Моя Планета
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575025581701.png",Моя Планета HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1625474364531.png",Мужской
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1635747743906.png",Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1635747780322.png",Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_OTT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1572345351476.png",Музыка Первого
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZYKAPERVOGO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1605274359062.png",Мульт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575025976244.png",Мульт HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1581315708004.png",Мультиландия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1512107745542.png",Мультимузыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471243715117.png",НАШЕ НОВОЕ КИНО
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425304655871.png",НСТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873685565.png",НТВ
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646985442779.png",Наука
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/bw2000000/variant.m3u8
+#EXTINF:0 group-title="4К (UltraHD)"  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601895116347.png", Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные""  tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601895116347.png",Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425380161054.png",Ностальгия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1591092466667.png",О!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_O/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1645433513175.png",О-ля-ля
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OLALAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1531836443063.png",О2ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873856670.png",ОТР
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425380443458.png",Оружие
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580454911204.png",Охота и рыбалка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1502350815578.png",Охотник и рыболов HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1555332117621.png",ПОБЕДА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646986191504.png",ПОЕХАЛИ!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1633697812278.png",ПРНК
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1RNKHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1654689245966.png",Первый Российский Национальный Канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJNATSIONALNIYHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873564768.png",Первый канал
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425389137239.png",Первый канал HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425379886789.png",Просвещение
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575874100493.png",Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZAHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1652429200482.png",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_OTT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1638867210976.png",РБК
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RBKTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873928536.png",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1471243626728.png",РОДНОЕ КИНО
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/Array",РТ ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1605609548074.png",Радио Disney
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODISNEY/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601475505658.png",Радио ENERGY
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601473905553.png",Радио Romantika
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1609161396258.png",Радость Моя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1603952317602.png",Ратник
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580454963130.png",Ретро
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873610904.png",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1HD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873610904.png",Россия 1
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873799281.png",Россия 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873764176.png",Россия К
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1468215415614.png",Россия 1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1543580133210.png",Русская ночь
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580455016825.png",Русский Иллюзион
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1459260013488.png",Русский бестселлер
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1459259969412.png",Русский детектив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1472125084411.png",Русский роман HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1649301690884.png",СОЛОВЬЁВLIVE
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873984733.png",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1530868013888.png",СТС Kids HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1560928574633.png",СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Региональные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1651672551378.png",Санкт-Петербург
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425383315146.png",Сарафан
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1616571725274.png",Совершенно секретно
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVSEKRETNO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425387943235.png",Союз
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOYUZ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1579164247800.png",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425392003046.png",Страшное HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1612161106337.png",Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPERHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1648791164422.png",СуперГерои
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1605274021678.png",Т24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1650449854914.png",ТАЙНА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAJNA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575874070911.png",ТВ 3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3HD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1575873897166.png",ТВ Центр
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1646986098547.png",ТЕЛЕКАФЕ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1632992027738.png",ТНОМЕР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1579164397195.png",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1498803740069.png",ТНТ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1484284357481.png",ТНТ MUSIC
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1526042125571.png",ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4HD_OTT/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1555331510344.png",Тайны Галактики
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1550659721473.png",Театр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1651127358898.png",Известия HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580454677825.png",АВТО24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1633595703945.png",СТАРТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580455060550.png",Точка отрыва
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1640860763365.png",УДАР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580455116144.png",Уникум
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1580455162508.png",Усадьба
+https://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1632208766108.png",Феникс+Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FENIKSPLUSKINOHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Спортивные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1581942064866.png",Футбол HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1566891613687.png",Хабар 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HABARHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1553581986932.png",Центральное телевидение
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1534505920906.png",Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Взрослые"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1491405431461.png",Шалун HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1425384415404.png",Шансон ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Детские"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1606733555131.png",Шант Kids HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTKIDSHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Музыкальные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1557992016711.png",Шант Music HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Развлекательные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1497505537106.png",Шант Premium HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Кино и сериалы"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1557992050500.png",Шант Serial HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/bw5000000/variant.m3u8
+#EXTINF:0 group-title="Информационные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1485845313385.png",Эхо-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1536235703311.png",Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Эфирные"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1622180633808.png",Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_OTT/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Телемагазины"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1644582158816.png",Ювелирочка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Радио"drm="1" tvg-logo="http://fe-nw.svc.iptv.rt.ru/mrf-nw-200001-200001/images//c365x205/broadcastChannel1601473839614.png",Юмор FM
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",2x2 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",2x2 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Домашний (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Канал Disney (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Disney Channel (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Disney Channel (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Мир (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал (+5)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Первый канал (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",РЕН ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Россия 1 (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 (+5)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные",Россия К (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Суббота (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Суббота (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",Суббота (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8
+#EXTINF:-1   group-title="Федеральные",ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,Че (+2)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,Че (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8
+#EXTINF:-1  group-title="Федеральные" ,Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Спас (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/bw2000000/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные",Москва 24
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Доверие
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Истоки (Орёл)
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_ISTOKI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,Первый областной (Орел)
+https://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1455156605611.png" group-title="Региональные",СЭТ ТВ
+https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTS3TTV/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1487582881774.png" group-title="Региональные" tvg-id="selenga-tv",Селенга-ТВ
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" group-title="Региональные" tvg-id="rifey-tv",Рифей-ТВ
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1369641077824.png" group-title="Региональные" tvg-id="s1-surgut",С1 Сургут
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/nclogo1591706246568.png" group-title="Региональные",ТНР24
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="tmtv",TMTV
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="dzenzhinsk-tv",Дзержинск ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="nash-dom",Наш дом
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png" group-title="Региональные",#ё
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="bashkortostan24",Башкортостан 24
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1  tvg-id="49kanal" group-title="Региональные",НСК 49
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946418821.png" group-title="Региональные" tvg-id="arig-us-24",Ариг Ус 24
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1542282104030.jpg" group-title="Региональные",Арктика 24
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1466425125928.png" group-title="Региональные" tvg-id="ugra-travel",UGRA TRAVEL
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png" group-title="Региональные",Информационная служба Югры
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png" group-title="Региональные",Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="nntv",ННТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1528520081978.jpg" group-title="Региональные" tvg-id="vostok-24",Восток 24
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Региональные",КРАСНОДАР он-лайн
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1539083218216.png" group-title="Региональные" tvg-id="tv-in",ТВ-ИН-Магнитогорск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png" group-title="Региональные",Импульс
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1482124037811.jpg" group-title="Региональные" tvg-id="surgut-24",Сургут 24
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="maydan",Майдан
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555680096248.png" group-title="Региональные" tvg-id="vremia-n",Время Н
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555679320129.png" tvg-id="tolyatti24",Тольятти-24
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="8kanal-novosibirsk",8 канал Новосибирск
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="nts-irkutsk",НТС Иркутск
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1  group-title="Региональные",НТС-Ирбит (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png" group-title="Региональные",ТВ-7
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1567744193036.png" group-title="Региональные",Толк
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" group-title="Региональные",Область 45
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="8kanal-krasnoyarsk",8 канал Красноярский край
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="8vladik",8 канал Владивосток
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="samara24",Самара-24
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="tolpartv",Толпар ТВ
+https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1457667979653.png" tvg-id="prima" group-title="Региональные",Прима-ТВ
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1  tvg-id="afontovo-kr" group-title="Региональные",Афонтово
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:-1  tvg-id="prodvizhenie-pl3" group-title="Региональные",Продвижение
+https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
+#EXTINF:-1  tvg-id="rybinsk40" group-title="Региональные",Рыбинск-40
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1  tvg-id="tverskoy-prospekt" group-title="Региональные",Тверской Проспект
+https://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:-1  group-title="Региональные",Югорск ТВ
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные",41 Регион
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="arktik-tv",Арктик-ТВ
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="my-i-gorod",Мы и город
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:-1  group-title="Региональные",Новое время (Радужный)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rimtv",РИМ (Каменск-Уральский)
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="tagil-tv-24",Тагил ТВ
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:-1  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569900834559.jpg" group-title="Региональные",Муравленко 24
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="shayantv",Шаян ТВ
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="7kanal-krasnoyarsk",7 канал Красноярск
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="kuban-24",Кубань 24
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
+#EXTINF:-1  group-title="Региональные",ТНТ Саратов
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_TNT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="tnv-planeta",ТНВ Планета Урал
+https://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="svoyo-tv-stavropol" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1480323433988.png",Своё ТВ (Ставрополь)
+https://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:-1  group-title="Региональные",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Региональные",НТВ (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="mig-tv-noyabrsk" tvg-logo="https://i.imgur.com/L4Cy4jw.png",Миг ТВ
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:-1  group-title="Информационные" tvg-id="rossia-24",Россия 24 (Омск)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
+#EXTINF:-1  group-title="Региональные",Че! (Омск)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_OMSK_PERETZ/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="otr-pl2",ОТР (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rentv-pl2",РЕН ТВ (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rossia-24",Россия 24 (Екатеринбург)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="5kanal-ru",Пятый канал (Санкт-Петербург)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="otr-pl2",ОТР (Оренбург)
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Оренбург)
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="otr",ОТР (Сыктывкар)
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_OTR_SKTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rossia1",Россия 1 (Сыктывкар)
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SKTV/variant.m3u8
+#EXTINF:-1  group-title="Региональные",СТС-Прима (Красноярск)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="rossia1",Россия 1 (Краснодар)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_ROSSIA1_KKR/variant.m3u8
+#EXTINF:-1  group-title="Региональные" tvg-id="otr",ОТР (Астрахань)
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_OTR/variant.m3u8
