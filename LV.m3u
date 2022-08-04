@@ -8,6 +8,8 @@ http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/54.png",Россия 1
 http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/139.jpg",ТВЦ
+http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/152.jpg",Россия 24
 http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/165.png",Россия Культура
@@ -18,6 +20,20 @@ http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1069__TNT/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/163.jpg",ТНТ4
 http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/82.png",Пятница
+http://213.172.73.170:8081/nimble_live/1070__Pyatnica/playlist.m3u8
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/157.png",СТС
+http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/42.png",ТВ3
+http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
+
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/16.jpg",Че
+http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
+#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/74.png",Ю
+http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/21.jpg",Охота и Рыбалка
 http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
@@ -170,15 +186,4 @@ http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1015__Avto_Plyus/playlist.m3u8
 #EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/23.png",Кухня ТВ
 http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/82.png",Пятница
-http://213.172.73.170:8081/nimble_live/1070__Pyatnica/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/157.png",СТС
-http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/42.png",ТВ3
-http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/139.jpg",ТВЦ
-http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/16.jpg",Че
-http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
-#EXTINF:-1 group-title="Anatoly"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/74.png",Ю
-http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
+
