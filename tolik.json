@@ -1,0 +1,55 @@
+[
+{"group":"толиик","id":"","name":"Первый канал","time":"","picture":"http://ott.aet.az/stalker_portal/misc/logos/320/36.jpg","video":"http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8"},
+{"group":"толиик","id":"1598","name":"НТВ","time":"","picture":"http://ott.aet.az/stalker_portal/misc/logos/320/78.png","video":"http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8"},
+{"group":"толиик","id":"6645","name":"Россия 1","time":"","picture":"http://ott.aet.az/stalker_portal/misc/logos/320/54.png","video":"http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8"},
+{"group":"толиик","id":"2268","name":"CGTN Русский","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-6.png","video":"http://liveru.cgtn.com/1000r/prog_index.m3u8"},
+{"group":"толиик","id":"2485","name":"DTX HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-18.png","video":"http://decdn.kulik.uz:99/channel/7c466c95/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"325","name":"Discovery","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-16.png","video":"http://decdn.kulik.uz:99/channel/63c9fa9d/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"409","name":"Discovery Science","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-17.png","video":"http://decdn.kulik.uz:99/channel/1ed9dbc1/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"2627","name":"Диалоги о рыбалке","time":"","picture":"http://cdn.kulik.uz/tv/ico/wrfish.png","video":"http://ru1cdn.kulik.uz:99/channel/n5f0ecee1/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+{"group":"толиик","id":"2419","name":"Рыбалка и охота","time":"","picture":"http://cdn.kulik.uz/tv/ico/fishfire.png","video":"http://decdn.kulik.uz:99/channel/n1f1191d8/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"425","name":"TLC HD","time":"","picture":"https://iptv.online/epg/icon/tlc.png","video":"http://50.7.92.90/TLC_HD/tracks-v1a1/mono.m3u8"},
+{"group":"толиик","id":"912","name":"CBS Reality","time":"","picture":"http://cdn.kulik.uz/tv/ico/cbs-rel.png","video":"http://50.7.92.90/CBS_Reality/tracks-v1a1/mono.m3u8"},
+{"group":"толиик","id":"365","name":"Animal Planet HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/animalp.png","video":"https://msk.rtsp.me/-bLMsFd04SnWJgeYbBVHNA/1660218698/hls/RsdsNbSB.m3u8"},
+{"group":"толиик","id":"2498","name":"В мире животных","time":"","picture":"http://ltvpic.kulik.uz/int/world-jivot.png","video":"http://msk.rtsp.me/hMthd28BdHyMgFMhE3FQ-Q/1660299232/hls/BYQYnKda.m3u8"},
+{"group":"толиик","id":"2432","name":"Живая планета","time":"","picture":"http://ltvpic.kulik.uz/int/life-planet.png","video":"http://msk.rtsp.me/Dt3ShE1cC9kvMKueD1lx2w/1660299675/hls/SzfQa2zD.m3u8"},
+
+{"group":"толиик","id":"1394","name":"History","time":"","picture":"http://cdn.kulik.uz/tv/ico/h1.png","video":"http://msk.rtsp.me/B7oR2FR5VWfjVoOVKRKl1w/1660220959/hls/RDzZkezB.m3u8"},
+{"group":"толиик","id":"2356","name":"History 2","time":"","picture":"http://cdn.kulik.uz/tv/ico/h2.png","video":"http://decdn.kulik.uz:99/channel/46b987d2/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"","name":"История","time":"","picture":"http://cdn.kulik.uz/tv/ico/histor.png","video":"http://decdn.kulik.uz:99/channel/n338cd204/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"277","name":"Viasat History HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-8.png","video":"http://decdn.kulik.uz:99/channel/7ada4822/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"521","name":"Viasat Explore HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-7.png","video":"http://decdn.kulik.uz:99/channel/n337b382b/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"765","name":"Viasat Nature HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-9.png","video":"http://decdn.kulik.uz:99/channel/69e9c094/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"223","name":"Nat Geo Wild","time":"","picture":"http://cdn.kulik.uz/tv/ico/natgeow.png","video":"http://ru1cdn.kulik.uz:99/channel/n4cb20921/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+{"group":"толиик","id":"102","name":"National Geographic","time":"","picture":"http://cdn.kulik.uz/tv/ico/natgeog.png","video":"http://ru1cdn.kulik.uz:99/channel/3bf797be/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+
+{"group":"толиик","id":"","name":"Еда","time":"","picture":"http://ltvpic.kulik.uz/int/eda.png","video":"http://ru1cdn.kulik.uz:99/channel/n26d9ff0a/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+{"group":"толиик","id":"2265","name":"360° HD","time":"","picture":"http://ltvpic.kulik.uz/int/360.png","video":"https://msk.rtsp.me/m89Epu43QlmtRLg0VIAFjg/1660291670/hls/ST5677nz.m3u8"},
+
+{"group":"толиик","id":"2008","name":"Авто 24","time":"","picture":"http://cdn.kulik.uz/tv/ico/avto24.png","video":"http://decdn.kulik.uz:99/channel/n54c71264/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"2443","name":"Драйв","time":"","picture":"http://cdn.kulik.uz/tv/ico/drive.png","video":"http://decdn.kulik.uz:99/channel/n7975afeb/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"","name":"Бобер","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-14.png","video":"http://195.161.68.177:8000/play/a005/index.m3u8"},
+{"group":"толиик","id":"1035","name":"Travel + Adventure HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-13.png","video":"http://decdn.kulik.uz:99/channel/n7eb3c965/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"5651","name":"Перец International","time":"","picture":"http://cdn.kulik.uz/tv/ico/perec.png","video":"http://decdn.kulik.uz:99/channel/33f0375d/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"2430","name":"Оружие","time":"","picture":"http://cdn.kulik.uz/tv/ico/oruj.png","video":"http://decdn.kulik.uz:99/channel/1ca3d63c/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"675","name":"Моя планета","time":"","picture":"http://cdn.kulik.uz/tv/ico/myplanet.png","video":"http://msk.rtsp.me/9iX3whofeaJIlDBg8ZpFKw/1660222822/hls/95es293a.m3u8"},
+{"group":"толиик","id":"3912","name":"Da Vinci Learning","time":"","picture":"http://cdn.kulik.uz/tv/ico/davinci.png","video":"https://msk.rtsp.me/-AjTL17jPwDfVKHuz6vJ2A/1660292066/hls/hnKR2fTr.m3u8"},
+{"group":"толиик","id":"","name":"Техно 24","time":"","picture":"http://cdn.kulik.uz/tv/ico/tex24.png","video":"http://decdn.kulik.uz:99/channel/5fd408ad/index.m3u8?q=91e129da436c77397789c3b352e9ab99"},
+{"group":"толиик","id":"898","name":"Ю ТВ","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-2.png","video":"http://ru2cdn.kulik.uz:99/channel/2f39b5b8/index.m3u8?q=d42133a88f0346aade08be78b9de1dab"},
+{"group":"толиик","id":"2288","name":"Суббота!","time":"","picture":"http://cdn.kulik.uz/tv/ico/subb.png","video":"http://ru2cdn.kulik.uz:99/channel/5c06c8cd/index.m3u8?q=d42133a88f0346aade08be78b9de1dab"},
+{"group":"толиик","id":"921","name":"NHK World","time":"","picture":"http://cdn.kulik.uz/tv/ico/nhk.png","video":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"},
+{"group":"толиик","id":"2155","name":"English Club","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-4.png","video":"https://itl.rtsp.me/AfZUQQ2-s2UBoEgaJYaA-Q/1660292220/hls/zY4zFrhG.m3u8"},
+{"group":"толиик","id":"5600","name":"Univer TV HD","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-10.png","video":"http://ru1cdn.kulik.uz:99/channel/n7b91987/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+{"group":"толиик","id":"275","name":"Совершенно Секретно","time":"","picture":"http://cdn.kulik.uz/tv/ico/3-11.png","video":"http://ru1cdn.kulik.uz:99/channel/n755dd92f/index.m3u8?q=526986d8ce9839c9926840b2cf96d218"},
+{"group":"толиик","id":"2428","name":"Нано ТВ","time":"","picture":"http://cdn.kulik.uz/tv/ico/nano.png","video":"http://nano.teleservice.su:8080/hls/nano.m3u8"},
+{"group":"толиик","id":"434","name":"Усадьба","time":"","picture":"http://hd8.hdgo.site/uploads/posts/2021-08/1629536520_usadba2019.png","video":"http://94.230.240.17:8080/usadba/index.m3u8"},
+
+{"group":"толиик","id":"2491","name":"Fashion TV","time":"","picture":"http://ltvpic.kulik.uz/int/fashion-tv.png","video":"https://msk.rtsp.me/iiKcQlg0LjYUrn26Pot0Jg/1660295703/hls/Z5rYt6dH.m3u8"},
+
+{"group":"толиик","id":"","name":"Fashion Box","time":"","picture":"https://iptvxcdn.ml/fashionbox-hd.png","video":"https://msk.rtsp.me/wHMM6uhjw53sfvKAtLo6-Q/1660296237/hls/Qn43GH37.m3u8"},
+
+{"group":"толиик","id":"2242","name":"World Fashion","time":"","picture":"http://ltvpic.kulik.uz/int/world-fashion.png","video":"https://itl.rtsp.me/p-Mi-tynfXh20gW0lQIdBg/1660296066/hls/Kz9TF2i9.m3u8"}
+
+
+
+]
