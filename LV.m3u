@@ -2,314 +2,150 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 				
 
-
-#EXTINF:-1 group-title="Tolik",Первый канал HD
-https://de2.tprk.tv/live/coder/ru_pervij_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
 #EXTINF:-1 group-title="Tolik",Первый канал
-https://de2.tprk.tv/live/ru_pervij/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Россия 1 HD
-https://de2.tprk.tv/live/coder/ru_rossija_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
 #EXTINF:-1 group-title="Tolik",Россия 1
-https://de2.tprk.tv/live/ru_rossija1/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Россия РТР
-https://de2.tprk.tv/live/ru_rtr_planeta/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Россия К
-https://de2.tprk.tv/live/ru_kultura/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 #EXTINF:-1 group-title="Tolik",Россия 24
-https://de2.tprk.tv/live/ru_rossija24/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",НТВ HD
-https://de2.tprk.tv/live/coder/ru_ntv_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",НТВ
-https://de2.tprk.tv/live/ru_ntv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",ТНТ HD
-https://de2.tprk.tv/live/ru_tnt_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
+#EXTINF:-1 group-title="Tolik",Рен ТВ
+http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
 #EXTINF:-1 group-title="Tolik",ТНТ
-https://de2.tprk.tv/live/ru_tnt/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",РЕН ТВ HD
-https://de2.tprk.tv/live/ru_rentv_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",РЕН ТВ
-https://de2.tprk.tv/live/ru_rentv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
+#EXTINF:-1 group-title="Tolik",НТВ
+http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
 #EXTINF:-1 group-title="Tolik",ТНТ4
-https://de2.tprk.tv/live/ru_tnt4/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",СТС HD
-https://de2.tprk.tv/live/ru_sts_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",СТС
-https://de2.tprk.tv/live/ru_sts/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",RTVi
-https://de2.tprk.tv/live/ru_rtvi/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Viasat History
-https://de2.tprk.tv/live/ru_viasat_history/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",National Geographic HD
-https://de2.tprk.tv/live/ru_nat_geo_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Nat Geo Wild HD
-https://de2.tprk.tv/live/ru_nat_geo_wild_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Discovery Channel HD
-https://de2.tprk.tv/live/ru_discovery_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Discovery Science HD
-https://de2.tprk.tv/live/ru_discovery_science/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Animal Planet HD
-https://de2.tprk.tv/live/ru_animal_planet/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",HD Life
-https://de2.tprk.tv/live/ru_hdlife/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Travel+Adventure
-https://de2.tprk.tv/live/ru_traver_adventure_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",RTG HD
-https://de2.tprk.tv/live/ru_rtg_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Совершенно секретно
-https://de2.tprk.tv/live/ru_sov_sekretno/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",DocuBox
-https://de2.tprk.tv/live/ru_docubox/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Дом Кино Премиум HD
-https://de2.tprk.tv/live/ru_dom_kino_prem_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Дом Кино
-https://de2.tprk.tv/live/ru_dom_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Дорама HD
-https://de2.tprk.tv/live/ru_dorama_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Детское кино
-https://de2.tprk.tv/live/ru_detskoe_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",КиноСезон HD
-https://de2.tprk.tv/live/ru_kinosezon_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Классика Кино HD
-https://de2.tprk.tv/live/ru_klassika_kino_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Комедийное HD
-https://de2.tprk.tv/live/ru_komedijnoe_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Любимое Кино HD
-https://de2.tprk.tv/live/ru_lubimoe_kino_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Остросюжетное HD
-https://de2.tprk.tv/live/ru_ostrosuzhet_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Шокирующее HD
-https://de2.tprk.tv/live/ru_shok_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Bollywood HD
-https://de2.tprk.tv/live/ru_bollywood_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",VIP Serial HD
-https://de2.tprk.tv/live/ru_vip_serial_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",TV1000
-https://de2.tprk.tv/live/ru_tv1000/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",FOX HD
-https://de2.tprk.tv/live/ru_fox_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",FOX Life HD
-https://de2.tprk.tv/live/ru_fox_life_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Еврокино
-https://de2.tprk.tv/live/ru_evrokino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Звезда
-https://de2.tprk.tv/live/ru_zvezda/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Иллюзион+
-https://de2.tprk.tv/live/ru_illuzion_plus/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Мужское кино HD
-https://de2.tprk.tv/live/ru_muzhskoe_kino_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Кинопремьера HD
-https://de2.tprk.tv/live/ru_kinopremjera/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Индийское Кино
-https://de2.tprk.tv/live/ru_indijskoe_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Кинокомедия
-https://de2.tprk.tv/live/ru_kinokomedia/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Киномикс
-https://de2.tprk.tv/live/ru_kinomiks/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Киносвидание
-https://de2.tprk.tv/live/ru_kinosvidanie/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Киносемья
-https://de2.tprk.tv/live/ru_kinosemja/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",КИНОСЕРИЯ
-https://de2.tprk.tv/live/ru_kinoserija/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",КИНОУЖАС
-https://de2.tprk.tv/live/ru_kinouzhas/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",КИНОХИТ
-https://de2.tprk.tv/live/ru_kinohit/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Родное кино
-https://de2.tprk.tv/live/ru_rodnoe_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",НАШЕ НОВОЕ КИНО
-https://de2.tprk.tv/live/ru_nashe_novoe_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Мир Сериала
-https://de2.tprk.tv/live/ru_mir_seriala/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Любимое кино
-https://de2.tprk.tv/live/ru_lubimoe_kino/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Победа
-https://de2.tprk.tv/live/ru_pobeda/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Русский иллюзион
-https://de2.tprk.tv/live/ru_rus_illuzion/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",СТС Love
-https://de2.tprk.tv/live/ru_sts_love/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",FilmBox
-https://de2.tprk.tv/live/ru_filmbox/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",.red
-https://de2.tprk.tv/live/ru_sony_ent/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",.sci-fi
-https://de2.tprk.tv/live/ru_sony_scifi/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",TV XXI
-https://de2.tprk.tv/live/ru_tv21/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",СТС Kids
-https://de2.tprk.tv/live/ru_sts_kids_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Nickelodeon HD
-https://de2.tprk.tv/live/ru_nickelodeon_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Nick Jr
-https://de2.tprk.tv/live/ru_nick_jr/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",2x2
-https://de2.tprk.tv/live/ru_2x2/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",МультСезон
-https://de2.tprk.tv/live/ru_multsezon_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",О!
-https://de2.tprk.tv/live/ru_o/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Детский мир
-https://de2.tprk.tv/live/ru_detskij/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Boomerang
-https://de2.tprk.tv/live/ru_boomerang/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Мир Премиум
-https://de2.tprk.tv/live/ru_mir_premium_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Мир
-https://de2.tprk.tv/live/ru_mir/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
+#EXTINF:-1 group-title="Tolik",Россия Культура
+http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
 #EXTINF:-1 group-title="Tolik",ОТР
-https://de2.tprk.tv/live/ru_otr/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Ретро
-https://de2.tprk.tv/live/ru_retro/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Беларусь 24 HD
-https://de2.tprk.tv/live/ru_belarus24_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Известия
-https://de2.tprk.tv/live/ru_izru_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
+#EXTINF:-1 group-title="Tolik",ТВ Центр
+http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
+#EXTINF:-1 group-title="Tolik",Оружие
+http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
+#EXTINF:-1 group-title="Tolik",RTG TV
+http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
+#EXTINF:-1 group-title="Tolik",Охота и рыбалка
+http://iptv.rpk-rost.ru:8080/hls/058/058.m3u8
+#EXTINF:-1 group-title="Tolik",Усадьба
+http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
+#EXTINF:-1 group-title="Tolik",Домашние животные
+http://iptv.rpk-rost.ru:8080/hls/065/065.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2450.png" ,Психология 21
+http://iptv.rpk-rost.ru:8080/hls/066/066.m3u8
+#EXTINF:-1 group-title="Tolik",Мульт
+http://iptv.rpk-rost.ru:8080/hls/072/072.m3u8
+#EXTINF:-1 group-title="Tolik",Ani
+http://iptv.rpk-rost.ru:8080/hls/099/099.m3u8
+#EXTINF:-1 group-title="Tolik",Детский
+http://iptv.rpk-rost.ru:8080/hls/075/075.m3u8
+#EXTINF:-1 group-title="Tolik",Карусель
+http://iptv.rpk-rost.ru:8080/hls/008/008.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
+http://iptv.rpk-rost.ru:8080/hls/024/024.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
+http://iptv.rpk-rost.ru:8080/hls/077/077.m3u8
+#EXTINF:-1 group-title="Tolik",Иллюзион+
+http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
+#EXTINF:-1 group-title="Tolik",Русский Иллюзион
+http://iptv.rpk-rost.ru:8080/hls/074/074.m3u8
+#EXTINF:-1 group-title="Tolik",Зоопарк
+http://iptv.rpk-rost.ru:8080/hls/068/068.m3u8
+#EXTINF:-1 group-title="Tolik",Наше кино
+http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
 #EXTINF:-1 group-title="Tolik",5 Канал
-https://de2.tprk.tv/live/ua_5kanal/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Настоящее время
-https://de2.tprk.tv/live/ru_curtime_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Euronews
-https://de2.tprk.tv/live/ru_euronews/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",РБК
-https://de2.tprk.tv/live/ru_rbk/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Авто 24
-https://de2.tprk.tv/live/ru_auto24_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Домашний HD
-https://de2.tprk.tv/live/ru_domashnij_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Еда Премиум
-https://de2.tprk.tv/live/ru_eda_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Кухня ТВ
-https://de2.tprk.tv/live/ru_kuhnja_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",360°
-https://de2.tprk.tv/live/ru_360_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Авто Плюс
-https://de2.tprk.tv/live/ru_avto_plus/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
+#EXTINF:-1 group-title="Tolik",Точка отрыва
+http://iptv.rpk-rost.ru:8080/hls/027/027.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2402.png" ,Ретро
+http://iptv.rpk-rost.ru:8080/hls/059/059.m3u8
 #EXTINF:-1 group-title="Tolik",Драйв
-https://de2.tprk.tv/live/ru_drive/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Живи!
-https://de2.tprk.tv/live/ru_zhivi/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",КВН ТВ
-https://de2.tprk.tv/live/ru_kvn_tv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Новый мир
-https://de2.tprk.tv/live/ru_novij_mir/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Ностальгия
-https://de2.tprk.tv/live/ru_nostalgiya/index.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Поехали
-https://de2.tprk.tv/live/ru_poehali/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/048/048.m3u8
+#EXTINF:-1 group-title="Tolik",Спас
+http://iptv.rpk-rost.ru:8080/hls/012/012.m3u8
+#EXTINF:-1 group-title="Tolik",СТС Love
+http://iptv.rpk-rost.ru:8080/hls/062/062.m3u8
+#EXTINF:-1 group-title="Tolik",СТС
+http://iptv.rpk-rost.ru:8080/hls/013/013.m3u8
+#EXTINF:-1 group-title="Tolik",Супер
+http://iptv.rpk-rost.ru:8080/hls/083/083.m3u8
+#EXTINF:-1 group-title="Tolik",Еврокино
+http://iptv.rpk-rost.ru:8080/hls/030/030.m3u8
+#EXTINF:-1 group-title="Tolik",Наше новое кино
+http://iptv.rpk-rost.ru:8080/hls/097/097.m3u8
+#EXTINF:-1 group-title="Tolik",Amedia 1 HD
+http://iptv.rpk-rost.ru:8080/hls/096/096.m3u8
+#EXTINF:-1 group-title="Tolik",TV1000 Русское кино
+http://iptv.rpk-rost.ru:8080/hls/086/086.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2297.png" ,Продвижение
+http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
+#EXTINF:-1 group-title="Tolik",Мужской
+http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
+#EXTINF:-1 group-title="Tolik",Домашний
+http://iptv.rpk-rost.ru:8080/hls/014/014.m3u8
+#EXTINF:-1 group-title="Tolik",ТВ3
+http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2492.png" ,Amedia 2
+http://iptv.rpk-rost.ru:8080/hls/054/054.m3u8
 #EXTINF:-1 group-title="Tolik",Пятница
-https://de2.tprk.tv/live/ru_pjatnica/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Театр
-https://de2.tprk.tv/live/ru_teatr/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",ТЕЛЕКАФЕ
-https://de2.tprk.tv/live/ru_telekafe/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Точка ТВ
-https://de2.tprk.tv/live/ru_tochka_tv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Че
-https://de2.tprk.tv/live/ru_che/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/016/016.m3u8
+#EXTINF:-1 group-title="Tolik",Звезда
+http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
+#EXTINF:-1 group-title="Tolik",Мир
+http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
+#EXTINF:-1 group-title="Tolik",Первый Ярославский
+http://iptv.rpk-rost.ru:8080/hls/021/021.m3u8
+#EXTINF:-1 group-title="Tolik",РПК ТВ
+http://iptv.rpk-rost.ru:8080/hls/037/037.m3u8
 #EXTINF:-1 group-title="Tolik",Ю
-https://de2.tprk.tv/live/ru_u_tv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",365 дней
-https://de2.tprk.tv/live/ru_365dnej/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Вопросы и ответы
-https://de2.tprk.tv/live/ru_voprosi_otveti/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",ВРЕМЯ
-https://de2.tprk.tv/live/ru_vremja/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Пес и Ко
-https://de2.tprk.tv/live/ru_pesiko/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Психология 21
-https://de2.tprk.tv/live/ru_psihologia21/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Україна 24
-https://de2.tprk.tv/live/ua_ukraina24/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",1+1 HD
-https://de2.tprk.tv/live/ua_1plus1_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",1+1
-https://de2.tprk.tv/live/ua_1plus1/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",2+2
-https://de2.tprk.tv/live/ua_2plus2/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Мега
-https://de2.tprk.tv/live/ua_mega/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Интер
-https://de2.tprk.tv/live/ua_inter/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",СТБ
-https://de2.tprk.tv/live/ua_stb/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",ТЕТ
-https://de2.tprk.tv/live/ua_tet/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",К1
-https://de2.tprk.tv/live/ua_k1/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Ukraine 1
-https://de2.tprk.tv/live/ua_ukraine1/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Ukraine 2
-https://de2.tprk.tv/live/ua_ukraine2/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Квартал ТВ
-https://de2.tprk.tv/live/ua_kvartal/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",9 Канал
-https://de2.tprk.tv/live/il_9kanal_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",1HD
-https://de2.tprk.tv/live/ru_1hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",AIVA HD
-https://de2.tprk.tv/live/ru_aiva_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Europa Plus TV HD
-https://de2.tprk.tv/live/ru_europa_plus_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Жара
-https://de2.tprk.tv/live/ru_zhara/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Музыка первого
-https://de2.tprk.tv/live/ru_muzika_pervogo/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",BRIDGE TV Deluxe
-https://de2.tprk.tv/live/ru_bridge_deluxe_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",BRIDGE TV Русский Хит
-https://de2.tprk.tv/live/ru_bridge_ruhit/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Bridge TV Classic
-https://de2.tprk.tv/live/ru_bridge_classic/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Bridge TV
-https://de2.tprk.tv/live/ru_bridge_tv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Mezzo Live HD
-https://de2.tprk.tv/live/en_mezzo_live_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Mezzo
-https://de2.tprk.tv/live/en_mezzo/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",iConcerts HD
-https://de2.tprk.tv/live/en_iconcerts_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Ля-минор ТВ
-https://de2.tprk.tv/live/ru_la_minor/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/028/028.m3u8
+#EXTINF:-1 group-title="Tolik",9 Волна
+http://iptv.rpk-rost.ru:8080/hls/029/029.m3u8
+#EXTINF:-1 group-title="Tolik",Открытый мир
+http://iptv.rpk-rost.ru:8080/hls/034/034.m3u8
+#EXTINF:-1 group-title="Tolik",2x2
+http://iptv.rpk-rost.ru:8080/hls/023/023.m3u8
+#EXTINF:-1 group-title="Tolik",Вместе-РФ
+http://iptv.rpk-rost.ru:8080/hls/039/039.m3u8
+#EXTINF:-1 group-title="Tolik",Союз
+http://iptv.rpk-rost.ru:8080/hls/041/041.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2761.png" ,Калейдоскоп ТВ
+http://iptv.rpk-rost.ru:8080/hls/042/042.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2760.png" ,Анекдот ТВ
+http://iptv.rpk-rost.ru:8080/hls/035/035.m3u8
+#EXTINF:-1 group-title="Tolik",8 Канал
+http://iptv.rpk-rost.ru:8080/hls/044/044.m3u8
+#EXTINF:-1 group-title="Tolik",Че
+http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
+#EXTINF:-1 group-title="Tolik",Раз ТВ
+http://iptv.rpk-rost.ru:8080/hls/049/049.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2265.png" ,360°
+http://iptv.rpk-rost.ru:8080/hls/052/052.m3u8
+#EXTINF:-1 group-title="Tolik",Красная линия
+http://iptv.rpk-rost.ru:8080/hls/053/053.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2469.png" ,Три ангела
+http://iptv.rpk-rost.ru:8080/hls/063/063.m3u8
+#EXTINF:-1 group-title="Tolik",7 ТВ
+http://iptv.rpk-rost.ru:8080/hls/078/078.m3u8
 #EXTINF:-1 group-title="Tolik",МузТВ
-https://de2.tprk.tv/live/ru_muztv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",МузСоюз
-https://de2.tprk.tv/live/ru_muzsojuz/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
+http://iptv.rpk-rost.ru:8080/hls/020/020.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2409.png" ,Russian MusicBox
+http://iptv.rpk-rost.ru:8080/hls/092/092.m3u8
 #EXTINF:-1 group-title="Tolik",Шансон ТВ
-https://de2.tprk.tv/live/ru_shanson/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",VH1 European
-https://de2.tprk.tv/live/ru_vh1/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Viasat Sport HD
-https://de2.tprk.tv/live/ru_viasat_sport_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Extreme Sports
-https://de2.tprk.tv/live/ru_extreme_sports/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Матч! Арена HD
-https://de2.tprk.tv/live/ru_match_arena_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Матч! Боец HD
-https://de2.tprk.tv/live/ru_boec/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Матч! Игра HD
-https://de2.tprk.tv/live/ru_match_igra_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Бокс ТВ
-https://de2.tprk.tv/live/ru_boks_tv/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Fightbox
-https://de2.tprk.tv/live/ru_fightbox/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",M-1 Global TV
-https://de2.tprk.tv/live/ru_m1global/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",KHL HD
-https://de2.tprk.tv/live/ru_khl/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",KHL Prime HD
-https://de2.tprk.tv/live/ru_khl_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Старт HD
-https://de2.tprk.tv/live/ru_start_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Телеканал Футбол
-https://de2.tprk.tv/live/ru_tk_futbol_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Setanta Sports HD
-https://de2.tprk.tv/live/ru_setanta_sports_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Fast&FunBox HD
-https://de2.tprk.tv/live/ru_fastfunbox/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-#EXTINF:-1 group-title="Tolik",Конный мир HD
-https://de2.tprk.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=664665622&cdn_session_exp=undefined&cdn_session_sl=undefined&cb=0.082242930744810694&sl=c7-xL6_-3WjpbkgNBNlfxQ&exp=1661288440
-
+http://iptv.rpk-rost.ru:8080/hls/094/094.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/680.png" ,ТНТ MUSIC
+http://iptv.rpk-rost.ru:8080/hls/081/081.m3u8
+#EXTINF:-1 group-title="Tolik",Bridge TV
+http://iptv.rpk-rost.ru:8080/hls/045/045.m3u8
+#EXTINF:-1 group-title="Tolik",RU.TV
+http://iptv.rpk-rost.ru:8080/hls/046/046.m3u8
+#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2477.png" ,ТНОМЕР
+http://iptv.rpk-rost.ru:8080/hls/084/084.m3u8
+#EXTINF:-1 group-title="Tolik",Матч Арена
+http://iptv.rpk-rost.ru:8080/hls/match-arena/match-arena.m3u8
+#EXTINF:-1 group-title="Tolik",Матч
+http://iptv.rpk-rost.ru:8080/hls/003/003.m3u8
 
 
 
