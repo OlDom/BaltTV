@@ -19,6 +19,8 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=qhWYUuXnmuao-V2_4gdO6Q&e=1661621040
+#EXTINF:-1 group-title="новости",Euronews
+http://persik.by/stream/1234/3/525.m3u8
 #EXTINF:-1 group-title="Tolik",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
 #EXTINF:-1 group-title="Tolik",ТНТ
