@@ -20,6 +20,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=qhWYUuXnmuao-V2_4gdO6Q&e=1661621040
 #EXTINF:-1 group-title="новости",Euronews
+#EXTINF:-1 group-title="новости",CGTN
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="новости",RTVi
+http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 http://persik.by/stream/1234/3/525.m3u8
 #EXTINF:-1 group-title="Tolik",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
