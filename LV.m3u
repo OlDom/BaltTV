@@ -6,9 +6,11 @@
 http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
 #EXTINF:-1 group-title="Tolik",Россия 1
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
-#EXTINF:-1 group-title="Tolik",Россия 24
+#EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
-
+#EXTINF:0,РБК-ТВ
+#EXTGRP:новости
+https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:0,RT Док
 #EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
