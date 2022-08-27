@@ -2,9 +2,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 				
 
-#EXTINF:-1 group-title="Tolik",Первый канал
+#EXTINF:-1 group-title="общие",Первый канал
 http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
-#EXTINF:-1 group-title="Tolik",Россия 1
+#EXTINF:-1 group-title="общие",Россия 1
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
@@ -25,21 +25,21 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="новости",RTVi
 http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 http://persik.by/stream/1234/3/525.m3u8
-#EXTINF:-1 group-title="Tolik",Рен ТВ
+#EXTINF:-1 group-title="общие",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
-#EXTINF:-1 group-title="Tolik",ТНТ
+#EXTINF:-1 group-title="общие",ТНТ
 http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
-#EXTINF:-1 group-title="Tolik",НТВ
+#EXTINF:-1 group-title="общие",НТВ
 http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
 #EXTINF:-1 group-title="Tolik",ТНТ4
 http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
-#EXTINF:-1 group-title="Tolik",Россия Культура
+#EXTINF:-1 group-title="общие",Россия Культура
 http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
-#EXTINF:-1 group-title="Tolik",ОТР
+#EXTINF:-1 group-title="общие",ОТР
 http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
-#EXTINF:-1 group-title="Tolik",ТВ Центр
+#EXTINF:-1 group-title="общие",ТВ Центр
 http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
-#EXTINF:-1 group-title="Tolik",Оружие
+#EXTINF:-1 group-title="общие",Оружие
 http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
 #EXTINF:-1 group-title="Tolik",RTG TV
 http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
@@ -51,17 +51,17 @@ http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
 http://iptv.rpk-rost.ru:8080/hls/065/065.m3u8
 #EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2450.png" ,Психология 21
 http://iptv.rpk-rost.ru:8080/hls/066/066.m3u8
-#EXTINF:-1 group-title="Tolik",Мульт
+#EXTINF:-1 group-title="детям",Мульт
 http://iptv.rpk-rost.ru:8080/hls/072/072.m3u8
-#EXTINF:-1 group-title="Tolik",Ani
+#EXTINF:-1 group-title="детям",Ani
 http://iptv.rpk-rost.ru:8080/hls/099/099.m3u8
-#EXTINF:-1 group-title="Tolik",Детский
+#EXTINF:-1 group-title="детям",Детский
 http://iptv.rpk-rost.ru:8080/hls/075/075.m3u8
-#EXTINF:-1 group-title="Tolik",Карусель
+#EXTINF:-1 group-title="детям",Карусель
 http://iptv.rpk-rost.ru:8080/hls/008/008.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
+#EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
 http://iptv.rpk-rost.ru:8080/hls/024/024.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
+#EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
 http://iptv.rpk-rost.ru:8080/hls/077/077.m3u8
 #EXTINF:-1 group-title="Tolik",Иллюзион+
 http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
