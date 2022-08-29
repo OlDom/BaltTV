@@ -8,6 +8,11 @@ http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 #EXTINF:-1 group-title="общие",Planeta RTR
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=kpNDzPyejPx3zmPkTrNGrw&e=1661800980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
+#EXTINF:-1 group-title="общие",НТВ
+http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
+#EXTINF:-1 group-title="общие",ТВ Центр
+http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
 #EXTINF:0,РБК-ТВ
@@ -21,26 +26,23 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1661619600&s=330
-#EXTINF:-1 group-title="новости",Euronews
 #EXTINF:-1 group-title="новости",CGTN
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="новости",RTVi
 http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 group-title="новости",Euronews
 http://persik.by/stream/1234/3/525.m3u8
 #EXTINF:-1 group-title="общие",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
 #EXTINF:-1 group-title="общие",ТНТ
-http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
-#EXTINF:-1 group-title="общие",НТВ
-http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
+
 #EXTINF:-1 group-title="Tolik",ТНТ4
 http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
 #EXTINF:-1 group-title="общие",Россия Культура
 http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
 #EXTINF:-1 group-title="общие",ОТР
 http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
-#EXTINF:-1 group-title="общие",ТВ Центр
-http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
+
 #EXTINF:-1 group-title="общие",Оружие
 http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
 #EXTINF:-1 group-title="Tolik",RTG TV
