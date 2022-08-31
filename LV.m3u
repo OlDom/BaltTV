@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ru1.m3u8
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=kpNDzPyejPx3zmPkTrNGrw&e=1661800980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
 #EXTINF:-1 group-title="общие",НТВ
-http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ntv.m3u8
 #EXTINF:-1 group-title="общие",ТВ Центр
 http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
