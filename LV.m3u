@@ -30,6 +30,8 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1661619600&s=330
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="новости",RTVi
 http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 group-title="новости",Дождь
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
 #EXTINF:-1 group-title="новости",Euronews
 http://persik.by/stream/1234/3/525.m3u8
 #EXTINF:-1 group-title="общие",Рен ТВ
