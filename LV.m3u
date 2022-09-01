@@ -33,7 +33,7 @@ http://51.75.112.123:85/ru-rtvi/mono.m3u8?token=home
 #EXTINF:-1 group-title="новости",Дождь
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
 #EXTINF:-1 group-title="новости",Euronews ru
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_ru.m3u8
+https://sc.id-tv.kz/Euronews_34_35.m3u8
 #EXTINF:-1 group-title="новости",Euronews en
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 #EXTINF:-1 group-title="новости",Sky News
