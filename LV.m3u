@@ -33,7 +33,7 @@ http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%
 #EXTINF:-1 group-title="новости",Дождь
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
 #EXTINF:-1 group-title="новости",Euronews
-http://persik.by/stream/1234/3/525.m3u8
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 #EXTINF:-1 group-title="общие",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
 #EXTINF:-1 group-title="общие",ТНТ
