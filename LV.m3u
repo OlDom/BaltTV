@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tvc.m3u8
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
 #EXTINF:0,РБК-ТВ
 #EXTGRP:новости
-http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:0,RT Док
 #EXTGRP:новости
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
