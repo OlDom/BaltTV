@@ -94,6 +94,36 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 #EXTGRP:новости
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Иллюзион+
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Русский Иллюзион
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/074/074.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Зоопарк
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/068/068.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Наше кино
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Еврокино
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/030/030.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Наше новое кино
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/097/097.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Amedia 1 HD
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/096/096.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",TV1000 Русское кино
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/086/086.m3u8
+#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Amedia 2
+#EXTGRP:кино
+http://iptv.rpk-rost.ru:8080/hls/054/054.m3u8
+
+
+
 
 #EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
