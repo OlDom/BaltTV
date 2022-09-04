@@ -59,6 +59,42 @@ http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мир
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
+
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Россия 24
+#EXTGRP:новости
+http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Известия
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/iz_ru.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",РБК-ТВ
+#EXTGRP:новости
+https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",RT Док
+#EXTGRP:новости
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Мир 24
+#EXTGRP:новости
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Россия 24
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/r24.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",CGTN
+#EXTGRP:новости
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",RTVi
+#EXTGRP:новости
+http://51.75.112.123:85/ru-rtvi/mono.m3u8?token=home
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Дождь
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Euronews
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
+#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Sky News
+#EXTGRP:новости
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
+
+
 #EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
 #EXTINF:0,РБК-ТВ
