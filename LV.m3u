@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 #EXTINF:-1 group-title="общие",Рен ТВ
 http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
 #EXTINF:-1 group-title="общие",ТНТ
-
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tnt.m3u8
 #EXTINF:-1 group-title="Tolik",ТНТ4
 http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
 #EXTINF:-1 group-title="общие",Россия Культура
