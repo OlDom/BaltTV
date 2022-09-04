@@ -2,17 +2,63 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 				
 
-#EXTINF:-1 group-title="общие",Первый канал
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Первый канал
+#EXTGRP:общие
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/1tv.m3u8
-#EXTINF:-1 group-title="общие",Россия 1
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия 1
+#EXTGRP:общие
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ru1.m3u8
-#EXTINF:-1 group-title="общие",Россия РТР
-https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
-http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
-#EXTINF:-1 group-title="общие",НТВ
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия РТР
+#EXTGRP:общие
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",НТВ
+#EXTGRP:общие
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ntv.m3u8
-#EXTINF:-1 group-title="общие",ТВ Центр
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ Центр
+#EXTGRP:общие
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tvc.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Рен ТВ
+#EXTGRP:общие
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ren.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТНТ
+#EXTGRP:общие
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tnt.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия Культура
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ОТР
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Оружие
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",5 Канал
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",СТС
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/013/013.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мужской
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Домашний
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/014/014.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ3
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Пятница
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/016/016.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Звезда
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Че
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
+#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мир
+#EXTGRP:общие
+http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
 #EXTINF:-1 group-title="новости",Россия 24
 http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
 #EXTINF:0,РБК-ТВ
