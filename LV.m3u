@@ -25,7 +25,7 @@ http://176.197.223.26:49315/play/111/index.m3u8
 http://176.197.223.26:49315/play/119/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия Культура
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
+http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
@@ -34,7 +34,7 @@ http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
 http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",5 Канал
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
+http://176.197.223.26:49315/play/105/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",СТС
 #EXTGRP:общие
 http://176.197.223.26:49315/play/113/index.m3u8
@@ -43,13 +43,13 @@ http://176.197.223.26:49315/play/113/index.m3u8
 http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/014/014.m3u8
+http://176.197.223.26:49315/play/114/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ3
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Пятница
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/016/016.m3u8
+http://176.197.223.26:49315/play/116/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Звезда
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
@@ -62,7 +62,7 @@ http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
 
 #EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Россия 24
 #EXTGRP:новости
-http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
+http://iptv.ktkru.ru:8007/index.m3u8
 #EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Известия
 #EXTGRP:новости
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/iz_ru.m3u8
