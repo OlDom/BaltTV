@@ -29,9 +29,7 @@ http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:общие
 http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Оружие
-#EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
+
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",5 Канал
 #EXTGRP:общие
 http://176.197.223.26:49315/play/105/index.m3u8
@@ -40,7 +38,7 @@ http://176.197.223.26:49315/play/105/index.m3u8
 http://176.197.223.26:49315/play/113/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мужской
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
+http://edge-01-pub.persik.by:82/live/Ch179pub/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:общие
 http://iptv.ktkru.ru:8014/index.m3u8
@@ -52,7 +50,7 @@ http://iptv.ktkru.ru:8015/index.m3u8
 http://176.197.223.26:49315/play/116/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Звезда
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
+http://194.113.234.110:4017
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Че
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
