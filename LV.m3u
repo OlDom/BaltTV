@@ -28,7 +28,7 @@ http://176.197.223.26:49315/play/119/index.m3u8
 http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
+http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Оружие
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
@@ -43,10 +43,10 @@ http://176.197.223.26:49315/play/113/index.m3u8
 http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:общие
-http://176.197.223.26:49315/play/114/index.m3u8
+http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ3
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
+http://iptv.ktkru.ru:8015/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Пятница
 #EXTGRP:общие
 http://176.197.223.26:49315/play/116/index.m3u8
@@ -65,7 +65,7 @@ http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
 http://iptv.ktkru.ru:8007/index.m3u8
 #EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Известия
 #EXTGRP:новости
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/iz_ru.m3u8
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",РБК-ТВ
 #EXTGRP:новости
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
@@ -180,7 +180,7 @@ http://iptv.rpk-rost.ru:8080/hls/099/099.m3u8
 #EXTINF:-1 group-title="детям",Детский
 http://iptv.rpk-rost.ru:8080/hls/075/075.m3u8
 #EXTINF:-1 group-title="детям",Карусель
-http://iptv.rpk-rost.ru:8080/hls/008/008.m3u8
+http://iptv.ktkru.ru:8008/index.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
 http://iptv.rpk-rost.ru:8080/hls/024/024.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
