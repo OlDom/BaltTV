@@ -4,25 +4,25 @@
 
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Первый канал
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/1tv.m3u8
+http://176.197.223.26:49315/play/103/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия 1
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ru1.m3u8
+http://176.197.223.26:49315/play/102/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия РТР
 #EXTGRP:общие
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",НТВ
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ntv.m3u8
+http://176.197.223.26:49315/play/104/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ Центр
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tvc.m3u8
+http://176.197.223.26:49315/play/110/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Рен ТВ
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ren.m3u8
+http://176.197.223.26:49315/play/111/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТНТ
 #EXTGRP:общие
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tnt.m3u8
+http://176.197.223.26:49315/play/119/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия Культура
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
@@ -37,7 +37,7 @@ http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
 http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",СТС
 #EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/013/013.m3u8
+http://176.197.223.26:49315/play/113/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мужской
 #EXTGRP:общие
 http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
