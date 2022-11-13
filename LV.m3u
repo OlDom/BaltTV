@@ -13,7 +13,7 @@ http://176.197.223.26:49315/play/102/index.m3u8
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",НТВ
 #EXTGRP:общие
-http://176.197.223.26:49315/play/104/index.m3u8
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ Центр
 #EXTGRP:общие
 http://176.197.223.26:49315/play/110/index.m3u8
