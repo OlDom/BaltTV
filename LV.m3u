@@ -1,33 +1,18 @@
 
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
-				
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
 
 #EXTINF:-1 group-title="free",Первый канал
 http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 group-title="free",Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="free",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="free",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 group-title="free",РЕН ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:-1 group-title="free",ТНТ
 http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 group-title="free",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 group-title="free",Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 group-title="free",Россия К
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 group-title="free" ,Россия 24
-http://iptv.ktkru.ru:8007/index.m3u8
-#EXTINF:-1 group-title="free" ,КРЫМ 24
-http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="free",Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="free",ОТР
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 group-title="free",ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1 group-title="free",Спас
-http://iptv.ktkru.ru:8012/index.m3u8
 #EXTINF:-1 group-title="free",СТС
 http://iptv.ktkru.ru:8013/index.m3u8
 #EXTINF:-1 group-title="free",Домашний
@@ -38,286 +23,165 @@ http://iptv.ktkru.ru:8015/index.m3u8
 http://iptv.ktkru.ru:8016/index.m3u8
 #EXTINF:-1 group-title="free",Звезда
 http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="free",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="free",Россия К
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:-1 group-title="free",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="free",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="free",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
 #EXTINF:-1 group-title="free",Мир
 http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1 group-title="free",МузТВ
-http://iptv.ktkru.ru:8020/index.m3u8
 
 
 
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",НТВ
-#EXTGRP:общие
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ Центр
-#EXTGRP:общие
-http://176.197.223.26:49315/play/110/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Рен ТВ
-#EXTGRP:общие
-http://176.197.223.26:49315/play/111/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТНТ
-#EXTGRP:общие
-http://176.197.223.26:49315/play/119/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Россия Культура
-#EXTGRP:общие
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ОТР
-#EXTGRP:общие
-http://iptv.ktkru.ru:8009/index.m3u8
 
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",5 Канал
-#EXTGRP:общие
-http://176.197.223.26:49315/play/105/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",СТС
-#EXTGRP:общие
-http://176.197.223.26:49315/play/113/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мужской
-#EXTGRP:общие
-http://edge-01-pub.persik.by:82/live/Ch179pub/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Домашний
-#EXTGRP:общие
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",ТВ3
-#EXTGRP:общие
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Пятница
-#EXTGRP:общие
-http://176.197.223.26:49315/play/116/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Звезда
-#EXTGRP:общие
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Че
-#EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
-#EXTINF:-1 group-title=общие tvg-rec="7" timeshift="7",Мир
-#EXTGRP:общие
-http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
-
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Россия 24
-#EXTGRP:новости
+#EXTINF:-1 group-title="news" ,Россия 24
 http://iptv.ktkru.ru:8007/index.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Известия
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",РБК-ТВ
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",РБК-ТВ
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",RT Док
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Мир 24
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Россия 24
-#EXTGRP:новости
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/r24.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",CGTN
-#EXTGRP:новости
+#EXTINF:-1 group-title="news" ,КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="news",CGTN
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",RTVi
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",RTVi
 http://51.75.112.123:85/ru-rtvi/mono.m3u8?token=home
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Дождь
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",Дождь
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Euronews
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",Euronews
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
-#EXTINF:-1 group-title=новости tvg-rec="7" timeshift="7",Sky News
-#EXTGRP:новости
+#EXTINF:-1 group-title="news",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Иллюзион+
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Русский Иллюзион
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/074/074.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Зоопарк
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/068/068.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Наше кино
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Еврокино
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/030/030.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Наше новое кино
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/097/097.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Amedia 1 HD
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/096/096.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",TV1000 Русское кино
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/086/086.m3u8
-#EXTINF:-1 group-title=кино tvg-rec="7" timeshift="7",Amedia 2
-#EXTGRP:кино
-http://iptv.rpk-rost.ru:8080/hls/054/054.m3u8
+#EXTINF:-1 group-title="kino",НАШЕ НОВОЕ КИНО
+http://213.226.137.140:81/tl/l53/mpegts
+#EXTINF:-1 group-title="kino",КИНОКОМЕДИЯ
+http://213.226.137.140:81/tl/l52/mpegts
+#EXTINF:-1 group-title="kino",РОДНОЕ КИНО
+http://213.226.137.140:81/tl/l54/mpegts
+#EXTINF:-1 group-title="kino",КИНОУЖАС
+http://213.226.137.140:81/tl/l415/mpegts
+#EXTINF:-1 group-title="kino",МУЖСКОЕ КИНО
+http://213.226.137.140:81/tl/l111/mpegts
+#EXTINF:-1 group-title="kino",Кинопремьера HD
+http://213.226.137.140:81/tl/l303/mpegts
+#EXTINF:-1 group-title="kino",Киномикс
+http://213.226.137.140:81/tl/l79/mpegts
+#EXTINF:-1 group-title="kino",КИНОХИТ
+http://213.226.137.140:81/tl/l16/mpegts
+#EXTINF:-1 group-title="kino",Дом Кино Премиум HD
+http://213.226.137.140:81/tl/l75/mpegts
+#EXTINF:-1 group-title="kino",TLC
+http://213.226.137.140:81/tl/l18/mpegts
+#EXTINF:-1 group-title="kino",AMEDIA HIT
+http://213.226.137.140:81/tl/l90/mpegts
+#EXTINF:-1 group-title="kino",TV1000
+http://213.226.137.140:81/tl/l91/mpegts
+#EXTINF:-1 group-title="kino",TV1000 Action
+http://213.226.137.140:81/tl/l92/mpegts
+#EXTINF:-1 group-title="kino",TV1000 Русское кино
+http://213.226.137.140:81/tl/l93/mpegts
+#EXTINF:-1 group-title="kino",VIP Premiere HD
+http://213.226.137.140:81/tl/l319/mpegts
+#EXTINF:-1 group-title="kino",Еврокино
+http://213.226.137.140:81/tl/l407/mpegts
 
 
 
-
-#EXTINF:-1 group-title="новости",Россия 24
-http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
-#EXTINF:0,РБК-ТВ
-#EXTGRP:новости
-https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:0,RT Док
-#EXTGRP:новости
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:0,Мир 24
-#EXTGRP:новости
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="новости",Россия 24
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/r24.m3u8
-#EXTINF:-1 group-title="новости",CGTN
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="новости",RTVi
-http://51.75.112.123:85/ru-rtvi/mono.m3u8?token=home
-#EXTINF:-1 group-title="новости",Дождь
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/dozd.m3u8
-#EXTINF:-1 group-title="новости",Euronews ru
-https://sc.id-tv.kz/Euronews_34_35.m3u8
-#EXTINF:-1 group-title="новости",Euronews en
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
-#EXTINF:-1 group-title="новости",Sky News
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
-#EXTINF:-1 group-title="общие",Рен ТВ
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/ren.m3u8
-#EXTINF:-1 group-title="общие",ТНТ
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/tnt.m3u8
-#EXTINF:-1 group-title="Tolik",ТНТ4
-http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
-#EXTINF:-1 group-title="общие",Россия Культура
-http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
-#EXTINF:-1 group-title="общие",ОТР
-http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
-
-#EXTINF:-1 group-title="общие",Оружие
-http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
-#EXTINF:-1 group-title="Tolik",RTG TV
-http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
-#EXTINF:-1 group-title="Tolik",Охота и рыбалка
-http://iptv.rpk-rost.ru:8080/hls/058/058.m3u8
-#EXTINF:-1 group-title="Tolik",Усадьба
-http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
-#EXTINF:-1 group-title="Tolik",Домашние животные
-http://iptv.rpk-rost.ru:8080/hls/065/065.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2450.png" ,Психология 21
-http://iptv.rpk-rost.ru:8080/hls/066/066.m3u8
-#EXTINF:-1 group-title="детям",Мульт
-http://iptv.rpk-rost.ru:8080/hls/072/072.m3u8
-#EXTINF:-1 group-title="детям",Ani
-http://iptv.rpk-rost.ru:8080/hls/099/099.m3u8
-#EXTINF:-1 group-title="детям",Детский
-http://iptv.rpk-rost.ru:8080/hls/075/075.m3u8
-#EXTINF:-1 group-title="детям",Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
-http://iptv.rpk-rost.ru:8080/hls/024/024.m3u8
-#EXTINF:-1 group-title="детям" tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
-http://iptv.rpk-rost.ru:8080/hls/077/077.m3u8
-#EXTINF:-1 group-title="Tolik",Иллюзион+
-http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
-#EXTINF:-1 group-title="Tolik",Русский Иллюзион
-http://iptv.rpk-rost.ru:8080/hls/074/074.m3u8
-#EXTINF:-1 group-title="Tolik",Зоопарк
-http://iptv.rpk-rost.ru:8080/hls/068/068.m3u8
-#EXTINF:-1 group-title="Tolik",Наше кино
-http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
-#EXTINF:-1 group-title="Tolik",5 Канал
-http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
-#EXTINF:-1 group-title="Tolik",Точка отрыва
-http://iptv.rpk-rost.ru:8080/hls/027/027.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2402.png" ,Ретро
-http://iptv.rpk-rost.ru:8080/hls/059/059.m3u8
-#EXTINF:-1 group-title="Tolik",Драйв
-http://iptv.rpk-rost.ru:8080/hls/048/048.m3u8
-#EXTINF:-1 group-title="Tolik",Спас
-http://iptv.rpk-rost.ru:8080/hls/012/012.m3u8
-#EXTINF:-1 group-title="Tolik",СТС Love
-http://iptv.rpk-rost.ru:8080/hls/062/062.m3u8
-#EXTINF:-1 group-title="Tolik",СТС
-http://iptv.rpk-rost.ru:8080/hls/013/013.m3u8
-#EXTINF:-1 group-title="Tolik",Супер
-http://iptv.rpk-rost.ru:8080/hls/083/083.m3u8
-#EXTINF:-1 group-title="Tolik",Еврокино
-http://iptv.rpk-rost.ru:8080/hls/030/030.m3u8
-#EXTINF:-1 group-title="Tolik",Наше новое кино
-http://iptv.rpk-rost.ru:8080/hls/097/097.m3u8
-#EXTINF:-1 group-title="Tolik",Amedia 1 HD
-http://iptv.rpk-rost.ru:8080/hls/096/096.m3u8
-#EXTINF:-1 group-title="Tolik",TV1000 Русское кино
-http://iptv.rpk-rost.ru:8080/hls/086/086.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2297.png" ,Продвижение
-http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
-#EXTINF:-1 group-title="Tolik",Мужской
-http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
-#EXTINF:-1 group-title="Tolik",Домашний
-http://iptv.rpk-rost.ru:8080/hls/014/014.m3u8
-#EXTINF:-1 group-title="Tolik",ТВ3
-http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2492.png" ,Amedia 2
-http://iptv.rpk-rost.ru:8080/hls/054/054.m3u8
-#EXTINF:-1 group-title="Tolik",Пятница
-http://iptv.rpk-rost.ru:8080/hls/016/016.m3u8
-#EXTINF:-1 group-title="Tolik",Звезда
-http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
-#EXTINF:-1 group-title="Tolik",Мир
-http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
-#EXTINF:-1 group-title="Tolik",Первый Ярославский
-http://iptv.rpk-rost.ru:8080/hls/021/021.m3u8
-#EXTINF:-1 group-title="Tolik",РПК ТВ
-http://iptv.rpk-rost.ru:8080/hls/037/037.m3u8
-#EXTINF:-1 group-title="Tolik",Ю
-http://iptv.rpk-rost.ru:8080/hls/028/028.m3u8
-#EXTINF:-1 group-title="Tolik",9 Волна
-http://iptv.rpk-rost.ru:8080/hls/029/029.m3u8
-#EXTINF:-1 group-title="Tolik",Открытый мир
-http://iptv.rpk-rost.ru:8080/hls/034/034.m3u8
-#EXTINF:-1 group-title="Tolik",2x2
-http://iptv.rpk-rost.ru:8080/hls/023/023.m3u8
-#EXTINF:-1 group-title="Tolik",Вместе-РФ
-http://iptv.rpk-rost.ru:8080/hls/039/039.m3u8
-#EXTINF:-1 group-title="Tolik",Союз
-http://iptv.rpk-rost.ru:8080/hls/041/041.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2761.png" ,Калейдоскоп ТВ
-http://iptv.rpk-rost.ru:8080/hls/042/042.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2760.png" ,Анекдот ТВ
-http://iptv.rpk-rost.ru:8080/hls/035/035.m3u8
-#EXTINF:-1 group-title="Tolik",8 Канал
-http://iptv.rpk-rost.ru:8080/hls/044/044.m3u8
-#EXTINF:-1 group-title="Tolik",Че
-http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
-#EXTINF:-1 group-title="Tolik",Раз ТВ
-http://iptv.rpk-rost.ru:8080/hls/049/049.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2265.png" ,360°
-http://iptv.rpk-rost.ru:8080/hls/052/052.m3u8
-#EXTINF:-1 group-title="Tolik",Красная линия
-http://iptv.rpk-rost.ru:8080/hls/053/053.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2469.png" ,Три ангела
-http://iptv.rpk-rost.ru:8080/hls/063/063.m3u8
-#EXTINF:-1 group-title="Tolik",7 ТВ
-http://iptv.rpk-rost.ru:8080/hls/078/078.m3u8
-#EXTINF:-1 group-title="Tolik",МузТВ
-http://iptv.rpk-rost.ru:8080/hls/020/020.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2409.png" ,Russian MusicBox
-http://iptv.rpk-rost.ru:8080/hls/092/092.m3u8
-#EXTINF:-1 group-title="Tolik",Шансон ТВ
-http://iptv.rpk-rost.ru:8080/hls/094/094.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/680.png" ,ТНТ MUSIC
-http://iptv.rpk-rost.ru:8080/hls/081/081.m3u8
-#EXTINF:-1 group-title="Tolik",Bridge TV
-http://iptv.rpk-rost.ru:8080/hls/045/045.m3u8
-#EXTINF:-1 group-title="Tolik",RU.TV
-http://iptv.rpk-rost.ru:8080/hls/046/046.m3u8
-#EXTINF:-1 group-title="Tolik" tvg-logo="http://epg.it999.ru/img/2477.png" ,ТНОМЕР
-http://iptv.rpk-rost.ru:8080/hls/084/084.m3u8
-#EXTINF:-1 group-title="Tolik",Матч Арена
-http://iptv.rpk-rost.ru:8080/hls/match-arena/match-arena.m3u8
-#EXTINF:-1 group-title="Tolik",Матч
-http://iptv.rpk-rost.ru:8080/hls/003/003.m3u8
+#EXTINF:-1 group-title="hobby",RTG HD
+http://213.226.137.140:81/tl/l321/mpegts
+#EXTINF:-1 group-title="hobby",Travel HD
+http://213.226.137.140:81/tl/l14/mpegts
+#EXTINF:-1 group-title="hobby",Viasat Explore
+http://213.226.137.140:81/tl/l94/mpegts
+#EXTINF:-1 group-title="hobby",Viasat History
+http://213.226.137.140:81/tl/l95/mpegts
+#EXTINF:-1 group-title="hobby",Viasat Nature
+http://213.226.137.140:81/tl/l96/mpegts
+#EXTINF:-1 group-title="hobby",HD Life
+http://213.226.137.140:81/tl/l305/mpegts
+#EXTINF:-1 group-title="hobby",Диалоги о рыбалке
+http://213.226.137.140:81/tl/l55/mpegts
+#EXTINF:-1 group-title="hobby",Авто Плюс
+http://213.226.137.140:81/tl/l105/mpegts
+#EXTINF:-1 group-title="hobby",Boomerang HD
+http://213.226.137.140:81/tl/l401/mpegts
+#EXTINF:-1 group-title="hobby",Точка отрыва
+http://213.226.137.140:81/tl/l412/mpegts
+#EXTINF:-1 group-title="hobby",365 дней
+http://213.226.137.140:81/tl/l413/mpegts
+#EXTINF:-1 group-title="hobby",E TV
+http://213.226.137.140:81/tl/l416/mpegts
+#EXTINF:-1 group-title="hobby",Ю
+http://213.226.137.140:81/tl/l1006/mpegts
+#EXTINF:-1 group-title="hobby",SHOT TV
+http://213.226.137.140:81/tl/l60/mpegts
+#EXTINF:-1 group-title="hobby",Кухня ТВ
+http://213.226.137.140:81/tl/l65/mpegts
+#EXTINF:-1 group-title="hobby",КВН ТВ
+http://213.226.137.140:81/tl/l410/mpegts
+#EXTINF:-1 group-title="hobby",2x2
+http://213.226.137.140:81/tl/l405/mpegts
+#EXTINF:-1 group-title="hobby",Fashion TV HD
+http://213.226.137.140:81/tl/l101/mpegts
+#EXTINF:-1 group-title="hobby",World Fashion Channel
+http://213.226.137.140:81/tl/l411/mpegts
 
 
+#EXTINF:-1 group-title="sport",KHL Prime HD
+http://213.226.137.140:81/tl/l67/mpegts
+#EXTINF:-1 group-title="sport",MMA-TV
+http://213.226.137.140:81/tl/l404/mpegts
+#EXTINF:-1 group-title="sport",Матч ТВ HD
+http://213.226.137.140:81/tl/l320/mpegts
+#EXTINF:-1 group-title="sport",МАТЧ! БОЕЦ HD
+http://213.226.137.140:81/tl/l66/mpegts
+#EXTINF:-1 group-title="sport",Матч Премьер HD
+http://213.226.137.140:81/tl/l74/mpegts
+#EXTINF:-1 group-title="sport",Матч! Страна HD
+http://213.226.137.140:81/tl/l73/mpegts
+#EXTINF:-1 group-title="sport",Viasat Sport
+http://213.226.137.140:81/tl/l97/mpegts
+#EXTINF:-1 group-title="sport",БОКС ТВ
+http://213.226.137.140:81/tl/l104/mpegts
+#EXTINF:-1 group-title="sport",Матч! Игра HD
+http://213.226.137.140:81/tl/l304/mpegts
+#EXTINF:-1 group-title="sport",Мир баскетбола
+http://213.226.137.140:81/tl/l423/mpegts
 
+#EXTINF:-1 group-title="music",МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="music",Мультимузыка
+http://213.226.137.140:81/tl/l417/mpegts
+#EXTINF:-1 group-title="music",БОБЁР
+http://213.226.137.140:81/tl/l112/mpegts
+#EXTINF:-1 group-title="music",Сарафан
+http://213.226.137.140:81/tl/l103/mpegts
+#EXTINF:-1 group-title="music",Bridge HD
+http://213.226.137.140:81/tl/l322/mpegts
+#EXTINF:-1 group-title="music",Mezzo Live HD
+http://213.226.137.140:81/tl/l56/mpegts
+#EXTINF:-1 group-title="music",Шансон ТВ
+http://213.226.137.140:81/tl/l88/mpegts
+#EXTINF:-1 group-title="music",Европа Плюс ТВ
+http://213.226.137.140:81/tl/l89/mpegts
+#EXTINF:-1 group-title="music",RU.TV
+http://213.226.137.140:81/tl/l99/mpegts
+#EXTINF:-1 group-title="music",Музыка Первого
+http://213.226.137.140:81/tl/l102/mpegts
+#EXTINF:-1 group-title="music",MTV Europe
+http://213.226.137.140:81/tl/l107/mpegts
+#EXTINF:-1 group-title="music",MTV 90s
+http://213.226.137.140:81/tl/l109/mpegts
+#EXTINF:-1 group-title="music",MTV Live HD
+http://213.226.137.140:81/tl/l302/mpegts
 
