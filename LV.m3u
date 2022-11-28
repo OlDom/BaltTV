@@ -82,8 +82,6 @@ http://213.226.137.140:81/tl/l16/mpegts
 http://213.226.137.140:81/tl/l75/mpegts
 #EXTINF:-1 group-title="kino",TLC
 http://213.226.137.140:81/tl/l18/mpegts
-#EXTINF:-1 group-title="kino",AMEDIA HIT
-http://213.226.137.140:81/tl/l90/mpegts
 #EXTINF:-1 group-title="kino",TV1000
 http://213.226.137.140:81/tl/l91/mpegts
 #EXTINF:-1 group-title="kino",TV1000 Action
@@ -94,6 +92,22 @@ http://213.226.137.140:81/tl/l93/mpegts
 http://213.226.137.140:81/tl/l319/mpegts
 #EXTINF:-1 group-title="kino",Еврокино
 http://213.226.137.140:81/tl/l407/mpegts
+#EXTINF:-1 group-title="kino",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="kino",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="kino",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="kino",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЯ МИКС",Amedia 1
+http://95.217.196.109:8081/russia/amedia_sd_new/playlist.m3u8
+#EXTINF:-1 group-title="kino",AMEDIA HIT
+http://213.226.137.140:81/tl/l90/mpegts
+#EXTINF:-1 group-title="kino",Amedia premium HD
+http://95.217.196.109:8081/russia/amedia_premium_hd/playlist.m3u8
+#EXTINF:-1 group-title="kino",Иллюзион+
+http://95.217.196.109:8081/russia/illuzion_plus/playlist.m3u8
 
 
 
