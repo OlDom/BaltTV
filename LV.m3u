@@ -38,6 +38,45 @@ http://iptv.ktkru.ru:8018/index.m3u8
 
 
 
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
+
+#EXTINF:-1 group-title="free",Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 group-title="free",Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="free",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="free",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="free",РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 group-title="free",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1 group-title="free",СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 group-title="free",Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 group-title="free",ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:-1 group-title="free",Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 group-title="free",Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="free",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="free",Россия К
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:-1 group-title="free",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="free",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="free",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+#EXTINF:-1 group-title="free",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="news" ,Россия 24
 http://iptv.ktkru.ru:8007/index.m3u8
@@ -56,145 +95,294 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="news",RTVi
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="news",Дождь
-http://46.19.100.174:4450/play/a00f/index.m3u8
+http://46.19.100.174:4450/play/a00f/index.m3u8)))))))))))))))))))))))))))))))))))))))))))))))))))))
 #EXTINF:-1 group-title="news",Euronews
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 #EXTINF:-1 group-title="news",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
-#EXTINF:-1 group-title="kino",VIP Comedy HD
+
+#EXTINF:-1 group-title="free1" ,Первый канал
+http://188.191.160.238:9099/channel/1_Kanal.ts
+#EXTINF:-1 group-title="free1" ,Россия 1
+http://188.191.160.238:9099/channel/Rossiya.ts
+#EXTINF:-1 group-title="free1" ,НТВ
+http://188.191.160.238:9099/channel/NTV.ts
+#EXTINF:-1 group-title="free1" ,ТНТ
+http://188.191.160.238:9099/channel/TNT.ts
+#EXTINF:-1 group-title="free1" ,ТНТ4
+http://188.191.160.238:9099/channel/TNT4.ts
+#EXTINF:-1 group-title="free1" ,РЕН ТВ
+http://188.191.160.238:9099/channel/REN_TV.ts
+#EXTINF:-1 group-title="free1" ,5 канал
+http://188.191.160.238:9099/channel/5_Kanal.ts
+#EXTINF:-1 group-title="free1" ,360°
+http://188.191.160.238:9099/channel/360_Podmoskovie_HD.ts
+#EXTINF:-1 group-title="free1" ,Москва доверие
+http://188.191.160.238:9099/channel/Doverie.ts
+#EXTINF:-1 group-title="free1" ,Домашний
+http://188.191.160.238:9099/channel/Domashniy.ts
+#EXTINF:-1 group-title="free1" ,Калейдоскоп ТВ
+http://188.191.160.238:9099/channel/Kaleydoskop_TV.ts
+#EXTINF:-1 group-title="free1" ,Москва 24
+http://188.191.160.238:9099/channel/Moskva_24.ts
+#EXTINF:-1 group-title="free1" ,Лен ТВ 24
+http://188.191.160.238:9099/channel/LOT.ts
+#EXTINF:-1 group-title="free1" ,RU.TV
+http://188.191.160.238:9099/channel/RU_TV.ts
+#EXTINF:-1 group-title="free1" ,Санкт-Петербург
+http://188.191.160.238:9099/channel/Sankt-Peterburg.ts
+#EXTINF:-1 group-title="free1" ,Точка ТВ
+http://188.191.160.238:9099/channel/Tochka_TV.ts
+#EXTINF:-1 group-title="free1" ,СТС
+http://188.191.160.238:9099/channel/STS.ts
+#EXTINF:-1 group-title="free1" ,ОТР
+http://188.191.160.238:9099/channel/OTR.ts
+#EXTINF:-1 group-title="free1" ,Три ангела
+http://188.191.160.238:9099/channel/Tri_Angela.ts
+#EXTINF:-1 group-title="free1" ,ТВ3
+http://188.191.160.238:9099/channel/TV3.ts
+#EXTINF:-1 group-title="free1" ,Ямал регион
+http://188.191.160.238:9099/channel/Yamal-Region.ts
+#EXTINF:-1 group-title="free1" ,Звезда
+http://188.191.160.238:9099/channel/Zvezda.ts
+
+
+
+
+
+
+#EXTINF:-1 group-title="free2" ,НТВ
+http://iptv.mega.net.ru:8888/TVRU1/NTV/index.m3u8
+#EXTINF:-1 group-title="free2" ,НТВ Право
+http://iptv.mega.net.ru:8888/TVRU1/NTV_Pravo/index.m3u8
+#EXTINF:-1 group-title="free2" ,НТВ Хит
+http://iptv.mega.net.ru:8888/TVRU1/NTV_Hit/index.m3u8
+#EXTINF:-1 group-title="free2" ,РЕН ТВ
+http://iptv.mega.net.ru:8888/TVRU1/REN_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНТ
+http://iptv.mega.net.ru:8888/TVRU1/TNT/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНТ4
+http://iptv.mega.net.ru:8888/TVRU1/TNT4/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Explore
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Explorer/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat History
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Nature
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="free2" ,Nat Geo Wild
+http://iptv.mega.net.ru:8888/TVRU1/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="free2" ,National Geographic
+http://iptv.mega.net.ru:8888/TVRU1/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ocean TV
+http://iptv.mega.net.ru:8888/TVRU1/Ocean_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,24 Техно
+http://iptv.mega.net.ru:8888/TVRU1/24_Tehno/index.m3u8
+#EXTINF:-1 group-title="free2" ,Морской
+http://iptv.mega.net.ru:8888/TVRU1/Morskoi/index.m3u8
+#EXTINF:-1 group-title="free2" ,.Sci-Fi
+http://iptv.mega.net.ru:8888/TVRU1/Sony_Sci_Fi/index.m3u8
+#EXTINF:-1 group-title="free2" ,2x2
+http://iptv.mega.net.ru:8888/TVRU1/2x2/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia 1
+http://iptv.mega.net.ru:8888/TVRU1/A1/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia 2
+http://iptv.mega.net.ru:8888/TVRU1/A2/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia hit
+http://iptv.mega.net.ru:8888/TVRU1/Amedia_hit/index.m3u8
+#EXTINF:-1 group-title="free2" ,Arirang
+http://iptv.mega.net.ru:8888/TVRU1/Outdoor/index.m3u8
+#EXTINF:-1 group-title="free2" ,Cinema
+http://iptv.mega.net.ru:8888/TVRU1/Cinema/index.m3u8
+#EXTINF:-1 group-title="free2" ,FOX
+http://iptv.mega.net.ru:8888/TVRU1/FOX/index.m3u8
+#EXTINF:-1 group-title="free2" ,Fox Life
+http://iptv.mega.net.ru:8888/TVRU1/Fox_Life/index.m3u8
+#EXTINF:-1 group-title="free2" ,Galaxy TV
+http://iptv.mega.net.ru:8888/TVRU1/Galaxy_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,Hollywood
+http://iptv.mega.net.ru:8888/TVRU1/AMC/index.m3u8
+#EXTINF:-1 group-title="free2" ,Plan B
+http://iptv.mega.net.ru:8888/TVRU1/VIP_Comedy/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000
+http://iptv.mega.net.ru:8888/TVRU1/TV1000/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000 Action
+http://iptv.mega.net.ru:8888/TVRU1/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000 Русское кино
+http://iptv.mega.net.ru:8888/TVRU1/TV1000_Russkoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Zee TV
+http://iptv.mega.net.ru:8888/TVRU1/Zee_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,ЗооПарк
+http://iptv.mega.net.ru:8888/TVRU1/Zoopark/index.m3u8
+#EXTINF:-1 group-title="free2" ,Авто 24
+http://iptv.mega.net.ru:8888/TVRU1/Avto24/index.m3u8
+#EXTINF:-1 group-title="free2" ,Авто плюс
+http://iptv.mega.net.ru:8888/TVRU1/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="free2" ,Бобёр
+http://iptv.mega.net.ru:8888/TVRU1/BOBER/index.m3u8
+#EXTINF:-1 group-title="free2" ,VH1 Classic
+http://iptv.mega.net.ru:8888/TVRU1/VH1_Classic/index.m3u8
+#EXTINF:-1 group-title="free2" ,Bridge TV Hits
+http://iptv.mega.net.ru:8888/TVRU1/CBS_Reality/index.m3u8
+#EXTINF:-1 group-title="free2" ,Mezzo
+http://iptv.mega.net.ru:8888/TVRU1/Mezzo/index.m3u8
+#EXTINF:-1 group-title="free2" ,Дом кино
+http://iptv.mega.net.ru:8888/TVRU1/Dom_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Дорама
+http://iptv.mega.net.ru:8888/TVRU1/dorama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Еврокино
+http://iptv.mega.net.ru:8888/TVRU1/Evrokino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Звезда
+http://iptv.mega.net.ru:8888/TVRU1/Zvezda/index.m3u8
+#EXTINF:-1 group-title="free2" ,Звезда Плюс
+http://iptv.mega.net.ru:8888/TVRU1/Spike/index.m3u8
+#EXTINF:-1 group-title="free2" ,Индийское кино
+http://iptv.mega.net.ru:8888/TVRU1/Indiiskoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,КВН ТВ
+http://iptv.mega.net.ru:8888/TVRU1/KVN_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кинокомедия
+http://iptv.mega.net.ru:8888/TVRU1/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киномикс
+http://iptv.mega.net.ru:8888/TVRU1/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киносвидание
+http://iptv.mega.net.ru:8888/TVRU1/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киносерия
+http://iptv.mega.net.ru:8888/TVRU1/KINOSERIA/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кинохит
+http://iptv.mega.net.ru:8888/TVRU1/Kinohit/index.m3u8
+#EXTINF:-1 group-title="free2" ,Родное кино
+http://iptv.mega.net.ru:8888/TVRU1/Rodnoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Красная линия
+http://iptv.mega.net.ru:8888/TVRU1/ID_Xtra/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кухня ТВ
+http://iptv.mega.net.ru:8888/TVRU1/kuhnya_tv/index.m3u8
+#EXTINF:-1 group-title="free2" ,ЛДПР ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="free2" ,Любимое Кино
+http://iptv.mega.net.ru:8888/TVRU1/Lubimoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мир 24
+http://iptv.mega.net.ru:8888/TVRU1/Mir_24/index.m3u8
+#EXTINF:-1 group-title="free2" ,Наша тема
+http://iptv.mega.net.ru:8888/TVRU1/nasha_tema/index.m3u8
+#EXTINF:-1 group-title="free2" ,ОТР
+http://iptv.mega.net.ru:8888/TVRU1/OTR/index.m3u8
+#EXTINF:-1 group-title="free2" ,Победа
+http://iptv.mega.net.ru:8888/TVRU1/Pobeda/index.m3u8
+#EXTINF:-1 group-title="free2" ,День победы
+http://iptv.mega.net.ru:8888/TVRU1/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 group-title="free2" ,Психология 21
+http://iptv.mega.net.ru:8888/TVRU1/psihologiya/index.m3u8
+#EXTINF:-1 group-title="free2" ,РБК
+http://iptv.mega.net.ru:8888/TVRU1/RBK/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ретро
+http://iptv.mega.net.ru:8888/TVRU1/retro/index.m3u8
+#EXTINF:-1 group-title="free2" ,Da Vinci
+http://iptv.mega.net.ru:8888/TVRU1/Da_Vinci/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мама
+http://iptv.mega.net.ru:8888/TVRU1/Mama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ani
+http://iptv.mega.net.ru:8888/TVRU1/Ani/index.m3u8
+#EXTINF:-1 group-title="free2" ,Tiji
+http://iptv.mega.net.ru:8888/TVRU1/Tiji/index.m3u8
+#EXTINF:-1 group-title="free2" ,Disney
+http://iptv.mega.net.ru:8888/TVRU1/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мультимания
+http://iptv.mega.net.ru:8888/TVRU1/Multimania/index.m3u8
+#EXTINF:-1 group-title="free2" ,Gulli Girl
+http://iptv.mega.net.ru:8888/TVRU1/Gulli_Girl/index.m3u8
+#EXTINF:-1 group-title="free2" ,Сарафан
+http://iptv.mega.net.ru:8888/TVRU1/Sarafan/index.m3u8
+#EXTINF:-1 group-title="free2" ,Союз
+http://iptv.mega.net.ru:8888/TVRU1/Souz/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС
+http://iptv.mega.net.ru:8888/TVRU1/STS/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС Kids
+http://iptv.mega.net.ru:8888/TVRU1/CTC_Kids/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС Love
+http://iptv.mega.net.ru:8888/TVRU1/STS_Love/index.m3u8
+#EXTINF:-1 group-title="free2" ,Суббота!
+http://iptv.mega.net.ru:8888/TVRU1/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="free2" ,Танцуй
+http://iptv.mega.net.ru:8888/TVRU1/Super/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВ XXI
+http://iptv.mega.net.ru:8888/TVRU1/XXI/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВ3
+http://iptv.mega.net.ru:8888/TVRU1/TV_3/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВЦ
+http://iptv.mega.net.ru:8888/TVRU1/TVC/index.m3u8
+#EXTINF:-1 group-title="free2" ,Театр
+http://iptv.mega.net.ru:8888/TVRU1/Teatr/index.m3u8
+#EXTINF:-1 group-title="free2" ,Телекафе
+http://iptv.mega.net.ru:8888/TVRU1/Telekafe/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНВ-Планета
+http://iptv.mega.net.ru:8888/TVRU1/BBC_World/index.m3u8
+#EXTINF:-1 group-title="free2" ,Точка ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Epic_Drama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Че
+http://iptv.mega.net.ru:8888/TVRU1/Ce/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ю
+http://iptv.mega.net.ru:8888/TVRU1/U/index.m3u8
+#EXTINF:-1 group-title="free2" ,Старт
+http://iptv.mega.net.ru:8888/TVRU1/DTX/index.m3u8
+#EXTINF:-1 group-title="free2" ,Бокс ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,M1 global
+http://iptv.mega.net.ru:8888/TVRU1/m1_global/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Sport
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="free2" ,Матч! Страна
+http://iptv.mega.net.ru:8888/TVRU1/MATC__NAS_SPORT/index.m3u8
+#EXTINF:-1 group-title="free2" ,КХЛ ТВ
+http://iptv.mega.net.ru:8888/TVRU1/KHL_TV/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="free3" ,ТНТ4 +4
+http://194.143.148.28:8080/TNT4/mpegts
+#EXTINF:-1 group-title="free3" ,2x2 +4
+http://194.143.148.28:8080/2x2/mpegts
+#EXTINF:-1 group-title="free3" ,ЧЕ +4
+http://194.143.148.28:8080/CHE/mpegts
+#EXTINF:-1 group-title="free3" ,СТС Love
+http://194.143.148.28:8080/CTCLove/mpegts
+#EXTINF:-1 group-title="free3" ,НТВ Хит
+http://194.143.148.28:8080/NTVHit/mpegts
+#EXTINF:-1 group-title="free3" ,Студия Радио MCM - Иркутск HD
+http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 group-title="free3" tvg-logo="https://assets.iptv2022.com/static/channel/10435/logo_128_1652790001.png",ТИВИСИ (Иркутск)
+http://194.143.148.28:8080/TVC/mpegts
+#EXTINF:-1 group-title="free3" ,TDK
+http://194.143.148.28:8080/TDK/mpegts
+#EXTINF:-1 group-title="free3" ,RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 group-title="free3" ,Известия HD
+http://194.143.148.28:8080/Izvestiya/mpegts
+#EXTINF:-1 group-title="free3" ,RU.TV
+http://194.143.148.28:8080/RUTV/mpegts
+#EXTINF:-1 group-title="free3" ,Суббота
+http://194.143.148.28:8080/Subbota/mpegts
+#EXTINF:-1 group-title="free3" ,TV 1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 group-title="free3" ,Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="free3" ,Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="free3" ,Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
+
+
+
+
+#EXTINF:-1 group-title="kino VIP",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino",VIP Megahit HD
+#EXTINF:-1 group-title="kino VIP",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino",VIP Premiere HD
+#EXTINF:-1 group-title="kino VIP",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino",VIP Serial HD
+#EXTINF:-1 group-title="kino VIP",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino",Amedia 1
+#EXTINF:-1 group-title="kino VIP",Amedia 1
 http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 group-title="kino",AMEDIA HIT
-http://213.226.137.140:81/tl/l90/mpegts
-#EXTINF:-1 group-title="kino",Amedia premium HD
-http://95.217.196.109:8081/russia/amedia_premium_hd/playlist.m3u8
-#EXTINF:-1 group-title="kino",НАШЕ НОВОЕ КИНО
-http://213.226.137.140:81/tl/l53/mpegts
-#EXTINF:-1 group-title="kino",КИНОКОМЕДИЯ
-http://213.226.137.140:81/tl/l52/mpegts
-#EXTINF:-1 group-title="kino",РОДНОЕ КИНО
-http://213.226.137.140:81/tl/l54/mpegts
-#EXTINF:-1 group-title="kino",КИНОУЖАС
-http://213.226.137.140:81/tl/l415/mpegts
-#EXTINF:-1 group-title="kino",МУЖСКОЕ КИНО
-http://213.226.137.140:81/tl/l111/mpegts
-#EXTINF:-1 group-title="kino",Кинопремьера HD
-http://213.226.137.140:81/tl/l303/mpegts
-#EXTINF:-1 group-title="kino",Киномикс
-http://213.226.137.140:81/tl/l79/mpegts
-#EXTINF:-1 group-title="kino",КИНОХИТ
-http://213.226.137.140:81/tl/l16/mpegts
-#EXTINF:-1 group-title="kino",Дом Кино Премиум HD
-http://213.226.137.140:81/tl/l75/mpegts
 
-#EXTINF:-1 group-title="kino",TV1000
-http://213.226.137.140:81/tl/l91/mpegts
-#EXTINF:-1 group-title="kino",TV1000 Action
-http://213.226.137.140:81/tl/l92/mpegts
-#EXTINF:-1 group-title="kino",TV1000 Русское кино
-http://213.226.137.140:81/tl/l93/mpegts
-#EXTINF:-1 group-title="kino",VIP Premiere HD
-http://213.226.137.140:81/tl/l319/mpegts
-#EXTINF:-1 group-title="kino",Еврокино
-http://213.226.137.140:81/tl/l407/mpegts
-#EXTINF:-1 group-title="kino",Иллюзион+
-http://95.217.196.109:8081/russia/illuzion_plus/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="hobby",RTG HD
-http://213.226.137.140:81/tl/l321/mpegts
-#EXTINF:-1 group-title="hobby",Travel HD
-http://213.226.137.140:81/tl/l14/mpegts
-#EXTINF:-1 group-title="hobby",Viasat Explore
-http://213.226.137.140:81/tl/l94/mpegts
-#EXTINF:-1 group-title="hobby",Viasat History
-http://213.226.137.140:81/tl/l95/mpegts
-#EXTINF:-1 group-title="hobby",Viasat Nature
-http://213.226.137.140:81/tl/l96/mpegts
-#EXTINF:-1 group-title="hobby",HD Life
-http://213.226.137.140:81/tl/l305/mpegts
-#EXTINF:-1 group-title="hobby",Диалоги о рыбалке
-http://213.226.137.140:81/tl/l55/mpegts
-#EXTINF:-1 group-title="hobby",Авто Плюс
-http://213.226.137.140:81/tl/l105/mpegts
-#EXTINF:-1 group-title="hobby",Boomerang HD
-http://213.226.137.140:81/tl/l401/mpegts
-#EXTINF:-1 group-title="hobby",Точка отрыва
-http://213.226.137.140:81/tl/l412/mpegts
-#EXTINF:-1 group-title="hobby",365 дней
-http://213.226.137.140:81/tl/l413/mpegts
-#EXTINF:-1 group-title="hobby",E TV
-http://213.226.137.140:81/tl/l416/mpegts
-#EXTINF:-1 group-title="hobby",Ю
-http://213.226.137.140:81/tl/l1006/mpegts
-#EXTINF:-1 group-title="hobby",SHOT TV
-http://213.226.137.140:81/tl/l60/mpegts
-#EXTINF:-1 group-title="hobby",Кухня ТВ
-http://213.226.137.140:81/tl/l65/mpegts
-#EXTINF:-1 group-title="hobby",КВН ТВ
-http://213.226.137.140:81/tl/l410/mpegts
-#EXTINF:-1 group-title="hobby",2x2
-http://213.226.137.140:81/tl/l405/mpegts
-#EXTINF:-1 group-title="hobby",Fashion TV HD
-http://213.226.137.140:81/tl/l101/mpegts
-#EXTINF:-1 group-title="hobby",World Fashion Channel
-http://213.226.137.140:81/tl/l411/mpegts
-
-
-#EXTINF:-1 group-title="sport",KHL Prime HD
-http://213.226.137.140:81/tl/l67/mpegts
-#EXTINF:-1 group-title="sport",MMA-TV
-http://213.226.137.140:81/tl/l404/mpegts
-#EXTINF:-1 group-title="sport",Матч ТВ HD
-http://213.226.137.140:81/tl/l320/mpegts
-#EXTINF:-1 group-title="sport",МАТЧ! БОЕЦ HD
-http://213.226.137.140:81/tl/l66/mpegts
-#EXTINF:-1 group-title="sport",Матч Премьер HD
-http://213.226.137.140:81/tl/l74/mpegts
-#EXTINF:-1 group-title="sport",Матч! Страна HD
-http://213.226.137.140:81/tl/l73/mpegts
-#EXTINF:-1 group-title="sport",Viasat Sport
-http://213.226.137.140:81/tl/l97/mpegts
-#EXTINF:-1 group-title="sport",БОКС ТВ
-http://213.226.137.140:81/tl/l104/mpegts
-#EXTINF:-1 group-title="sport",Матч! Игра HD
-http://213.226.137.140:81/tl/l304/mpegts
-#EXTINF:-1 group-title="sport",Мир баскетбола
-http://213.226.137.140:81/tl/l423/mpegts
-
-#EXTINF:-1 group-title="music",МузТВ
-http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 group-title="music",Мультимузыка
-http://213.226.137.140:81/tl/l417/mpegts
-#EXTINF:-1 group-title="music",БОБЁР
-http://213.226.137.140:81/tl/l112/mpegts
-#EXTINF:-1 group-title="music",Сарафан
-http://213.226.137.140:81/tl/l103/mpegts
-#EXTINF:-1 group-title="music",Bridge HD
-http://213.226.137.140:81/tl/l322/mpegts
-#EXTINF:-1 group-title="music",Mezzo Live HD
-http://213.226.137.140:81/tl/l56/mpegts
-#EXTINF:-1 group-title="music",Шансон ТВ
-http://213.226.137.140:81/tl/l88/mpegts
-#EXTINF:-1 group-title="music",Европа Плюс ТВ
-http://213.226.137.140:81/tl/l89/mpegts
-#EXTINF:-1 group-title="music",RU.TV
-http://213.226.137.140:81/tl/l99/mpegts
-#EXTINF:-1 group-title="music",Музыка Первого
-http://213.226.137.140:81/tl/l102/mpegts
-#EXTINF:-1 group-title="music",MTV Europe
-http://213.226.137.140:81/tl/l107/mpegts
-#EXTINF:-1 group-title="music",MTV 90s
-http://213.226.137.140:81/tl/l109/mpegts
-#EXTINF:-1 group-title="music",MTV Live HD
-http://213.226.137.140:81/tl/l302/mpegts
 
