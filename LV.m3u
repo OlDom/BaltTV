@@ -46,6 +46,8 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="news",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="news",Москва 24
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 group-title="news",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="news" ,КРЫМ 24
@@ -55,7 +57,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="news",RTVi
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="news",Дождь
-http://46.19.100.174:4450/play/a00f/index.m3u8)))))))))))))))))))))))))))))))))))))))))))))))))))))
+https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="news",Euronews
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 #EXTINF:-1 group-title="news",Sky News
