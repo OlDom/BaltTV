@@ -227,6 +227,366 @@ http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 
 
 
+#EXTINF:-1 group-title="VPN" ,Первый канал
+http://176.197.223.26:49315/play/103/index.m3u8
+#EXTINF:-1 group-title="VPN" ,НТВ
+http://176.197.223.26:49315/play/104/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Россия 1
+http://176.197.223.26:49315/play/102/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТНТ
+http://176.197.223.26:49315/play/119/index.m3u8
+#EXTINF:-1 group-title="VPN" ,РЕН ТВ
+http://176.197.223.26:49315/play/111/index.m3u8
+#EXTINF:-1 group-title="VPN" ,СТС
+http://176.197.223.26:49315/play/113/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТВН
+http://176.197.223.26:49315/play/a002/index.m3u8
+#EXTINF:-1 group-title="VPN" ,5 канал
+http://176.197.223.26:49315/play/105/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТВЦ
+http://176.197.223.26:49315/play/110/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Пятница
+http://176.197.223.26:49315/play/116/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Домашний
+http://176.197.223.26:49315/play/114/index.m3u8
+#EXTINF:-1 group-title="VPN" ,10 канал
+http://176.197.223.26:49315/play/211/index.m3u8
+
+
+
+#EXTINF:-1 group-title="free2" ,НТВ
+http://iptv.mega.net.ru:8888/TVRU1/NTV/index.m3u8
+#EXTINF:-1 group-title="free2" ,НТВ Право
+http://iptv.mega.net.ru:8888/TVRU1/NTV_Pravo/index.m3u8
+#EXTINF:-1 group-title="free2" ,НТВ Хит
+http://iptv.mega.net.ru:8888/TVRU1/NTV_Hit/index.m3u8
+#EXTINF:-1 group-title="free2" ,РЕН ТВ
+http://iptv.mega.net.ru:8888/TVRU1/REN_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНТ
+http://iptv.mega.net.ru:8888/TVRU1/TNT/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНТ4
+http://iptv.mega.net.ru:8888/TVRU1/TNT4/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Explore
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Explorer/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat History
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Nature
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="free2" ,Nat Geo Wild
+http://iptv.mega.net.ru:8888/TVRU1/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="free2" ,National Geographic
+http://iptv.mega.net.ru:8888/TVRU1/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ocean TV
+http://iptv.mega.net.ru:8888/TVRU1/Ocean_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,24 Техно
+http://iptv.mega.net.ru:8888/TVRU1/24_Tehno/index.m3u8
+#EXTINF:-1 group-title="free2" ,Морской
+http://iptv.mega.net.ru:8888/TVRU1/Morskoi/index.m3u8
+#EXTINF:-1 group-title="free2" ,.Sci-Fi
+http://iptv.mega.net.ru:8888/TVRU1/Sony_Sci_Fi/index.m3u8
+#EXTINF:-1 group-title="free2" ,2x2
+http://iptv.mega.net.ru:8888/TVRU1/2x2/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia 1
+http://iptv.mega.net.ru:8888/TVRU1/A1/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia 2
+http://iptv.mega.net.ru:8888/TVRU1/A2/index.m3u8
+#EXTINF:-1 group-title="free2" ,Amedia hit
+http://iptv.mega.net.ru:8888/TVRU1/Amedia_hit/index.m3u8
+#EXTINF:-1 group-title="free2" ,Arirang
+http://iptv.mega.net.ru:8888/TVRU1/Outdoor/index.m3u8
+#EXTINF:-1 group-title="free2" ,Cinema
+http://iptv.mega.net.ru:8888/TVRU1/Cinema/index.m3u8
+#EXTINF:-1 group-title="free2" ,FOX
+http://iptv.mega.net.ru:8888/TVRU1/FOX/index.m3u8
+#EXTINF:-1 group-title="free2" ,Fox Life
+http://iptv.mega.net.ru:8888/TVRU1/Fox_Life/index.m3u8
+#EXTINF:-1 group-title="free2" ,Galaxy TV
+http://iptv.mega.net.ru:8888/TVRU1/Galaxy_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,Hollywood
+http://iptv.mega.net.ru:8888/TVRU1/AMC/index.m3u8
+#EXTINF:-1 group-title="free2" ,Plan B
+http://iptv.mega.net.ru:8888/TVRU1/VIP_Comedy/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000
+http://iptv.mega.net.ru:8888/TVRU1/TV1000/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000 Action
+http://iptv.mega.net.ru:8888/TVRU1/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="free2" ,TV1000 Русское кино
+http://iptv.mega.net.ru:8888/TVRU1/TV1000_Russkoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Zee TV
+http://iptv.mega.net.ru:8888/TVRU1/Zee_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,ЗооПарк
+http://iptv.mega.net.ru:8888/TVRU1/Zoopark/index.m3u8
+#EXTINF:-1 group-title="free2" ,Авто 24
+http://iptv.mega.net.ru:8888/TVRU1/Avto24/index.m3u8
+#EXTINF:-1 group-title="free2" ,Авто плюс
+http://iptv.mega.net.ru:8888/TVRU1/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="free2" ,Бобёр
+http://iptv.mega.net.ru:8888/TVRU1/BOBER/index.m3u8
+#EXTINF:-1 group-title="free2" ,VH1 Classic
+http://iptv.mega.net.ru:8888/TVRU1/VH1_Classic/index.m3u8
+#EXTINF:-1 group-title="free2" ,Bridge TV Hits
+http://iptv.mega.net.ru:8888/TVRU1/CBS_Reality/index.m3u8
+#EXTINF:-1 group-title="free2" ,Mezzo
+http://iptv.mega.net.ru:8888/TVRU1/Mezzo/index.m3u8
+#EXTINF:-1 group-title="free2" ,Дом кино
+http://iptv.mega.net.ru:8888/TVRU1/Dom_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Дорама
+http://iptv.mega.net.ru:8888/TVRU1/dorama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Еврокино
+http://iptv.mega.net.ru:8888/TVRU1/Evrokino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Звезда
+http://iptv.mega.net.ru:8888/TVRU1/Zvezda/index.m3u8
+#EXTINF:-1 group-title="free2" ,Звезда Плюс
+http://iptv.mega.net.ru:8888/TVRU1/Spike/index.m3u8
+#EXTINF:-1 group-title="free2" ,Индийское кино
+http://iptv.mega.net.ru:8888/TVRU1/Indiiskoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,КВН ТВ
+http://iptv.mega.net.ru:8888/TVRU1/KVN_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кинокомедия
+http://iptv.mega.net.ru:8888/TVRU1/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киномикс
+http://iptv.mega.net.ru:8888/TVRU1/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киносвидание
+http://iptv.mega.net.ru:8888/TVRU1/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="free2" ,Киносерия
+http://iptv.mega.net.ru:8888/TVRU1/KINOSERIA/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кинохит
+http://iptv.mega.net.ru:8888/TVRU1/Kinohit/index.m3u8
+#EXTINF:-1 group-title="free2" ,Родное кино
+http://iptv.mega.net.ru:8888/TVRU1/Rodnoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Красная линия
+http://iptv.mega.net.ru:8888/TVRU1/ID_Xtra/index.m3u8
+#EXTINF:-1 group-title="free2" ,Кухня ТВ
+http://iptv.mega.net.ru:8888/TVRU1/kuhnya_tv/index.m3u8
+#EXTINF:-1 group-title="free2" ,ЛДПР ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="free2" ,Любимое Кино
+http://iptv.mega.net.ru:8888/TVRU1/Lubimoe_kino VIP/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мир 24
+http://iptv.mega.net.ru:8888/TVRU1/Mir_24/index.m3u8
+#EXTINF:-1 group-title="free2" ,Наша тема
+http://iptv.mega.net.ru:8888/TVRU1/nasha_tema/index.m3u8
+#EXTINF:-1 group-title="free2" ,ОТР
+http://iptv.mega.net.ru:8888/TVRU1/OTR/index.m3u8
+#EXTINF:-1 group-title="free2" ,Победа
+http://iptv.mega.net.ru:8888/TVRU1/Pobeda/index.m3u8
+#EXTINF:-1 group-title="free2" ,День победы
+http://iptv.mega.net.ru:8888/TVRU1/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 group-title="free2" ,Психология 21
+http://iptv.mega.net.ru:8888/TVRU1/psihologiya/index.m3u8
+#EXTINF:-1 group-title="free2" ,РБК
+http://iptv.mega.net.ru:8888/TVRU1/RBK/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ретро
+http://iptv.mega.net.ru:8888/TVRU1/retro/index.m3u8
+#EXTINF:-1 group-title="free2" ,Da Vinci
+http://iptv.mega.net.ru:8888/TVRU1/Da_Vinci/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мама
+http://iptv.mega.net.ru:8888/TVRU1/Mama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ani
+http://iptv.mega.net.ru:8888/TVRU1/Ani/index.m3u8
+#EXTINF:-1 group-title="free2" ,Tiji
+http://iptv.mega.net.ru:8888/TVRU1/Tiji/index.m3u8
+#EXTINF:-1 group-title="free2" ,Disney
+http://iptv.mega.net.ru:8888/TVRU1/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="free2" ,Мультимания
+http://iptv.mega.net.ru:8888/TVRU1/Multimania/index.m3u8
+#EXTINF:-1 group-title="free2" ,Gulli Girl
+http://iptv.mega.net.ru:8888/TVRU1/Gulli_Girl/index.m3u8
+#EXTINF:-1 group-title="free2" ,Сарафан
+http://iptv.mega.net.ru:8888/TVRU1/Sarafan/index.m3u8
+#EXTINF:-1 group-title="free2" ,Союз
+http://iptv.mega.net.ru:8888/TVRU1/Souz/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС
+http://iptv.mega.net.ru:8888/TVRU1/STS/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС Kids
+http://iptv.mega.net.ru:8888/TVRU1/CTC_Kids/index.m3u8
+#EXTINF:-1 group-title="free2" ,СТС Love
+http://iptv.mega.net.ru:8888/TVRU1/STS_Love/index.m3u8
+#EXTINF:-1 group-title="free2" ,Суббота!
+http://iptv.mega.net.ru:8888/TVRU1/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="free2" ,Танцуй
+http://iptv.mega.net.ru:8888/TVRU1/Super/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВ XXI
+http://iptv.mega.net.ru:8888/TVRU1/XXI/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВ3
+http://iptv.mega.net.ru:8888/TVRU1/TV_3/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТВЦ
+http://iptv.mega.net.ru:8888/TVRU1/TVC/index.m3u8
+#EXTINF:-1 group-title="free2" ,Театр
+http://iptv.mega.net.ru:8888/TVRU1/Teatr/index.m3u8
+#EXTINF:-1 group-title="free2" ,Телекафе
+http://iptv.mega.net.ru:8888/TVRU1/Telekafe/index.m3u8
+#EXTINF:-1 group-title="free2" ,ТНВ-Планета
+http://iptv.mega.net.ru:8888/TVRU1/BBC_World/index.m3u8
+#EXTINF:-1 group-title="free2" ,Точка ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Epic_Drama/index.m3u8
+#EXTINF:-1 group-title="free2" ,Че
+http://iptv.mega.net.ru:8888/TVRU1/Ce/index.m3u8
+#EXTINF:-1 group-title="free2" ,Ю
+http://iptv.mega.net.ru:8888/TVRU1/U/index.m3u8
+#EXTINF:-1 group-title="free2" ,Старт
+http://iptv.mega.net.ru:8888/TVRU1/DTX/index.m3u8
+#EXTINF:-1 group-title="free2" ,Бокс ТВ
+http://iptv.mega.net.ru:8888/TVRU1/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="free2" ,M1 global
+http://iptv.mega.net.ru:8888/TVRU1/m1_global/index.m3u8
+#EXTINF:-1 group-title="free2" ,Viasat Sport
+http://iptv.mega.net.ru:8888/TVRU1/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="free2" ,Матч! Страна
+http://iptv.mega.net.ru:8888/TVRU1/MATC__NAS_SPORT/index.m3u8
+#EXTINF:-1 group-title="free2" ,КХЛ ТВ
+http://iptv.mega.net.ru:8888/TVRU1/KHL_TV/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="East" ,ПЕРВЫЙ КАНАЛ
+http://194.113.234.110:4001
+#EXTINF:-1 group-title="East" ,РОССИЯ 1
+http://194.113.234.110:4002
+#EXTINF:-1 group-title="East" ,ТНТ
+http://194.113.234.110:4019
+#EXTINF:-1 group-title="East" ,НТВ
+http://194.113.234.110:4004
+#EXTINF:-1 group-title="East" ,РОССИЯ К
+http://194.113.234.110:4006
+#EXTINF:-1 group-title="East" ,РОССИЯ 24
+http://194.113.234.110:4007
+#EXTINF:-1 group-title="East" ,РЕН ТВ
+http://194.113.234.110:4011
+#EXTINF:-1 group-title="East" ,Моя планета
+http://194.113.234.110:4050
+#EXTINF:-1 group-title="East" ,Наука 2.0
+http://194.113.234.110:4051
+#EXTINF:-1 group-title="East" ,История
+http://194.113.234.110:4058
+#EXTINF:-1 group-title="East" ,RTG TV
+http://194.113.234.110:4099
+#EXTINF:-1 group-title="East" ,24 Техно
+http://194.113.234.110:4066
+#EXTINF:-1 group-title="East" ,Охота и рыбалка
+http://194.113.234.110:4042
+#EXTINF:-1 group-title="East" ,Дикий
+http://194.113.234.110:4190
+#EXTINF:-1 group-title="East" ,ОТР
+http://194.113.234.110:4009
+#EXTINF:-1 group-title="East" ,ТВЦ
+http://194.113.234.110:4010
+#EXTINF:-1 group-title="East" ,Спас
+http://194.113.234.110:4012
+#EXTINF:-1 group-title="East" ,СТС
+http://194.113.234.110:4013
+#EXTINF:-1 group-title="East" ,Домашний
+http://194.113.234.110:4014
+#EXTINF:-1 group-title="East" ,ПЯТЫЙ КАНАЛ
+http://194.113.234.110:4005
+#EXTINF:-1 group-title="East" ,ТВ3
+http://194.113.234.110:4015
+#EXTINF:-1 group-title="East" ,Пятница
+http://194.113.234.110:4016
+#EXTINF:-1 group-title="East" ,Звезда
+http://194.113.234.110:4017
+#EXTINF:-1 group-title="East" ,МИР
+http://194.113.234.110:4018
+#EXTINF:-1 group-title="East" ,Русский иллюзион
+http://194.113.234.110:4031
+#EXTINF:-1 group-title="East" ,Иллюзион+
+http://194.113.234.110:4032
+#EXTINF:-1 group-title="East" ,Zooпарк
+http://194.113.234.110:4033
+#EXTINF:-1 group-title="East" ,Еврокино
+http://194.113.234.110:4034
+#EXTINF:-1 group-title="East" ,Ретро
+http://194.113.234.110:4040
+#EXTINF:-1 group-title="East" ,Психология 21
+http://194.113.234.110:4041
+#EXTINF:-1 group-title="East" ,Домашние животные
+http://194.113.234.110:4043
+#EXTINF:-1 group-title="East" ,Здоровое тв
+http://194.113.234.110:4044
+#EXTINF:-1 group-title="East" ,Усадьба
+http://194.113.234.110:4045
+#EXTINF:-1 group-title="East" ,Вопросы и ответы
+http://194.113.234.110:4046
+#EXTINF:-1 group-title="East" ,Русский роман
+http://194.113.234.110:4052
+#EXTINF:-1 group-title="East" ,Русский бестселлер
+http://194.113.234.110:4053
+#EXTINF:-1 group-title="East" ,Кино тв
+http://194.113.234.110:4056
+#EXTINF:-1 group-title="East" ,Комедия
+http://194.113.234.110:4060
+#EXTINF:-1 group-title="East" ,Русский детектив
+http://194.113.234.110:4061
+#EXTINF:-1 group-title="East" ,Cinema
+http://194.113.234.110:4063
+#EXTINF:-1 group-title="East" ,НСТ
+http://194.113.234.110:4067
+#EXTINF:-1 group-title="East" ,Доктор
+http://194.113.234.110:4068
+#EXTINF:-1 group-title="East" ,Точка тв
+http://194.113.234.110:4084
+#EXTINF:-1 group-title="East" ,Беларусь 24
+http://194.113.234.110:4117
+#EXTINF:-1 group-title="East" ,Звезда плюс
+http://194.113.234.110:4125
+#EXTINF:-1 group-title="East" ,Shot TV
+http://194.113.234.110:4137
+#EXTINF:-1 group-title="East" ,ЖАРА
+http://194.113.234.110:4169
+#EXTINF:-1 group-title="East" ,Кинокомедия
+http://194.113.234.110:4179
+#EXTINF:-1 group-title="East" ,РОДНОЕ КИНО
+http://194.113.234.110:4184
+#EXTINF:-1 group-title="East" ,КИНОСЕМЬЯ
+http://194.113.234.110:4185
+#EXTINF:-1 group-title="East" ,Кинохит
+http://194.113.234.110:4187
+#EXTINF:-1 group-title="East" ,Киносвидание
+http://194.113.234.110:4188
+#EXTINF:-1 group-title="East" ,Кухня ТВ
+http://194.113.234.110:4229
+#EXTINF:-1 group-title="East" ,Мужское кино
+http://194.113.234.110:4189
+#EXTINF:-1 group-title="East" ,Киномикс
+http://194.113.234.110:4198
+#EXTINF:-1 group-title="East" ,Наше новое кино
+http://194.113.234.110:4199
+#EXTINF:-1 group-title="East" ,ИНДИЙСКОЕ КИНО
+http://194.113.234.110:4206
+#EXTINF:-1 group-title="East" ,Авто плюс
+http://194.113.234.110:4207
+#EXTINF:-1 group-title="East" ,Ностальгия
+http://194.113.234.110:4208
+#EXTINF:-1 group-title="East" ,Мульт
+http://194.113.234.110:4064
+#EXTINF:-1 group-title="East" ,Сарафан
+http://194.113.234.110:4054
+#EXTINF:-1 group-title="East" ,Уникум
+http://194.113.234.110:4030
+#EXTINF:-1 group-title="East" ,КАРУСЕЛЬ
+http://194.113.234.110:4008
+#EXTINF:-1 group-title="East" ,Мультимузыка
+http://194.113.234.110:4055
+#EXTINF:-1 group-title="East" ,Ani
+http://194.113.234.110:4059
+#EXTINF:-1 group-title="East" ,Мама
+http://194.113.234.110:4065
+#EXTINF:-1 group-title="East" ,МузТВ
+http://194.113.234.110:4020
+#EXTINF:-1 group-title="East" ,RU.TV
+http://194.113.234.110:4116
+#EXTINF:-1 group-title="East" ,Europa plus TV
+http://194.113.234.110:4228
+#EXTINF:-1 group-title="East" ,Ля-минор
+http://194.113.234.110:4230
+#EXTINF:-1 group-title="East" ,МАТЧ ТВ
+http://194.113.234.110:4003
+
+
+
+
 #EXTINF:-1 group-title="VLC",Первый HD
 https://livetv.mylifeisgood.ml/channels/perviytest
 #EXTINF:-1 group-title="VLC",Россия 1 HD
@@ -525,255 +885,6 @@ https://livetv.mylifeisgood.ml/channels/nashsport23
 https://livetv.mylifeisgood.ml/channels/nashsport24
 
 
-#EXTINF:-1 group-title="VPN" ,Первый канал
-http://176.197.223.26:49315/play/103/index.m3u8
-#EXTINF:-1 group-title="VPN" ,НТВ
-http://176.197.223.26:49315/play/104/index.m3u8
-#EXTINF:-1 group-title="VPN" ,Россия 1
-http://176.197.223.26:49315/play/102/index.m3u8
-#EXTINF:-1 group-title="VPN" ,ТНТ
-http://176.197.223.26:49315/play/119/index.m3u8
-#EXTINF:-1 group-title="VPN" ,РЕН ТВ
-http://176.197.223.26:49315/play/111/index.m3u8
-#EXTINF:-1 group-title="VPN" ,СТС
-http://176.197.223.26:49315/play/113/index.m3u8
-#EXTINF:-1 group-title="VPN" ,ТВН
-http://176.197.223.26:49315/play/a002/index.m3u8
-#EXTINF:-1 group-title="VPN" ,5 канал
-http://176.197.223.26:49315/play/105/index.m3u8
-#EXTINF:-1 group-title="VPN" ,ТВЦ
-http://176.197.223.26:49315/play/110/index.m3u8
-#EXTINF:-1 group-title="VPN" ,Пятница
-http://176.197.223.26:49315/play/116/index.m3u8
-#EXTINF:-1 group-title="VPN" ,Домашний
-http://176.197.223.26:49315/play/114/index.m3u8
-#EXTINF:-1 group-title="VPN" ,10 канал
-http://176.197.223.26:49315/play/211/index.m3u8
-
-
-
-#EXTINF:-1 group-title="free2" ,НТВ
-http://iptv.mega.net.ru:8888/TVRU1/NTV/index.m3u8
-#EXTINF:-1 group-title="free2" ,НТВ Право
-http://iptv.mega.net.ru:8888/TVRU1/NTV_Pravo/index.m3u8
-#EXTINF:-1 group-title="free2" ,НТВ Хит
-http://iptv.mega.net.ru:8888/TVRU1/NTV_Hit/index.m3u8
-#EXTINF:-1 group-title="free2" ,РЕН ТВ
-http://iptv.mega.net.ru:8888/TVRU1/REN_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТНТ
-http://iptv.mega.net.ru:8888/TVRU1/TNT/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТНТ4
-http://iptv.mega.net.ru:8888/TVRU1/TNT4/index.m3u8
-#EXTINF:-1 group-title="free2" ,Viasat Explore
-http://iptv.mega.net.ru:8888/TVRU1/Viasat_Explorer/index.m3u8
-#EXTINF:-1 group-title="free2" ,Viasat History
-http://iptv.mega.net.ru:8888/TVRU1/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="free2" ,Viasat Nature
-http://iptv.mega.net.ru:8888/TVRU1/Viasat_Nature/index.m3u8
-#EXTINF:-1 group-title="free2" ,Nat Geo Wild
-http://iptv.mega.net.ru:8888/TVRU1/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="free2" ,National Geographic
-http://iptv.mega.net.ru:8888/TVRU1/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="free2" ,Ocean TV
-http://iptv.mega.net.ru:8888/TVRU1/Ocean_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,24 Техно
-http://iptv.mega.net.ru:8888/TVRU1/24_Tehno/index.m3u8
-#EXTINF:-1 group-title="free2" ,Морской
-http://iptv.mega.net.ru:8888/TVRU1/Morskoi/index.m3u8
-#EXTINF:-1 group-title="free2" ,.Sci-Fi
-http://iptv.mega.net.ru:8888/TVRU1/Sony_Sci_Fi/index.m3u8
-#EXTINF:-1 group-title="free2" ,2x2
-http://iptv.mega.net.ru:8888/TVRU1/2x2/index.m3u8
-#EXTINF:-1 group-title="free2" ,Amedia 1
-http://iptv.mega.net.ru:8888/TVRU1/A1/index.m3u8
-#EXTINF:-1 group-title="free2" ,Amedia 2
-http://iptv.mega.net.ru:8888/TVRU1/A2/index.m3u8
-#EXTINF:-1 group-title="free2" ,Amedia hit
-http://iptv.mega.net.ru:8888/TVRU1/Amedia_hit/index.m3u8
-#EXTINF:-1 group-title="free2" ,Arirang
-http://iptv.mega.net.ru:8888/TVRU1/Outdoor/index.m3u8
-#EXTINF:-1 group-title="free2" ,Cinema
-http://iptv.mega.net.ru:8888/TVRU1/Cinema/index.m3u8
-#EXTINF:-1 group-title="free2" ,FOX
-http://iptv.mega.net.ru:8888/TVRU1/FOX/index.m3u8
-#EXTINF:-1 group-title="free2" ,Fox Life
-http://iptv.mega.net.ru:8888/TVRU1/Fox_Life/index.m3u8
-#EXTINF:-1 group-title="free2" ,Galaxy TV
-http://iptv.mega.net.ru:8888/TVRU1/Galaxy_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,Hollywood
-http://iptv.mega.net.ru:8888/TVRU1/AMC/index.m3u8
-#EXTINF:-1 group-title="free2" ,Plan B
-http://iptv.mega.net.ru:8888/TVRU1/VIP_Comedy/index.m3u8
-#EXTINF:-1 group-title="free2" ,TV1000
-http://iptv.mega.net.ru:8888/TVRU1/TV1000/index.m3u8
-#EXTINF:-1 group-title="free2" ,TV1000 Action
-http://iptv.mega.net.ru:8888/TVRU1/TV1000_Action/index.m3u8
-#EXTINF:-1 group-title="free2" ,TV1000 Русское кино
-http://iptv.mega.net.ru:8888/TVRU1/TV1000_Russkoe_kino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,Zee TV
-http://iptv.mega.net.ru:8888/TVRU1/Zee_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,ЗооПарк
-http://iptv.mega.net.ru:8888/TVRU1/Zoopark/index.m3u8
-#EXTINF:-1 group-title="free2" ,Авто 24
-http://iptv.mega.net.ru:8888/TVRU1/Avto24/index.m3u8
-#EXTINF:-1 group-title="free2" ,Авто плюс
-http://iptv.mega.net.ru:8888/TVRU1/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="free2" ,Бобёр
-http://iptv.mega.net.ru:8888/TVRU1/BOBER/index.m3u8
-#EXTINF:-1 group-title="free2" ,VH1 Classic
-http://iptv.mega.net.ru:8888/TVRU1/VH1_Classic/index.m3u8
-#EXTINF:-1 group-title="free2" ,Bridge TV Hits
-http://iptv.mega.net.ru:8888/TVRU1/CBS_Reality/index.m3u8
-#EXTINF:-1 group-title="free2" ,Mezzo
-http://iptv.mega.net.ru:8888/TVRU1/Mezzo/index.m3u8
-#EXTINF:-1 group-title="free2" ,Дом кино
-http://iptv.mega.net.ru:8888/TVRU1/Dom_kino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,Дорама
-http://iptv.mega.net.ru:8888/TVRU1/dorama/index.m3u8
-#EXTINF:-1 group-title="free2" ,Еврокино
-http://iptv.mega.net.ru:8888/TVRU1/Evrokino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,Звезда
-http://iptv.mega.net.ru:8888/TVRU1/Zvezda/index.m3u8
-#EXTINF:-1 group-title="free2" ,Звезда Плюс
-http://iptv.mega.net.ru:8888/TVRU1/Spike/index.m3u8
-#EXTINF:-1 group-title="free2" ,Индийское кино
-http://iptv.mega.net.ru:8888/TVRU1/Indiiskoe_kino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,КВН ТВ
-http://iptv.mega.net.ru:8888/TVRU1/KVN_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,Кинокомедия
-http://iptv.mega.net.ru:8888/TVRU1/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="free2" ,Киномикс
-http://iptv.mega.net.ru:8888/TVRU1/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="free2" ,Киносвидание
-http://iptv.mega.net.ru:8888/TVRU1/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="free2" ,Киносерия
-http://iptv.mega.net.ru:8888/TVRU1/KINOSERIA/index.m3u8
-#EXTINF:-1 group-title="free2" ,Кинохит
-http://iptv.mega.net.ru:8888/TVRU1/Kinohit/index.m3u8
-#EXTINF:-1 group-title="free2" ,Родное кино
-http://iptv.mega.net.ru:8888/TVRU1/Rodnoe_kino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,Красная линия
-http://iptv.mega.net.ru:8888/TVRU1/ID_Xtra/index.m3u8
-#EXTINF:-1 group-title="free2" ,Кухня ТВ
-http://iptv.mega.net.ru:8888/TVRU1/kuhnya_tv/index.m3u8
-#EXTINF:-1 group-title="free2" ,ЛДПР ТВ
-http://iptv.mega.net.ru:8888/TVRU1/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="free2" ,Любимое Кино
-http://iptv.mega.net.ru:8888/TVRU1/Lubimoe_kino VIP/index.m3u8
-#EXTINF:-1 group-title="free2" ,Мир 24
-http://iptv.mega.net.ru:8888/TVRU1/Mir_24/index.m3u8
-#EXTINF:-1 group-title="free2" ,Наша тема
-http://iptv.mega.net.ru:8888/TVRU1/nasha_tema/index.m3u8
-#EXTINF:-1 group-title="free2" ,ОТР
-http://iptv.mega.net.ru:8888/TVRU1/OTR/index.m3u8
-#EXTINF:-1 group-title="free2" ,Победа
-http://iptv.mega.net.ru:8888/TVRU1/Pobeda/index.m3u8
-#EXTINF:-1 group-title="free2" ,День победы
-http://iptv.mega.net.ru:8888/TVRU1/Den_pobedy_hd/index.m3u8
-#EXTINF:-1 group-title="free2" ,Психология 21
-http://iptv.mega.net.ru:8888/TVRU1/psihologiya/index.m3u8
-#EXTINF:-1 group-title="free2" ,РБК
-http://iptv.mega.net.ru:8888/TVRU1/RBK/index.m3u8
-#EXTINF:-1 group-title="free2" ,Ретро
-http://iptv.mega.net.ru:8888/TVRU1/retro/index.m3u8
-#EXTINF:-1 group-title="free2" ,Da Vinci
-http://iptv.mega.net.ru:8888/TVRU1/Da_Vinci/index.m3u8
-#EXTINF:-1 group-title="free2" ,Мама
-http://iptv.mega.net.ru:8888/TVRU1/Mama/index.m3u8
-#EXTINF:-1 group-title="free2" ,Ani
-http://iptv.mega.net.ru:8888/TVRU1/Ani/index.m3u8
-#EXTINF:-1 group-title="free2" ,Tiji
-http://iptv.mega.net.ru:8888/TVRU1/Tiji/index.m3u8
-#EXTINF:-1 group-title="free2" ,Disney
-http://iptv.mega.net.ru:8888/TVRU1/Disney_Channel/index.m3u8
-#EXTINF:-1 group-title="free2" ,Мультимания
-http://iptv.mega.net.ru:8888/TVRU1/Multimania/index.m3u8
-#EXTINF:-1 group-title="free2" ,Gulli Girl
-http://iptv.mega.net.ru:8888/TVRU1/Gulli_Girl/index.m3u8
-#EXTINF:-1 group-title="free2" ,Сарафан
-http://iptv.mega.net.ru:8888/TVRU1/Sarafan/index.m3u8
-#EXTINF:-1 group-title="free2" ,Союз
-http://iptv.mega.net.ru:8888/TVRU1/Souz/index.m3u8
-#EXTINF:-1 group-title="free2" ,СТС
-http://iptv.mega.net.ru:8888/TVRU1/STS/index.m3u8
-#EXTINF:-1 group-title="free2" ,СТС Kids
-http://iptv.mega.net.ru:8888/TVRU1/CTC_Kids/index.m3u8
-#EXTINF:-1 group-title="free2" ,СТС Love
-http://iptv.mega.net.ru:8888/TVRU1/STS_Love/index.m3u8
-#EXTINF:-1 group-title="free2" ,Суббота!
-http://iptv.mega.net.ru:8888/TVRU1/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="free2" ,Танцуй
-http://iptv.mega.net.ru:8888/TVRU1/Super/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТВ XXI
-http://iptv.mega.net.ru:8888/TVRU1/XXI/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТВ3
-http://iptv.mega.net.ru:8888/TVRU1/TV_3/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТВЦ
-http://iptv.mega.net.ru:8888/TVRU1/TVC/index.m3u8
-#EXTINF:-1 group-title="free2" ,Театр
-http://iptv.mega.net.ru:8888/TVRU1/Teatr/index.m3u8
-#EXTINF:-1 group-title="free2" ,Телекафе
-http://iptv.mega.net.ru:8888/TVRU1/Telekafe/index.m3u8
-#EXTINF:-1 group-title="free2" ,ТНВ-Планета
-http://iptv.mega.net.ru:8888/TVRU1/BBC_World/index.m3u8
-#EXTINF:-1 group-title="free2" ,Точка ТВ
-http://iptv.mega.net.ru:8888/TVRU1/Epic_Drama/index.m3u8
-#EXTINF:-1 group-title="free2" ,Че
-http://iptv.mega.net.ru:8888/TVRU1/Ce/index.m3u8
-#EXTINF:-1 group-title="free2" ,Ю
-http://iptv.mega.net.ru:8888/TVRU1/U/index.m3u8
-#EXTINF:-1 group-title="free2" ,Старт
-http://iptv.mega.net.ru:8888/TVRU1/DTX/index.m3u8
-#EXTINF:-1 group-title="free2" ,Бокс ТВ
-http://iptv.mega.net.ru:8888/TVRU1/Boks_TV/index.m3u8
-#EXTINF:-1 group-title="free2" ,M1 global
-http://iptv.mega.net.ru:8888/TVRU1/m1_global/index.m3u8
-#EXTINF:-1 group-title="free2" ,Viasat Sport
-http://iptv.mega.net.ru:8888/TVRU1/Viasat_Sport/index.m3u8
-#EXTINF:-1 group-title="free2" ,Матч! Страна
-http://iptv.mega.net.ru:8888/TVRU1/MATC__NAS_SPORT/index.m3u8
-#EXTINF:-1 group-title="free2" ,КХЛ ТВ
-http://iptv.mega.net.ru:8888/TVRU1/KHL_TV/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="free3" ,ТНТ4 +4
-http://194.143.148.28:8080/TNT4/mpegts
-#EXTINF:-1 group-title="free3" ,2x2 +4
-http://194.143.148.28:8080/2x2/mpegts
-#EXTINF:-1 group-title="free3" ,ЧЕ +4
-http://194.143.148.28:8080/CHE/mpegts
-#EXTINF:-1 group-title="free3" ,СТС Love
-http://194.143.148.28:8080/CTCLove/mpegts
-#EXTINF:-1 group-title="free3" ,НТВ Хит
-http://194.143.148.28:8080/NTVHit/mpegts
-#EXTINF:-1 group-title="free3" ,Студия Радио MCM - Иркутск HD
-http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:-1 group-title="free3" tvg-logo="https://assets.iptv2022.com/static/channel/10435/logo_128_1652790001.png",ТИВИСИ (Иркутск)
-http://194.143.148.28:8080/TVC/mpegts
-#EXTINF:-1 group-title="free3" ,TDK
-http://194.143.148.28:8080/TDK/mpegts
-#EXTINF:-1 group-title="free3" ,RT Doc
-http://194.143.148.28:8080/RTD_HD/mpegts
-#EXTINF:-1 group-title="free3" ,Известия HD
-http://194.143.148.28:8080/Izvestiya/mpegts
-#EXTINF:-1 group-title="free3" ,RU.TV
-http://194.143.148.28:8080/RUTV/mpegts
-#EXTINF:-1 group-title="free3" ,Суббота
-http://194.143.148.28:8080/Subbota/mpegts
-#EXTINF:-1 group-title="free3" ,TV 1000 Русское кино
-http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 group-title="free3" ,Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="free3" ,Матч ТВ HD
-http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="free3" ,Viasat Sport HD
-http://194.143.148.28:8080/Viasat_Sport/mpegts
-
-
-
-
 #EXTINF:-1 group-title="kino VIP",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="kino VIP",VIP Megahit HD
@@ -785,147 +896,3 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="kino VIP",Amedia 1
 http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
-
-
-#EXTINF:-1 group-title="Uzal" ,ПЕРВЫЙ КАНАЛ
-http://194.113.234.110:4001
-#EXTINF:-1 group-title="Uzal" ,РОССИЯ 1
-http://194.113.234.110:4002
-#EXTINF:-1 group-title="Uzal" ,ТНТ
-http://194.113.234.110:4019
-#EXTINF:-1 group-title="Uzal" ,НТВ
-http://194.113.234.110:4004
-#EXTINF:-1 group-title="Uzal" ,РОССИЯ К
-http://194.113.234.110:4006
-#EXTINF:-1 group-title="Uzal" ,РОССИЯ 24
-http://194.113.234.110:4007
-#EXTINF:-1 group-title="Uzal" ,РЕН ТВ
-http://194.113.234.110:4011
-#EXTINF:-1 group-title="Uzal" ,Моя планета
-http://194.113.234.110:4050
-#EXTINF:-1 group-title="Uzal" ,Наука 2.0
-http://194.113.234.110:4051
-#EXTINF:-1 group-title="Uzal" ,История
-http://194.113.234.110:4058
-#EXTINF:-1 group-title="Uzal" ,RTG TV
-http://194.113.234.110:4099
-#EXTINF:-1 group-title="Uzal" ,24 Техно
-http://194.113.234.110:4066
-#EXTINF:-1 group-title="Uzal" ,Охота и рыбалка
-http://194.113.234.110:4042
-#EXTINF:-1 group-title="Uzal" ,Дикий
-http://194.113.234.110:4190
-#EXTINF:-1 group-title="Uzal" ,ОТР
-http://194.113.234.110:4009
-#EXTINF:-1 group-title="Uzal" ,ТВЦ
-http://194.113.234.110:4010
-#EXTINF:-1 group-title="Uzal" ,Спас
-http://194.113.234.110:4012
-#EXTINF:-1 group-title="Uzal" ,СТС
-http://194.113.234.110:4013
-#EXTINF:-1 group-title="Uzal" ,Домашний
-http://194.113.234.110:4014
-#EXTINF:-1 group-title="Uzal" ,ПЯТЫЙ КАНАЛ
-http://194.113.234.110:4005
-#EXTINF:-1 group-title="Uzal" ,ТВ3
-http://194.113.234.110:4015
-#EXTINF:-1 group-title="Uzal" ,Пятница
-http://194.113.234.110:4016
-#EXTINF:-1 group-title="Uzal" ,Звезда
-http://194.113.234.110:4017
-#EXTINF:-1 group-title="Uzal" ,МИР
-http://194.113.234.110:4018
-#EXTINF:-1 group-title="Uzal" ,Русский иллюзион
-http://194.113.234.110:4031
-#EXTINF:-1 group-title="Uzal" ,Иллюзион+
-http://194.113.234.110:4032
-#EXTINF:-1 group-title="Uzal" ,Zooпарк
-http://194.113.234.110:4033
-#EXTINF:-1 group-title="Uzal" ,Еврокино
-http://194.113.234.110:4034
-#EXTINF:-1 group-title="Uzal" ,Ретро
-http://194.113.234.110:4040
-#EXTINF:-1 group-title="Uzal" ,Психология 21
-http://194.113.234.110:4041
-#EXTINF:-1 group-title="Uzal" ,Домашние животные
-http://194.113.234.110:4043
-#EXTINF:-1 group-title="Uzal" ,Здоровое тв
-http://194.113.234.110:4044
-#EXTINF:-1 group-title="Uzal" ,Усадьба
-http://194.113.234.110:4045
-#EXTINF:-1 group-title="Uzal" ,Вопросы и ответы
-http://194.113.234.110:4046
-#EXTINF:-1 group-title="Uzal" ,Русский роман
-http://194.113.234.110:4052
-#EXTINF:-1 group-title="Uzal" ,Русский бестселлер
-http://194.113.234.110:4053
-#EXTINF:-1 group-title="Uzal" ,Кино тв
-http://194.113.234.110:4056
-#EXTINF:-1 group-title="Uzal" ,Комедия
-http://194.113.234.110:4060
-#EXTINF:-1 group-title="Uzal" ,Русский детектив
-http://194.113.234.110:4061
-#EXTINF:-1 group-title="Uzal" ,Cinema
-http://194.113.234.110:4063
-#EXTINF:-1 group-title="Uzal" ,НСТ
-http://194.113.234.110:4067
-#EXTINF:-1 group-title="Uzal" ,Доктор
-http://194.113.234.110:4068
-#EXTINF:-1 group-title="Uzal" ,Точка тв
-http://194.113.234.110:4084
-#EXTINF:-1 group-title="Uzal" ,Беларусь 24
-http://194.113.234.110:4117
-#EXTINF:-1 group-title="Uzal" ,Звезда плюс
-http://194.113.234.110:4125
-#EXTINF:-1 group-title="Uzal" ,Shot TV
-http://194.113.234.110:4137
-#EXTINF:-1 group-title="Uzal" ,ЖАРА
-http://194.113.234.110:4169
-#EXTINF:-1 group-title="Uzal" ,Кинокомедия
-http://194.113.234.110:4179
-#EXTINF:-1 group-title="Uzal" ,РОДНОЕ КИНО
-http://194.113.234.110:4184
-#EXTINF:-1 group-title="Uzal" ,КИНОСЕМЬЯ
-http://194.113.234.110:4185
-#EXTINF:-1 group-title="Uzal" ,Кинохит
-http://194.113.234.110:4187
-#EXTINF:-1 group-title="Uzal" ,Киносвидание
-http://194.113.234.110:4188
-#EXTINF:-1 group-title="Uzal" ,Кухня ТВ
-http://194.113.234.110:4229
-#EXTINF:-1 group-title="Uzal" ,Мужское кино
-http://194.113.234.110:4189
-#EXTINF:-1 group-title="Uzal" ,Киномикс
-http://194.113.234.110:4198
-#EXTINF:-1 group-title="Uzal" ,Наше новое кино
-http://194.113.234.110:4199
-#EXTINF:-1 group-title="Uzal" ,ИНДИЙСКОЕ КИНО
-http://194.113.234.110:4206
-#EXTINF:-1 group-title="Uzal" ,Авто плюс
-http://194.113.234.110:4207
-#EXTINF:-1 group-title="Uzal" ,Ностальгия
-http://194.113.234.110:4208
-#EXTINF:-1 group-title="Uzal" ,Мульт
-http://194.113.234.110:4064
-#EXTINF:-1 group-title="Uzal" ,Сарафан
-http://194.113.234.110:4054
-#EXTINF:-1 group-title="Uzal" ,Уникум
-http://194.113.234.110:4030
-#EXTINF:-1 group-title="Uzal" ,КАРУСЕЛЬ
-http://194.113.234.110:4008
-#EXTINF:-1 group-title="Uzal" ,Мультимузыка
-http://194.113.234.110:4055
-#EXTINF:-1 group-title="Uzal" ,Ani
-http://194.113.234.110:4059
-#EXTINF:-1 group-title="Uzal" ,Мама
-http://194.113.234.110:4065
-#EXTINF:-1 group-title="Uzal" ,МузТВ
-http://194.113.234.110:4020
-#EXTINF:-1 group-title="Uzal" ,RU.TV
-http://194.113.234.110:4116
-#EXTINF:-1 group-title="Uzal" ,Europa plus TV
-http://194.113.234.110:4228
-#EXTINF:-1 group-title="Uzal" ,Ля-минор
-http://194.113.234.110:4230
-#EXTINF:-1 group-title="Uzal" ,МАТЧ ТВ
-http://194.113.234.110:4003
