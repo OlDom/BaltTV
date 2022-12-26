@@ -68,50 +68,160 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
 
-#EXTINF:-1 group-title="free1" ,Первый канал
-http://188.191.160.238:9099/channel/1_Kanal.ts
+
+
+
+#EXTINF:-1 group-title="free1",Первый канал
+http://85.112.114.11:8088/udp/238.2.47.89:1234
 #EXTINF:-1 group-title="free1" ,Россия 1
-http://188.191.160.238:9099/channel/Rossiya.ts
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,НТВ
-http://188.191.160.238:9099/channel/NTV.ts
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,ТНТ
-http://188.191.160.238:9099/channel/TNT.ts
-#EXTINF:-1 group-title="free1" ,ТНТ4
-http://188.191.160.238:9099/channel/TNT4.ts
+http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,ТНТ HD
+http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,РЕН ТВ
-http://188.191.160.238:9099/channel/REN_TV.ts
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,ТНТ4
+http://flu.ttk.mx:9090/TNT4/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Viasat History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Наука
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,TV1000
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,2x2
+http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,360° HD
+http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,5 канал
-http://188.191.160.238:9099/channel/5_Kanal.ts
-#EXTINF:-1 group-title="free1" ,360°
-http://188.191.160.238:9099/channel/360_Podmoskovie_HD.ts
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Авто 24
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Da Vinci
+http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Дом кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Домашние животные
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,Москва доверие
-http://188.191.160.238:9099/channel/Doverie.ts
-#EXTINF:-1 group-title="free1" ,Домашний
-http://188.191.160.238:9099/channel/Domashniy.ts
-#EXTINF:-1 group-title="free1" ,Калейдоскоп ТВ
-http://188.191.160.238:9099/channel/Kaleydoskop_TV.ts
-#EXTINF:-1 group-title="free1" ,Москва 24
-http://188.191.160.238:9099/channel/Moskva_24.ts
-#EXTINF:-1 group-title="free1" ,Лен ТВ 24
-http://188.191.160.238:9099/channel/LOT.ts
-#EXTINF:-1 group-title="free1" ,RU.TV
-http://188.191.160.238:9099/channel/RU_TV.ts
-#EXTINF:-1 group-title="free1" ,Санкт-Петербург
-http://188.191.160.238:9099/channel/Sankt-Peterburg.ts
-#EXTINF:-1 group-title="free1" ,Точка ТВ
-http://188.191.160.238:9099/channel/Tochka_TV.ts
-#EXTINF:-1 group-title="free1" ,СТС
-http://188.191.160.238:9099/channel/STS.ts
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Драйв
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Galaxy
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Иллюзион+
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Кинохит
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Мосфильм. Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Музыка первого
+http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,O2TV
+http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,ОТР
-http://188.191.160.238:9099/channel/OTR.ts
-#EXTINF:-1 group-title="free1" ,Три ангела
-http://188.191.160.238:9099/channel/Tri_Angela.ts
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Психология 21
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Пятница
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Ратник HD
+http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Ретро
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Шансон ТВ
+http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Супер
+http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Телекафе
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Мама
+http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Ani
+http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Уникум
+http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Disney
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Бобер
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Тномер
+http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Точка отрыва
+http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,ТВ3
-http://188.191.160.238:9099/channel/TV3.ts
-#EXTINF:-1 group-title="free1" ,Ямал регион
-http://188.191.160.238:9099/channel/Yamal-Region.ts
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,TV1000 Action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,ТВЦ
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Усадьба
+http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Загородная жизнь
+http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,Звезда
-http://188.191.160.238:9099/channel/Zvezda.ts
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Viasat Sport
+http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Матч! HD
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="free1" ,Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
+
 
 
 #EXTINF:-1 group-title="VPN" ,Первый канал
