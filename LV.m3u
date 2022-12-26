@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
 
 #EXTINF:-1 group-title="free1",Первый канал
-http://85.112.114.11:8088/udp/238.2.47.89:1234
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:-1 group-title="free1" ,Россия 1
 http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="free1" ,НТВ
