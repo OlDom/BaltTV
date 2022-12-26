@@ -114,7 +114,30 @@ http://188.191.160.238:9099/channel/Yamal-Region.ts
 http://188.191.160.238:9099/channel/Zvezda.ts
 
 
-
+#EXTINF:-1 group-title="VPN" ,Первый канал
+http://176.197.223.26:49315/play/103/index.m3u8
+#EXTINF:-1 group-title="VPN" ,НТВ
+http://176.197.223.26:49315/play/104/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Россия 1
+http://176.197.223.26:49315/play/102/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТНТ
+http://176.197.223.26:49315/play/119/index.m3u8
+#EXTINF:-1 group-title="VPN" ,РЕН ТВ
+http://176.197.223.26:49315/play/111/index.m3u8
+#EXTINF:-1 group-title="VPN" ,СТС
+http://176.197.223.26:49315/play/113/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТВН
+http://176.197.223.26:49315/play/a002/index.m3u8
+#EXTINF:-1 group-title="VPN" ,5 канал
+http://176.197.223.26:49315/play/105/index.m3u8
+#EXTINF:-1 group-title="VPN" ,ТВЦ
+http://176.197.223.26:49315/play/110/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Пятница
+http://176.197.223.26:49315/play/116/index.m3u8
+#EXTINF:-1 group-title="VPN" ,Домашний
+http://176.197.223.26:49315/play/114/index.m3u8
+#EXTINF:-1 group-title="VPN" ,10 канал
+http://176.197.223.26:49315/play/211/index.m3u8
 
 
 
