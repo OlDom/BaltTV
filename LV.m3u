@@ -56,6 +56,8 @@ https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="news" ,КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="news",БРИКС
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="news",CGTN
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="news",RTVi
