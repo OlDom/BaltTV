@@ -64,8 +64,10 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="news",Дождь
 https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="news",Euronews
+#EXTINF:-1 group-title="news",Euronews EN
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
+#EXTINF:-1 group-title="news",Euronews RU
+https://s04.watcher.uz/16/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
 #EXTINF:-1 group-title="news",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
