@@ -47,7 +47,7 @@ http://iptv.ktkru.ru:8007/index.m3u8
 #EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
-https://e6-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
+https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=/UOzxp
 #EXTINF:-1 group-title="news",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="news",Москва 24
@@ -56,7 +56,7 @@ https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="news" ,КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="news",БРИКС
+#EXTINF:-1 group-title="news",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="news",CGTN
 https://liveru.cgtn.com/1000r/prog_index.m3u8
