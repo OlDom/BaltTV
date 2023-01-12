@@ -1,39 +1,40 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
 
+
 #EXTINF:-1 group-title="free",Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
+http://iptv.ktkru.ru:8001/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
+http://iptv.ktkru.ru:8002/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
+http://iptv.ktkru.ru:8004/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
+http://iptv.ktkru.ru:8010/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",РЕН ТВ
-http://iptv.ktkru.ru:8011/index.m3u8
+http://iptv.ktkru.ru:8011/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",ТНТ
-http://iptv.ktkru.ru:8019/index.m3u8
+http://iptv.ktkru.ru:8019/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",СТС
-http://iptv.ktkru.ru:8013/index.m3u8
+http://iptv.ktkru.ru:8013/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Домашний
-http://iptv.ktkru.ru:8014/index.m3u8
+http://iptv.ktkru.ru:8014/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",ТВ 3
-http://iptv.ktkru.ru:8015/index.m3u8
+http://iptv.ktkru.ru:8015/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Пятница
-http://iptv.ktkru.ru:8016/index.m3u8
+http://iptv.ktkru.ru:8016/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Звезда
-http://iptv.ktkru.ru:8017/index.m3u8
+http://iptv.ktkru.ru:8017/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
+http://iptv.ktkru.ru:8005/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Россия К
-http://iptv.ktkru.ru:8006/index.m3u8
+http://iptv.ktkru.ru:8006/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
+http://iptv.ktkru.ru:8008/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",ОТР
-http://iptv.ktkru.ru:8009/index.m3u8
+http://iptv.ktkru.ru:8009/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Спас
-http://iptv.ktkru.ru:8012/index.m3u8
+http://iptv.ktkru.ru:8012/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 #EXTINF:-1 group-title="free",Мир
-http://iptv.ktkru.ru:8018/index.m3u8
+http://iptv.ktkru.ru:8018/index.m3u8?hls_proxy_host=3e4e91d9396097cd46e02950a6cf9bca
 
 
 #EXTINF:-1 group-title="news" ,Первый канал
