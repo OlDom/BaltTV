@@ -53,10 +53,10 @@ https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=/UOzxp
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
 #EXTINF:-1 group-title="news",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 group-title="news",Москва 24
-https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 group-title="news",Москва 24
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/m24.m3u8
+#EXTINF:-1 group-title="news",Телеканал 360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="news",360° Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 #EXTINF:-1 group-title="news",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="news" ,КРЫМ 24
