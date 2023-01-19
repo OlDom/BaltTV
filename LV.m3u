@@ -8,7 +8,7 @@ http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news",НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news" ,Россия 24
-http://iptv.ktkru.ru:8007/index.m3u8
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
