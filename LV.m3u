@@ -731,29 +731,29 @@ https://sc.id-tv.kz/TuranTV_34_35.m3u8
 
 
 
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,Первый канал
+#EXTINF:-1 group-title="MSK+7",Первый канал
 http://176.197.223.26:49315/play/103/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,НТВ
+#EXTINF:-1 group-title="MSK+7",НТВ
 http://176.197.223.26:49315/play/104/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,Россия 1
+#EXTINF:-1 group-title="MSK+7" ,Россия 1
 http://176.197.223.26:49315/play/102/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,ТНТ
+#EXTINF:-1 group-title="MSK+7" ,ТНТ
 http://176.197.223.26:49315/play/119/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,РЕН ТВ
+#EXTINF:-1 group-title="MSK+7" ,РЕН ТВ
 http://176.197.223.26:49315/play/111/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,СТС
+#EXTINF:-1 group-title="MSK+7" ,СТС
 http://176.197.223.26:49315/play/113/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,ТВН
+#EXTINF:-1 group-title="MSK+7" ,ТВН
 http://176.197.223.26:49315/play/a002/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,5 канал
+#EXTINF:-1 group-title="MSK+7" ,5 канал
 http://176.197.223.26:49315/play/105/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,ТВЦ
+#EXTINF:-1 group-title="MSK+7" ,ТВЦ
 http://176.197.223.26:49315/play/110/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,Пятница
+#EXTINF:-1 group-title="MSK+7",Пятница
 http://176.197.223.26:49315/play/116/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,Домашний
+#EXTINF:-1 group-title="MSK+7",Домашний
 http://176.197.223.26:49315/play/114/index.m3u8
-#EXTINF:-1 group-title="MSK+7 (VPN)" ,10 канал
+#EXTINF:-1 group-title="MSK+7",10 канал
 http://176.197.223.26:49315/play/211/index.m3u8
 
 
