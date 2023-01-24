@@ -1162,15 +1162,17 @@ https://livetv.mylifeisgood.ml/channels/nashsport23
 https://livetv.mylifeisgood.ml/channels/nashsport24
 
 
-#EXTINF:-1 group-title="kino VIP",VIP Comedy HD
+#EXTINF:-1 group-title="test",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino VIP",VIP Megahit HD
+#EXTINF:-1 group-title="test",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino VIP",VIP Premiere HD
+#EXTINF:-1 group-title="test",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino VIP",VIP Serial HD
+#EXTINF:-1 group-title="test",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="kino VIP",Amedia 1
+#EXTINF:-1 group-title="test",Amedia 1
 http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 group-title="kino VIP",Первый HD
+#EXTINF:-1 group-title="test",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="test",Россия 24
+https://raw.githubusercontent.com/OlDom/BaltTV/main/r24
