@@ -66,6 +66,14 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 #EXTINF:-1 group-title="free",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
+http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
+#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
+#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
+http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
 #EXTINF:-1 group-title="free",РЕН ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:-1 group-title="free",ТВ Центр
