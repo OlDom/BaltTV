@@ -58,9 +58,9 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 group-title="free",RTR-Planeta
+#EXTINF:-1 group-title="free",РТР Планета
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
-#EXTINF:-1 group-title="free",РТР-Россия
+#EXTINF:-1 group-title="free",РТР Россия
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
 #EXTINF:-1 group-title="free",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
