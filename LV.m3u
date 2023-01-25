@@ -71,7 +71,7 @@ http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:-1 group-title="free",ТНТ
 http://iptv.ktkru.ru:8019/index.m3u8
 
-#EXTINF:-1 group-title="free",Россия-К
+#EXTINF:-1 group-title="free",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 
 #EXTINF:-1 group-title="free",Россия 24
