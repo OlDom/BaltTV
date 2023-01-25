@@ -1226,6 +1226,8 @@ https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
 https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 #EXTINF:-1 group-title="test",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="test",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="test",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="test",VIP Megahit HD
