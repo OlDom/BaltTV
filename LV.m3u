@@ -1214,6 +1214,8 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
 #EXTINF:-1 group-title="test",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="test",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 #EXTINF:-1 group-title="test",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="test",НТВ Хит
