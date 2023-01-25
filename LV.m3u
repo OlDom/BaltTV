@@ -1221,3 +1221,13 @@ http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="test",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="test",НТВ HD
+https://raw.githubusercontent.com/OlDom/BaltTV/main/NTV%20HD
+#EXTINF:-1 group-title="test",НТВ Хит
+https://raw.githubusercontent.com/OlDom/BaltTV/main/NTV-Hit.m3u8
+#EXTINF:-1 group-title="test",НТВ Право
+https://raw.githubusercontent.com/OlDom/BaltTV/main/NTV-Pravo.m3u8
+#EXTINF:-1 group-title="test",НТВ Сериал
+https://raw.githubusercontent.com/OlDom/BaltTV/main/NTV-Serial.m3u8
+#EXTINF:-1 group-title="test",НТВ Стиль
+https://raw.githubusercontent.com/OlDom/BaltTV/main/NTV-Style.m3u8
