@@ -59,52 +59,46 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 group-title="free",Planeta RTR
+#EXTINF:-1 group-title="free",RTR-Planeta
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
-
-#EXTINF:-1 group-title="free",Россия РТР
+#EXTINF:-1 group-title="free",РТР-Россия
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+#EXTINF:-1 group-title="free",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 #EXTINF:-1 group-title="free",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 group-title="free",РЕН ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 group-title="free",ТНТ
-http://iptv.ktkru.ru:8019/index.m3u8
-
-#EXTINF:-1 group-title="free",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
-
-#EXTINF:-1 group-title="free",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 #EXTINF:-1 group-title="free",ТВ Центр
 http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="free",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="free",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="free",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 group-title="free",Пятый канал
 http://iptv.ktkru.ru:8005/index.m3u8
 #EXTINF:-1 group-title="free",Звезда
 http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="free",ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
 #EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="free",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
 #EXTINF:-1 group-title="free",Карусель
 http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="free",ОТР
-http://iptv.ktkru.ru:8009/index.m3u8
-
-#EXTINF:-1 group-title="free",Спас
-http://iptv.ktkru.ru:8012/index.m3u8
 #EXTINF:-1 group-title="free",СТС
 http://iptv.ktkru.ru:8013/index.m3u8
 #EXTINF:-1 group-title="free",Домашний
 http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 group-title="free",ТВ 3
-http://iptv.ktkru.ru:8015/index.m3u8
 #EXTINF:-1 group-title="free",Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
-
-#EXTINF:-1 group-title="free",Мир
-http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 group-title="free",МузТВ
 http://iptv.ktkru.ru:8020/index.m3u8
-
+#EXTINF:-1 group-title="free",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
 
 
 
