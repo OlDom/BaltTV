@@ -120,7 +120,7 @@ http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
-https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=/UOzxp
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
 #EXTINF:-1 group-title="news",RT Док
