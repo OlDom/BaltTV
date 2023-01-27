@@ -1,68 +1,11 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000
-#EXTINF:0 tvg-name=Первый_канал group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTINF:0 tvg-name=Первый_канал group-title="s" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:0 tvg-name=Россия_1 group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+#EXTINF:0 tvg-name=Россия_1 group-title="s" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:0 tvg-name=НТВ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+#EXTINF:0 tvg-name=НТВ group-title="s" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
-
-http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:0 tvg-name=Россия_24 group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:0 tvg-name=РБК group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
-http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:0 tvg-name=Russia_Today group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/702.gif",Russia Today HD
-http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:0 tvg-name=МИР_24 group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/112.gif",Мир 24
-http://uiptv.do.am/1ufc/112234126/playlist.m3u8
-
-#EXTINF:0 tvg-name=ТВ_Центр group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/009.gif",ТВЦ
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:0 tvg-name=РЕН_ТВ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/102.gif",Рен ТВ
-http://uiptv.do.am/1ufc/102323759/playlist.m3u8
-#EXTINF:0 tvg-name=ОТР group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/008.gif",ОТР
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:0 tvg-name=ТНТ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/106.gif",ТНТ
-http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-
-#EXTINF:0 tvg-name=Матч! group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/003.gif",Матч! ТВ
-http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:0 tvg-name=Пятый_Канал group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/004.gif",5 Канал
-http://uiptv.do.am/1ufc/000000004/playlist.m3u8
-#EXTINF:0 tvg-name=Культура group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/005.gif",Россия Культура
-
-#EXTINF:0 tvg-name=Карусель group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/007.gif",Карусель
-http://uiptv.do.am/1ufc/000000007/playlist.m3u8
-#EXTINF:0 tvg-name=ТРО group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/116.gif",ТРО
-http://uiptv.do.am/1ufc/116316122/playlist.m3u8
-
-#EXTINF:0 tvg-name=МИР group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/113.gif",Мир
-http://uiptv.do.am/1ufc/113500247/playlist.m3u8
-#EXTINF:0 tvg-name=Вместе-РФ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/118.gif",Вместе-РФ HD
-http://uiptv.do.am/1ufc/118056781/playlist.m3u8
-
-#EXTINF:0 tvg-name=Звезда group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/115.gif",Звезда
-http://uiptv.do.am/1ufc/115312670/playlist.m3u8
-#EXTINF:0 tvg-name=ТВ-3 group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/107.gif",ТВ-3
-http://uiptv.do.am/1ufc/107700947/playlist.m3u8
-#EXTINF:0 tvg-name=Домашний group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/104.gif",Домашний
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
-#EXTINF:0 tvg-name=СТС group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/105.gif",СТС
-http://uiptv.do.am/1ufc/105567126/playlist.m3u8
-
-#EXTINF:0 tvg-name=Пятница group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/103.gif",Пятница
-http://uiptv.do.am/1ufc/103815382/playlist.m3u8
-#EXTINF:0 tvg-name=Че group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/109.gif",Че
-http://uiptv.do.am/1ufc/109121273/playlist.m3u8
-#EXTINF:0 tvg-name=TVM_Channel group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/334.gif",TVM Channel
-http://uiptv.do.am/1ufc/334334148/playlist.m3u8
-#EXTINF:0 tvg-name=Моя_Планета group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/312.gif",Моя планета
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:0 tvg-name=Канал_2x2 group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/500.gif",2x2
-http://uiptv.do.am/1ufc/500194263/playlist.m3u8
-#EXTINF:0 tvg-name=МУЗ-ТВ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/612.gif",Муз ТВ
-http://uiptv.do.am/1ufc/612327787/playlist.m3u8
-#EXTINF:0 tvg-name=Шансон_ТВ group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/602.gif",Шансон ТВ
-http://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:0 tvg-name=ТНТ_Music group-title="ladan" tvg-logo="http://uiptv.do.am/img/logo/603.gif",ТНТ Music
-http://uiptv.do.am/1ufc/603282189/playlist.m3u8
+#EXTINF:0 tvg-name=Россия_24 group-title="s" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:0 tvg-name=РБК group-title="s" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+http://92.50.128.180/utv/1358/index.m3u8
