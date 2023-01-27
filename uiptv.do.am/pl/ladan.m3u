@@ -1,11 +1,13 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000
-#EXTINF:0 tvg-name=Первый_канал group-title="s" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTINF:0 tvg-name=Первый_канал group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:0 tvg-name=Россия_1 group-title="s" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+#EXTINF:0 tvg-name=Россия_1 group-title="S" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:0 tvg-name=НТВ group-title="s" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+#EXTINF:0 tvg-name=НТВ group-title="S" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
-#EXTINF:0 tvg-name=Россия_24 group-title="s" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+#EXTINF:0 tvg-name=Россия_24 group-title="S" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
 https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
-#EXTINF:0 tvg-name=РБК group-title="s" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+#EXTINF:-1 group-title="S",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0 tvg-name=РБК group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
