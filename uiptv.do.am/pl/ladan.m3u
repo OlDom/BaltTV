@@ -7,7 +7,7 @@ http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0 tvg-name=Россия_24 group-title="S" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
 https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
-#EXTINF:-1 group-title="S",Известия
+#EXTINF:0 tvg-name=Известия group-title="S" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name=РБК group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
