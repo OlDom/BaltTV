@@ -13,55 +13,50 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name=РБК group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 1
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/303_d20221228152153.smil/playlist.m3u8?auth=mh&vid=2704303&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 2
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/304_d20221226184946.smil/playlist.m3u8?auth=mh&vid=2704304&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 3
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/358_d20221226185056.smil/playlist.m3u8?auth=mh&vid=2704358&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 4
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/325_d20221226185211.smil/playlist.m3u8?auth=mh&vid=2704325&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 5
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/305_d20221228182615.smil/playlist.m3u8?auth=mh&vid=2704305&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 6
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/326_d20221226185251.smil/playlist.m3u8?auth=mh&vid=2704326&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 7
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/359_d20221226185330.smil/playlist.m3u8?auth=mh&vid=2704359&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 8
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/360_d20221228182702.smil/playlist.m3u8?auth=mh&vid=2704360&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 9
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/327_d20221226230319.smil/playlist.m3u8?auth=mh&vid=2704327&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 10
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/306_d20221226225748.smil/playlist.m3u8?auth=mh&vid=2704306&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 11
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/388_d20221226185409.smil/playlist.m3u8?auth=mh&vid=2704388&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 12
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/307_d20221226185451.smil/playlist.m3u8?auth=mh&vid=2704307&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 13
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/408_d20221226185531.smil/playlist.m3u8?auth=mh&vid=2704408&uid=wKgcM2PRP7tRdeJrCHTBAg==
 
 
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 14
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/389_d20221228152236.smil/playlist.m3u8?auth=mh&vid=2704389&uid=wKgcM2PRP7tRdeJrCHTBAg==
+#EXTINF:-1 group-title="M",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="M",Россия 1
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="M",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="M",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="M",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="M",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="M",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="M",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="M",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",Amedia 1
+http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 group-title="M",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="M",RT Док
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="M",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 15
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/409_d20221228152106.smil/playlist.m3u8?auth=mh&vid=2704409&uid=wKgcM2PRP7tRdeJrCHTBAg==
-
-
-#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 16
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/410_d20221226230244.smil/playlist.m3u8?auth=mh&vid=2704410&uid=wKgcM2PRP7tRdeJrCHTBAg==
 
 
 
@@ -788,35 +783,57 @@ https://livetv.mylifeisgood.ml/channels/nashsport24
 
 
 
-#EXTINF:-1 group-title="test",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="test",Россия 1
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
-#EXTINF:-1 group-title="test",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
-#EXTINF:-1 group-title="test",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
-#EXTINF:-1 group-title="test",НТВ HD
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="test",НТВ Хит
-https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="test",НТВ Право
-https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="test",НТВ Сериал
-https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="test",НТВ Стиль
-https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="test",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="test",VIP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="test",VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="test",VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="test",VIP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="test",Amedia 1
-http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 group-title="test",RT Док
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 1
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/303_d20221228152153.smil/playlist.m3u8?auth=mh&vid=2704303&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 2
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/304_d20221226184946.smil/playlist.m3u8?auth=mh&vid=2704304&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 3
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/358_d20221226185056.smil/playlist.m3u8?auth=mh&vid=2704358&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 4
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/325_d20221226185211.smil/playlist.m3u8?auth=mh&vid=2704325&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 5
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/305_d20221228182615.smil/playlist.m3u8?auth=mh&vid=2704305&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 6
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/326_d20221226185251.smil/playlist.m3u8?auth=mh&vid=2704326&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 7
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/359_d20221226185330.smil/playlist.m3u8?auth=mh&vid=2704359&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 8
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/360_d20221228182702.smil/playlist.m3u8?auth=mh&vid=2704360&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 9
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/327_d20221226230319.smil/playlist.m3u8?auth=mh&vid=2704327&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 10
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/306_d20221226225748.smil/playlist.m3u8?auth=mh&vid=2704306&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 11
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/388_d20221226185409.smil/playlist.m3u8?auth=mh&vid=2704388&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 12
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/307_d20221226185451.smil/playlist.m3u8?auth=mh&vid=2704307&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 13
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/408_d20221226185531.smil/playlist.m3u8?auth=mh&vid=2704408&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 14
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/389_d20221228152236.smil/playlist.m3u8?auth=mh&vid=2704389&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 15
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/409_d20221228152106.smil/playlist.m3u8?auth=mh&vid=2704409&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+
+#EXTINF:-1 group-title="Склифософский 10 сезон",Серия 16
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/410_d20221226230244.smil/playlist.m3u8?auth=mh&vid=2704410&uid=wKgcM2PRP7tRdeJrCHTBAg==
+
+
+
+
