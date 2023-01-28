@@ -61,57 +61,61 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
 http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 group-title="free",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
-#EXTINF:-1 group-title="free",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
-#EXTINF:-1 group-title="free",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
-#EXTINF:-1 group-title="free",НТВ
+#EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+#EXTINF:-1 group-title="L",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+#EXTINF:-1 group-title="L",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="L",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
 http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
 http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
 http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
-#EXTINF:-1 group-title="free",РЕН ТВ
+#EXTINF:-1 group-title="L",РЕН ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 group-title="free",ТВ Центр
+#EXTINF:-1 group-title="L",ТВ Центр
 http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1 group-title="free",ОТР
+#EXTINF:-1 group-title="L",ОТР
 http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 group-title="free",Россия К
+#EXTINF:-1 group-title="L",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+#EXTINF:-1 group-title="L",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+#EXTINF:-1 group-title="L",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
-#EXTINF:-1 group-title="free",Мир
+#EXTINF:-1 group-title="L",Мир
 http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1 group-title="free",Пятый канал
+#EXTINF:-1 group-title="L",Пятый канал
 http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 group-title="free",Звезда
+#EXTINF:-1 group-title="L",Звезда
 http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1 group-title="free",ТВ 3
+#EXTINF:-1 group-title="L",ТВ 3
 http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1 group-title="free" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="free",ТНТ
+#EXTINF:-1 group-title="L",ТНТ
 http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 group-title="free",Карусель
+#EXTINF:-1 group-title="L",Карусель
 http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="free",СТС
+#EXTINF:-1 group-title="L",СТС
 http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 group-title="free",Домашний
+#EXTINF:-1 group-title="L",Домашний
 http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 group-title="free",Пятница
+#EXTINF:-1 group-title="L",Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 group-title="free",МузТВ
+#EXTINF:-1 group-title="L",МузТВ
 http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 group-title="free",Спас
+#EXTINF:-1 group-title="L",Спас
 http://iptv.ktkru.ru:8012/index.m3u8
 
 
@@ -164,156 +168,163 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 
 
 
-#EXTINF:-1 group-title="free1",Первый канал
+
+
+#EXTINF:-1 group-title="X",Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="free1" ,Россия 1
+#EXTINF:-1 group-title="X" ,Россия 1
 http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,НТВ
+#EXTINF:-1 group-title="X" ,НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,НТВ HD
+#EXTINF:-1 group-title="X" ,НТВ HD
 http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Россия 24
+#EXTINF:-1 group-title="X" ,Россия 24
 http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ТНТ
+#EXTINF:-1 group-title="X",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="X",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="X" ,ТНТ
 http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ТНТ HD
+#EXTINF:-1 group-title="X" ,ТНТ HD
 http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,РЕН ТВ
+#EXTINF:-1 group-title="X" ,РЕН ТВ
 http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ТНТ4
+#EXTINF:-1 group-title="X" ,ТНТ4
 http://flu.ttk.mx:9090/TNT4/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Viasat History
+#EXTINF:-1 group-title="X" ,Viasat History
 http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Охота и рыбалка
+#EXTINF:-1 group-title="X" ,Охота и рыбалка
 http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Наука
+#EXTINF:-1 group-title="X" ,Наука
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Живая природа HD
+#EXTINF:-1 group-title="X" ,Живая природа HD
 http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,TV1000
+#EXTINF:-1 group-title="X" ,TV1000
 http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,2x2
+#EXTINF:-1 group-title="X" ,2x2
 http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,360° HD
+#EXTINF:-1 group-title="X" ,360° HD
 http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,5 канал
+#EXTINF:-1 group-title="X" ,5 канал
 http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Авто 24
+#EXTINF:-1 group-title="X" ,Авто 24
 http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Cinema
+#EXTINF:-1 group-title="X" ,Cinema
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Da Vinci
+#EXTINF:-1 group-title="X" ,Da Vinci
 http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Дом кино
+#EXTINF:-1 group-title="X" ,Дом кино
 http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Домашние животные
+#EXTINF:-1 group-title="X" ,Домашние животные
 http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Москва доверие
+#EXTINF:-1 group-title="X" ,Москва доверие
 http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Драйв
+#EXTINF:-1 group-title="X" ,Драйв
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Еврокино
+#EXTINF:-1 group-title="X" ,Еврокино
 http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Galaxy
+#EXTINF:-1 group-title="X" ,Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Иллюзион+
+#EXTINF:-1 group-title="X" ,Иллюзион+
 http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Кинохит
+#EXTINF:-1 group-title="X" ,Кинохит
 http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Кинопоказ
+#EXTINF:-1 group-title="X" ,Кинопоказ
 http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Кинопремьера HD
+#EXTINF:-1 group-title="X" ,Кинопремьера HD
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Киносвидание
+#EXTINF:-1 group-title="X" ,Киносвидание
 http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Комедия
+#EXTINF:-1 group-title="X" ,Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="X" ,Мосфильм. Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Музыка первого
+#EXTINF:-1 group-title="X" ,Музыка первого
 http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,О!
+#EXTINF:-1 group-title="X" ,О!
 http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,O2TV
+#EXTINF:-1 group-title="X" ,O2TV
 http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ОТР
+#EXTINF:-1 group-title="X" ,ОТР
 http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Победа
+#EXTINF:-1 group-title="X" ,Победа
 http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Поехали!
+#EXTINF:-1 group-title="X" ,Поехали!
 http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Психология 21
+#EXTINF:-1 group-title="X" ,Психология 21
 http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Пятница
+#EXTINF:-1 group-title="X" ,Пятница
 http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Ратник HD
+#EXTINF:-1 group-title="X" ,Ратник HD
 http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Ретро
+#EXTINF:-1 group-title="X" ,Ретро
 http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Шансон ТВ
+#EXTINF:-1 group-title="X" ,Шансон ТВ
 http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,СТС
+#EXTINF:-1 group-title="X" ,СТС
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,СТС Love
+#EXTINF:-1 group-title="X" ,СТС Love
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Супер
+#EXTINF:-1 group-title="X" ,Супер
 http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Театр
+#EXTINF:-1 group-title="X" ,Театр
 http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Телекафе
+#EXTINF:-1 group-title="X" ,Телекафе
 http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Мульт
+#EXTINF:-1 group-title="X" ,Мульт
 http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Мама
+#EXTINF:-1 group-title="X" ,Мама
 http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Ani
+#EXTINF:-1 group-title="X" ,Ani
 http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Уникум
+#EXTINF:-1 group-title="X" ,Уникум
 http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Disney
+#EXTINF:-1 group-title="X" ,Disney
 http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Бобер
+#EXTINF:-1 group-title="X" ,Бобер
 http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Карусель
+#EXTINF:-1 group-title="X" ,Карусель
 http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Мульт HD
+#EXTINF:-1 group-title="X" ,Мульт HD
 http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Тномер
+#EXTINF:-1 group-title="X" ,Тномер
 http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Точка отрыва
+#EXTINF:-1 group-title="X" ,Точка отрыва
 http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ТВ3
+#EXTINF:-1 group-title="X" ,ТВ3
 http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,TV1000 Action
+#EXTINF:-1 group-title="X" ,TV1000 Action
 http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,TV XXI
+#EXTINF:-1 group-title="X" ,TV XXI
 http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,ТВЦ
+#EXTINF:-1 group-title="X" ,ТВЦ
 http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Ю
+#EXTINF:-1 group-title="X" ,Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Усадьба
+#EXTINF:-1 group-title="X" ,Усадьба
 http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Время
+#EXTINF:-1 group-title="X" ,Время
 http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Загородная жизнь
+#EXTINF:-1 group-title="X" ,Загородная жизнь
 http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Зоопарк
+#EXTINF:-1 group-title="X" ,Зоопарк
 http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Звезда
+#EXTINF:-1 group-title="X" ,Звезда
 http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Viasat Sport
+#EXTINF:-1 group-title="X" ,Viasat Sport
 http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Телеканал Футбол
+#EXTINF:-1 group-title="X" ,Телеканал Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Матч! HD
+#EXTINF:-1 group-title="X" ,Матч! HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Матч! ТВ
+#EXTINF:-1 group-title="X" ,Матч! ТВ
 http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Матч! Боец
+#EXTINF:-1 group-title="X" ,Матч! Боец
 http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="free1" ,Матч! Страна
+#EXTINF:-1 group-title="X" ,Матч! Страна
 http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
+
 
 
 
