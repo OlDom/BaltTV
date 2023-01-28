@@ -818,3 +818,5 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="test",Amedia 1
 http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 group-title="test",RT Док
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
