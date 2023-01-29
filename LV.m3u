@@ -505,24 +505,38 @@ https://sc.id-tv.kz/TuranTV_34_35.m3u8
 https://livetv.mylifeisgood.ml/channels/perviytest?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия 1 HD
 https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
-#EXTINF:-1 group-title="XXL",МАТЧ! HD
-https://livetv.mylifeisgood.ml/channels/matchhd_nocensored?i=a.m3u8
 #EXTINF:-1 group-title="XXL",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Пятый Канал
-https://livetv.mylifeisgood.ml/channels/5tv?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Россия К
-https://livetv.mylifeisgood.ml/channels/russiak?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия 24 HD
 https://livetv.mylifeisgood.ml/channels/russia24?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Карусель TB
-https://livetv.mylifeisgood.ml/channels/karuselvgtrk?i=a.m3u8
-#EXTINF:-1 group-title="XXL",ОТР HD
-https://2serv.mylifeisgood.ml/channels/otr?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="XXL",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="XXL",Москва 24 HD
+https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
+
+
 #EXTINF:-1 group-title="XXL",ТВ Центр HD
 https://2serv.mylifeisgood.ml/channels/tvc?i=a.m3u8
 #EXTINF:-1 group-title="XXL",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Звезда
+https://livetv.mylifeisgood.ml/channels/zvezda?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Оружие TB
+https://livetv.mylifeisgood.ml/channels/oruzhie?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ОТР HD
+https://2serv.mylifeisgood.ml/channels/otr?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Пятый Канал
+https://livetv.mylifeisgood.ml/channels/5tv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия К
+https://livetv.mylifeisgood.ml/channels/russiak?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ТНТ HD
+https://livetv.mylifeisgood.ml/channels/tnthd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Карусель TB
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk?i=a.m3u8
+
+
 #EXTINF:-1 group-title="XXL",СПАС TB
 https://livetv.mylifeisgood.ml/channels/spas?i=a.m3u8
 #EXTINF:-1 group-title="XXL",СТС HD
@@ -533,12 +547,10 @@ https://livetv.mylifeisgood.ml/channels/domashnii?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/tv3?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Пятница HD
 https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Звезда
-https://livetv.mylifeisgood.ml/channels/zvezda?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",МИР HD
 https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
-#EXTINF:-1 group-title="XXL",ТНТ HD
-https://livetv.mylifeisgood.ml/channels/tnthd?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",МУЗ ТВ HD
 https://livetv.mylifeisgood.ml/channels/muztvhd?i=a.m3u8
 #EXTINF:-1 group-title="XXL",СТС Love
@@ -571,8 +583,7 @@ https://livetv.mylifeisgood.ml/channels/fox?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/foxlife?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Вести FM HD
 https://livetv.mylifeisgood.ml/channels/vestifm?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Москва 24 HD
-https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",Москва Доверие
 https://livetv.mylifeisgood.ml/channels/moscvadoverie?i=a.m3u8
 #EXTINF:-1 group-title="XXL", 360° Подмосковье HD
@@ -581,8 +592,13 @@ https://livetv.mylifeisgood.ml/channels/ch360?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/ch360news?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Моя Планета
 https://livetv.mylifeisgood.ml/channels/myplanet?i=a.m3u8
+#EXTINF:-1 group-title="XXL",МАТЧ! HD
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Матч! Страна HD
 https://livetv.mylifeisgood.ml/channels/matchstrana?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Матч! Планета
+https://livetv.mylifeisgood.ml/channels/matchplaneta?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",Start Air HD
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Start World HD
@@ -657,8 +673,7 @@ https://livetv.mylifeisgood.ml/channels/sovsec127?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/1hdmusic?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Диалоги о Рыбалке HD
 https://2serv.mylifeisgood.ml/channels/dialogiorybalke?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Оружие TB
-https://livetv.mylifeisgood.ml/channels/oruzhie?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",Анекдот ТВ
 https://livetv.mylifeisgood.ml/channels/anekdot?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Eurosport 1 HD
@@ -669,8 +684,7 @@ https://livetv.mylifeisgood.ml/channels/eurosport2?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/setantahd?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Setanta 2 HD
 https://livetv.mylifeisgood.ml/channels/setantaplus?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Матч! Планета
-https://livetv.mylifeisgood.ml/channels/matchplaneta?i=a.m3u8
+
 #EXTINF:-1 group-title="XXL",Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Bridge Classic
