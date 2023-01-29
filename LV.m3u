@@ -498,6 +498,18 @@ https://sc.id-tv.kz/Jetusu_34_35.m3u8
 #EXTINF:-1 group-title="XL" ,Turan TV
 https://sc.id-tv.kz/TuranTV_34_35.m3u8
 
+
+
+
+#EXTINF:-1 group-title="XXL",Первый HD
+https://livetv.mylifeisgood.ml/channels/perviytest?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия 1 HD
+https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
+#EXTINF:-1 group-title="XXL",МАТЧ! HD
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Пятый Канал
 https://livetv.mylifeisgood.ml/channels/5tv?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak?i=a.m3u8
@@ -785,6 +797,9 @@ https://livetv.mylifeisgood.ml/channels/nashsport22?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/nashsport23?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Наш Спорт 24 HD
 https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Склифософский 10 сезон",Серия 1
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/704/303_d20221228152153.smil/playlist.m3u8?auth=mh&vid=2704303&uid=wKgcM2PRP7tRdeJrCHTBAg==
