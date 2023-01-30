@@ -789,20 +789,22 @@ https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
 
 
 
-#EXTINF:-1 group-title="Премьера"  tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы
+#EXTINF:-1 group-title="Премьера" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
-#EXTINF:-1 group-title="Анонс"  tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник
+#EXTINF:-1 group-title="Анонс" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/721/522_d20230125092232.smil/playlist.m3u8?auth=mh&vid=2721522&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
-#EXTINF:-1 group-title="Л. Гайдай"  tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
+#EXTINF:-1 group-title="Л. Гайдай" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="Л. Гайдай"  tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы
+#EXTINF:-1 group-title="Л. Гайдай" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/637/943_d20220915184624.smil/playlist.m3u8?auth=mh&vid=2637943&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="Л. Гайдай"  tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука
+#EXTINF:-1 group-title="Л. Гайдай" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/632/822_d20220908093228.smil/playlist.m3u8?auth=mh&vid=2632822&uid=wKgcL2PYM4d7bhB9BaDeAg==
-
-
+#EXTINF:-1 group-title="Л. Гайдай" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Кавказская пленница
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/635/423_d20220912191309.smil/playlist.m3u8?auth=mh&vid=2635423&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Л. Гайдай" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/390/729/0.jpg",Иван Васильевич меняет профессию
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/386_d20221231191950.smil/playlist.m3u8?auth=mh&vid=2634386&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
 #EXTINF:-1 group-title="news",Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
