@@ -824,7 +824,14 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
 #EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/369/531/2.jpg", Встречная полоса 2022 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
-
+#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/199/209/8.jpg", Хороший день 2018 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/208/237_d20210805121540.smil/playlist.m3u8?auth=mh&vid=2208237&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/359/691/1.jpg", Святая ложь 2019 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/217/228_d20220816232702.smil/playlist.m3u8?auth=mh&vid=2217228&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="детектив" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/197/618/5.jpg", Соучастники 2015 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/001/446/110_d20220824125316.smil/playlist.m3u8?auth=mh&vid=1446110&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/393/116/9.jpg", Дурочка Надя 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/802_d20230112191705.smil/playlist.m3u8?auth=mh&vid=2713802&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
 
 
