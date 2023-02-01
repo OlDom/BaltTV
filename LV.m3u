@@ -385,7 +385,7 @@ https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/12.png" ,РОДНОЕ КИНО
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/821.png" ,Кинокомедия HD
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/821.png" ,КиноКомедия HD
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/542.png" ,Кинохит HD
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
@@ -786,52 +786,85 @@ https://livetv.mylifeisgood.ml/channels/nashsport23?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Наш Спорт 24 HD
 https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
 
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63250?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63253?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=a.m3u8
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=a.m3u8
 
 
 
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
+
+
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/396/578/3.jpg", Лаборантка 2023 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/686/691_d20221201175810.smil/playlist.m3u8?auth=mh&vid=2686691&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
-#EXTINF:-1 group-title="военные" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник Россия 2023 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/962_d20230112204518.smil/playlist.m3u8?auth=mh&vid=2713962&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/637/943_d20220915184624.smil/playlist.m3u8?auth=mh&vid=2637943&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/632/822_d20220908093228.smil/playlist.m3u8?auth=mh&vid=2632822&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Кавказская пленница СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/635/423_d20220912191309.smil/playlist.m3u8?auth=mh&vid=2635423&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/390/729/0.jpg",Иван Васильевич меняет профессию СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/386_d20221231191950.smil/playlist.m3u8?auth=mh&vid=2634386&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/367/227/1.jpg",Самогонщики СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/924_d20220920154947.smil/playlist.m3u8?auth=mh&vid=2640924&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/367/233/7.jpg",Пес Барбос и необычный кросс СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/923_d20220920161020.smil/playlist.m3u8?auth=mh&vid=2640923&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/366/653/0.jpg",Спортлото-82 СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/639/309_d20220917172441.smil/playlist.m3u8?auth=mh&vid=2639309&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/395/119/9.jpg",За спичками СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/470_d20220910142730.smil/playlist.m3u8?auth=mh&vid=2634470&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/395/306/2.jpg",Джентльмены удачи СССР 1971
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/402_d20220910121430.smil/playlist.m3u8?auth=mh&vid=2634402&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="документалистика" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/345/709/8.jpg", Сармат: кочевник стратегического назначения 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/580/874_d20220611165045.smil/playlist.m3u8?auth=mh&vid=2580874&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="документалистика" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/343/169/9.jpg", Сельский учитель 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/574/273_d20220531095643.smil/playlist.m3u8?auth=mh&vid=2574273&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Прости за любовь 2021 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Без вины виноватая 2022 Россия
+
+
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Прости за любовь 2021 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/522/567_d20220318193728.smil/playlist.m3u8?auth=mh&vid=2522567&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/362/809/0.jpg", Три девицы 2021 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/362/809/0.jpg", Три девицы 2021 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/369/531/2.jpg", Встречная полоса 2022 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/369/531/2.jpg", Встречная полоса 2022 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/199/209/8.jpg", Хороший день 2018 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/199/209/8.jpg", Хороший день 2018 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/208/237_d20210805121540.smil/playlist.m3u8?auth=mh&vid=2208237&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/359/691/1.jpg", Святая ложь 2019 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/359/691/1.jpg", Святая ложь 2019 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/217/228_d20220816232702.smil/playlist.m3u8?auth=mh&vid=2217228&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="детектив" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/197/618/5.jpg", Соучастники 2015 Россия
+#EXTINF:-1 group-title="Детектив" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/197/618/5.jpg", Соучастники 2015 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/001/446/110_d20220824125316.smil/playlist.m3u8?auth=mh&vid=1446110&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/393/116/9.jpg", Дурочка Надя 2022 Россия
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/393/116/9.jpg", Дурочка Надя 2022 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/802_d20230112191705.smil/playlist.m3u8?auth=mh&vid=2713802&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/396/578/3.jpg", Кстати, о бабочках 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/377/038/2.jpg",Ваша тетя Люси 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/669/544_d20221106190626.smil/playlist.m3u8?auth=mh&vid=2669544&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/637/943_d20220915184624.smil/playlist.m3u8?auth=mh&vid=2637943&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/632/822_d20220908093228.smil/playlist.m3u8?auth=mh&vid=2632822&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Кавказская пленница СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/635/423_d20220912191309.smil/playlist.m3u8?auth=mh&vid=2635423&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/390/729/0.jpg",Иван Васильевич меняет профессию СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/386_d20221231191950.smil/playlist.m3u8?auth=mh&vid=2634386&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/367/227/1.jpg",Самогонщики СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/924_d20220920154947.smil/playlist.m3u8?auth=mh&vid=2640924&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/367/233/7.jpg",Пес Барбос и необычный кросс СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/923_d20220920161020.smil/playlist.m3u8?auth=mh&vid=2640923&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/366/653/0.jpg",Спортлото-82 СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/639/309_d20220917172441.smil/playlist.m3u8?auth=mh&vid=2639309&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/395/119/9.jpg",За спичками СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/470_d20220910142730.smil/playlist.m3u8?auth=mh&vid=2634470&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/395/306/2.jpg",Джентльмены удачи СССР 1971
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/402_d20220910121430.smil/playlist.m3u8?auth=mh&vid=2634402&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+
+#EXTINF:-1 group-title="Документалистика" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/345/709/8.jpg", Сармат: кочевник стратегического назначения 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/580/874_d20220611165045.smil/playlist.m3u8?auth=mh&vid=2580874&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Документалистика" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/343/169/9.jpg", Сельский учитель 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/574/273_d20220531095643.smil/playlist.m3u8?auth=mh&vid=2574273&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+#EXTINF:-1 group-title="Военные" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник Россия 2023 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/962_d20230112204518.smil/playlist.m3u8?auth=mh&vid=2713962&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+
 
 
 
