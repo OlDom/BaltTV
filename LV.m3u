@@ -43,11 +43,11 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="M",РТР Планета
+#EXTINF:-1 group-title="M",RTR Planeta
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="M",Россия РТР
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:-1 group-title="M",Россия 1
+#EXTINF:-1 group-title="M",Россия 1 HD
 http://sochi.camera:8080/cam_255/index.m3u8?token=null
 
 #EXTINF:-1 group-title="M",Россия 24
