@@ -981,6 +981,3 @@ http://sochi.camera:8080/cam_256/index.m3u8?token=null
 #EXTINF:-1 group-title="test",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-
-
-
