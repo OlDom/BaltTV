@@ -792,9 +792,8 @@ https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
 #EXTINF:-1 group-title="Премьера" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
-#EXTINF:-1 group-title="Анонс" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/721/522_d20230125092232.smil/playlist.m3u8?auth=mh&vid=2721522&uid=wKgcL2PYM4d7bhB9BaDeAg==
-
+#EXTINF:-1 group-title="Анонс" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник Россия 2023 военные 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/962_d20230112204518.smil/playlist.m3u8?auth=mh&vid=2713962&uid=wKgcL2PYM4d7bhB9BaDeAg==
 #EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
 #EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы
