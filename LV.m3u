@@ -3,24 +3,6 @@
 
 
 
-#EXTINF:0 tvg-name="Первый_канал" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
-http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:0 tvg-name="Россия_1" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
-http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:0 tvg-name="НТВ" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
-http://uiptv.do.am/1ufc/114816629/playlist.m3u8
-#EXTINF:0 tvg-name="Россия_24" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
-https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
-#EXTINF:-1 group-title="S_Jura" ,Охота и рыбалка
-http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
-#EXTINF:0 tvg-name="Известия" group-title="S_Jura" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:0 tvg-name="РБК" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
-http://92.50.128.180/utv/1358/index.m3u8
-
-
-
-
 
 #EXTINF:0 tvg-name="Первый_канал" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
@@ -34,29 +16,33 @@ https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0 tvg-name="Euronews" group-title="S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/900px-Euronews._2016_alternative_logo.png",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="S" ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+
+
 
 
 
 #EXTINF:-1 group-title="M",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="M",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="M",Planeta RTR
+#EXTINF:-1 group-title="M",RTR Planeta
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="M",Россия РТР
 https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:-1 group-title="M",Россия 1 HD
-http://sochi.camera:8080/cam_255/index.m3u8?token=null
-
 #EXTINF:-1 group-title="M",Россия 24
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
 #EXTINF:-1 group-title="M",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="M",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="M",Euronews
+http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="M",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 #EXTINF:-1 group-title="M",НТВ Хит
@@ -90,18 +76,26 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 group-title="L",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
+
+
+#EXTINF:-1 group-title="L",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="L",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="L",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="L",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="L",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="L",Euronews
+http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
@@ -150,17 +144,10 @@ http://iptv.ktkru.ru:8012/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="X",Первый канал
+#EXTINF:-1 group-title="X",Первый канал HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="X" ,Россия 1
-http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="X" ,НТВ
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="X" ,НТВ HD
 http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Россия 24
@@ -169,8 +156,8 @@ http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="X",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="X" ,ТНТ
-http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X",Euronews
+http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="X" ,ТНТ HD
 http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,РЕН ТВ
@@ -253,6 +240,8 @@ http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Супер
 http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ТНТ
+http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Театр
 http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Телекафе
@@ -313,19 +302,29 @@ http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 
 
 
-
 #EXTINF:-1 group-title="XL" ,Первый канал
 https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
-
+#EXTINF:-1 group-title="XL",Россия 1 HD
 https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XL",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="XL",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="XL",Россия РТР
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
-#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png" ,Россия 24
-https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
-#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png" ,Россия К
-https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
 #EXTINF:-1 group-title="XL" ,НТВ-Мир 
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png" ,Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:-1 group-title="XL",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="XL",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="XL",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png" ,Россия К
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+
 #EXTINF:-1 group-title="XL" ,ТНТ-International (СНГ) 
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg" ,ТНТ4 International
@@ -484,22 +483,30 @@ https://sc.id-tv.kz/TuranTV_34_35.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="XXL",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="XXL",Первый HD
 https://livetv.mylifeisgood.ml/channels/perviytest?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XXL",Россия 1 HD
 https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
 #EXTINF:-1 group-title="XXL",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="XXL",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
-#EXTINF:-1 group-title="XXL",Россия 24 HD
-https://livetv.mylifeisgood.ml/channels/russia24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="XXL",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="XXL",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="XXL",Москва 24 HD
+#EXTINF:-1 group-title="XXL",Москва 24
 https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
-
-
+#EXTINF:-1 group-title="XXL",Euronews
+http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="XXL",ТВ Центр HD
 https://2serv.mylifeisgood.ml/channels/tvc?i=a.m3u8
 #EXTINF:-1 group-title="XXL",РЕН ТВ HD
@@ -533,7 +540,8 @@ https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
 
 #EXTINF:-1 group-title="XXL",МИР HD
 https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
-
+#EXTINF:-1 group-title="XXL",Россия 24
+https://livetv.mylifeisgood.ml/channels/russia24?i=a.m3u8
 #EXTINF:-1 group-title="XXL",МУЗ ТВ HD
 https://livetv.mylifeisgood.ml/channels/muztvhd?i=a.m3u8
 #EXTINF:-1 group-title="XXL",СТС Love
@@ -879,45 +887,100 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 
 
 
-#EXTINF:-1 group-title="news",Первый канал
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="news",Россия 1
-http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="news",НТВ
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="news" ,Россия 24
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="news",Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="news",РБК-ТВ
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
+#EXTINF:-1 group-title="test",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="test",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="test",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия 1 HD
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="test",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
-#EXTINF:-1 group-title="news",RT Док
+#EXTINF:-1 group-title="test",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 group-title="news",Телеканал 360°
+#EXTINF:-1 group-title="test",Телеканал 360°
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 group-title="news",360° Новости
+#EXTINF:-1 group-title="test",360° Новости
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
-#EXTINF:-1 group-title="news",Мир 24
+#EXTINF:-1 group-title="test",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="news" ,КРЫМ 24
+#EXTINF:-1 group-title="test" ,КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
+#EXTINF:-1 group-title="test" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
-#EXTINF:-1 group-title="news",TV BRICS
+#EXTINF:-1 group-title="test",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="news",CGTN
+#EXTINF:-1 group-title="test",CGTN
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="news",RTVi
+#EXTINF:-1 group-title="test",RTVi
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
-#EXTINF:-1 group-title="news",Дождь
+#EXTINF:-1 group-title="test",Дождь
 https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="news",Euronews EN
+#EXTINF:-1 group-title="test",Euronews EN
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
-#EXTINF:-1 group-title="news",Euronews
+#EXTINF:-1 group-title="test",Euronews
 http://185.32.44.154/euronews/index.m3u8
-#EXTINF:-1 group-title="news",Sky News
+#EXTINF:-1 group-title="test",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
+
+
+
+#EXTINF:-1 group-title="test",Первый канал
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
+#EXTINF:-1 group-title="test",Россия 1
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test",НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test" ,Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="test",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="test",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="test",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="test",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия 1 HD
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="test",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="test",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+#EXTINF:-1 group-title="test",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+
 
 
