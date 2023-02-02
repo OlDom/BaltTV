@@ -820,7 +820,12 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=a.m3u8
 
 
 
-
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/395/422/8.jpg" , Нарисуй меня счастливой  12+  мелодрама Россия 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/977_d20230130133227.smil/playlist.m3u8?auth=mh&vid=2724977&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/397/162/6.jpg" , Кстати, о бабочках  12+  мелодрама 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/394/608/5.jpg" , Место силы  12+  мелодрама Россия 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
 #EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/396/578/3.jpg", Лаборантка 2023 Россия
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/686/691_d20221201175810.smil/playlist.m3u8?auth=mh&vid=2686691&uid=wKgcL2PYM4d7bhB9BaDeAg==
 #EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
