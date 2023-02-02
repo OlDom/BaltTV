@@ -1,0 +1,988 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz, http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000" 
+
+
+
+
+
+#EXTINF:0 tvg-name="Первый_канал" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:0 tvg-name="Россия_1" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:0 tvg-name="НТВ" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:0 tvg-name="Россия_24" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:0 tvg-name="Известия" group-title="S" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0 tvg-name="Euronews" group-title="S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/900px-Euronews._2016_alternative_logo.png",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="S" ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+
+
+
+
+
+#EXTINF:-1 group-title="M",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="M",Россия 1 HD
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="M",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="M",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="M",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="M",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 group-title="M",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="M",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="M",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="M",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="M",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="M",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",Amedia 1
+http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 group-title="M",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="M",RT Док
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="M",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="L",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="L",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="L",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="L",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="L",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="L",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
+http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
+http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
+#EXTINF:-1 group-title="L",РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 group-title="L",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="L",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="L",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+#EXTINF:-1 group-title="L",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+#EXTINF:-1 group-title="L",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="L",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 group-title="L",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="L",Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="L",ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="L",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1 group-title="L",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="L",СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 group-title="L",Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 group-title="L",Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 group-title="L",МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="L",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="X",Первый канал HD
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
+#EXTINF:-1 group-title="X",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="X" ,НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="X",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="X",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="X" ,ТНТ HD
+http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,РЕН ТВ
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ТНТ4
+http://flu.ttk.mx:9090/TNT4/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Viasat History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Наука
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,TV1000
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,2x2
+http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,360° HD
+http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,5 канал
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Авто 24
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Da Vinci
+http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Дом кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Домашние животные
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Москва доверие
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Драйв
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Galaxy
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Иллюзион+
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Кинохит
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Мосфильм. Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Музыка первого
+http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,O2TV
+http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ОТР
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Психология 21
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Пятница
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Ратник HD
+http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Ретро
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Шансон ТВ
+http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Супер
+http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ТНТ
+http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Телекафе
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Мама
+http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Ani
+http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Уникум
+http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Disney
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Бобер
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Тномер
+http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Точка отрыва
+http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ТВ3
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,TV1000 Action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,ТВЦ
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Усадьба
+http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Загородная жизнь
+http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Звезда
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Viasat Sport
+http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Матч! HD
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="X" ,Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
+
+
+
+
+#EXTINF:-1 group-title="XL" ,Первый канал
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title="XL",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XL",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="XL",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XL",Россия РТР
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,НТВ-Мир 
+https://sc.id-tv.kz:443/NTV_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png" ,Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:-1 group-title="XL",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="XL",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="XL",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png" ,Россия К
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+
+#EXTINF:-1 group-title="XL" ,ТНТ-International (СНГ) 
+https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg" ,ТНТ4 International
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png",Рен ТВ International
+https://sc.id-tv.kz:443/RenTV_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/BZcx0Vz9/images-1.jpg" ,Пятница International
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:-1 group-title="XL",ТНВ Планета
+https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2419.png" ,Охота и рыбалка
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/415.png" ,HD Life
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title="XL",Техно 24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/774.png" ,Flixsnip
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/675.png" ,Моя Планета
+https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/223.png" ,Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/102.png" ,National Geographic HD
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/325.png" ,Discovery Channel
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2356.png" ,H2
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/1394.png",History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/521.png" ,Viasat Explore
+https://sc.id-tv.kz:443/ViasatExplorer_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/277.png" ,Viasat History
+https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/3779.png" ,Viasat Nature
+https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/614.png" ,Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/xCQ3GDZ5/42.png",ТДК 42
+https://sc.id-tv.kz:443/TDK-42_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/1395.png" ,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/3092.png" ,FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2020.png" ,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2518.png" ,Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/425.png" ,TLC HD
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/3069.png" ,Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2493.png" ,Киноужас
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2444.png" ,Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/566.png" ,КИНОПРЕМЬЕРА HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/1584.png" ,Мужское Кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/462.png" ,Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/987.png" ,КИНОСЕМЬЯ
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/644.png" ,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/12.png" ,РОДНОЕ КИНО
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/821.png" ,КиноКомедия HD
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/542.png" ,Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/799.png" ,КИНОСЕРИЯ
+https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2492.png" ,Amedia 2
+https://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="XL",TV1000
+https://sc.id-tv.kz:443/TV1000_34_35.m3u8
+#EXTINF:-1 group-title="XL",TV1000 Action
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8 
+#EXTINF:-1 group-title="XL",TV1000 Русское кино
+https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2233.png" ,ZEE TV
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2447.png" ,Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2350.png" ,Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/518.png" ,НСТ
+https://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/834.png" ,Дом Кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2403.png" ,Иллюзион +
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/53.png" ,Русский Иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/1757.png" ,О!
+https://sc.id-tv.kz/o_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2570.png" ,КТК
+https://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2008.png" ,Авто24
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2129.png" ,Euronews
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/743.png" ,РБК
+https://sc.id-tv.kz:443/RBK_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/669.png" ,Время
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2304.png" ,Телекафе
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/930.png" ,ЕДА Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2549.png" ,Cinema HD
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2572.png" ,Седьмой канал
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,Беларусь 24 
+https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,Время 
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2638.png" ,Новое телевидение
+https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2026.png" ,Бобёр
+https://sc.id-tv.kz:443/bober_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/410.png" ,Da Vinci Kids
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/423.png" ,Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/917.png" ,Nick Jr
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/1332.png" ,Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/740.png" ,Карусель
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/810.png" ,Gulli
+https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/555.png" ,Tiji TV
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2026.png" ,Бобёр
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2571.png" ,Первый канал Евразия
+https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2639.png" ,31 канал KZ
+https://sc.id-tv.kz:443/31Kanal_34_35.m3u8
+#EXTINF:-1 group-title="XL" tvg-logo="https://mediaakademiya.kz/img/telekanaly_radio/almaty.png",Almaty tv
+https://sc.id-tv.kz/Almaty_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,ElArna
+https://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,Jetusu
+https://sc.id-tv.kz/Jetusu_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,Turan TV
+https://sc.id-tv.kz/TuranTV_34_35.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="XXL",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="XXL",Первый HD
+https://livetv.mylifeisgood.ml/channels/perviytest?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XXL",Россия 1 HD
+https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="XXL",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="XXL",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="XXL",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="XXL",Москва 24
+https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="XXL",ТВ Центр HD
+https://2serv.mylifeisgood.ml/channels/tvc?i=a.m3u8
+#EXTINF:-1 group-title="XXL",РЕН ТВ HD
+https://livetv.mylifeisgood.ml/channels/rentv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Звезда
+https://livetv.mylifeisgood.ml/channels/zvezda?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Оружие TB
+https://livetv.mylifeisgood.ml/channels/oruzhie?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ОТР HD
+https://2serv.mylifeisgood.ml/channels/otr?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Пятый Канал
+https://livetv.mylifeisgood.ml/channels/5tv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия К
+https://livetv.mylifeisgood.ml/channels/russiak?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ТНТ HD
+https://livetv.mylifeisgood.ml/channels/tnthd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Карусель TB
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk?i=a.m3u8
+
+
+#EXTINF:-1 group-title="XXL",СПАС TB
+https://livetv.mylifeisgood.ml/channels/spas?i=a.m3u8
+#EXTINF:-1 group-title="XXL",СТС HD
+https://livetv.mylifeisgood.ml/channels/sts?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Домашний HD
+https://livetv.mylifeisgood.ml/channels/domashnii?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ТВ-3 HD
+https://livetv.mylifeisgood.ml/channels/tv3?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Пятница HD
+https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
+
+#EXTINF:-1 group-title="XXL",МИР HD
+https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Россия 24
+https://livetv.mylifeisgood.ml/channels/russia24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",МУЗ ТВ HD
+https://livetv.mylifeisgood.ml/channels/muztvhd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",СТС Love
+https://livetv.mylifeisgood.ml/channels/stslove?i=a.m3u8
+#EXTINF:-1 group-title="XXL",МИР 24 HD
+https://2serv.mylifeisgood.ml/channels/mirhdpremium?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ЧЕ! ТВ
+https://livetv.mylifeisgood.ml/channels/che?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Ю!
+https://livetv.mylifeisgood.ml/channels/u_ott_tv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Суббота! HD
+https://livetv.mylifeisgood.ml/channels/subbota?i=a.m3u8
+#EXTINF:-1 group-title="XXL",2x2 HD
+https://livetv.mylifeisgood.ml/channels/2x2?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ТНТ4 HD
+https://livetv.mylifeisgood.ml/channels/tnt4?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Nickelodeon HD
+https://livetv.mylifeisgood.ml/channels/nickelodeon-hd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",DTX HD
+https://livetv.mylifeisgood.ml/channels/discoverydtx?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Discovery Science HD
+https://livetv.mylifeisgood.ml/channels/discoveryscience?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Paramount Comedy
+https://livetv.mylifeisgood.ml/channels/paramount_comedy?i=a.m3u8
+#EXTINF:-1 group-title="XXL",КИНО ТВ HD
+https://livetv.mylifeisgood.ml/channels/kinotvst?i=a.m3u8
+#EXTINF:-1 group-title="XXL",FOX HD
+https://livetv.mylifeisgood.ml/channels/fox?i=a.m3u8
+#EXTINF:-1 group-title="XXL",FOX Life HD
+https://livetv.mylifeisgood.ml/channels/foxlife?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Вести FM HD
+https://livetv.mylifeisgood.ml/channels/vestifm?i=a.m3u8
+
+#EXTINF:-1 group-title="XXL",Москва Доверие
+https://livetv.mylifeisgood.ml/channels/moscvadoverie?i=a.m3u8
+#EXTINF:-1 group-title="XXL", 360° Подмосковье HD
+https://livetv.mylifeisgood.ml/channels/ch360?i=a.m3u8
+#EXTINF:-1 group-title="XXL",360° Hовости
+https://livetv.mylifeisgood.ml/channels/ch360news?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Моя Планета
+https://livetv.mylifeisgood.ml/channels/myplanet?i=a.m3u8
+#EXTINF:-1 group-title="XXL",МАТЧ! HD
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Матч! Страна HD
+https://livetv.mylifeisgood.ml/channels/matchstrana?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Матч! Планета
+https://livetv.mylifeisgood.ml/channels/matchplaneta?i=a.m3u8
+
+#EXTINF:-1 group-title="XXL",Start Air HD
+https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Start World HD
+https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Russian Music Box HD
+https://2serv.mylifeisgood.ml/channels/rusmusicbox?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Music Box Gold HD
+https://2serv.mylifeisgood.ml/channels/musicboxgold?i=a.m3u8
+#EXTINF:-1 group-title="XXL",ТНТ Music HD
+https://2serv.mylifeisgood.ml/channels/tntmusic?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Смайлик TB HD
+https://livetv.mylifeisgood.ml/channels/smile?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТС HD
+https://2serv.mylifeisgood.ml/channels/ntc?i=a.m3u8
+#EXTINF:-1 group-title="XXL",СТАРТ HD
+https://livetv.mylifeisgood.ml/channels/startlive?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Приключения HD
+https://livetv.mylifeisgood.ml/channels/adventureshd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Da Vinci
+https://livetv.mylifeisgood.ml/channels/davinci?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Европа Плюс HD
+https://2serv.mylifeisgood.ml/channels/europaplustv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",СТС Kids HD
+https://livetv.mylifeisgood.ml/channels/ctckids?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Gulli Girl
+https://livetv.mylifeisgood.ml/channels/gulli?i=a.m3u8
+#EXTINF:-1 group-title="XXL",TIJI
+https://livetv.mylifeisgood.ml/channels/tiji?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Рыжий
+https://livetv.mylifeisgood.ml/channels/ryjii?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Первый Космический HD
+https://livetv.mylifeisgood.ml/channels/firstspace?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Vip Megahit HD
+https://livetv.mylifeisgood.ml/channels/vip_megahit?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Vip Comedy HD
+https://livetv.mylifeisgood.ml/channels/vip_comedy?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Vip Premiere HD
+https://livetv.mylifeisgood.ml/channels/vip_premiere?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Vip Serial HD
+https://livetv.mylifeisgood.ml/channels/vip_serial?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Viasat History HD
+https://livetv.mylifeisgood.ml/channels/viasat_history?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Viasat Explore HD
+https://livetv.mylifeisgood.ml/channels/viasat_explore?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Viasat Nature HD
+https://livetv.mylifeisgood.ml/channels/viasat_nature?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Viasat Nature/History HD
+https://livetv.mylifeisgood.ml/channels/viasatnaturestar?i=a.m3u8
+#EXTINF:-1 group-title="XXL",TV1000 HD
+https://livetv.mylifeisgood.ml/channels/tv1000?i=a.m3u8
+#EXTINF:-1 group-title="XXL",TV1000 Action HD
+https://livetv.mylifeisgood.ml/channels/tv1000action?i=a.m3u8
+#EXTINF:-1 group-title="XXL",TV1000 Русское Кино HD
+https://livetv.mylifeisgood.ml/channels/tv1000ruskino?i=a.m3u8
+#EXTINF:-1 group-title="XXL",National Geographic HD
+https://livetv.mylifeisgood.ml/channels/national_geographic?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Discovery CEE HD
+https://livetv.mylifeisgood.ml/channels/discovery?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Investigation Discovery HD
+https://livetv.mylifeisgood.ml/channels/discoveryxtra?i=a.m3u8
+#EXTINF:-1 group-title="XXL",UDAR! HD
+https://2serv.mylifeisgood.ml/channels/udarlive?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Viasat Sport HD
+https://livetv.mylifeisgood.ml/channels/viasatsporthd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Феникс + Кино
+https://livetv.mylifeisgood.ml/channels/fenixkino?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Top Secret
+https://livetv.mylifeisgood.ml/channels/sovsec127?i=a.m3u8
+#EXTINF:-1 group-title="XXL",1HD Music Television
+https://livetv.mylifeisgood.ml/channels/1hdmusic?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Диалоги о Рыбалке HD
+https://2serv.mylifeisgood.ml/channels/dialogiorybalke?i=a.m3u8
+
+#EXTINF:-1 group-title="XXL",Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Eurosport 1 HD
+https://livetv.mylifeisgood.ml/channels/eurosport1ru?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Eurosport 2 HD
+https://livetv.mylifeisgood.ml/channels/eurosport2?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Setanta 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Setanta 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus?i=a.m3u8
+
+#EXTINF:-1 group-title="XXL",Bridge TV
+https://livetv.mylifeisgood.ml/channels/bridgetv24h?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Deluxe HD
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Hits
+https://livetv.mylifeisgood.ml/channels/bridgehitstv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Русский Xит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Bridge Фрэш HD
+https://2serv.mylifeisgood.ml/channels/bridgefreshya?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ ХИТ
+https://livetv.mylifeisgood.ml/channels/ntvhit24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ СЕРИАЛ
+https://livetv.mylifeisgood.ml/channels/ntvserial24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ ПРАВО
+https://livetv.mylifeisgood.ml/channels/ntvpravo24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",НТВ СТИЛЬ
+https://livetv.mylifeisgood.ml/channels/ntvstyle24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",TRASH HD
+https://livetv.mylifeisgood.ml/channels/trash?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Живи Активно HD
+https://livetv.mylifeisgood.ml/channels/jiviactivno?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Глазами Туриста HD
+##https://livetv.mylifeisgood.ml/channels/glazamiturista?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Живая природа HD
+##https://livetv.mylifeisgood.ml/channels/jivyapriroda?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наша Сибирь 4K
+https://livetv.mylifeisgood.ml/channels/nashasibir4k?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Home 4K
+https://livetv.mylifeisgood.ml/channels/home4k?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Глазами Туриста 4K
+https://livetv.mylifeisgood.ml/channels/glazamiturista4k?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Родных Дорог
+https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Дорожное Радио
+https://livetv.mylifeisgood.ml/channels/dorojnoeradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Европа плюс радио
+https://livetv.mylifeisgood.ml/channels/europaplusradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Авторадио
+https://livetv.mylifeisgood.ml/channels/avtoradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Maximum
+https://livetv.mylifeisgood.ml/channels/radiomaximus?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Русское Радио
+https://livetv.mylifeisgood.ml/channels/rusradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Юмор ФМ
+https://livetv.mylifeisgood.ml/channels/yumorfm?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Ваня
+https://livetv.mylifeisgood.ml/channels/radiovanya?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Comedy Radio
+https://livetv.mylifeisgood.ml/channels/comedyradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио DFM
+https://livetv.mylifeisgood.ml/channels/radiodfm?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Ретро ФМ
+https://livetv.mylifeisgood.ml/channels/retrofm?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио ХИТ FM
+https://livetv.mylifeisgood.ml/channels/radiohitfm?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Комсомольская правда
+https://livetv.mylifeisgood.ml/channels/radiokomsomolpravda?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Energy FM
+https://livetv.mylifeisgood.ml/channels/radioenegry?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Romantica
+https://livetv.mylifeisgood.ml/channels/radioromantica?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио для двоих
+https://livetv.mylifeisgood.ml/channels/radiodlyadvoix?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио 107 Краснодар
+https://livetv.mylifeisgood.ml/channels/radio107krasnodar?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Детское Радио
+https://livetv.mylifeisgood.ml/channels/kidsradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио ТВ
+https://livetv.mylifeisgood.ml/channels/radiotv?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Радио Град Петров
+https://livetv.mylifeisgood.ml/channels/radiogradpetrov?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Новое Радио
+https://livetv.mylifeisgood.ml/channels/newradio?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 1 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey1?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 2 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey2?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 3 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey3?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 4 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey4?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 5 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey5?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 6 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey6?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 7 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey7?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 8 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey8?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 9 HD
+https://livetv.mylifeisgood.ml/channels/nashhokkey9?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 10 HD
+https://livetv.mylifeisgood.ml/channels/nashsport10?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 11 HD
+https://livetv.mylifeisgood.ml/channels/nashsport11?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 12 HD
+https://livetv.mylifeisgood.ml/channels/nashsport12?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 13 HD
+https://livetv.mylifeisgood.ml/channels/nashsport13?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 14 HD
+https://livetv.mylifeisgood.ml/channels/nashsport14?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 15 HD
+https://livetv.mylifeisgood.ml/channels/nashsport15?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 16 HD
+https://livetv.mylifeisgood.ml/channels/nashsport16?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 17 HD
+https://livetv.mylifeisgood.ml/channels/nashsport17?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 18 HD
+https://livetv.mylifeisgood.ml/channels/nashsport18?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 19 HD
+https://livetv.mylifeisgood.ml/channels/nashsport19?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 20 HD
+https://livetv.mylifeisgood.ml/channels/nashsport20?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 21 HD
+https://livetv.mylifeisgood.ml/channels/nashsport21?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 22 HD
+https://livetv.mylifeisgood.ml/channels/nashsport22?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 23 HD
+https://livetv.mylifeisgood.ml/channels/nashsport23?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Наш Спорт 24 HD
+https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63250?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63253?e=a.m3u8
+
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=a.m3u8
+#EXTINF:-1 group-title="дубль",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=a.m3u8
+
+
+
+
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/395/422/8.jpg" , Нарисуй меня счастливой  12+  мелодрама Россия 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/977_d20230130133227.smil/playlist.m3u8?auth=mh&vid=2724977&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/397/162/6.jpg" , Кстати, о бабочках  12+  мелодрама 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="smotrim" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/394/608/5.jpg" , Место силы  12+  мелодрама Россия 2022 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/396/578/3.jpg", Лаборантка 2023 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/686/691_d20221201175810.smil/playlist.m3u8?auth=mh&vid=2686691&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Без вины виноватая 2022 Россия
+
+
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Прости за любовь 2021 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/522/567_d20220318193728.smil/playlist.m3u8?auth=mh&vid=2522567&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/362/809/0.jpg", Три девицы 2021 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/369/531/2.jpg", Встречная полоса 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/199/209/8.jpg", Хороший день 2018 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/208/237_d20210805121540.smil/playlist.m3u8?auth=mh&vid=2208237&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/359/691/1.jpg", Святая ложь 2019 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/217/228_d20220816232702.smil/playlist.m3u8?auth=mh&vid=2217228&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Детектив" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/197/618/5.jpg", Соучастники 2015 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/001/446/110_d20220824125316.smil/playlist.m3u8?auth=mh&vid=1446110&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/393/116/9.jpg", Дурочка Надя 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/802_d20230112191705.smil/playlist.m3u8?auth=mh&vid=2713802&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/396/578/3.jpg", Кстати, о бабочках 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/377/038/2.jpg",Ваша тетя Люси 2022 Россия
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/669/544_d20221106190626.smil/playlist.m3u8?auth=mh&vid=2669544&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/637/943_d20220915184624.smil/playlist.m3u8?auth=mh&vid=2637943&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/632/822_d20220908093228.smil/playlist.m3u8?auth=mh&vid=2632822&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Кавказская пленница СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/635/423_d20220912191309.smil/playlist.m3u8?auth=mh&vid=2635423&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/390/729/0.jpg",Иван Васильевич меняет профессию СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/386_d20221231191950.smil/playlist.m3u8?auth=mh&vid=2634386&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/367/227/1.jpg",Самогонщики СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/924_d20220920154947.smil/playlist.m3u8?auth=mh&vid=2640924&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/367/233/7.jpg",Пес Барбос и необычный кросс СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/923_d20220920161020.smil/playlist.m3u8?auth=mh&vid=2640923&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/366/653/0.jpg",Спортлото-82 СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/639/309_d20220917172441.smil/playlist.m3u8?auth=mh&vid=2639309&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/395/119/9.jpg",За спичками СССР
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/470_d20220910142730.smil/playlist.m3u8?auth=mh&vid=2634470&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/395/306/2.jpg",Джентльмены удачи СССР 1971
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/402_d20220910121430.smil/playlist.m3u8?auth=mh&vid=2634402&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+
+#EXTINF:-1 group-title="Документалистика" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/345/709/8.jpg", Сармат: кочевник стратегического назначения 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/580/874_d20220611165045.smil/playlist.m3u8?auth=mh&vid=2580874&uid=wKgcL2PYM4d7bhB9BaDeAg==
+#EXTINF:-1 group-title="Документалистика" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/343/169/9.jpg", Сельский учитель 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/574/273_d20220531095643.smil/playlist.m3u8?auth=mh&vid=2574273&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+#EXTINF:-1 group-title="Военные" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник Россия 2023 
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/962_d20230112204518.smil/playlist.m3u8?auth=mh&vid=2713962&uid=wKgcL2PYM4d7bhB9BaDeAg==
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="test",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="test",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="test",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия 1 HD
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="test",СОЛОВЬЁВLIVE
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 group-title="test",RT Док
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="test",Телеканал 360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="test",360° Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1 group-title="test",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="test" ,КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 group-title="test",TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="test",CGTN
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="test",RTVi
+http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
+#EXTINF:-1 group-title="test",Дождь
+https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="test",Euronews EN
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
+#EXTINF:-1 group-title="test",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="test",Sky News
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
+
+
+
+#EXTINF:-1 group-title="test",Первый канал
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
+#EXTINF:-1 group-title="test",Россия 1
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test",НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test" ,Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="test",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="test",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="test",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="test",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=z-vgGeb1LzutOqVjpDf_hw&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="test",RTR Planeta
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=k-UcJfjmRJ3bk6Tvvi6rQg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_3.m3u8?md5=qc0bQgRxlYtgsdwW9MZ6gg&e=1675270980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",Россия 1 HD
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=howllLD__169_IMx6PlHEA&e=1675271100&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="test",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="test",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="test",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="test",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+#EXTINF:-1 group-title="test",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 group-title="test",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
