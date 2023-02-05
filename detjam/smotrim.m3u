@@ -1,0 +1,63 @@
+#EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz						
+#EXTM3U						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/360/547/0.jpg" , Проделки сорванца  семейный СССР 1985 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/727/666_d20230202202237.smil/playlist.m3u8?auth=mh&vid=2727666&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/314/169/9.jpg" , Происшествие  детектив СССР 1974 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/340/137/9.jpg" , Рыжий, честный, влюбленный  СССР 1984 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/334/864/4.jpg" , Савраска  комедия СССР 1989 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/802_d20230112191705.smil/playlist.m3u8?auth=mh&vid=2713802&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/335/527/6.jpg" , Лев ушел из дома  приключения СССР 1977 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/695/695_d20221215165836.smil/playlist.m3u8?auth=mh&vid=2695695&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/317/422/3.jpg" , Всмотритесь в это лицо  детектив СССР 1972 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/686/691_d20221201175810.smil/playlist.m3u8?auth=mh&vid=2686691&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/526/3.jpg" , А к нам цирк приехал  приключения СССР 1978 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/682/261_d20221126135323.smil/playlist.m3u8?auth=mh&vid=2682261&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/360/551/2.jpg" , Чехарда  приключения СССР 1987 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/677/906_d20221120195759.smil/playlist.m3u8?auth=mh&vid=2677906&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/317/393/0.jpg" , Чудо-зернышко  СССР 1967 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/673/503_d20221110190628.smil/playlist.m3u8?auth=mh&vid=2673503&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/310/016/8.jpg" , Аварийное положение  СССР 1973 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/669/544_d20221106190626.smil/playlist.m3u8?auth=mh&vid=2669544&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/334/864/4.jpg" , Сказки старого волшебника  приключения СССР 1984 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/660/690_d20221020230913.smil/playlist.m3u8?auth=mh&vid=2660690&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/335/791/0.jpg" , Девятый вал  12+  детям Россия 2022 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/656/207_d20221015215256.smil/playlist.m3u8?auth=mh&vid=2656207&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/372/582/8.jpg" , Доченьки  12+  детям Россия 2022 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/651/679_d20221006193346.smil/playlist.m3u8?auth=mh&vid=2651679&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/370/902/6.jpg" , Встречная полоса  12+  детям Россия 2022 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/646/919_d20221006224243.smil/playlist.m3u8?auth=mh&vid=2646919&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/369/531/2.jpg" , Южный циклон  16+  детям Россия 2022 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/638/096_d20220915210934.smil/playlist.m3u8?auth=mh&vid=2638096&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/368/146/0.jpg" , Три девицы  12+  детям 2021 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/362/809/0.jpg" , Не твоё дело  12+  детям Россия 2021 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/425_d20220910135153.smil/playlist.m3u8?auth=mh&vid=2634425&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/364/142/9.jpg" , Без ума от Тиффани  6+  документалистика США 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/584/649_d20220618211411.smil/playlist.m3u8?auth=mh&vid=2584649&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/346/970/9.jpg" , Розы на стекле  12+  драма Россия 2019 						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/620/738_d20220824122410.smil/playlist.m3u8?auth=mh&vid=2620738&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
+#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/359/324/0.jpg" ,Эйнштейн. Теория любви						
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/608/325_d20220829173600.smil/playlist.m3u8?auth=mh&vid=2608325&uid=wKgcL2PYM4d7bhB9BaDeAg==						
+						
