@@ -896,6 +896,21 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 #EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
 
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 1 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/01_23/31/12/Q2PSNDF4/944547.mpd
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 2 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/01_23/31/12/PRNDYZYX/944548.mpd
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 3 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/17/OHWAA3PJ/YNWJWJDM.mp4/master.m3u8 
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 4 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/17/FFKLGPAK/MEN3JG6J.mp4/master.m3u8
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 5 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/02_01_23/02/01/17/MZESBM25/JXF2ZG7D.mp4/master.m3u8
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 6 серия (1 сезон)
+https://hye1eaipby4w.takedwn.ws/02_01_23/02/01/17/UBTI7WOR/O3Z5Y7BI.mp4/master.m3u8
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 7 серия (1 сезон)
+
+#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 8 серия (1 сезон)
 
 #EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 1 серия (1 сезон)
 https://hye1eaipby4w.takedwn.ws/11_22/10/22/BH232Z7V/925245.mpd
