@@ -11,14 +11,14 @@ http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0 tvg-name="Россия_24" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
 https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
-#EXTINF:-1 group-title="S_Jura" ,Охота и рыбалка
-http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
 #EXTINF:0 tvg-name="Известия" group-title="S_Jura" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name="РБК" group-title="S_Jura" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-
-
+#EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="S_Jura" ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
 
 
 
@@ -83,9 +83,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
 http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
@@ -95,13 +95,13 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
 http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
 http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
-#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
 http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
 #EXTINF:-1 group-title="L",РЕН ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
