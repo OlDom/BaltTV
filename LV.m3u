@@ -28,6 +28,8 @@ http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 #EXTINF:0 tvg-name="НТВ" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:0 tvg-name="НТВ" group-title="S" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://salam-2.rutube.ru/dive/river-3-301.rutube.ru/0k310IHoHKy1BA-2w_Ci5A/stream/musang-605.cvt.rutube.ru/AsySRTuCX-LY8UhY-Hq1mA/1675835236/6790928c5b1d07e50b71df24957c29ad/1080p_stream.m3u8
 #EXTINF:0 tvg-name="Россия_24" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
 https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
 #EXTINF:0 tvg-name="Известия" group-title="S" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
