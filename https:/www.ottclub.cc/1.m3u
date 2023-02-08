@@ -1,14 +1,26 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 
-#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/video/14/19/14190807c0c48b40361aca93ad0867c7.jpg?size=w306",Первый канал HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/63/a2/63a2eb1886a45be2b1da64729397230c.jpg",Первый канал HD
 #EXTGRP:Общие
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=v77w6BRbdMKhwRsxWzKpdA&e=1675905190&scheme=https
-#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/video/31/3e/313e711c8cceedd2a130c42e48fe07b4.jpg?size=w306",Россия 1 HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/0e/ee/0eeea0942d9da11cb17d2484cfd8eff7.jpg",Россия 1 HD
 #EXTGRP:Общие
 https://bl.rutube.ru/livestream/9f60c7a40f9b5ec52a447e215b36e34c/index.m3u8?s=EjdpKRJDTQmNaqh0Ba0yuA&e=1675905328&scheme=https
-#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/video/7e/18/7e187a39940e48e715aa25d09e222859.jpg?size=w306",НТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/76/5f/765f911615bf93586c0aefbf1a5e639e.jpg",НТВ HD
 #EXTGRP:Общие
 https://bl.rutube.ru/livestream/6790928c5b1d07e50b71df24957c29ad/index.m3u8?s=_zH1PEz9YcOt13ckagx_VQ&e=1675905389&scheme=https
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/f5/e7/f5e7ffcad8aea6c2bf4424a7247a4385.jpg",Россия 24
+#EXTGRP:Общие
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/1d/c1/1dc1aeeadda99918af744441f8652e2b.jpg",Известия
+#EXTGRP:Общие
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://pic.rutubelist.ru/user/1f/79/1f7921d6d623ef9459152aefef2dd3e7.jpg",РБК ТВ
+#EXTGRP:Общие
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="",Euronews
+#EXTGRP:Общие
+http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:Общие
 http://myott.top/stream/DHZ4EYUYVF/135.m3u8
