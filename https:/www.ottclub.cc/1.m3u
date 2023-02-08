@@ -24,6 +24,7 @@ http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:Общие
 http://myott.top/stream/DHZ4EYUYVF/135.m3u8
+
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
 #EXTGRP:Общие
 http://myott.top/stream/DHZ4EYUYVF/138.m3u8
