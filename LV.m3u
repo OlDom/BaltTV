@@ -17,8 +17,8 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="S_Jura" ,Охота и рыбалка
-http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="S_Jura" ,Россия К
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
 
 
 
@@ -36,6 +36,8 @@ https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="S" ,Россия К
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
 
 
 
@@ -80,6 +82,8 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="M",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="M" ,Россия К
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
 
 
 
