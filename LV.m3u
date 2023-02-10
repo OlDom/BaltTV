@@ -19,7 +19,8 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="S_Jura" ,Россия К
 https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/060/881_195144_d20140507105653.smil/playlist.m3u8?auth=mh&vid=195144&uid=wKgcDmPlQX5qNzS5BZnbAg==
-
+#EXTINF:-1 group-title="S_Jura" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-name="Первый_канал" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
@@ -38,6 +39,8 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S" ,Россия К
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
+#EXTINF:-1 group-title="S" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
 
 
@@ -56,6 +59,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 #EXTINF:-1 group-title="M",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="M" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="M",НТВ Хит
 https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:-1 group-title="M",НТВ Право
@@ -101,6 +106,8 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="L" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
@@ -168,6 +175,8 @@ http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="X",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="X" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="X" ,ТНТ
 http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,ТНТ HD
@@ -325,6 +334,8 @@ https://sc.id-tv.kz:443/NTV_34_35.m3u8
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png",Россия К
 https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+#EXTINF:-1 group-title="XL" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="XL",ТНТ-International (СНГ) 
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg",ТНТ4 International
@@ -498,7 +509,8 @@ https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="XXL",Москва 24 HD
 https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
 
-
+#EXTINF:-1 group-title="XXL" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="XXL",ТВ Центр HD
 https://2serv.mylifeisgood.ml/channels/tvc?i=a.m3u8
 #EXTINF:-1 group-title="XXL",РЕН ТВ HD
