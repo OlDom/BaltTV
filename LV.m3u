@@ -18,7 +18,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="S_Jura" ,Россия К
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/060/881_195144_d20140507105653.smil/playlist.m3u8?auth=mh&vid=195144&uid=wKgcDmPlQX5qNzS5BZnbAg==
 
 
 
@@ -96,7 +96,7 @@ http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
 #EXTINF:-1 group-title="L",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
@@ -322,7 +322,7 @@ https://bl.rutube.ru/livestream/6790928c5b1d07e50b71df24957c29ad/index.m3u8?s=tq
 #EXTINF:-1 group-title="XL",НТВ-Мир 
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png",Россия 24
-https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png",Россия К
 https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
 #EXTINF:-1 group-title="XL",ТНТ-International (СНГ) 
@@ -490,7 +490,7 @@ https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
 #EXTINF:-1 group-title="XXL",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия 24 HD
-https://livetv.mylifeisgood.ml/channels/russia24?i=a.m3u8
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
 #EXTINF:-1 group-title="XXL",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="XXL",РБК-ТВ
