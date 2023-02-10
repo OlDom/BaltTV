@@ -506,8 +506,8 @@ https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="XXL",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="XXL",Москва 24 HD
-https://livetv.mylifeisgood.ml/channels/moscow24?i=a.m3u8
+#EXTINF:-1 group-title="XXL",Москва 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
 
 #EXTINF:-1 group-title="XXL" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
@@ -1100,6 +1100,8 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 group-title="news",Москва 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
 #EXTINF:-1 group-title="news",RT Док
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="news",Телеканал 360°
