@@ -1,6 +1,161 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz, http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000" 
 
 
+#EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTINF:-1 group-title="M",Первый HD
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+
+
+
+#EXTINF:0 tvg-name="Первый_канал" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:0 tvg-name="Россия_1" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:0 tvg-name="НТВ" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:0 tvg-name="НТВ" group-title="S" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://salam-2.rutube.ru/dive/river-3-301.rutube.ru/0k310IHoHKy1BA-2w_Ci5A/stream/musang-605.cvt.rutube.ru/AsySRTuCX-LY8UhY-Hq1mA/1675835236/6790928c5b1d07e50b71df24957c29ad/1080p_stream.m3u8
+#EXTINF:0 tvg-name="Россия_24" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:0 tvg-name="Известия" group-title="S" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="S" ,Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="S" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="M",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="M",Россия 1
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 group-title="M",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="M",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="M",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="M",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="M",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="M" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="M",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="M",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="M",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="M",Amedia 1
+http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 group-title="M",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+#EXTINF:-1 group-title="M",RT Док
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="M",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="M" ,Россия К
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
+
+
+
+
+
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="L",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="L",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+#EXTINF:-1 group-title="L",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="L",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="L" ,Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
+#EXTINF:-1 group-title="L",РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 group-title="L",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="L",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="L",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+#EXTINF:-1 group-title="L",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+#EXTINF:-1 group-title="L",Россия К
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+#EXTINF:-1 group-title="L",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 group-title="L",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="L",Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="L",ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="L",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1 group-title="L",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="L",СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 group-title="L",Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 group-title="L",Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 group-title="L",МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="L",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="XXL",Первый HD
 https://livetv.mylifeisgood.ml/channels/perviytest
