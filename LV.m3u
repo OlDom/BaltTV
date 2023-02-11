@@ -20,7 +20,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="S_Jura" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="S_Jura" ,Россия К
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/060/881_195144_d20140507105653.smil/playlist.m3u8?auth=mh&vid=195144&uid=wKgcDmPlQX5qNzS5BZnbAg==
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 
 
 
@@ -39,7 +39,7 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S" ,Россия К
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 #EXTINF:-1 group-title="S" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
@@ -1181,7 +1181,7 @@ https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=tj
 #EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/1d/c1/1dc1aeeadda99918af744441f8652e2b.jpg?size=s",Известия
 #EXTGRP:S-Jura
 https://edge02d.mediavitrina.ru/hls-livec1/streams/vitrina-hls/izvestia/playlist.m3u8?token=v2.K8CeN9OWNlduubJ-wMcfeTS3fwR88VAY6DLY4Q0VUhc.vFtO-UXnIT0DE370NggCk6ePN6Pjh0TXEysvkXVyreA.1676586545.cc5684651d1c5a374b6e4321a78b9f74
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/9a/fa/9afa0eeb2f4ff1dec301860d31a50af6.jpg?size=s",Телеканал Культура
+#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/9a/fa/9afa0eeb2f4ff1dec301860d31a50af6.jpg?size=s",Телеканал 
 #EXTGRP:S-Jura
 https://bl.rutube.ru/livestream/2f06f85c083eae268933821508da2bcf/index.m3u8?s=kCOWkdJLqm6LWC2QQG0Gnw&e=1676068470&scheme=https
 #EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/c3/a4/c3a4ad05703c7c982d567fb31ae348fd.jpg?size=s",VIVA HD
