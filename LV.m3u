@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz, https://iptvx.site/epg_lite.xml.gz, http://epg.it999.ru/epg.xml.gz" 
-
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" 
 
 #EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTINF:-1 group-title="M",Первый HD
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
