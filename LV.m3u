@@ -17,9 +17,9 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="S_Jura" ,Мелодрамы
+#EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="S_Jura" ,Россия К
+#EXTINF:-1 group-title="S_Jura" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg"Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 
 
@@ -319,6 +319,30 @@ http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Матч! Страна
 http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 
+#EXTINF:-1 group-title="X",Россия 24  
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+
+#EXTINF:-1 group-title="X",Россия 1
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+
+#EXTINF:-1 group-title="X",Культура
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+
+#EXTINF:-1 group-title="X",Санкт-Петербург
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+
+#EXTINF:-1 group-title="X",Кино и сериалы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+
+#EXTINF:-1 group-title="X",Мелодрамы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+
+#EXTINF:-1 group-title="X",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+
+#EXTINF:-1 group-title="X",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+
 
 
 
@@ -492,6 +516,30 @@ https://sc.id-tv.kz/Jetusu_34_35.m3u8
 #EXTINF:-1 group-title="XL" ,Turan TV
 https://sc.id-tv.kz/TuranTV_34_35.m3u8
 
+#EXTINF:-1 group-title="XL",Россия 24  
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+
+#EXTINF:-1 group-title="XL",Россия 1
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+
+#EXTINF:-1 group-title="XL",Культура
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+
+#EXTINF:-1 group-title="XL",Санкт-Петербург
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+
+#EXTINF:-1 group-title="XL",Кино и сериалы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+
+#EXTINF:-1 group-title="XL",Мелодрамы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+
+#EXTINF:-1 group-title="XL",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+
+#EXTINF:-1 group-title="XL",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+
 
 
 
@@ -546,6 +594,29 @@ https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
 #EXTINF:-1 group-title="XXL",МИР HD
 https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
 
+#EXTINF:-1 group-title="XXL",Россия 24  
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+
+#EXTINF:-1 group-title="XXL",Россия 1
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+
+#EXTINF:-1 group-title="XXL",Культура
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+
+#EXTINF:-1 group-title="XXL",Санкт-Петербург
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+
+#EXTINF:-1 group-title="XXL",Кино и сериалы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+
+#EXTINF:-1 group-title="XXL",Мелодрамы
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+
+#EXTINF:-1 group-title="XXL",РТР Планета
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+
+#EXTINF:-1 group-title="XXL",РТР Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
 #EXTINF:-1 group-title="XXL",МУЗ ТВ HD
 https://livetv.mylifeisgood.ml/channels/muztvhd?i=a.m3u8
 #EXTINF:-1 group-title="XXL",СТС Love
