@@ -1193,8 +1193,8 @@ https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/00
 
 
 
-#EXTINF:-1 group-title="torr",24 ДОК
-http://127.0.0.1:6878/ace/getstream?id=552baadf5e93a96f47f8eebf27f1f772ceda951e
+#EXTINF:-1 group-title="torr",24-ДОК
+http://127.0.0.1:6878/ace/getstream?id=da116afe3adb4831f53e87d118b1f8c650b719d8
 #EXTINF:-1 group-title="torr",2x2
 http://127.0.0.1:6878/ace/getstream?id=d60d2392e4ca0a5374eac210445f8d8ab7f70250
 #EXTINF:-1 group-title="torr",43 Канал
