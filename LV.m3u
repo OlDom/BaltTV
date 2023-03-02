@@ -55,7 +55,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ivi",CGTN Русский
-https://ivi-live-cgtn.servicecdn.ru/jW1Jv3ybnh3qQmIj0mWO5FFp3njgJ5ovREuROXyWHdQdK4mikGxY13654/0E0W2A3apIFnggWkRFk-BQ,1676651648/2052.m3u8
+http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 group-title="SL",Россия 24  
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1633332800&s=720
