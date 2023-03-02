@@ -17,19 +17,19 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg",Россия К
-https://raw.githubusercontent.com/OlDom/BaltTV/main/russia_k.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1633332800&s=720
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/333/199/9.svg",СургутИнформТВ
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63201?e=1633364700&s=720
+https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/337/024/9.svg",Новороссийск
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63469?e=1633364700&s=720
+https://live-tvnovorossiysk.cdnvideo.ru/cdn/operators/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/356/836/6.svg",ТОЛК
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63750?e=1633364700&s=720
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/371/156/7.svg",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/335/818/3.svg",Краснодар
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63325?e=1633364700&s=720
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/323/059/5.svg",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661?e=1633364700&s=720
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/336/274/1.svg",Кавказ 24
@@ -50,7 +50,7 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0 tvg-name="РБК" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="S" ,Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="S" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
@@ -58,16 +58,16 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 group-title="SL",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1633332800&s=720
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="SL",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
 
 #EXTINF:-1 group-title="SL",Культура
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1633332800&s=720
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
 
 #EXTINF:-1 tvg-name="Санкт-Петербург" group-title="SL" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1633332800&s=720
+https://vgtrksmotrim.cdnvideo.ru/hls2/ext_spbtv/playlist.m3u8?md5=Tmb8EGjuT-V3BbdWrQyUIw&e=1677774780
 
 #EXTINF:-1 group-title="SL",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
