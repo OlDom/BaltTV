@@ -89,14 +89,13 @@ http://sochi.camera:8080/cam_255/index.m3u8?token=null
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M",Россия 24
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
 #EXTINF:-1 group-title="M",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="M",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 #EXTINF:-1 group-title="M",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="M" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="M",НТВ Хит
