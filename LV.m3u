@@ -58,28 +58,28 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 https://ivi-live-cgtn.servicecdn.ru/jW1Jv3ybnh3qQmIj0mWO5FFp3njgJ5ovREuROXyWHdQdK4mikGxY13654/0E0W2A3apIFnggWkRFk-BQ,1676651648/2052.m3u8
 
 #EXTINF:-1 group-title="SL",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1633332800&s=720
 
 #EXTINF:-1 group-title="SL",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
 
 #EXTINF:-1 group-title="SL",Культура
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1633332800&s=720
 
 #EXTINF:-1 tvg-name="Санкт-Петербург" group-title="SL" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1633332800&s=720
 
 #EXTINF:-1 group-title="SL",Кино и сериалы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SL",Мелодрамы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SL",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1633332800&s=720
 
 #EXTINF:-1 group-title="SL",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1633332800&s=720
 
 
 #EXTINF:-1 group-title="M",Первый HD
