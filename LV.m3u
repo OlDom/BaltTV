@@ -35,6 +35,44 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661?e=1633364700&s=720
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/336/274/1.svg",Кавказ 24
 https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_sdhigh.m3u8
 
+
+#EXTINF:-1 group-title="news",Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+#EXTINF:-1 group-title="news",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="news",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/063/338_216806_d20140507105653.smil/playlist.m3u8?auth=mh&vid=216806&uid=wKgcD2QB9EIOOwyeBJolAg==
+#EXTINF:-1 group-title="news",Москва 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
+#EXTINF:-1 group-title="news",RT Док
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="news",Телеканал 360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="news",360° Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1 group-title="news",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="news",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 group-title="news",TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="news",CGTN
+http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="news",RTVi
+http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
+#EXTINF:-1 group-title="news",Дождь
+https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="news",Euronews EN
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
+#EXTINF:-1 group-title="news",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="news",Sky News
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
+
 #EXTINF:0 tvg-name="Первый_канал" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:0 tvg-name="Россия_1" group-title="S" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
@@ -902,283 +940,6 @@ https://livetv.mylifeisgood.ml/channels/nashsport23?i=a.m3u8
 https://livetv.mylifeisgood.ml/channels/nashsport24?i=a.m3u8
 
 
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673771041_fandorin-azazel-2023.jpg", Фандорин. Азазель 1 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/19/05/QUXQ35PY/941794.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673771041_fandorin-azazel-2023.jpg", Фандорин. Азазель 2 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/26/14/CX3HLUSG/943516.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673771041_fandorin-azazel-2023.jpg", Фандорин. Азазель 3 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/02/13/4AAC5MXQ/944957.mpd
-
-
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674964596_pokerfeys-serial-2023.jpg", Покерфейс 1 серия  (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/31/21/FJ6FWX67/944573.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674964596_pokerfeys-serial-2023.jpg", Покерфейс 2 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/01/09/HTGSH7MQ/944782.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674964596_pokerfeys-serial-2023.jpg", Покерфейс 3 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/02/06/STMM2EFE/944936.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674964596_pokerfeys-serial-2023.jpg", Покерфейс 4 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/04/12/SLNYL5KW/945664.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674964596_pokerfeys-serial-2023.jpg", Покерфейс 5 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/03/18/MCM3EWI5/945441.mpd
-
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673681428_himiya-smerti-2023.jpg", Химия смерти 1 серия  (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/24/22/B3GZPGNQ/943164.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673681428_himiya-smerti-2023.jpg", Химия смерти 2 серия  (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/27/19/Q4VX3MVF/943914.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673681428_himiya-smerti-2023.jpg", Химия смерти 3 серия  (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_03_23/02/03/08/DPR6IZBZ/56KCZMSQ.mp4/master.m3u8
-#EXTINF:-1 group-title="детектив" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673681428_himiya-smerti-2023.jpg", Химия смерти* 4* серия  (1 сезон)
-
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 1
-https://hye1eaipby4w.takedwn.ws/01_23/17/05/JDVCL67Q/941349.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 2
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/47JUS7DY/941350.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 3
-https://hye1eaipby4w.takedwn.ws/01_23/17/08/T2VM5OVG/941351.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 4
-https://hye1eaipby4w.takedwn.ws/01_23/17/07/YKHJBEBM/941352.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 5
-https://hye1eaipby4w.takedwn.ws/01_23/17/02/J6HV3JSU/941353.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 6
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/VWD3QJJQ/941354.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 7
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/QIIKD3FD/941355.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 8
-https://hye1eaipby4w.takedwn.ws/01_23/17/09/34T35PZB/941356.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 9
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/FXCTAJV7/941357.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 10
-https://hye1eaipby4w.takedwn.ws/01_23/17/02/SK4X7ODN/941358.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 11
-https://hye1eaipby4w.takedwn.ws/01_23/17/04/FYD5KDG5/941359.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 12
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/OC4KAMEV/941360.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 13
-https://hye1eaipby4w.takedwn.ws/01_23/17/05/JOXNDMP7/941361.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 14
-https://hye1eaipby4w.takedwn.ws/01_23/17/10/LVIYAMFT/941362.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 15
-https://hye1eaipby4w.takedwn.ws/01_23/17/06/DWFI2EGS/941363.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 16
-https://hye1eaipby4w.takedwn.ws/01_23/17/06/ZWN7YL2S/941364.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 17
-https://hye1eaipby4w.takedwn.ws/01_23/17/05/GUVLIGMR/941365.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 18
-https://hye1eaipby4w.takedwn.ws/01_23/17/03/Z7O3IOUG/941366.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 19
-https://hye1eaipby4w.takedwn.ws/01_23/17/06/GEUMK5GV/941367.mpd
-#EXTINF:-1 group-title="детектив" tvg-logo="https://rosserial.su/uploads/posts/2023-01/1672641902_bezsonov.webp" ,Безсоновъ 2023 серия 20
-https://hye1eaipby4w.takedwn.ws/01_23/17/04/7OFVLZZQ/941368.mpd
-
-
-#EXTINF:-1 group-title="детектив" tvg-logo="https://kinotochka.co/uploads/posts/2022-12/1670935917_dshjy.jpg", Отзвуки прошлого 2023 боевик, вестерн
-https://s15.vidme.link/video_mp4/films/2023/TheOldWay/clxjV3ZsaHh2OC8fHBkjDmYaOSI5ATo:_c0RkTHB2bwZ0Uw::/TheOldWay2023.mp4
-#EXTINF:-1 group-title="боевик" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674822779_volchonok-2023.jpg", Волчонок / Оборотень 2023 фэнтези, боевик
-https://hye1eaipby4w.takedwn.ws/02_05_23/02/05/13/LNP7QOU3/KWZSRIXN.mp4/master.m3u8
-#EXTINF:-1 group-title="боевик" tvg-logo="https://kinotochka.co/uploads/posts/2022-11/1668301255_2a53283888.jpg", Чёрная Пантера: Ваканда навеки (2022) фантастика, боевик, драма
-https://s15.vidme.link/video_mp4/films/2022/BlackPantherForever/clxjV3ZsaHh2OC8fHBkjDmYaOSI5ATo:_c0RkTHBxbQVyUg::/BlackPantherForever2022_720.mp4
-#EXTINF:-1 group-title="детектив" tvg-logo="https://kinotochka.co/uploads/posts/2023-01/1672804582_16a81664ca.jpg", Сволочи 2023 боевик, триллер, комедия, криминал
-https://s15.vidme.link/video_mp4/films/2023/TheOldWay/clxjV3ZsaHh2OC8fHBkjDmYaOSI5ATo:_c0RkTHB2bwZ0Uw::/TheOldWay2023.mp4
-#EXTINF:-1 group-title="детектив" tvg-logo="https://kinotochka.co/uploads/posts/2023-01/1674877956_ff89bd4199.jpg", Ночной поезд (2023) боевик, триллер
-https://s15.vidme.link/video_mp4/films/2023/TheOldWay/clxjV3ZsaHh2OC8fHBkjDmYaOSI5ATo:_c0RkTHB2bwZ0Uw::/TheOldWay2023.mp4
-#EXTINF:-1 group-title="боевик" tvg-logo="http://mobi-films.me/uploads/posts/2023-02/1675405899_kompleks-boga-2023.jpg", Комплекс бога (1 сезон) - 1
-https://hye1eaipby4w.takedwn.ws/02_05_23/02/05/10/HVZALPB7/SPCZXTEY.mp4/master.m3u8
-#EXTINF:-1 group-title="боевик" tvg-logo="http://mobi-films.me/uploads/posts/2023-02/1675405899_kompleks-boga-2023.jpg", Комплекс бога (1 сезон) - 2
-https://hye1eaipby4w.takedwn.ws/02_03_23/02/03/08/S7O7LTOJ/IZGF5KCB.mp4/master.m3u8
-#EXTINF:-1 group-title="боевик" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1673796211_krushenie-2023.jpg", Крушение 2023 , боевики  США
-https://hye1eaipby4w.takedwn.ws/02_05_23/02/05/10/HVZALPB7/SPCZXTEY.mp4/master.m3u8
-
-
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 1 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/11_22/08/08/IHZBYLKX/924354.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 2 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/09_22/29/01/BKATCBBF/915279.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 3 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/10_22/05/14/KSCLUEZ2/916608.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 4 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/10_22/13/01/FHWOG2PJ/918261.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 5 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 6 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/10_22/29/06/NCFGAGFV/922153.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 7 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/10_22/29/06/LVO65QB7/922154.mpd
-
-#EXTINF:-1 group-title="исторические" tvg-logo="http://mobi-films.me/uploads/posts/2022-09/1662705131_soyuz-spaseniya-2-vremya-gneva-2022.jpg", Союз спасения. Время гнева 8 серия (1 сезон) Время гнева 2022 исторические, приключения, драма
-https://hye1eaipby4w.takedwn.ws/10_22/29/06/H6EW5MOY/922155.mpd
-
-
-
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/360/547/0.jpg" , Проделки сорванца  семейный СССР 1985 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/727/666_d20230202202237.smil/playlist.m3u8?auth=mh&vid=2727666&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/314/169/9.jpg" , Происшествие  детектив СССР 1974 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/723/042_d20230126182302.smil/playlist.m3u8?auth=mh&vid=2723042&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/340/137/9.jpg" , Рыжий, честный, влюбленный  СССР 1984 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/334/864/4.jpg" , Савраска  комедия СССР 1989 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/802_d20230112191705.smil/playlist.m3u8?auth=mh&vid=2713802&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/335/527/6.jpg" , Лев ушел из дома  приключения СССР 1977 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/695/695_d20221215165836.smil/playlist.m3u8?auth=mh&vid=2695695&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/317/422/3.jpg" , Всмотритесь в это лицо  детектив СССР 1972 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/686/691_d20221201175810.smil/playlist.m3u8?auth=mh&vid=2686691&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/526/3.jpg" , А к нам цирк приехал  приключения СССР 1978 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/682/261_d20221126135323.smil/playlist.m3u8?auth=mh&vid=2682261&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/360/551/2.jpg" , Чехарда  приключения СССР 1987 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/677/906_d20221120195759.smil/playlist.m3u8?auth=mh&vid=2677906&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/317/393/0.jpg" , Чудо-зернышко  СССР 1967 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/673/503_d20221110190628.smil/playlist.m3u8?auth=mh&vid=2673503&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/310/016/8.jpg" , Аварийное положение  СССР 1973 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/669/544_d20221106190626.smil/playlist.m3u8?auth=mh&vid=2669544&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/334/864/4.jpg" , Сказки старого волшебника  приключения СССР 1984 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/660/690_d20221020230913.smil/playlist.m3u8?auth=mh&vid=2660690&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/335/791/0.jpg" , Девятый вал  12+  детям Россия 2022 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/656/207_d20221015215256.smil/playlist.m3u8?auth=mh&vid=2656207&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/372/582/8.jpg" , Доченьки  12+  детям Россия 2022 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/651/679_d20221006193346.smil/playlist.m3u8?auth=mh&vid=2651679&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/370/902/6.jpg" , Встречная полоса  12+  детям Россия 2022 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/646/919_d20221006224243.smil/playlist.m3u8?auth=mh&vid=2646919&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/369/531/2.jpg" , Южный циклон  16+  детям Россия 2022 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/638/096_d20220915210934.smil/playlist.m3u8?auth=mh&vid=2638096&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/368/146/0.jpg" , Три девицы  12+  детям 2021 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/362/809/0.jpg" , Не твоё дело  12+  детям Россия 2021 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/425_d20220910135153.smil/playlist.m3u8?auth=mh&vid=2634425&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/364/142/9.jpg" , Без ума от Тиффани  6+  документалистика США 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/584/649_d20220618211411.smil/playlist.m3u8?auth=mh&vid=2584649&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/346/970/9.jpg" , Розы на стекле  12+  драма Россия 2019 						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/620/738_d20220824122410.smil/playlist.m3u8?auth=mh&vid=2620738&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-#EXTINF:-1 group-title="детям" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/359/324/0.jpg" ,Эйнштейн. Теория любви						
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/608/325_d20220829173600.smil/playlist.m3u8?auth=mh&vid=2608325&uid=wKgcL2PYM4d7bhB9BaDeAg==						
-						
-            
-
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/394/608/5.jpg",Место силы Россия 2023 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/718/396_d20230119194014.smil/playlist.m3u8?auth=mh&vid=2718396&uid=wKgcL2PYM4d7bhB9BaDeAg==
-
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 1 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/31/12/Q2PSNDF4/944547.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 2 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/31/12/PRNDYZYX/944548.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 3 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/17/OHWAA3PJ/YNWJWJDM.mp4/master.m3u8 
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 4 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/17/FFKLGPAK/MEN3JG6J.mp4/master.m3u8
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 5 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_01_23/02/01/17/MZESBM25/JXF2ZG7D.mp4/master.m3u8
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 6 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/02_01_23/02/01/17/UBTI7WOR/O3Z5Y7BI.mp4/master.m3u8
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 7 серия (1 сезон)
-
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2023-01/1674803649_krasnyy-yar-2023.jpg", Красный Яр 8 серия (1 сезон)
-
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 1 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/22/BH232Z7V/925245.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 2 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/21/XYZKXPC4/925240.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 3 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/23/IVOYA3ZA/925242.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 4 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/22/RSVVCSUD/925241.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 5 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/22/FAFSQWOQ/925243.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 6 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/23/BQR5ABEA/925244.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 7 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/23/LFQO24DG/925239.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2021-12/1640250420_barencevo-more-2022.jpg", Баренцево море 8 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/11_22/10/23/WNPP2WZS/925246.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/393/717/1.jpg",Праведник Россия 2023 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/713/962_d20230112204518.smil/playlist.m3u8?auth=mh&vid=2713962&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 1 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/15/XZVQLYY5/915143.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 2 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/12/NTXUYWYW/915144.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 3 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/10/MFRJSENX/915145.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 4 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/09/DDQHNLGH/915146.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 5 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/10/XWRQZA3F/915147.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 6 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/12/MRX4CDOJ/915148.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 7 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/20/NOGTDM2Y/915149.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 8 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/17/P5JNFT2X/915150.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 9 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/14/WWSYXJ2X/915151.mpd 
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 10 серия (1 сезон)
-https://hye1eaipby4w.takedwn.ws/09_22/28/07/6UQXTPUS/915152.mpd 
-
-
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 1 серия (2 сезон)
-https://hye1eaipby4w.takedwn.ws/01_23/20/04/4D34VNLN/942157.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 2 серия (2 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/02/14/RTKRGUAL/944978.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 3 серия (2 сезон)
-https://hye1eaipby4w.takedwn.ws/02_23/02/16/4TWSNZJ4/945023.mpd
-#EXTINF:-1 group-title="военные" tvg-logo="http://mobi-films.me/uploads/posts/2020-12/1607335158_vasha-chest.jpg", Ваша честь 4 серия (2 сезон)
-https://hye1eaipby4w.takedwn.ws/02_04_23/02/04/12/7MVU4JRS/Y6TXS4YU.mp4/master.m3u8
-
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/397/000/7.jpg",фразы из комедий Гайдая
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/724/824_d20230130110021.smil/playlist.m3u8?auth=mh&vid=2724824&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/497/2.jpg",Операция Ы СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/637/943_d20220915184624.smil/playlist.m3u8?auth=mh&vid=2637943&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Бриллиантовая рука СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/632/822_d20220908093228.smil/playlist.m3u8?auth=mh&vid=2632822&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/315/959/2.jpg",Кавказская пленница СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/635/423_d20220912191309.smil/playlist.m3u8?auth=mh&vid=2635423&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/390/729/0.jpg",Иван Васильевич меняет профессию СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/386_d20221231191950.smil/playlist.m3u8?auth=mh&vid=2634386&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/367/227/1.jpg",Самогонщики СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/924_d20220920154947.smil/playlist.m3u8?auth=mh&vid=2640924&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/367/233/7.jpg",Пес Барбос и необычный кросс СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/640/923_d20220920161020.smil/playlist.m3u8?auth=mh&vid=2640923&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/366/653/0.jpg",Спортлото-82 СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/639/309_d20220917172441.smil/playlist.m3u8?auth=mh&vid=2639309&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/395/119/9.jpg",За спичками СССР
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/470_d20220910142730.smil/playlist.m3u8?auth=mh&vid=2634470&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="комедия" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/395/306/2.jpg",Джентльмены удачи СССР 1971
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/634/402_d20220910121430.smil/playlist.m3u8?auth=mh&vid=2634402&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="документалистика" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/345/709/8.jpg", Сармат: кочевник стратегического назначения 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/580/874_d20220611165045.smil/playlist.m3u8?auth=mh&vid=2580874&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="документалистика" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/343/169/9.jpg", Сельский учитель 
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/574/273_d20220531095643.smil/playlist.m3u8?auth=mh&vid=2574273&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/xw/334/057/1.jpg", Прости за любовь 2021 Россия
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/522/567_d20220318193728.smil/playlist.m3u8?auth=mh&vid=2522567&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/xw/362/809/0.jpg", Три девицы 2021 Россия
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
-#EXTINF:-1 group-title="мелодрама" tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/369/531/2.jpg", Встречная полоса 2022 Россия
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/629/163_d20220901235039.smil/playlist.m3u8?auth=mh&vid=2629163&uid=wKgcL2PYM4d7bhB9BaDeAg==
-
-
-
-
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",ТНТ HD
@@ -1681,43 +1442,3 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Ziggo Sport Voetbal 
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
-
-
-
-
-#EXTINF:-1 group-title="news",Россия 24
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
-#EXTINF:-1 group-title="news",Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="news",РБК-ТВ
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/063/338_216806_d20140507105653.smil/playlist.m3u8?auth=mh&vid=216806&uid=wKgcD2QB9EIOOwyeBJolAg==
-#EXTINF:-1 group-title="news",Москва 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
-#EXTINF:-1 group-title="news",RT Док
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 group-title="news",Телеканал 360°
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 group-title="news",360° Новости
-https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
-#EXTINF:-1 group-title="news",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="news",КРЫМ 24
-http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
-https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
-#EXTINF:-1 group-title="news",TV BRICS
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="news",CGTN
-http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 group-title="news",RTVi
-http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
-#EXTINF:-1 group-title="news",Дождь
-https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="news",Euronews EN
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
-#EXTINF:-1 group-title="news",Euronews
-http://185.32.44.154/euronews/index.m3u8
-#EXTINF:-1 group-title="news",Sky News
-https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
