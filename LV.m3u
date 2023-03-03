@@ -1695,14 +1695,7 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 
 
 
-
-#EXTINF:-1 group-title="news",Первый канал
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="news",Россия 1
-http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="news",НТВ
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="news" ,Россия 24
+#EXTINF:-1 group-title="news",Россия 24
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 #EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
@@ -1720,7 +1713,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
 #EXTINF:-1 group-title="news",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="news" ,КРЫМ 24
+#EXTINF:-1 group-title="news",КРЫМ 24
 http://iptv.ktkru.ru:8025/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
@@ -1738,4 +1731,3 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="news",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
-m3u8
