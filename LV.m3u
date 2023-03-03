@@ -7,7 +7,7 @@ http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
-https://raw.githubusercontent.com/OlDom/BaltTV/main/russia_24.m3u
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://i.imgur.com/FwPWS8i.png",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
@@ -89,7 +89,7 @@ http://sochi.camera:8080/cam_255/index.m3u8?token=null
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="M",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="M",РБК ТВ
@@ -118,8 +118,7 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="M",Amedia 1
 http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 group-title="M",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u
+
 #EXTINF:-1 group-title="M",RT Док
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="M",МИР 24
@@ -138,7 +137,7 @@ http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="L",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
@@ -207,7 +206,7 @@ http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,НТВ HD
 http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="X" ,Россия 24
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="X",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="X",РБК-ТВ
@@ -356,7 +355,7 @@ http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
 http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 
 #EXTINF:-1 group-title="X",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="X",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
@@ -392,7 +391,7 @@ https://bl.rutube.ru/livestream/6790928c5b1d07e50b71df24957c29ad/index.m3u8?s=tq
 #EXTINF:-1 group-title="XL",НТВ-Мир 
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.master.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png",Россия К
 https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
 #EXTINF:-1 group-title="XL" ,Мелодрамы
@@ -553,7 +552,7 @@ https://sc.id-tv.kz/Jetusu_34_35.m3u8
 https://sc.id-tv.kz/TuranTV_34_35.m3u8
 
 #EXTINF:-1 group-title="XL",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="XL",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
@@ -586,7 +585,7 @@ https://livetv.mylifeisgood.ml/channels/russia1?i=a.m3u8
 #EXTINF:-1 group-title="XXL",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv?i=a.m3u8
 #EXTINF:-1 group-title="XXL",Россия 24 HD
-https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="XXL",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="XXL",РБК-ТВ
@@ -631,7 +630,7 @@ https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
 https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
 
 #EXTINF:-1 group-title="XXL",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="XXL",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
@@ -1706,7 +1705,7 @@ http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news",НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="news" ,Россия 24
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="news",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
