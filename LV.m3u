@@ -19,7 +19,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1633332800&s=720
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/333/199/9.svg",СургутИнформТВ
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/337/024/9.svg",Новороссийск
@@ -68,7 +68,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
 
 #EXTINF:-1 tvg-name="Санкт-Петербург" group-title="SL" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/hls2/ext_spbtv/playlist.m3u8?md5=Tmb8EGjuT-V3BbdWrQyUIw&e=1677774780
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
 
 #EXTINF:-1 group-title="SL",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
@@ -356,25 +356,25 @@ http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 
 #EXTINF:-1 group-title="X",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",Культура
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",Кино и сериалы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",Мелодрамы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1677857000&s=613
 
 #EXTINF:-1 group-title="X",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1677857000&s=613
 
 
 
@@ -553,19 +553,19 @@ https://sc.id-tv.kz/TuranTV_34_35.m3u8
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 
 #EXTINF:-1 group-title="XL",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",Культура
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",Кино и сериалы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",Мелодрамы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",РТР-Планета. Европа
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1677853800&s=596
@@ -631,25 +631,25 @@ https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 
 #EXTINF:-1 group-title="XXL",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",Культура
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",Кино и сериалы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",Мелодрамы
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1677858000&s=613
 #EXTINF:-1 group-title="XXL",МУЗ ТВ HD
 https://livetv.mylifeisgood.ml/channels/muztvhd?i=a.m3u8
 #EXTINF:-1 group-title="XXL",СТС Love
@@ -1709,7 +1709,7 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/063/338_216806_d20140507105653.smil/playlist.m3u8?auth=mh&vid=216806&uid=wKgcD2QB9EIOOwyeBJolAg==
 #EXTINF:-1 group-title="news",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
 #EXTINF:-1 group-title="news",RT Док
@@ -1738,87 +1738,4 @@ https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
 http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 group-title="news",Sky News
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
-
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/63/a2/63a2eb1886a45be2b1da64729397230c.jpg",Первый канал HD
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=v77w6BRbdMKhwRsxWzKpdA&e=1675905190&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/0e/ee/0eeea0942d9da11cb17d2484cfd8eff7.jpg",Россия 1 HD
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/9f60c7a40f9b5ec52a447e215b36e34c/index.m3u8?s=EjdpKRJDTQmNaqh0Ba0yuA&e=1675905328&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/76/5f/765f911615bf93586c0aefbf1a5e639e.jpg",НТВ HD
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/6790928c5b1d07e50b71df24957c29ad/index.m3u8?s=_zH1PEz9YcOt13ckagx_VQ&e=1675905389&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/cd/f3/cdf3f2962c10b6e83c0a72465a93ff25.jpg?size=s",Ю-ТВ
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=AadHIFi54rjwrWFA5v3sow&e=1676066357&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/f5/e7/f5e7ffcad8aea6c2bf4424a7247a4385.jpg?size=s",Россия 24
-#EXTGRP:S-Jura
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/7a/85/7a8520e2d50534186d78044a9636d08a.jpeg?size=s",ТЕЛЕКАНАЛ ЗВЕЗДА
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=2MmgSpuRRlkg8I9_smnklw&e=1676066863&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/04/c9/04c99cd18d31ebeff6794da2d3fbf374.png?size=s",МУЗ-ТВ
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=ZAcVm0JhIuDVJFJlO55T8w&e=1676067005&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/d4/57/d4575b37141f15f5f404d70bb70d2042.jpg?size=s",ЛенТВ24
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=nhaP--hbyCEO42UWMbaTfw&e=1676067110&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/1f/79/1f7921d6d623ef9459152aefef2dd3e7.jpg?size=s",РБК
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=qX7LDVXlQfjXXv08s5nK8w&e=1676067192&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/40/ee/40ee1925cb39e32ed4dda76099045434.jpg?size=s",Телеканал RTД на русском
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/d1eb5756f77825451cc9d129bf5607b0/index.m3u8?s=qmbPL2NH9tKv6aaEAjqwIQ&e=1676067262&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/af/b7/afb7bd22a48dba5031c3bd2646ac2cf9.png?size=s",Охотник и рыболов
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=iJQcnv-ew3JQS_hl2vq7HQ&e=1676067317&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/f4/6b/f46ba07a0ce63afb69a982f219d25622.jpg?size=s",Радость Моя
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=x-t7p99k6LsDQ9vQOrkJvw&e=1676067468&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/c1/33/c1333ac5d6cb454f199c2e551921301c.png?size=s",ТНТ MUSIC
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=OCqKQ6XAFXCRHastFpIlPQ&e=1676067567&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/20/3e/203ef161e2de9cabf72fffc5d8621058.jpg?size=s",Nano
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=VVO3mx7U6T1YWsi5PDoIqQ&e=1676067887&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://rutube.ru/video/person/25663862/",Luxury SD
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/5e5c002f266cbb781058c145b0522b5c/index.m3u8?s=ahpsKBilYBZeQOLAl69riQ&e=1676067973&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/8a/a3/8aa37c7091556944ca25429e5b3bb7f1.jpg?size=s",ВМЕСТЕ.РФ
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=tj-kvt4Ah6kkQfiTyEpOAg&e=1676068038&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/1d/c1/1dc1aeeadda99918af744441f8652e2b.jpg?size=s",Известия
-#EXTGRP:S-Jura
-https://edge02d.mediavitrina.ru/hls-livec1/streams/vitrina-hls/izvestia/playlist.m3u8?token=v2.K8CeN9OWNlduubJ-wMcfeTS3fwR88VAY6DLY4Q0VUhc.vFtO-UXnIT0DE370NggCk6ePN6Pjh0TXEysvkXVyreA.1676586545.cc5684651d1c5a374b6e4321a78b9f74
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/9a/fa/9afa0eeb2f4ff1dec301860d31a50af6.jpg?size=s",Телеканал 
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/2f06f85c083eae268933821508da2bcf/index.m3u8?s=kCOWkdJLqm6LWC2QQG0Gnw&e=1676068470&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/c3/a4/c3a4ad05703c7c982d567fb31ae348fd.jpg?size=s",VIVA HD
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=tJulIQpMH_zz-uI9bhcXlQ&e=1676068619&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/7f/0c/7f0cfa64ff5fea6e1086012672331f9e.jpg?size=s",Телеканал 78
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=fRQ8hht8wzN3HCJETzTF6Q&e=1676068711&scheme=https
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/26/4f/264f79e5e9e93039f66eb5ebc2aac6a5.jpg?size=s",Музыка Мода ТВ
-#EXTGRP:S-Jura
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=OukmRQBv6mQsg83yV6Rt7A&e=1676068780&scheme=https
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/f5/e7/f5e7ffcad8aea6c2bf4424a7247a4385.jpg",Россия 24
-#EXTGRP:S-Jura
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/1d/c1/1dc1aeeadda99918af744441f8652e2b.jpg",Известия
-#EXTGRP:S-Jura
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/1f/79/1f7921d6d623ef9459152aefef2dd3e7.jpg",РБК ТВ
-#EXTGRP:S-Jura
-http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="S-Jura" tvg-logo="",Euronews
-#EXTGRP:S-Jura
-http://185.32.44.154/euronews/index.m3u8
+m3u8
