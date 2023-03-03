@@ -43,7 +43,7 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="news",РБК-ТВ
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="news",СОЛОВЬЁВLIVE
-https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/063/338_216806_d20140507105653.smil/playlist.m3u8?auth=mh&vid=216806&uid=wKgcD2QB9EIOOwyeBJolAg==
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist.m3u8?md5=kl__SbPft8CTEEeCqt3a9g&e=1677877380
 #EXTINF:-1 group-title="news",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
 #EXTINF:-1 group-title="news",RT Док
