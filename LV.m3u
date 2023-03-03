@@ -567,11 +567,11 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022.m3u8
 #EXTINF:-1 group-title="XL",Мелодрамы
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64051.m3u8
 
-#EXTINF:-1 group-title="XL",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
+#EXTINF:-1 group-title="XL",РТР-Планета. Европа
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1677853800&s=596
 
-#EXTINF:-1 group-title="XL",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
+#EXTINF:-1 group-title="XL",РТР-Планета. Россия
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1677853800&s=596
 
 
 
