@@ -17,7 +17,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg",Россия К
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1633332800&s=720
 #EXTINF:-1 group-title="Start" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/333/199/9.svg",СургутИнформТВ
@@ -122,7 +122,7 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="M",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="M" ,Россия К
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=lBdCYR7mi-Xq2ccj0Wc6Ow&e=1676062980
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 
 
 
@@ -161,7 +161,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
 #EXTINF:-1 group-title="L",РТР Россия
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
 #EXTINF:-1 group-title="L",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="L",Мир
 http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 group-title="L",Пятый канал
@@ -391,7 +391,7 @@ https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png",Россия 24
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png",Россия К
-https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="XL" ,Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="XL",ТНТ-International (СНГ) 
