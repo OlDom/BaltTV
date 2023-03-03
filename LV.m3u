@@ -1753,7 +1753,7 @@ https://bl.rutube.ru/livestream/6790928c5b1d07e50b71df24957c29ad/index.m3u8?s=_z
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=AadHIFi54rjwrWFA5v3sow&e=1676066357&scheme=https
 #EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/f5/e7/f5e7ffcad8aea6c2bf4424a7247a4385.jpg?size=s",Россия 24
 #EXTGRP:S-Jura
-https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
 #EXTINF:-1 group-title="S-Jura" tvg-logo="https://pic.rutubelist.ru/user/7a/85/7a8520e2d50534186d78044a9636d08a.jpeg?size=s",ТЕЛЕКАНАЛ ЗВЕЗДА
 #EXTGRP:S-Jura
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=2MmgSpuRRlkg8I9_smnklw&e=1676066863&scheme=https
