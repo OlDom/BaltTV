@@ -86,7 +86,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1633332800&s=720
 #EXTINF:-1 group-title="M",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="M",Россия 1
-http://sochi.camera:8080/cam_255/index.m3u8?token=null
+https://cdn-v.rtr-vesti.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/cuts/002/961_95074_d20140425131445.smil/playlist.m3u8?auth=mh&vid=95074&uid=wKgcD2QB9EIOOwyeBJolAg==
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M",Россия 24
