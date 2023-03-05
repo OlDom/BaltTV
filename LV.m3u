@@ -119,8 +119,8 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/60266?e=1677923700&s=580
 
 #EXTINF:-1 group-title="M",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="M",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677923700&s=509
+#EXTINF:-1 group-title="M",Россия 1
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M",Россия 24
@@ -157,7 +157,44 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="M",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-
+#EXTINF:-1 group-title="M",Россия 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 group-title="M",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="M",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="M",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="M",СОЛОВЬЁВLIVE
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338?e=1677884400&s=738
+#EXTINF:-1 group-title="M",Москва 24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
+#EXTINF:-1 group-title="M",RT Док
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="M",Телеканал 360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="M",360° Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1 group-title="M",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="M",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://gtrklnr.com/assets/img/l24.svg",ЛУГАНСК 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 group-title="M",TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="M",CGTN
+http://M.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="M",Дождь
+https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="M",Euronews EN
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/euronews_en.m3u8
+#EXTINF:-1 group-title="M",Euronews
+http://185.32.44.154/euronews/index.m3u8
+#EXTINF:-1 group-title="M",Sky News
+https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
+#EXTINF:-1 group-title="M",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
 
 
@@ -189,10 +226,6 @@ http://iptv.ktkru.ru:8011/index.m3u8
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 group-title="L",ОТР
 http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 group-title="L",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251.m3u8
-#EXTINF:-1 group-title="L",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254.m3u8
 #EXTINF:-1 group-title="L",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="L",Мир
@@ -215,14 +248,10 @@ http://iptv.ktkru.ru:8013/index.m3u8
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:-1 group-title="L",Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 group-title="L",МузТВ
-http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 group-title="L",Спас
-http://iptv.ktkru.ru:8012/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24  
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
-#EXTINF:-1 group-title="L",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
+
+
 #EXTINF:-1 group-title="L",Культура
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
 #EXTINF:-1 group-title="L" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
@@ -231,10 +260,10 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="L",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="L",РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251?e=1633332800&s=720
-#EXTINF:-1 group-title="L",РТР Россия
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254?e=1633332800&s=720
+#EXTINF:-1 group-title="L",МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="L",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
 
 
 
