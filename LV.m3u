@@ -161,16 +161,12 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 group-title="M",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="M",РБК-ТВ
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="M",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="M",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338?e=1677884400&s=738
 #EXTINF:-1 group-title="M",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/1661.m3u8
-#EXTINF:-1 group-title="M",RT Док
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="M",Телеканал 360°
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 group-title="M",360° Новости
