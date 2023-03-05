@@ -80,7 +80,7 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="S",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:-1 group-title="S",Россия 1
-https://raw.githubusercontent.com/OlDom/BaltTV/main/Rossia1/master.m3u8
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 #EXTINF:-1 group-title="S",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:-1 group-title="S",Россия 24
@@ -200,7 +200,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/58508?e=1677923700&s=565
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/60266?e=1677923700&s=580
 
 #EXTINF:-1 group-title="M",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:-1 group-title="M",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=SO9hEnPg13MqrBmx05FyLQ&e=1677882180
 #EXTINF:-1 group-title="M",НТВ HD
