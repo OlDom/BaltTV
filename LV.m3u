@@ -239,14 +239,7 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="M",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
-#EXTINF:-1 group-title="M" tvg-logo="https://sputnik24.tv/storage/channels/June2021/BLQ2NkkFjaGURNnloFJL.jpg",Матч ТВ
-https://stream15.sputnik24.tv/match/index.m3u8?sig=1678046056_992226d286e69035d2a8af3552c826f4
-#EXTINF:-1 group-title="M" tvg-logo="https://sputnik24.tv/storage/channels/June2021/UTsM62egAcLk79Tb94NF.jpg",Первый канал
-https://stream07.sputnik24.tv/first/index.m3u8?sig=1678046395_6a7cbb77c134ec0621b737cd6b7f601a
-#EXTINF:-1 group-title="M" tvg-logo="https://sputnik24.tv/storage/channels/June2021/Tt1qW4v7EhaZ2tdjaAKO.png",Россия 1
-https://stream03.sputnik24.tv/russia1/index.m3u8?sig=1678046450_7e6aed9a1d6dc3d0b6ecfa0b038469e0
-#EXTINF:-1 group-title="M" tvg-logo="https://sputnik24.tv/storage/channels/June2021/BRECtdSOZY0dyG1FnM8W.jpg",НТВ
-https://stream09.sputnik24.tv/ntv/index.m3u8?sig=1678046500_b2c432c6c9c2543bdae6d6d7a3cae88b
+
 
 
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
