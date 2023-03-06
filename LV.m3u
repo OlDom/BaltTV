@@ -117,53 +117,53 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/58508?e=1677923700&s=565
 #EXTINF:-1 group-title="SL",Россия 1 +9
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/60266?e=1677923700&s=580
 
-#EXTINF:-1 group-title="M" tvg-logo=""
 
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/323/065/8.svg",Первый HD
+
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/346/478/7.svg",Россия 1
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/323/061/1.svg",НТВ HD
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/346/480/1.svg",Россия 24
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/10/86/17/-channel!ou1.png",Известия
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/02/31/29/-channel!pau.png",РБК ТВ
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/346/479/0.svg",Россия К
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/323/067/9.svg",МИР 24
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://televizorus.com/iconkanaly/rtd.png",RTД
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0ZF9oZC5wbmc=?width=205&height=115&quality=93",RTД
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/01/15/16/-channel!64k.png",НТВ Хит
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9oaXQucG5n?width=205&height=115&quality=93",НТВ Хит
 https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/28/-channel!kgm.png",НТВ Право
 https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/27/19/89/-channel!yjy.png",НТВ Сериал
+#EXTINF:-1 group-title="M" tvg-logo="aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9zZXJpYWxfbmV3LnBuZw",НТВ Сериал
 https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/30/-channel!pwv.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="M",ТВ Центр
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="M",VIP Comedy HD
+#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/17/47/7fef31ed-7b0a-4f37-8c2c-443f9bfd8354.jpg",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M",VIP Megahit HD
+#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/21/8/0/11fe55cd-8064-4de3-b48c-fb2160b9e6f3.jpg",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M",VIP Premiere HD
+#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/19/3/54/821ac3ae-c8d4-4d2c-8f51-01483ee3f475.jpg",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M",VIP Serial HD
+#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2022/5/10/19/12/25/c7842340-3361-4d6f-a5a5-5a0112a23e5f.jpg",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M",Россия 24
+#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/images/channels/61a33582-d791-4f0a-bc4e-ef0a5a90be61.jpg",Россия 24
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="M",Известия
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="M",ЛДПР ТВ
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2xkcHJfdHYucG5n?width=205&height=115&quality=93",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="M",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338?e=1677884400&s=738
