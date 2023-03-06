@@ -192,7 +192,18 @@ http://185.32.44.154/euronews/index.m3u8
 https://raw.githubusercontent.com/OlDom/1tv.m3u8/main/sky_news.m3u8
 #EXTINF:-1 group-title="M",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/344/659/1.png",Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/344/024/9.png",Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/349/419/0.png",Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/344/652/9.png",Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/4.png",Восток 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/5.png",Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
