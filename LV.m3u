@@ -36,7 +36,7 @@ http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 #EXTINF:0 tvg-name=НТВ group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0 tvg-name=Россия_24 group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678118400&s=330
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 #EXTINF:0 tvg-name=РБК group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:0 tvg-name=Russia_Today group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/702.gif",Russia Today HD
@@ -125,7 +125,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
 #EXTINF:-1 group-title="M",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678118400&s=330
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 #EXTINF:-1 group-title="M",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="M",РБК ТВ
@@ -202,7 +202,7 @@ http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678118400&s=330
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 #EXTINF:-1 group-title="L",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
@@ -246,13 +246,13 @@ http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:-1 group-title="L",Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24  
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 
 
 #EXTINF:-1 group-title="L",Культура
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
 #EXTINF:-1 group-title="L" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1678129200&s=613
 #EXTINF:-1 group-title="L",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="L",Мелодрамы
@@ -462,7 +462,7 @@ http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="XL",НТВ-Мир 
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/2975.png",Россия 24
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 #EXTINF:-1 group-title="XL" tvg-logo="http://epg.it999.ru/img/187.png",Россия К
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
 #EXTINF:-1 group-title="XL" ,Мелодрамы
@@ -632,7 +632,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XL",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1678129200&s=613
 
 #EXTINF:-1 group-title="XL",Кино и сериалы
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022?e=1677858000&s=613
@@ -701,7 +701,7 @@ https://livetv.mylifeisgood.ml/channels/friday?i=a.m3u8
 https://2serv.mylifeisgood.ml/channels/mirhd?i=a.m3u8
 
 #EXTINF:-1 group-title="XXL",Россия 24  
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
 
 #EXTINF:-1 group-title="XXL",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
@@ -710,7 +710,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677858000&s=613
 
 #EXTINF:-1 group-title="XXL",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1677858000&s=613
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1678129200&s=613
 
 #EXTINF:-1 group-title="XXL",Кино и сериалы
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022?e=1677858000&s=613
