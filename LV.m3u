@@ -122,7 +122,7 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/60266?e=1677923700&s=580
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1646046751
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1633332800&s=720
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1678458600&s=509
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
@@ -638,7 +638,7 @@ https://sc.id-tv.kz/TuranTV_34_35.m3u8
 http://sochi.camera:8080/cam_256/index.m3u8?token=null
 
 #EXTINF:-1 group-title="XL",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677858000&s=613
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1678458600&s=509
 
 #EXTINF:-1 group-title="XL",Культура
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1677858000&s=613
