@@ -216,12 +216,14 @@ http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="L",НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 group-title="L",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
+http://iptv.ktkru.ru:8007/index.m3u8
 #EXTINF:-1 group-title="L",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="L",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="L" ,Мелодрамы
+#EXTINF:-1 group-title="L",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="L",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="L" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
@@ -238,7 +240,7 @@ http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 group-title="L",ОТР
 http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 group-title="L",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
+http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 group-title="L",Мир
 http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 group-title="L",Пятый канал
@@ -259,18 +261,6 @@ http://iptv.ktkru.ru:8013/index.m3u8
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:-1 group-title="L",Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 group-title="L",Россия 24  
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
-
-
-#EXTINF:-1 group-title="L",Культура
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8?md5=A9EzUBrlpUERzW2eWnZWqg&e=1677778380
-#EXTINF:-1 group-title="L" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/svg/323/065/3.svg",Санкт-Петербург
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/62037?e=1678129200&s=613
-#EXTINF:-1 group-title="L",Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="L",Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 group-title="L",МузТВ
 http://iptv.ktkru.ru:8020/index.m3u8
 #EXTINF:-1 group-title="L",Спас
