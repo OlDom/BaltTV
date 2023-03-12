@@ -122,7 +122,8 @@ https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
+#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый СНГ
+https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1678458600&s=509
 #EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
