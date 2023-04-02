@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" 
 
+#EXTINF:0,Tetris.2023.720p.ATVP.WEB-DL.ExKinoRay.mkv
+http://192.168.1.39:8090/stream/Tetris.2023.720p.ATVP.WEB-DL.ExKinoRay.mkv?link=65ec944bc3d04131741b82d5661c3a3bce6e1296&index=1&play
 #EXTINF:-1 group-title="S",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:-1 group-title="S",Россия 1
