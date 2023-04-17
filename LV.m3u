@@ -31,6 +31,14 @@ http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:-1 group-title="S",Праведник Мбит
 https://hye1eaipby4w.takedwn.ws/02_27_23/02/27/10/MF7Q7DVV/HAFOO3S3.mp4/master.m3u8
 
+#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_1
+https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e01_480.mp4
+#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_2
+https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e02_480.mp4
+#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_3
+https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e03_480.mp4
+#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_4
+https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e04_480.mp4
 #EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:0 tvg-name=Россия_1 group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
