@@ -29,6 +29,27 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0ZF9oZC5wbmc=?width=205&height=115&quality=93",RTД
 https://hls.rt.com/hls/rtdru360.m3u8
 
+#EXTINF:-1 group-title="кино" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9oaXQucG5n?width=205&height=115&quality=93",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/28/-channel!kgm.png",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9zZXJpYWxfbmV3LnBuZw",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/30/-channel!pwv.png",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/17/47/7fef31ed-7b0a-4f37-8c2c-443f9bfd8354.jpg",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/21/8/0/11fe55cd-8064-4de3-b48c-fb2160b9e6f3.jpg",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/19/3/54/821ac3ae-c8d4-4d2c-8f51-01483ee3f475.jpg",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2022/5/10/19/12/25/c7842340-3361-4d6f-a5a5-5a0112a23e5f.jpg",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1677923700&s=509
 #EXTINF:-1 group-title="другие",Planeta RTR
