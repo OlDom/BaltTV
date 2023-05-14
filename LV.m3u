@@ -31,37 +31,6 @@ http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:-1 group-title="S",Праведник Мбит
 https://hye1eaipby4w.takedwn.ws/02_27_23/02/27/10/MF7Q7DVV/HAFOO3S3.mp4/master.m3u8
 
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_1
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e01_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_2
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e02_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_3
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e03_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_4
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e04_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_5
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e05_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_6
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e06_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_7
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e07_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_8
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e08_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_9
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e09_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_10
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e10_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_11
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e11_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_12
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e12_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_13
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e13_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_14
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e14_480.mp4
-#EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Nevsky_6_15
-https://s15.vidme.link/video_mp4/serials/NevskySpravedlivost/ec5bf7773f542474f35b318c0344133a/s01e15_480.mp4
-
 
 #EXTINF:0 tvg-name=Первый_канал group-title="SL" tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
@@ -153,56 +122,53 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/60266?e=1677923700&s=580
 #EXTINF:-1 group-title="SL" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 
-
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый СНГ
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый СНГ
 https://pkvc-hls3.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961?e=1678458600&s=509
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961?e=1678458600&s=509
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/768px-NTV_MIR.svg.png",НТВ-Мир
+#EXTINF:-1 group-title="общие" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/768px-NTV_MIR.svg.png",НТВ-Мир
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21?e=1678142580&s=330
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21?e=1678142580&s=330
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201?e=1644448200&s=480
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К
+https://player.smotrim.ru/iframe/stream/live_id/19201?e=1644448200&s=480
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0ZF9oZC5wbmc=?width=205&height=115&quality=93",RTД
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0ZF9oZC5wbmc=?width=205&height=115&quality=93",RTД
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9oaXQucG5n?width=205&height=115&quality=93",НТВ Хит
+#EXTINF:-1 group-title="общие" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/384/519/4.svg",Кино и сериалы
+https://live-player.smotrim.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
+https://live-player.smotrim.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9oaXQucG5n?width=205&height=115&quality=93",НТВ Хит
 https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/28/-channel!kgm.png",НТВ Право
+#EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/28/-channel!kgm.png",НТВ Право
 https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9zZXJpYWxfbmV3LnBuZw",НТВ Сериал
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9zZXJpYWxfbmV3LnBuZw",НТВ Сериал
 https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/30/-channel!pwv.png",НТВ Стиль
+#EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/30/-channel!pwv.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/17/47/7fef31ed-7b0a-4f37-8c2c-443f9bfd8354.jpg",VIP Comedy HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/17/47/7fef31ed-7b0a-4f37-8c2c-443f9bfd8354.jpg",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/21/8/0/11fe55cd-8064-4de3-b48c-fb2160b9e6f3.jpg",VIP Megahit HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/21/8/0/11fe55cd-8064-4de3-b48c-fb2160b9e6f3.jpg",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/19/3/54/821ac3ae-c8d4-4d2c-8f51-01483ee3f475.jpg",VIP Premiere HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/19/3/54/821ac3ae-c8d4-4d2c-8f51-01483ee3f475.jpg",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/Upload/2022/5/10/19/12/25/c7842340-3361-4d6f-a5a5-5a0112a23e5f.jpg",VIP Serial HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://tvbesedka.com/Upload/2022/5/10/19/12/25/c7842340-3361-4d6f-a5a5-5a0112a23e5f.jpg",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://tvbesedka.com/images/channels/61a33582-d791-4f0a-bc4e-ef0a5a90be61.jpg",Россия 24
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="M" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2xkcHJfdHYucG5n?width=205&height=115&quality=93",ЛДПР ТВ
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2xkcHJfdHYucG5n?width=205&height=115&quality=93",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="M",СОЛОВЬЁВLIVE
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338?e=1677884400&s=738
