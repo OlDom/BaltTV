@@ -15,6 +15,10 @@ https://cdn.ntv.ru/ntv0_hd/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К
 https://player.smotrim.ru/iframe/stream/live_id/19201?e=1685217600&s=506
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
@@ -29,29 +33,46 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
-
+#EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
+http://edge05.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
+#EXTINF:-1 group-title="новости" tvg-logo="http://www.aboutim.es/wp-content/uploads/2012/11/Logo_euronews_horizontal_blue-on-white-321x93.png",EuroNews
+http://edge05.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
 
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/svg/411/487/0.svg",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/svg/388/807/9.svg",Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9oaXQucG5n?width=205&height=115&quality=93",НТВ Хит
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/56/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%282023%29.png/revision/latest/scale-to-width-down/185?cb=20230514135658&path-prefix=ru",Неизвестная Россия
 https://cdn.ntv.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/28/-channel!kgm.png",НТВ Право
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/00/%D0%9D%D0%A2%D0%92_%D0%9F%D1%80%D0%B0%D0%B2%D0%BE_%282017%29.svg/revision/latest/scale-to-width-down/185?cb=20180518165747&path-prefix=ru",НТВ Право
 https://cdn.ntv.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250dl9zZXJpYWxfbmV3LnBuZw",НТВ Сериал
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/28/%D0%9D%D0%A2%D0%92_%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB_%282017%29.svg/revision/latest/scale-to-width-down/185?cb=20180518165653&path-prefix=ru",НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://fast.ntvplus.tv/files/image/00/92/30/-channel!pwv.png",НТВ Стиль
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9D%D0%A2%D0%92_%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%282017%29.svg/revision/latest/scale-to-width-down/185?cb=20180518165310&path-prefix=ru",НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/17/47/7fef31ed-7b0a-4f37-8c2c-443f9bfd8354.jpg",VIP Comedy HD
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfdHYxMDAwX2FjdGlvbi5wbmc=?width=205&height=115&quality=93",viju TV1000 HD
+http://edge05.beetv.kz/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfY29tZWR5LnBuZw==?width=205&height=115&quality=93",viju+ Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/21/8/0/11fe55cd-8064-4de3-b48c-fb2160b9e6f3.jpg",VIP Megahit HD
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfbWVnYWhpdC5wbmc=?width=205&height=115&quality=93",viju+ Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2021/2/1/19/3/54/821ac3ae-c8d4-4d2c-8f51-01483ee3f475.jpg",VIP Premiere HD
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfcHJlbWllcmUucG5n?width=205&height=115&quality=93",viju+ Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://tvbesedka.com/Upload/2022/5/10/19/12/25/c7842340-3361-4d6f-a5a5-5a0112a23e5f.jpg",VIP Serial HD
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfc2VyaWFsLnBuZw==?width=205&height=115&quality=93",viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
+http://edge05.beetv.kz/btv/SWM/A1/A1.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
+http://edge05.beetv.kz/btv/SWM/A2/A2.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfaGl0X25ldy5wbmc=?width=205&height=115&quality=93",Amedia Hit HD
+http://edge05.beetv.kz/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n?width=205&height=115&quality=93",Amedia Premium
+http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2JsYWNrLnBuZw==?width=205&height=115&quality=93",Black HD
+http://edge05.beetv.kz/btv/SWM/Black/Black.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3JlZC5wbmc=?width=205&height=115&quality=93",.Red HD
+http://edge05.beetv.kz/btv/SWM/Red/Red.m3u8
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
