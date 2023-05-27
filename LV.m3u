@@ -26,7 +26,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0ZF9oZC5wbmc=?width=205&height=115&quality=93",RTД
-https://hls.rt.com/hls/rtdru.m3u8
+https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 
