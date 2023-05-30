@@ -95,6 +95,8 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
 http://94.158.54.107/89/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7b/%D0%97%D0%BE%D0%BE_%D0%A2%D0%92_%282018-2022%29.svg/revision/latest/scale-to-width-down/220?cb=20201226174751&path-prefix=ru",Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
 
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
