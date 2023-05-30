@@ -91,6 +91,8 @@ http://edge05.beetv.kz/btv/SWM/Poehali/Poehali.m3u8
 http://edge05.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RlbGVwdXRlc2hlc3R2aXkucG5n?width=205&height=115&quality=93",Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
+http://31.148.48.15/Istoriya/index.m3u8
 
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
