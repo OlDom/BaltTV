@@ -74,6 +74,11 @@ http://edge05.beetv.kz/btv/SWM/Black/Black.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3JlZC5wbmc=?width=205&height=115&quality=93",.Red HD
 http://edge05.beetv.kz/btv/SWM/Red/Red.m3u8
 
+
+#EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Viju_Nature.svg/revision/latest/scale-to-width-down/300?cb=20230301225542",Viju Nature
+http://edge05.beetv.kz/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
+
+
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 group-title="другие",Planeta RTR
