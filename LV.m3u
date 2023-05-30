@@ -107,6 +107,8 @@ http://edge05.beetv.kz/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
 http://edge05.beetv.kz/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.alloincognito.ru/smotreshka/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2X2xvZ29fVE9QLnBuZw.jpg",TOP SECRET
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://i.pinimg.com/originals/88/31/dc/8831dcc8f4a01d64c2afd95d044e4aa5.png",Animal Planet
+http://edge05.beetv.kz/btv/SWM/animal_hd/animal_hd.m3u8
 
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
