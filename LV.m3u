@@ -93,6 +93,8 @@ http://edge05.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
 http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
+http://94.158.54.107/89/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
