@@ -36,7 +36,7 @@ https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0X2hkLnBuZw==?width=205&height=115&quality=933",RT
-https://cdn.dzen.ru/vod/zen-vod/vod-content/9ae4dadfa09ffff8bcb12a659264ad70/ce06e5b4-c38a-47d0-91a2-379027109883/kaltura/desc_da18c3a424bf5f7257243098768c31f9/4230206894272435879/ysign1=ab861f698f042a0c3f332c3afb423364b0f15dcd84d5e097d979dce141f01a8c,abcID=967,from=zen,pfx,sfx,ts=64831161/manifest.mpd
+https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
 http://edge05.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="http://www.aboutim.es/wp-content/uploads/2012/11/Logo_euronews_horizontal_blue-on-white-321x93.png",EuroNews
