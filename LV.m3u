@@ -75,6 +75,8 @@ http://edge05.beetv.kz/btv/SWM/Black/Black.m3u8
 http://edge05.beetv.kz/btv/SWM/Red/Red.m3u8
 
 
+#EXTINF:-1 group-title="познание" tvg-logo="https://www.ohotarybalka.tv/assets/ohota-logo-horiz.svg",Охота и рыбалка
+http://edge05.beetv.kz/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
 http://edge05.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Viju_Nature.svg/revision/latest/scale-to-width-down/300?cb=20230301225542",Viju Nature
