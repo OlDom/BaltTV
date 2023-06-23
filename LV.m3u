@@ -72,7 +72,7 @@ https://sc.id-tv.kz/AmediaHitHD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n?width=205&height=115&quality=93",Amedia Premium
 http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2JsYWNrLnBuZw==?width=205&height=115&quality=93",Black HD
-https://sc.id-tv.kz/Black.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3JlZC5wbmc=?width=205&height=115&quality=93",.Red HD
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 
