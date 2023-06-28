@@ -94,6 +94,8 @@ https://cdn-cache01.voka.tv/live/541.m3u8
 https://cdn-cache01.voka.tv/live/540.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="http://oklivetv.com/wp-content/uploads/media/02ddb27fde06bb5391db4feb08e42b87.jpeg",MCM Top
 https://cdn-cache01.voka.tv/live/242.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://static1.ozap.com/articles/5/58/12/55/@/4619831-mezzo-opengraph_1200-2.png",Mezzo
+https://cdn-cache01.voka.tv/live/240.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
 https://sc.id-tv.kz/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RlbGVwdXRlc2hlc3R2aXkucG5n?width=205&height=115&quality=93",Телепутешествия
