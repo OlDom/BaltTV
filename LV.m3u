@@ -65,6 +65,22 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfc2VyaWFsLnBuZw==?width=205&height=115&quality=93",viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://www.cableman.ru/sites/default/files/kinohit.png",КИНОХИТ
+https://cdn-cache01.voka.tv/live/70.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2017/04/kinomiks-1.jpg",КИНОМИКС
+https://cdn-cache01.voka.tv/live/71.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://toplogos.ru/images/logo-kinosemya.png",КИНОСЕМЬЯ
+https://cdn-cache01.voka.tv/live/72.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://s.rbk.ru/v1_companies_s3/resized/1200xH/media/trademarks/1f3fdb53-57b4-46c5-9576-0120ba622aa8.jpg",КИНОПРЕМЬЕРА
+https://cdn-cache01.voka.tv/live/73.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://telecom.kz/media/upload/49/2017/03/18/95076a47cd3ec855023a107e8b450d89.png",МУЖСКОЕ КИНО
+https://cdn-cache01.voka.tv/live/74.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/08/nashe_novoe_kino.png",НАШЕ НОВОЕ КИНО
+https://cdn-cache01.voka.tv/live/75.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://www.airnet.lt/wp-content/uploads/2019/06/unnamed-e1578394190451-768x432.jpg",КИНОСВИДАНИЕ
+https://cdn-cache01.voka.tv/live/77.m3u8
+
+
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
 http://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
