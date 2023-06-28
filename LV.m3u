@@ -79,21 +79,25 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0Z2hkX25ldy5wbmc=?width=205&height=115&quality=93",Russian Travel Guide HD
-https://cdn.voka.tv/live/131.m3u8
+http://31.148.48.15/RTG/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL29ob3RhX2lfcnViYWxrYV83NDUwMy5wbmc=?width=205&height=115&quality=93",Охота и рыбалка
-http://edge05.beetv.kz/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL29ob3RuaWstaS1yeWJhbG92LWhkLnBuZw==?width=205&height=115&quality=93",Охотник и рыболов
-https://sc.id-tv.kz/Ohotnik_i_ribolov.m3u8
+http://192.162.64.99:5000/play/a038/index.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://2tv.one/img/dikoefishing.jpg",Дикая Рыбалка HD
+http://192.162.64.99:5000/play/a039/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
-https://sc.id-tv.kz/PlanetaHD.m3u8
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Viju_Nature.svg/revision/latest/scale-to-width-down/300?cb=20230301225542",Viju Nature
-https://sc.id-tv.kz/viasatnaturehd.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="https://images.iptv.rt.ru/images/ch4dipjmhk079s3jph70.png",Поехали!
-https://sc.id-tv.kz/Poehali.m3u8
+https://cdn-cache01.voka.tv/live/542.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9kM2ViNzhlZi04ZDAwLTQzNmMtOTZkZi0xYjUwOWFmMGMzYmQuanBn.jpg",Viju History
+https://cdn-cache01.voka.tv/live/541.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://img.s-tv.ru/logos/explorer.jpg",Viju Explore
+https://cdn-cache01.voka.tv/live/540.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="http://oklivetv.com/wp-content/uploads/media/02ddb27fde06bb5391db4feb08e42b87.jpeg",MCM Top
+https://cdn-cache01.voka.tv/live/242.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
 https://sc.id-tv.kz/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RlbGVwdXRlc2hlc3R2aXkucG5n?width=205&height=115&quality=93",Телепутешествия
-http://31.148.48.15/Teleputeshestviya/index.m3u8
+http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
