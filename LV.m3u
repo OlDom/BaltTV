@@ -68,7 +68,7 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
 http://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
-http://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+https://cdn-cache01.voka.tv/live/171.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfaGl0X25ldy5wbmc=?width=205&height=115&quality=93",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n?width=205&height=115&quality=93",Amedia Premium
@@ -98,6 +98,8 @@ https://cdn-cache01.voka.tv/live/242.m3u8
 https://cdn-cache01.voka.tv/live/240.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
 https://sc.id-tv.kz/Teleputeshestviya_HD.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://www.azerbaycan24.com/en/wp-content/uploads/2016/02/logo.jpg",Оружие
+https://cdn-cache01.voka.tv/live/168.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RlbGVwdXRlc2hlc3R2aXkucG5n?width=205&height=115&quality=93",Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
@@ -114,7 +116,8 @@ https://sc.id-tv.kz/Zagorodnaya_Zhizn.m3u8
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://i.pinimg.com/originals/88/31/dc/8831dcc8f4a01d64c2afd95d044e4aa5.png",Animal Planet
 https://sc.id-tv.kz/animal_hd.m3u8
-
+#EXTINF:-1 group-title="познание" tvg-logo="https://pic.rutubelist.ru/video/fa/a4/faa4d3ac577b5172e1e3a0ddd0b08526.jpg",Nano
+https://cdn-cache01.voka.tv/live/211.m3u8
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
