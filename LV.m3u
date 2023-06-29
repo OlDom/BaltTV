@@ -89,8 +89,10 @@ https://cdn-cache01.voka.tv/live/77.m3u8
 https://cdn-cache01.voka.tv/live/79.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/08/logo-rodnoe-kino.png",РОДНОЕ КИНО
 https://cdn-cache01.voka.tv/live/80.m3u8
-
-
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.tildacdn.com/tild3036-6238-4364-b735-636536653436/retro_obychnyy_0.png",Ретро
+https://cdn-cache01.voka.tv/live/335.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/01/fenixplus-tv-logo.png",Феникс плюс
+https://cdn-cache01.voka.tv/live/332.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
 http://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
