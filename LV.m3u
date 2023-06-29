@@ -114,6 +114,8 @@ http://192.162.64.99:5000/play/a038/index.m3u8
 http://192.162.64.99:5000/play/a039/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://gorodtv.net/assets/img/logos/HD%20REX%201.png",HD REX
+https://cdn-cache01.voka.tv/live/186.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Viju_Nature.svg/revision/latest/scale-to-width-down/300?cb=20230301225542",Viju Nature
 https://cdn-cache01.voka.tv/live/542.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9kM2ViNzhlZi04ZDAwLTQzNmMtOTZkZi0xYjUwOWFmMGMzYmQuanBn.jpg",Viju History
@@ -156,6 +158,9 @@ https://sc.id-tv.kz/animal_hd.m3u8
 https://cdn-cache01.voka.tv/live/211.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.tildacdn.com/tild6635-6565-4261-a231-336535653430/1t5mz4loej4_file_159.jpg",ПСИХОЛОГИЯ
 https://cdn-cache01.voka.tv/live/109.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://ntvplus.tv/files/image/68/79/03/20q.png",WFC TV
+https://cdn-cache01.voka.tv/live/189.m3u8
+
 
 
 #EXTINF:-1 group-title="спорт" tvg-logo="https://ntvplus.tv/files/image/35/35/11/dlv.png",KHL
