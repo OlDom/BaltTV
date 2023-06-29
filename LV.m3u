@@ -109,7 +109,7 @@ https://cdn-cache01.voka.tv/live/167.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0Z2hkX25ldy5wbmc=?width=205&height=115&quality=93",Russian Travel Guide HD
 http://31.148.48.15/RTG/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL29ob3RhX2lfcnViYWxrYV83NDUwMy5wbmc=?width=205&height=115&quality=93",Охота и рыбалка
-http://192.162.64.99:5000/play/a038/index.m3u8
+https://cdn-cache01.voka.tv/live/244.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="http://2tv.one/img/dikoefishing.jpg",Дикая Рыбалка HD
 http://192.162.64.99:5000/play/a039/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
@@ -129,7 +129,9 @@ https://cdn-cache01.voka.tv/live/240.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://yug-link.ru/media/channels/tntmusic_new.png",TNT Music
 https://cdn-cache01.voka.tv/live/37.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://s.rbk.ru/v1_companies_s3/resized/1200xH/media/trademarks/a97b0033-c3a4-4df6-aae4-b41ef83ff1e8.jpg",BRIDGE DELUXE
-https://cdn-cache01.voka.tv/live/110.m3u8
+https://cdn-cache01.voka.tv/live/110.m3u8#EXTINF:-1 group-title="музыка" tvg-logo="https://i.ytimg.com/vi/97dvLq2P0pA/maxresdefault.jpg",ТВ Шансон
+
+https://cdn-cache01.voka.tv/live/235.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
 https://sc.id-tv.kz/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.azerbaycan24.com/en/wp-content/uploads/2016/02/logo.jpg",Оружие
@@ -138,6 +140,8 @@ https://cdn-cache01.voka.tv/live/168.m3u8
 http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/08/Реклама-на-канале-Т24.png",Техно 24
 https://cdn-cache01.voka.tv/live/129.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://www.sputres.ru/images/2014/12/auto_plus.jpg",Авто Плюс
+https://cdn-cache01.voka.tv/live/236.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="http://www.televesti.ru/uploads/posts/2012-08/1343899268_kuxnya.jpg",Кухня ТВ
 https://cdn-cache01.voka.tv/live/137.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
@@ -169,6 +173,12 @@ https://cdn-cache01.voka.tv/live/207.m3u8
 https://cdn-cache01.voka.tv/live/100.m3u8
 
 
+#EXTINF:-1 group-title="детям" tvg-logo="https://www.asmae.fr/wp-content/uploads/2022/05/Logo-gulli.jpg",Gulli Girl
+https://cdn-cache01.voka.tv/live/237.m3u8
+#EXTINF:-1 group-title="детям" tvg-logo="https://novosibirsk-ttk.ru/uploads/canals/TiJi_12237[1].jpg",TiJi
+https://cdn-cache01.voka.tv/live/243.m3u8
+
+
 
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
@@ -198,3 +208,7 @@ https://player.smotrim.ru/iframe/stream/live_id/60265
 https://player.smotrim.ru/iframe/stream/live_id/58508
 #EXTINF:-1 group-title="другие",Россия 1 +9
 https://player.smotrim.ru/iframe/stream/live_id/60266
+#EXTINF:-1 group-title="другие" tvg-logo="https://sun1-20.userapi.com/MhPzv9b8GJZQ-ukm32jnjBT7hSgzMSG08p9kUw/I4t7q7wPhsI.jpg",2x2
+https://cdn-cache01.voka.tv/live/220.m3u8
+#EXTINF:-1 group-title="другие" tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
+https://cdn-cache01.voka.tv/live/212.m3u8
