@@ -170,6 +170,11 @@ https://cdn-cache01.voka.tv/live/109.m3u8
 https://cdn-cache01.voka.tv/live/189.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.cableman.ru/sites/default/files/2021/scifi_logo_1.png",.sci-fi
 https://cdn-cache01.voka.tv/live/207.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://redcom.ru/upload/iblock/203/203b29822668db7c2d17f2899e9c5c18.jpg",Иллюзион плюс
+https://cdn-cache01.voka.tv/live/603.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://gipnomag.ru/img/postervk/postervk-russkiyillusion.jpg",Русский Иллюзион
+https://cdn-cache01.voka.tv/live/616.m3u8
+
 
 #EXTINF:-1 group-title="техничка" tvg-logo="https://i.ytimg.com/vi/HGsK96VW3A8/maxresdefault.jpg",Работы
 https://cdn-cache01.voka.tv/live/567.m3u8
