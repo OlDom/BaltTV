@@ -116,6 +116,10 @@ https://cdn-cache01.voka.tv/live/244.m3u8
 https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="http://img.b612.tightvideo.com/channels/dikaya_ohota_hd.png",Дикая Охота HD
 http://185.23.80.26:8080/lb/Dikaya_Ohota/index.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://w7.pngwing.com/pngs/221/117/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-others-television-text-rectangle.png",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://img5.goodfon.ru/original/2880x1800/c/4f/national-geographic-logo-nat-geo.jpg",National Geographic
+http://45.159.74.13:80/NationalGeographic/index.m3u8
 
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
@@ -176,7 +180,7 @@ http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
 https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7b/%D0%97%D0%BE%D0%BE_%D0%A2%D0%92_%282018-2022%29.svg/revision/latest/scale-to-width-down/220?cb=20201226174751&path-prefix=ru",Зоо ТВ
-http://31.148.48.15/Zoo_TV/index.m3u8
+http://185.23.80.26:8080/lb/ZooTV/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3pkb3Jvdm9lX3R2X25ldy5wbmc=?width=205&height=115&quality=93",Здоровое ТВ
 https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3phZ29yb2RueWEtZ2l6bi5wbmc=?width=205&height=115&quality=93",Загородная жизнь
