@@ -230,11 +230,11 @@ https://player.smotrim.ru/iframe/stream/live_id/60265
 https://player.smotrim.ru/iframe/stream/live_id/58508
 #EXTINF:-1 group-title="другие",Россия 1 +9
 https://player.smotrim.ru/iframe/stream/live_id/60266
-#EXTINF:-1 group-title="другие" tvg-logo="https://sun1-20.userapi.com/MhPzv9b8GJZQ-ukm32jnjBT7hSgzMSG08p9kUw/I4t7q7wPhsI.jpg",2x2
+#EXTINF:-1 group-title="познание" tvg-logo="https://sun1-20.userapi.com/MhPzv9b8GJZQ-ukm32jnjBT7hSgzMSG08p9kUw/I4t7q7wPhsI.jpg",2x2
 https://cdn-cache01.voka.tv/live/220.m3u8
-#EXTINF:-1 group-title="другие" tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
+#EXTINF:-1 group-title="познание" tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
 https://cdn-cache01.voka.tv/live/212.m3u8
-#EXTINF:-1 group-title="другие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
+#EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
 https://cdn-cache01.voka.tv/live/753.m3u8
-#EXTINF:-1 group-title="другие" tvg-logo="https://novtele.ru/wp-content/uploads/2020/01/89.jpg",МИР HD
+#EXTINF:-1 group-title="общие" tvg-logo="https://novtele.ru/wp-content/uploads/2020/01/89.jpg",МИР HD
 https://cdn-cache01.voka.tv/live/754.m3u8
