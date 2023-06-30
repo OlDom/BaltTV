@@ -40,7 +40,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0X2hkLnBuZw==?width=205&height=115&quality=933",RT
-https://rumble.com/live-hls/tp5hp/playlist.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
 http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
@@ -94,17 +94,17 @@ https://cdn-cache01.voka.tv/live/335.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/01/fenixplus-tv-logo.png",Феникс плюс
 https://cdn-cache01.voka.tv/live/332.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
-http://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
 https://cdn-cache01.voka.tv/live/171.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfaGl0X25ldy5wbmc=?width=205&height=115&quality=93",Amedia Hit HD
-https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n?width=205&height=115&quality=93",Amedia Premium
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2JsYWNrLnBuZw==?width=205&height=115&quality=93",Black HD
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3JlZC5wbmc=?width=205&height=115&quality=93",.Red HD
-http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV_Nauka.jpg",Наука
 https://cdn-cache01.voka.tv/live/167.m3u8
@@ -113,7 +113,7 @@ http://31.148.48.15/RTG/index.m3u8?token=test
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL29ob3RhX2lfcnViYWxrYV83NDUwMy5wbmc=?width=205&height=115&quality=93",Охота и рыбалка
 https://cdn-cache01.voka.tv/live/244.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="http://2tv.one/img/dikoefishing.jpg",Дикая Рыбалка HD
-http://192.162.64.99:5000/play/a039/index.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://gorodtv.net/assets/img/logos/HD%20REX%201.png",HD REX
@@ -136,7 +136,7 @@ https://cdn-cache01.voka.tv/live/37.m3u8
 https://cdn-cache01.voka.tv/live/110.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://i.ytimg.com/vi/97dvLq2P0pA/maxresdefault.jpg",ТВ Шансон
 https://cdn-cache01.voka.tv/live/235.m3u8
-https://cdn-cache01.voka.tv/live/110.m3u8#EXTINF:-1 group-title="музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",Первый Музыкальный Канал
+#EXTINF:-1 group-title="музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",Первый Музыкальный Канал
 https://cdn-cache01.voka.tv/live/869.m3u8
 
 
