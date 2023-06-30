@@ -144,6 +144,10 @@ https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://www.msk-ix.ru/images/1430754.png",Bridge TV Hits
 https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://bridgemedia.ru/s/uploads/photo_2017-09-11_14-56-29-1505132097-1505168184-1505173371.jpg",Bridge TV Русский Хит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://www.msk-ix.ru/images/1433893.png",Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 
 
 
