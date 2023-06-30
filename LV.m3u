@@ -141,7 +141,7 @@ https://cdn-cache01.voka.tv/live/869.m3u8
 
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
-https://sc.id-tv.kz/Teleputeshestviya_HD.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.azerbaycan24.com/en/wp-content/uploads/2016/02/logo.jpg",Оружие
 https://cdn-cache01.voka.tv/live/168.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RlbGVwdXRlc2hlc3R2aXkucG5n?width=205&height=115&quality=93",Телепутешествия
@@ -157,28 +157,28 @@ https://cdn-cache01.voka.tv/live/341.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
-http://94.158.54.107/89/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7b/%D0%97%D0%BE%D0%BE_%D0%A2%D0%92_%282018-2022%29.svg/revision/latest/scale-to-width-down/220?cb=20201226174751&path-prefix=ru",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3pkb3Jvdm9lX3R2X25ldy5wbmc=?width=205&height=115&quality=93",Здоровое ТВ
-https://sc.id-tv.kz/zdorovoe_tv.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3phZ29yb2RueWEtZ2l6bi5wbmc=?width=205&height=115&quality=93",Загородная жизнь
-https://sc.id-tv.kz/Zagorodnaya_Zhizn.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.alloincognito.ru/smotreshka/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2X2xvZ29fVE9QLnBuZw.jpg",TOP SECRET
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://i.pinimg.com/originals/88/31/dc/8831dcc8f4a01d64c2afd95d044e4aa5.png",Animal Planet
-https://sc.id-tv.kz/animal_hd.m3u8
+https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://pic.rutubelist.ru/video/fa/a4/faa4d3ac577b5172e1e3a0ddd0b08526.jpg",Nano
 https://cdn-cache01.voka.tv/live/211.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.tildacdn.com/tild6635-6565-4261-a231-336535653430/1t5mz4loej4_file_159.jpg",ПСИХОЛОГИЯ
 https://cdn-cache01.voka.tv/live/109.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://ntvplus.tv/files/image/68/79/03/20q.png",WFC TV
 https://cdn-cache01.voka.tv/live/189.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="https://www.cableman.ru/sites/default/files/2021/scifi_logo_1.png",.sci-fi
+#EXTINF:-1 group-title="кино" tvg-logo="https://www.cableman.ru/sites/default/files/2021/scifi_logo_1.png",.sci-fi
 https://cdn-cache01.voka.tv/live/207.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="https://redcom.ru/upload/iblock/203/203b29822668db7c2d17f2899e9c5c18.jpg",Иллюзион плюс
+#EXTINF:-1 group-title="кино" tvg-logo="https://redcom.ru/upload/iblock/203/203b29822668db7c2d17f2899e9c5c18.jpg",Иллюзион плюс
 https://cdn-cache01.voka.tv/live/603.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="http://gipnomag.ru/img/postervk/postervk-russkiyillusion.jpg",Русский Иллюзион
+#EXTINF:-1 group-title="кино" tvg-logo="http://gipnomag.ru/img/postervk/postervk-russkiyillusion.jpg",Русский Иллюзион
 https://cdn-cache01.voka.tv/live/616.m3u8
 
 
