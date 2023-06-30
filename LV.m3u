@@ -114,6 +114,10 @@ http://31.148.48.15/RTG/index.m3u8?token=test
 https://cdn-cache01.voka.tv/live/244.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="http://2tv.one/img/dikoefishing.jpg",Дикая Рыбалка HD
 https://cdn-cache01.voka.tv/live/567.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://img.b612.tightvideo.com/channels/dikaya_ohota_hd.png",Дикая Охота HD
+http://185.23.80.26:8080/lb/Dikaya_Ohota/index.m3u8
+
+
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21veWFfcGxhbmV0YV83NzMyMS5wbmc=?width=170&height=96&quality=93",Моя Планета
 http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://gorodtv.net/assets/img/logos/HD%20REX%201.png",HD REX
@@ -148,6 +152,8 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://www.msk-ix.ru/images/1433893.png",Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://cdn.soft112.com/europa-plus-tv-music-video/00/00/0G/JC/00000GJCK1/pad_screenshot.jpg",Европа Плюс ТВ
+http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTV.m3u8
 
 
 
@@ -185,6 +191,10 @@ https://cdn-cache01.voka.tv/live/211.m3u8
 https://cdn-cache01.voka.tv/live/109.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://ntvplus.tv/files/image/68/79/03/20q.png",WFC TV
 https://cdn-cache01.voka.tv/live/189.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="http://img.b612.tightvideo.com/channels/drive_new.png",Драйв
+http://185.23.80.26:8080/lb/Draiv/index.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://efir-murom.ru/wp-content/uploads/2023/03/unnamed.png",Рыболов
+http://185.23.80.26:8080/lb/OxotnikIRybolov/index.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://www.cableman.ru/sites/default/files/2021/scifi_logo_1.png",.sci-fi
 https://cdn-cache01.voka.tv/live/207.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://redcom.ru/upload/iblock/203/203b29822668db7c2d17f2899e9c5c18.jpg",Иллюзион плюс
@@ -193,8 +203,13 @@ https://cdn-cache01.voka.tv/live/603.m3u8
 https://cdn-cache01.voka.tv/live/616.m3u8
 
 
+
 #EXTINF:-1 group-title="техничка" tvg-logo="https://i.ytimg.com/vi/HGsK96VW3A8/maxresdefault.jpg",Работы
 https://cdn-cache01.voka.tv/live/567.m3u8
+#EXTINF:-1 group-title="техничка" tvg-logo="https://mupkaskad.ru/upload/files/dikaya_rybalka_obychnyy.jpg",Дикая рыбалка HD
+http://185.23.80.26:8080/lb/Dikaya_Rybalka/index.m3u8
+#EXTINF:-1 group-title="техничка" tvg-logo="http://roooir.ru/uploads/friends/Okhotnik-i-rybolov.-blok.jpg",Охотник и Рыболов
+http://185.23.80.26:8080/lb/OxotnikIRybolov_HD/index.m3u8
 
 
 
