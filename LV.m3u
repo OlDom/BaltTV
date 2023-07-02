@@ -237,7 +237,289 @@ https://cdn-cache01.voka.tv/live/237.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="https://novosibirsk-ttk.ru/uploads/canals/TiJi_12237[1].jpg",TiJi
 https://cdn-cache01.voka.tv/live/243.m3u8
 
-#EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
+
+
+#EXTINF:-1, group-title="техничка" Соловьёв Live
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Москва 24
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Первый канал 
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1, group-title="техничка" НТВ
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1, group-title="техничка" ТВЦ
+http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Звезда
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1, group-title="техничка" ОТР
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Россия К
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Домашний
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Пятница!
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Рен ТВ
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:-1, group-title="техничка" ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Че
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1, group-title="техничка" СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTINF:-1, group-title="техничка" ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Ю
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTINF:-1, group-title="техничка" BCU СССР HD
+http://217.107.34.114:8006/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Настоящее время
+http://91.233.215.250:7272/J8BymSQSWStHrzm
+#EXTINF:-1, group-title="техничка" Беларусь 1
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1244197741_b1460000_sleng.m3u8
+#EXTINF:-1, group-title="техничка" Беларусь 3
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w14452038_b1460000_sleng.m3u8
+#EXTINF:-1, group-title="техничка" Беларусь 4 Брест
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:-1, group-title="техничка" Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:-1, group-title="техничка" Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1, group-title="техничка" CHD TV RU Rock
+https://stream1.servers.chd-tv.tk/chdtv-ru-rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" CHD-TV Rock
+https://stream1.servers.chd-tv.tk/chdtv-rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" Chip 'n Dale: Rescue Rangers 
+https://stream6.servers.chd-tv.tk/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1, group-title="техничка" Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1, group-title="техничка" Olsib TV
+http://46.18.107.105:8409/iptv/channel/1.m3u8
+#EXTINF:-1, group-title="техничка" Olsib TV VHS
+http://46.18.107.105:8409/iptv/channel/2.m3u8
+#EXTINF:-1, group-title="техничка" Cartoon Network
+http://89.254.128.5:22280/cartoon_network/video.m3u8
+#EXTINF:-1, group-title="техничка" 1+2
+http://89.254.128.5:22280/1_2/mono.m3u8
+#EXTINF:-1, group-title="техничка" Star Family HD
+https://cranberry.uvs.onlinetv.link/nodvr/star_family/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Star Cinema HD UA
+https://cranberry.uvs.onlinetv.link/nodvr/star_cinema/playlist.m3u8
+#EXTINF:-1, group-title="техничка" М2
+https://cranberry.uvs.onlinetv.link/nodvr/M2/chunks.m3u8
+#EXTINF:-1, group-title="техничка" YES-MTV 00s
+https://cranberry.uvs.onlinetv.link/nodvr/mtv_00/playlist.m3u8
+#EXTINF:-1, group-title="техничка" YES-MTV 00s
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1, group-title="техничка" ТНВ-Планета
+https://cranberry.uvs.onlinetv.link/nodvr/tnv_planeta/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Точка ТВ
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1, group-title="техничка" CGTN русский
+http://liveru.cgtn.com/200r/prog_index.m3u8
+#EXTINF:-1, group-title="техничка" Аист ТВ
+http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1, group-title="техничка" VIP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1, group-title="техничка" Восток ТВН
+http://94.229.250.73:8008/play/a001
+#EXTINF:-1, group-title="техничка" ТРК 555 HD
+http://195.26.83.96:7029/play/a001
+#EXTINF:-1, group-title="техничка" НТС HD
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1, group-title="техничка" Russian Extreme HD
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1, group-title="техничка" Ялта ТВ
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1, group-title="техничка" ТНТ Music
+http://195.26.83.96:7029/play/9
+#EXTINF:-1, group-title="техничка" ТВ Экстра HD
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1, group-title="техничка" Астролог ТВ
+http://api.alpaca.t62a.com/hls/9113/stream0.m3u8
+#EXTINF:-1, group-title="техничка" Большой чемодан
+http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
+#EXTINF:-1, group-title="техничка" Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1, group-title="техничка" Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1, group-title="техничка" Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1, group-title="техничка" NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1, group-title="техничка" Galaxy HD
+http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
+#EXTINF:-1, group-title="техничка" IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1, group-title="техничка" Z! Travel HD
+http://cdn.zigfreed.ru:787/travel/index.m3u8
+#EXTINF:-1, group-title="техничка" Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1, group-title="техничка" Дикий
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Мультиландия
+http://217.107.34.114:8008/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Загородная жизнь
+http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Любимое кино
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
+#EXTINF:-1, group-title="техничка" TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1, group-title="техничка" НТС Иркутск
+http://194.143.148.28:8080/NTS/mpegts
+#EXTINF:-1, group-title="техничка" Лен ТВ 24
+http://radio-live-mg.rtr-vesti.ru/hls2/lentv24/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Санкт-Петербург
+http://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Карусель
+http://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Аист ТВ
+http://tv.streams.baikal-telecom.net/Aist/index.m3u8
+#EXTINF:-1, group-title="техничка" НТС Иркутск
+http://tv.streams.baikal-telecom.net/NTS/index.m3u8
+#EXTINF:-1, group-title="техничка" TV1000 Русское кино
+http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
+#EXTINF:-1, group-title="техничка" MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1, group-title="техничка" ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1, group-title="техничка" BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1, group-title="техничка" BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1, group-title="техничка" BACKUS TV Music
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1, group-title="техничка" Калейдоскоп ТВ
+http://83.222.205.65:8080/kaleidoskop/index.m3u8
+#EXTINF:-1, group-title="техничка" Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1, group-title="техничка" 4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Новый век (Тамбов)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1, group-title="техничка" Репортер 73
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1, group-title="техничка" AIVA HD
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" Globalstar HD
+http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="техничка" Первый Псковский
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" УЛПРАВДА ТВ
+http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="техничка" Калейдоскоп ТВ
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="техничка" 7-ТВ
+http://46.151.151.245:10001/play/a006/index.m3u8
+#EXTINF:-1, group-title="техничка" Севастополь-24
+http://46.151.151.245:10001/play/a003/index.m3u8
+#EXTINF:-1, group-title="техничка" Симферополь-24 HD
+http://46.151.151.245:10001/play/a004/index.m3u8
+#EXTINF:-1, group-title="техничка" Бобёр
+http://46.151.151.245:10007/play/a008
+#EXTINF:-1, group-title="техничка" Большая азия
+http://46.151.151.245:10007/play/a00a
+#EXTINF:-1, group-title="техничка" Дом Кино Премиум
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1, group-title="техничка" Дом Кино
+http://46.151.151.245:10007/play/a00b
+#EXTINF:-1, group-title="техничка" Музыка первого
+http://46.151.151.245:10007/play/a007
+#EXTINF:-1, group-title="техничка" О!
+http://46.151.151.245:10007/play/a006
+#EXTINF:-1, group-title="техничка" Победа
+http://46.151.151.245:10007/play/a005
+#EXTINF:-1, group-title="техничка" Поехали!
+http://46.151.151.245:10007/play/a004
+#EXTINF:-1, group-title="техничка" Телекафе
+http://46.151.151.245:10007/play/a003
+#EXTINF:-1, group-title="техничка" Время
+http://46.151.151.245:10007/play/a002
+#EXTINF:-1, group-title="техничка" Вместе-РФ
+http://46.151.151.245:10002/play/a006
+#EXTINF:-1, group-title="техничка" Калейдоскоп ТВ
+http://46.151.151.245:10002/play/a005
+#EXTINF:-1, group-title="техничка" Мосфильм. Золотая коллекция
+http://46.151.151.245:10002/play/a0bi
+#EXTINF:-1, group-title="техничка" Мульт HD
+http://46.151.151.245:10002/play/a0b4
+#EXTINF:-1, group-title="техничка" Планета HD
+http://46.151.151.245:10002/play/a0b5
+#EXTINF:-1, group-title="техничка" Русский Роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1, group-title="техничка" HISTORY
+http://91.233.215.250:7272/PK41HvJyzlbR8XZ
+#EXTINF:-1, group-title="техничка"  Nick Jr
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1, group-title="техничка" Travel Channel
+http://91.233.215.250:7272/07pqiSOeAdHpghx
+#EXTINF:-1, group-title="техничка" Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1, group-title="техничка" Star cinema
+http://91.233.215.250:7272/szWljUvHlTAKXVa
+#EXTINF:-1, group-title="техничка" FilmzoneLAV
+http://91.233.215.250:7272/ko7BKj9NV0ZCX2C
+#EXTINF:-1, group-title="техничка" Kino 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1, group-title="техничка" TV EXTRA
+http://91.233.215.250:7272/IurtgdVgs6Tfa8J
+#EXTINF:-1, group-title="техничка" Film.UA Drama
+http://91.233.215.250:7272/gZOp9UD53BBKqyQ
+#EXTINF:-1, group-title="техничка" Kino7 Baltic
+http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1, group-title="техничка" TV3 HD LV
+http://91.233.215.250:7272/Tujrl3B6ZZcnOYY
+#EXTINF:-1, group-title="техничка" 1+2
+http://91.233.215.250:7272/KfbeysdY6Fva3sW
+#EXTINF:-1, group-title="техничка" Duo7 HD LV
+http://91.233.215.250:7272/OidghvyF6N7KlSd
+#EXTINF:-1, group-title="техничка" Nick Jr
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1, group-title="техничка" Super Baltic
+http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1, group-title="техничка" TV3 EE
+http://91.233.215.250:7272/qx4hiIaBoQlLK7f
+#EXTINF:-1, group-title="техничка" Квартал ТВ
+http://91.233.215.250:7272/c5otUOm2IubgpDn
+#EXTINF:-1, group-title="техничка" Bolt
+http://91.233.215.250:7272/6B1DxxB8sXUqpZM
+#EXTINF:-1, group-title="техничка" Домашний HD
+http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
+#EXTINF:-1, group-title="техничка" ATV
+http://91.233.215.250:7272/vmaqlWglY371sbY
+#EXTINF:-1, group-title="техничка" SuperPlus
+http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1, group-title="техничка" 8TV
+http://91.233.215.250:7272/kJd8eBVsywE41mz
+#EXTINF:-1, group-title="техничка" TV24 HD LV 
+http://91.233.215.250:7272/AcKVE6YprpwA0OJ
+#EXTINF:-1, group-title="техничка" Любимое кино
+http://91.233.215.250:7272/JS7lUbMstASMl0r
+#EXTINF:-1, group-title="техничка" Nickelodeon
+http://91.233.215.250:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1, group-title="техничка" S.TV
+http://91.233.215.250:7272/uWetVcX2Ui9a75M
+#EXTINF:-1, group-title="техничка" 360TuneBox
+http://91.233.215.250:7272/eRtafx5E4P0z16g
+#EXTINF:-1, group-title="техничка" Трофей HD
+http://91.233.215.250:7272/LqlrRf78B9OzD2B
+#EXTINF:-1, group-title="техничка" Re:TV
+http://91.233.215.250:7272/7goFKoxyCpLtt81
+#EXTINF:-1, group-title="техничка" Sport 4
+http://91.233.215.250:7272/Wetd63YgcVe23Jk
+
 
 #EXTINF:0 tvg-rec=\"7\",Первый канал FHD
 #EXTGRP:HD
