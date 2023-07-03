@@ -142,18 +142,16 @@ https://cdn-cache01.voka.tv/live/541.m3u8
 https://cdn-cache01.voka.tv/live/540.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="http://oklivetv.com/wp-content/uploads/media/02ddb27fde06bb5391db4feb08e42b87.jpeg",MCM Top
 https://cdn-cache01.voka.tv/live/242.m3u8
-#EXTINF:-1 group-title="музыка" tvg-logo="https://static1.ozap.com/articles/5/58/12/55/@/4619831-mezzo-opengraph_1200-2.png",Mezzo
-https://cdn-cache01.voka.tv/live/240.m3u8
-#EXTINF:-1 group-title="музыка" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/05/09_mezzo_live_HD.png",Mezzo Live
-https://cdn-cache01.voka.tv/live/871.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://toplogos.ru/images/logo-muzika-pervogo.png",Музыка первого
+http://46.151.151.245:10007/play/a007
 #EXTINF:-1 group-title="музыка" tvg-logo="https://yug-link.ru/media/channels/tntmusic_new.png",TNT Music
 https://cdn-cache01.voka.tv/live/37.m3u8
-#EXTINF:-1 group-title="музыка" tvg-logo="https://s.rbk.ru/v1_companies_s3/resized/1200xH/media/trademarks/a97b0033-c3a4-4df6-aae4-b41ef83ff1e8.jpg",BRIDGE DELUXE
-https://cdn-cache01.voka.tv/live/110.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://i.ytimg.com/vi/97dvLq2P0pA/maxresdefault.jpg",ТВ Шансон
 https://cdn-cache01.voka.tv/live/235.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",Первый Музыкальный Канал
 https://cdn-cache01.voka.tv/live/869.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://cdn.soft112.com/europa-plus-tv-music-video/00/00/0G/JC/00000GJCK1/pad_screenshot.jpg",Европа Плюс ТВ
+http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTV.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png",1HD
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://www.msk-ix.ru/images/1430751.png",Bridge TV Classic
@@ -162,11 +160,14 @@ https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://bridgemedia.ru/s/uploads/photo_2017-09-11_14-56-29-1505132097-1505168184-1505173371.jpg",Bridge TV Русский Хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://s.rbk.ru/v1_companies_s3/resized/1200xH/media/trademarks/a97b0033-c3a4-4df6-aae4-b41ef83ff1e8.jpg",BRIDGE DELUXE
+https://cdn-cache01.voka.tv/live/110.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://www.msk-ix.ru/images/1433893.png",Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 group-title="музыка" tvg-logo="https://cdn.soft112.com/europa-plus-tv-music-video/00/00/0G/JC/00000GJCK1/pad_screenshot.jpg",Европа Плюс ТВ
-http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTV.m3u8
-
+#EXTINF:-1 group-title="музыка" tvg-logo="https://static1.ozap.com/articles/5/58/12/55/@/4619831-mezzo-opengraph_1200-2.png",Mezzo
+https://cdn-cache01.voka.tv/live/240.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/05/09_mezzo_live_HD.png",Mezzo Live
+https://cdn-cache01.voka.tv/live/871.m3u8
 
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ByaWtsdWNoZW5peWFfbmV3LnBuZw==?width=170&height=96&quality=93",Приключения HD
