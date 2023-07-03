@@ -186,8 +186,8 @@ https://cdn-cache01.voka.tv/live/137.m3u8
 https://cdn-cache01.voka.tv/live/341.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2hpc3RvcnkucG5n?width=205&height=115&quality=93",История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 group-title="познание" tvg-logo="https://etype.ru/image/cache/catalog/TVkanaly/ZooPark-700x700.png",Зоопарк
-https://cdn-cache01.voka.tv/live/567.m3u8
+#EXTINF:-1 group-title="познание" tvg-logo="https://www.kaufbei.tv/out/pictures/generated/manufacturer/icon/500_500_70/bildschirmfoto2019-08-28um13.05.23.png",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7b/%D0%97%D0%BE%D0%BE_%D0%A2%D0%92_%282018-2022%29.svg/revision/latest/scale-to-width-down/220?cb=20201226174751&path-prefix=ru",Зоо ТВ
 http://185.23.80.26:8080/lb/ZooTV/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3pkb3Jvdm9lX3R2X25ldy5wbmc=?width=205&height=115&quality=93",Здоровое ТВ
