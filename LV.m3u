@@ -31,6 +31,8 @@ https://cdn-cache01.voka.tv/live/84.m3u8
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2tpbm8tdHYucG5n?width=205&height=115&quality=93",Кино ТВ
 http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="кино",Мосфильм. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
@@ -97,6 +99,10 @@ https://cdn-cache01.voka.tv/live/77.m3u8
 https://cdn-cache01.voka.tv/live/79.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/08/logo-rodnoe-kino.png",РОДНОЕ КИНО
 https://cdn-cache01.voka.tv/live/80.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1588.png" group-title="кино",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2732.png" group-title="кино",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.tildacdn.com/tild3036-6238-4364-b735-636536653436/retro_obychnyy_0.png",Ретро
 https://cdn-cache01.voka.tv/live/335.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/01/fenixplus-tv-logo.png",Феникс плюс
