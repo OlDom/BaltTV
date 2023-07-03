@@ -1583,7 +1583,8 @@ http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/10042/index.m3u8
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/10044/index.m3u8
 
-
+#EXTINF:-1 group-title="другие",Первый канал
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1 group-title="другие",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 group-title="другие",Planeta RTR
