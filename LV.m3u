@@ -191,7 +191,7 @@ http://185.23.80.26:8080/lb/ZooTV/index.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3pkb3Jvdm9lX3R2X25ldy5wbmc=?width=205&height=115&quality=93",Здоровое ТВ
 https://cdn-cache01.voka.tv/live/567.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3phZ29yb2RueWEtZ2l6bi5wbmc=?width=205&height=115&quality=93",Загородная жизнь
-https://cdn-cache01.voka.tv/live/567.m3u8
+http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.alloincognito.ru/smotreshka/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2X2xvZ29fVE9QLnBuZw.jpg",TOP SECRET
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://i.pinimg.com/originals/88/31/dc/8831dcc8f4a01d64c2afd95d044e4aa5.png",Animal Planet
@@ -232,6 +232,8 @@ https://cdn-cache01.voka.tv/live/588.m3u8
 https://cdn-cache01.voka.tv/live/506.m3u8
 
 
+#EXTINF:-1 group-title="детям" tvg-logo="https://toplogos.ru/images/logo-mult.png",Мульт HD
+http://46.151.151.245:10002/play/a0b4
 #EXTINF:-1 group-title="детям" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Karusel_2019.svg/1200px-Karusel_2019.svg.png",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="https://www.asmae.fr/wp-content/uploads/2022/05/Logo-gulli.jpg",Gulli Girl
