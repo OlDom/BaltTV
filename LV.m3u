@@ -232,6 +232,8 @@ https://cdn-cache01.voka.tv/live/588.m3u8
 https://cdn-cache01.voka.tv/live/506.m3u8
 
 
+#EXTINF:-1 group-title="детям" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Karusel_2019.svg/1200px-Karusel_2019.svg.png",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="https://www.asmae.fr/wp-content/uploads/2022/05/Logo-gulli.jpg",Gulli Girl
 https://cdn-cache01.voka.tv/live/237.m3u8
 #EXTINF:-1 group-title="детям" tvg-logo="https://novosibirsk-ttk.ru/uploads/canals/TiJi_12237[1].jpg",TiJi
