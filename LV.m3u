@@ -232,6 +232,8 @@ https://cdn-cache01.voka.tv/live/100.m3u8
 https://cdn-cache01.voka.tv/live/588.m3u8
 #EXTINF:-1 group-title="спорт" tvg-logo="http://footballtv.my1.ru/_pu/0/98302584.jpg",Матч! Планета
 https://cdn-cache01.voka.tv/live/506.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://www.cableman.ru/sites/default/files/viju_sport_color_rgb_02_1.png",viju+ sport
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="детям" tvg-logo="https://toplogos.ru/images/logo-mult.png",Мульт HD
