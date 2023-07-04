@@ -301,6 +301,22 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="техничка", НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+
+#EXTINF:-1 group-title="техничка",PMZPTBMAVXQUAP
+http://hynxrcyk.akciatv.ru/iptv/PMZPTBMAVXQUAP/714/index.m3u8
+#EXTINF:-1 group-title="техничка",GV7LQ2S673V5BH
+http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/15486/index.m3u8
+#EXTINF:-1 group-title="техничка",QVFZ8PFXG69Z8D
+http://bkucpmod.ottclub.xyz/iptv/QVFZ8PFXG69Z8D/714/index.m3u8
+#EXTINF:-1 group-title="техничка",3FZR3L5RF7YZ4V
+http://0ea1a3bb.amazzin.pw/iptv/3FZR3L5RF7YZ4V/714/index.m3u8
+#EXTINF:-1 group-title="техничка",G8K83VRM8BL63W
+http://125c43e8.amazzin.pw/iptv/G8K83VRM8BL63W/714/index.m3u8
+#EXTINF:-1 group-title="техничка",=Ti8qDtheX2PUkt
+http://ch01.spr24.net/3185/index.m3u8?token=Ti8qDtheX2PUkt
+#EXTINF:-1 group-title="техничка",ELVNTKK2RLGGKX
+http://3tpjszly.tvclub.xyz/iptv/ELVNTKK2RLGGKX/127/index.m3u8
+
 #EXTINF:-1 group-title="техничка", ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 group-title="техничка", Звезда
