@@ -104,17 +104,17 @@ https://cdn-cache01.voka.tv/live/335.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/01/fenixplus-tv-logo.png",Феникс плюс
 https://cdn-cache01.voka.tv/live/332.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWExX25ldy5wbmc=?width=205&height=115&quality=93",Amedia 1
-https://cdn-cache01.voka.tv/live/567.m3u8
+http://ott.watch/stream/KD8IR5FDPF/117.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2FtZWRpYTJfbmV3LnBuZw==?width=205&height=115&quality=93",Amedia 2
 https://cdn-cache01.voka.tv/live/171.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfaGl0X25ldy5wbmc=?width=205&height=115&quality=93",Amedia Hit HD
-https://cdn-cache01.voka.tv/live/567.m3u8
+http://ott.watch/stream/KD8IR5FDPF/162.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n?width=205&height=115&quality=93",Amedia Premium
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2JsYWNrLnBuZw==?width=205&height=115&quality=93",Black HD
-https://cdn-cache01.voka.tv/live/567.m3u8
+http://ott.watch/stream/KD8IR5FDPF/263.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3JlZC5wbmc=?width=205&height=115&quality=93",.Red HD
-https://cdn-cache01.voka.tv/live/567.m3u8
+http://ott.watch/stream/KD8IR5FDPF/69.m3u8
 
 #EXTINF:-1 group-title="познание" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV_Nauka.jpg",Наука
 https://cdn-cache01.voka.tv/live/167.m3u8
