@@ -543,1090 +543,1061 @@ http://91.233.215.250:7272/7goFKoxyCpLtt81
 http://91.233.215.250:7272/Wetd63YgcVe23Jk
 
 
-#EXTINF:0 tvg-rec=\"7\",Первый канал FHD
+
+
+#EXTINF:-1 group-title="HD" tvg-logo="",Первый канал FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2402/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Первый канал HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Первый канал HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/7253/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",E HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",E HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/14019/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",National Geographic HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",National Geographic HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/14002/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Canal+ Sport FHD PL
+#EXTINF:-1 group-title="HD" tvg-logo="",Canal+ Sport FHD PL
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/6098/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Canal+ Discovery FHD PL
+#EXTINF:-1 group-title="HD" tvg-logo="",Canal+ Discovery FHD PL
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/6103/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Canal + Seriale FHD PL
+#EXTINF:-1 group-title="HD" tvg-logo="",Canal + Seriale FHD PL
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/6104/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",BBC Earth FHD PL
+#EXTINF:-1 group-title="HD" tvg-logo="",BBC Earth FHD PL
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/6100/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",KHL Prime FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",KHL Prime FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2403/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",РБК FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",РБК FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2404/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Игра FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Игра FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2406/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Футбол 1 FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Футбол 1 FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2407/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Футбол 3 FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Футбол 3 FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2408/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Россия 1 FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Россия 1 FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2409/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Премиальное FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Премиальное FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2410/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Fashion TV FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Fashion TV FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2411/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Fashion One FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Fashion One FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2412/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч ТВ FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч ТВ FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2413/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Премьер FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Премьер FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2414/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Nat Geo Wild FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Nat Geo Wild FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2415/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",TERRA HD
+#EXTINF:-1 group-title="HD" tvg-logo="",TERRA HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2416/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТНТ FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",ТНТ FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2417/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",FoodTime FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",FoodTime FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2418/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Food Network FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Food Network FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2419/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Футбол 2 FHD
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Футбол 2 FHD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/2420/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",DTX HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",DTX HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5064/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Sport HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Sport HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5065/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Удар HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Удар HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5067/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Setanta Ukraine Plus HD
+#EXTINF:-1 group-title="HD" tvg-logo="",Setanta Ukraine Plus HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5068/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Setanta Sports 1 Baltic HD
+#EXTINF:-1 group-title="HD" tvg-logo="",Setanta Sports 1 Baltic HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5069/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Футбол 3 HD 50  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Футбол 3 HD 50  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5071/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Футбол 1 HD 50  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Футбол 1 HD 50  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5072/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Eurosport 1 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Eurosport 1 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5075/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Eurosport 2 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Eurosport 2 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5076/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Xsport HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Xsport HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5077/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viasat Fotboll HD SK  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viasat Fotboll HD SK  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5078/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Premiere HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Premiere HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5079/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Comedy HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Comedy HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5080/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Megahit HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Megahit HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5081/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дом Кино Премиум HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дом Кино Премиум HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/5082/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",СТС HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",СТС HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9000/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",HDL HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",HDL HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9008/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Luxury HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Luxury HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9038/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Первый космический HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Первый космический HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9049/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",1HD Music Television  
+#EXTINF:-1 group-title="HD" tvg-logo="",1HD Music Television  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9001/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",C-Music HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",C-Music HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9003/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",MTV Live HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",MTV Live HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9009/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Bridge Deluxe HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Bridge Deluxe HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9012/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Mezzo Live HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Mezzo Live HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9014/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",iConcerts HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",iConcerts HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9056/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",AIVA TV HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",AIVA TV HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9085/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Рен ТВ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Рен ТВ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9002/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Шокирующее HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Шокирующее HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9004/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Комедийное HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Комедийное HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9005/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Hollywood HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Hollywood HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9017/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Fox HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Fox HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9018/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кинопремьера HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кинопремьера HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9020/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia Premium HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia Premium HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9022/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia 2 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia 2 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9029/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киноужас HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киноужас HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9033/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",.red HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",.red HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9035/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский роман HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский роман HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9041/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Остросюжетное HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Остросюжетное HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9044/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наше HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наше HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9046/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кино ТВ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кино ТВ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9051/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju TV1000 Action HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000 Action HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9057/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju TV1000 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9058/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Viju TV1000 Русское HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000 Русское HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9059/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наше любимое HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наше любимое HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9062/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia 1 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia 1 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9069/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia Hit HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia Hit HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9070/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Еврокино HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Еврокино HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9078/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Иллюзион+ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Иллюзион+ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9079/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский Иллюзион HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский Иллюзион HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9080/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наш Кинопоказ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наш Кинопоказ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9086/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Блокбастер HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Блокбастер HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9087/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наше Мужское HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наше Мужское HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9088/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Про Любовь HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Про Любовь HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9089/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Хит HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Хит HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9090/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Камеди HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Камеди HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9091/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кинопоказ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кинопоказ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9092/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Приключения HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Приключения HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9007/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Discovery Channel HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Discovery Channel HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9011/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",H2 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",H2 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9013/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Travel+Adventure HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Travel+Adventure HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9019/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RTG HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",RTG HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9021/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",TLC HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",TLC HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9024/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Travel Channel HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Travel Channel HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9025/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Planet HD
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Planet HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9027/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Живая природа HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Живая природа HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9039/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Охотник и Рыболов HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Охотник и Рыболов HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9043/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",В мире животных HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",В мире животных HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9048/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Моя Планета HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Моя Планета HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9050/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Investigation Discovery HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Investigation Discovery HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9054/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju History HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju History HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9060/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Глазами Туриста HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Глазами Туриста HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9061/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Трофей HD
+#EXTINF:-1 group-title="HD" tvg-logo="",Трофей HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9076/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дикая охота HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дикая охота HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9081/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дикая рыбалка HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дикая рыбалка HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9082/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наука HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наука HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9084/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",History HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",History HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9023/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju Explore HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju Explore HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9075/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Арена HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Арена HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9010/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Russian Extreme HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Russian Extreme HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9042/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Конный Мир HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Конный Мир HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9055/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Старт HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Старт HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9083/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Insport HD
+#EXTINF:-1 group-title="HD" tvg-logo="",Insport HD
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9094/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Nickelodeon HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Nickelodeon HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9015/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9028/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RT Documentary HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",RT Documentary HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9031/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",360 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",360 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9036/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мульт HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мульт HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9037/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Уникум HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Уникум HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9077/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",СТС Kids HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",СТС Kids HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9063/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Curiosity Stream HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Curiosity Stream HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9072/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Еспресо ТВ HD UA  
+#EXTINF:-1 group-title="HD" tvg-logo="",Еспресо ТВ HD UA  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9073/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТВЦ  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТВЦ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9095/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Пятый канал  
+#EXTINF:-1 group-title="HD" tvg-logo="",Пятый канал  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9096/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Звезда  
+#EXTINF:-1 group-title="HD" tvg-logo="",Звезда  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9098/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",СТС Love  
+#EXTINF:-1 group-title="HD" tvg-logo="",СТС Love  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9099/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ОТР  
+#EXTINF:-1 group-title="HD" tvg-logo="",ОТР  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9100/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Че  
+#EXTINF:-1 group-title="HD" tvg-logo="",Че  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9101/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RTVi  
+#EXTINF:-1 group-title="HD" tvg-logo="",RTVi  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9102/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Суббота  
+#EXTINF:-1 group-title="HD" tvg-logo="",Суббота  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9103/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Домашний  
+#EXTINF:-1 group-title="HD" tvg-logo="",Домашний  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9104/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ностальгия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ностальгия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9106/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ю ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ю ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9107/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",КВН ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",КВН ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9108/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Сарафан  
+#EXTINF:-1 group-title="HD" tvg-logo="",Сарафан  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9109/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Точка ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Точка ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9110/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",СПАС  
+#EXTINF:-1 group-title="HD" tvg-logo="",СПАС  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9111/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Союз  
+#EXTINF:-1 group-title="HD" tvg-logo="",Союз  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9112/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Здоровое ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Здоровое ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9113/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Психология 21  
+#EXTINF:-1 group-title="HD" tvg-logo="",Психология 21  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9114/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Успех  
+#EXTINF:-1 group-title="HD" tvg-logo="",Успех  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9115/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кто есть кто  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кто есть кто  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9116/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Открытый мир  
+#EXTINF:-1 group-title="HD" tvg-logo="",Открытый мир  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9117/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",РЖД ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",РЖД ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9118/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Красная линия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Красная линия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9119/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ЛДПР ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",ЛДПР ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9120/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Хузур ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Хузур ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9121/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дождь  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дождь  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9122/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТБН  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТБН  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9123/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Вместе-РФ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Вместе-РФ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9124/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",.sci-fi  
+#EXTINF:-1 group-title="HD" tvg-logo="",.sci-fi  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9125/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киномикс  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киномикс  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9126/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Родное Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Родное Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9127/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кинохит  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кинохит  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9128/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Amedia 2  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia 2  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9129/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",TV XXI  
+#EXTINF:-1 group-title="HD" tvg-logo="",TV XXI  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9130/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Индийское Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Индийское Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9131/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киносерия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киносерия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9132/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский Иллюзион  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский Иллюзион  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9133/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Еврокино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Еврокино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9134/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дом Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дом Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9136/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia 1  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia 1  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9137/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мужское Кино HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мужское Кино HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9138/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",2x2  
+#EXTINF:-1 group-title="HD" tvg-logo="",2x2  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9139/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",.black  
+#EXTINF:-1 group-title="HD" tvg-logo="",.black  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9140/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский бестселлер  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский бестселлер  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9141/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский детектив  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский детектив  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9142/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Любимое Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Любимое Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9143/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русская Комедия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русская Комедия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9144/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",FAN  
+#EXTINF:-1 group-title="HD" tvg-logo="",FAN  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9145/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ Хит  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ Хит  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9146/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ Сериал  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ Сериал  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9147/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НСТ  
+#EXTINF:-1 group-title="HD" tvg-logo="",НСТ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9148/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Индия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Индия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9149/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",FilmBox ArtHouse  
+#EXTINF:-1 group-title="HD" tvg-logo="",FilmBox ArtHouse  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9150/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мир Сериала  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мир Сериала  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9151/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ретро  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ретро  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9152/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Феникс плюс Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Феникс плюс Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9153/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киноман  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киноман  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9154/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Comedy Central  
+#EXTINF:-1 group-title="HD" tvg-logo="",Comedy Central  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9155/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мосфильм. Золотая коллекция  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мосфильм. Золотая коллекция  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9156/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Страна  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Страна  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9157/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Боец  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Боец  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9159/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Extreme Sports  
+#EXTINF:-1 group-title="HD" tvg-logo="",Extreme Sports  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9160/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",MMA-TV.com  
+#EXTINF:-1 group-title="HD" tvg-logo="",MMA-TV.com  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9161/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Бокс ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Бокс ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9162/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Драйв  
+#EXTINF:-1 group-title="HD" tvg-logo="",Драйв  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9163/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ЖИВИ!  
+#EXTINF:-1 group-title="HD" tvg-logo="",ЖИВИ!  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9164/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Жар Птица  
+#EXTINF:-1 group-title="HD" tvg-logo="",Жар Птица  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9165/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Музыка Первого  
+#EXTINF:-1 group-title="HD" tvg-logo="",Музыка Первого  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9166/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Music Box Russia  
+#EXTINF:-1 group-title="HD" tvg-logo="",Music Box Russia  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9168/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",МУЗ-ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",МУЗ-ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9169/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Mezzo  
+#EXTINF:-1 group-title="HD" tvg-logo="",Mezzo  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9170/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",МузСоюз  
+#EXTINF:-1 group-title="HD" tvg-logo="",МузСоюз  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9171/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",MTV Hits  
+#EXTINF:-1 group-title="HD" tvg-logo="",MTV Hits  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9172/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Шансон ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Шансон ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9173/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ля-минор ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ля-минор ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9174/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",MCM Top Russia  
+#EXTINF:-1 group-title="HD" tvg-logo="",MCM Top Russia  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9175/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",BRIDGE TV Русский Хит  
+#EXTINF:-1 group-title="HD" tvg-logo="",BRIDGE TV Русский Хит  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9176/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Жара  
+#EXTINF:-1 group-title="HD" tvg-logo="",Жара  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9177/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТНТ Music  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТНТ Music  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9178/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RU TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",RU TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9179/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Tiji Tv  
+#EXTINF:-1 group-title="HD" tvg-logo="",Tiji Tv  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9180/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Gulli  
+#EXTINF:-1 group-title="HD" tvg-logo="",Gulli  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9181/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Nick Jr  
+#EXTINF:-1 group-title="HD" tvg-logo="",Nick Jr  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9182/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Детский мир  
+#EXTINF:-1 group-title="HD" tvg-logo="",Детский мир  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9184/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Jim Jam  
+#EXTINF:-1 group-title="HD" tvg-logo="",Jim Jam  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9185/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Карусель  
+#EXTINF:-1 group-title="HD" tvg-logo="",Карусель  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9186/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ani  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ani  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9187/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мульт  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мульт  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9188/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Cartoonito  
+#EXTINF:-1 group-title="HD" tvg-logo="",Cartoonito  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9189/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",О!  
+#EXTINF:-1 group-title="HD" tvg-logo="",О!  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9190/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Уникум  
+#EXTINF:-1 group-title="HD" tvg-logo="",Уникум  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9191/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Baby TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Baby TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9192/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",СуперГерои  
+#EXTINF:-1 group-title="HD" tvg-logo="",СуперГерои  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9193/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Радость моя  
+#EXTINF:-1 group-title="HD" tvg-logo="",Радость моя  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9194/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Рыжий  
+#EXTINF:-1 group-title="HD" tvg-logo="",Рыжий  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9195/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Капитан Фантастика  
+#EXTINF:-1 group-title="HD" tvg-logo="",Капитан Фантастика  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9196/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Тамыр  
+#EXTINF:-1 group-title="HD" tvg-logo="",Тамыр  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9198/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Смайлик ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Смайлик ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9199/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мультиландия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мультиландия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9200/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Первый канал  
+#EXTINF:-1 group-title="HD" tvg-logo="",Первый канал  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9201/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Россия 1  
+#EXTINF:-1 group-title="HD" tvg-logo="",Россия 1  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9202/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9203/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТНТ  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТНТ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9204/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Рен ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Рен ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9205/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТВ3  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТВ3  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9206/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Пятница!  
+#EXTINF:-1 group-title="HD" tvg-logo="",Пятница!  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9207/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТНТ4  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТНТ4  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9208/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",360  
+#EXTINF:-1 group-title="HD" tvg-logo="",360  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9209/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Три ангела  
+#EXTINF:-1 group-title="HD" tvg-logo="",Три ангела  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9210/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мир  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мир  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9211/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Загородный  
+#EXTINF:-1 group-title="HD" tvg-logo="",Загородный  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9212/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",РБК  
+#EXTINF:-1 group-title="HD" tvg-logo="",РБК  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9213/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мир 24 HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мир 24 HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9214/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Euronews Россия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Euronews Россия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9215/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Известия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Известия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9216/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",CGTN  
+#EXTINF:-1 group-title="HD" tvg-logo="",CGTN  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9217/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Москва 24  
+#EXTINF:-1 group-title="HD" tvg-logo="",Москва 24  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9218/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мир 24  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мир 24  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9219/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RT News  
+#EXTINF:-1 group-title="HD" tvg-logo="",RT News  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9220/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",NHK World TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",NHK World TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9221/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Центральное телевидение  
+#EXTINF:-1 group-title="HD" tvg-logo="",Центральное телевидение  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9222/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",CGTN Русский  
+#EXTINF:-1 group-title="HD" tvg-logo="",CGTN Русский  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9223/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дорама HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дорама HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9224/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Bollywood HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Bollywood HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9225/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Победа  
+#EXTINF:-1 group-title="HD" tvg-logo="",Победа  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9226/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Viju TV1000 Русское  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000 Русское  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9227/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киносемья  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киносемья  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9228/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju TV1000 Action  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000 Action  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9229/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наше Новое Кино  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наше Новое Кино  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9230/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кинокомедия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кинокомедия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9231/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia Premium  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia Premium  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9233/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Amedia Hit  
+#EXTINF:-1 group-title="HD" tvg-logo="",Amedia Hit  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9234/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju TV1000  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju TV1000  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9235/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Hollywood  
+#EXTINF:-1 group-title="HD" tvg-logo="",Hollywood  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9236/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",.red  
+#EXTINF:-1 group-title="HD" tvg-logo="",.red  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9237/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Киносвидание  
+#EXTINF:-1 group-title="HD" tvg-logo="",Киносвидание  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9238/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дорама  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дорама  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9239/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русский роман  
+#EXTINF:-1 group-title="HD" tvg-logo="",Русский роман  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9240/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Иллюзион+  
+#EXTINF:-1 group-title="HD" tvg-logo="",Иллюзион+  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9241/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кино ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кино ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9244/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Serial HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Serial HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9245/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Матч! Премьер  
+#EXTINF:-1 group-title="HD" tvg-logo="",Матч! Премьер  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9246/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Eurosport 1  
+#EXTINF:-1 group-title="HD" tvg-logo="",Eurosport 1  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9247/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Моторспорт ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Моторспорт ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9248/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju+ Sport  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju+ Sport  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9249/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",KHL  
+#EXTINF:-1 group-title="HD" tvg-logo="",KHL  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9250/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Футбол  
+#EXTINF:-1 group-title="HD" tvg-logo="",Футбол  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9251/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Курай TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Курай TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9252/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Bridge TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Bridge TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9253/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",о2тв HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",о2тв HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9254/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Курай HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Курай HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9255/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",о2тв  
+#EXTINF:-1 group-title="HD" tvg-logo="",о2тв  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9256/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Europa Plus TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Europa Plus TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9257/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",MTV  
+#EXTINF:-1 group-title="HD" tvg-logo="",MTV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9258/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Bridge Classic  
+#EXTINF:-1 group-title="HD" tvg-logo="",Bridge Classic  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9259/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Nickelodeon  
+#EXTINF:-1 group-title="HD" tvg-logo="",Nickelodeon  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9260/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Cartoon Network  
+#EXTINF:-1 group-title="HD" tvg-logo="",Cartoon Network  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9261/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мультимузыка  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мультимузыка  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9262/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",В гостях у сказки  
+#EXTINF:-1 group-title="HD" tvg-logo="",В гостях у сказки  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9263/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Nat Geo Wild  
+#EXTINF:-1 group-title="HD" tvg-logo="",Nat Geo Wild  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9264/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Discovery Science  
+#EXTINF:-1 group-title="HD" tvg-logo="",Discovery Science  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9265/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Большая Азия HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Большая Азия HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9267/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Загородный int HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Загородный int HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9268/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Авто Плюс  
+#EXTINF:-1 group-title="HD" tvg-logo="",Авто Плюс  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9269/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кухня ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кухня ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9270/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Нано ТВ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Нано ТВ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9271/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Точка отрыва  
+#EXTINF:-1 group-title="HD" tvg-logo="",Точка отрыва  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9272/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Надежда  
+#EXTINF:-1 group-title="HD" tvg-logo="",Надежда  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9273/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju Explore  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju Explore  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9275/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Зоопарк  
+#EXTINF:-1 group-title="HD" tvg-logo="",Зоопарк  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9276/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Моя Стихия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Моя Стихия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9277/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Телекафе  
+#EXTINF:-1 group-title="HD" tvg-logo="",Телекафе  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9278/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Усадьба  
+#EXTINF:-1 group-title="HD" tvg-logo="",Усадьба  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9279/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",RTG TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",RTG TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9280/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Восьмой канал  
+#EXTINF:-1 group-title="HD" tvg-logo="",Восьмой канал  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9281/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Дикий  
+#EXTINF:-1 group-title="HD" tvg-logo="",Дикий  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9282/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Охота и рыбалка  
+#EXTINF:-1 group-title="HD" tvg-logo="",Охота и рыбалка  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9284/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ЕГЭ ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",ЕГЭ ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9285/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наша тема  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наша тема  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9286/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",World Fashion Channel  
+#EXTINF:-1 group-title="HD" tvg-logo="",World Fashion Channel  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9287/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мама  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мама  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9288/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",CBS Reality  
+#EXTINF:-1 group-title="HD" tvg-logo="",CBS Reality  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9289/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Связист ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Связист ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9291/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Т24  
+#EXTINF:-1 group-title="HD" tvg-logo="",Т24  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9292/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",ТНОМЕР  
+#EXTINF:-1 group-title="HD" tvg-logo="",ТНОМЕР  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9293/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Доктор  
+#EXTINF:-1 group-title="HD" tvg-logo="",Доктор  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9294/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Viju Nature  
+#EXTINF:-1 group-title="HD" tvg-logo="",Viju Nature  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9295/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Домашние животные  
+#EXTINF:-1 group-title="HD" tvg-logo="",Домашние животные  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9296/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Вопросы и ответы  
+#EXTINF:-1 group-title="HD" tvg-logo="",Вопросы и ответы  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9297/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Время  
+#EXTINF:-1 group-title="HD" tvg-logo="",Время  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9298/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",English Club TV
+#EXTINF:-1 group-title="HD" tvg-logo="",English Club TV
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9299/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Моя Планета  
+#EXTINF:-1 group-title="HD" tvg-logo="",Моя Планета  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9300/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Travel+Adventure  
+#EXTINF:-1 group-title="HD" tvg-logo="",Travel+Adventure  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9301/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ювелирия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ювелирия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9302/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",365 дней  
+#EXTINF:-1 group-title="HD" tvg-logo="",365 дней  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9303/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Просвещение  
+#EXTINF:-1 group-title="HD" tvg-logo="",Просвещение  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9304/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Совершенно секретно  
+#EXTINF:-1 group-title="HD" tvg-logo="",Совершенно секретно  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9305/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Мужской  
+#EXTINF:-1 group-title="HD" tvg-logo="",Мужской  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9306/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Телепутешествия  
+#EXTINF:-1 group-title="HD" tvg-logo="",Телепутешествия  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9307/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Тонус ТВ Orig
+#EXTINF:-1 group-title="HD" tvg-logo="",Тонус ТВ Orig
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9308/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Авто 24  
+#EXTINF:-1 group-title="HD" tvg-logo="",Авто 24  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9309/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Flix Snip  
+#EXTINF:-1 group-title="HD" tvg-logo="",Flix Snip  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9311/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Ocean TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Ocean TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9312/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",History HD CEE  
+#EXTINF:-1 group-title="HD" tvg-logo="",History HD CEE  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9313/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Travel Channel  
+#EXTINF:-1 group-title="HD" tvg-logo="",Travel Channel  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9314/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",История  
+#EXTINF:-1 group-title="HD" tvg-logo="",История  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9315/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Тайна  
+#EXTINF:-1 group-title="HD" tvg-logo="",Тайна  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9316/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Galaxy  
+#EXTINF:-1 group-title="HD" tvg-logo="",Galaxy  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9317/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Поехали!  
+#EXTINF:-1 group-title="HD" tvg-logo="",Поехали!  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9318/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Загородная жизнь  
+#EXTINF:-1 group-title="HD" tvg-logo="",Загородная жизнь  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9319/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Первый Вегетарианский  
+#EXTINF:-1 group-title="HD" tvg-logo="",Первый Вегетарианский  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9320/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Столичный Магазин Orig
+#EXTINF:-1 group-title="HD" tvg-logo="",Столичный Магазин Orig
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9321/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Investigation Discovery  
+#EXTINF:-1 group-title="HD" tvg-logo="",Investigation Discovery  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9322/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Оружие  
+#EXTINF:-1 group-title="HD" tvg-logo="",Оружие  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9323/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Зоо ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Зоо ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9324/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Живая Планета  
+#EXTINF:-1 group-title="HD" tvg-logo="",Живая Планета  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9325/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Discovery Science HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Discovery Science HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9326/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ Право  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ Право  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9327/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",НТВ Стиль  
+#EXTINF:-1 group-title="HD" tvg-logo="",НТВ Стиль  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9328/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Кто Куда  
+#EXTINF:-1 group-title="HD" tvg-logo="",Кто Куда  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9329/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Наша сибирь HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Наша сибирь HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9330/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Продвижение  
+#EXTINF:-1 group-title="HD" tvg-logo="",Продвижение  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9331/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Девятая Волна  
+#EXTINF:-1 group-title="HD" tvg-logo="",Девятая Волна  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9332/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Globalstar TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Globalstar TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9334/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Fashion TV  
+#EXTINF:-1 group-title="HD" tvg-logo="",Fashion TV  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9335/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Арсенал  
+#EXTINF:-1 group-title="HD" tvg-logo="",Арсенал  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9336/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Театр  
+#EXTINF:-1 group-title="HD" tvg-logo="",Театр  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9337/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",КРЫМ 24  
+#EXTINF:-1 group-title="HD" tvg-logo="",КРЫМ 24  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9338/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Эхо ТВ  
+#EXTINF:-1 group-title="HD" tvg-logo="",Эхо ТВ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9339/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Волга  
+#EXTINF:-1 group-title="HD" tvg-logo="",Волга  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9340/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",БСТ HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",БСТ HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9341/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Москва-доверие  
+#EXTINF:-1 group-title="HD" tvg-logo="",Москва-доверие  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9342/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",БСТ  
+#EXTINF:-1 group-title="HD" tvg-logo="",БСТ  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/9343/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Душевное кино HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Душевное кино HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/10042/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",Премиальное HD  
+#EXTINF:-1 group-title="HD" tvg-logo="",Премиальное HD  
 #EXTGRP:HD
 http://01d742e3.ottrast.com/iptv/Q5MK5AD8A8ZBUA/10044/index.m3u8
-
-#EXTINF:-1 group-title="другие",Первый канал
-https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
-#EXTINF:-1 group-title="другие",Россия 1 HD
-https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 group-title="другие",Planeta RTR
-https://player.smotrim.ru/iframe/stream/live_id/63250
-#EXTINF:-1 group-title="другие",Россия РТР
-https://player.smotrim.ru/iframe/stream/live_id/63254
-#EXTINF:-1 group-title="другие",Россия РТР
-https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:-1 group-title="другие",Planeta RTR
-https://player.smotrim.ru/iframe/stream/live_id/63251
-#EXTINF:-1 group-title="другие",Россия 1 +1
-https://player.smotrim.ru/iframe/stream/live_id/60262
-#EXTINF:-1 group-title="другие",Россия 1 +2
-https://player.smotrim.ru/iframe/stream/live_id/58511
-#EXTINF:-1 group-title="другие",Россия 1 +3
-https://player.smotrim.ru/iframe/stream/live_id/60263
-#EXTINF:-1 group-title="другие",Россия 1 +4
-https://player.smotrim.ru/iframe/stream/live_id/58510
-#EXTINF:-1 group-title="другие",Россия 1 +5
-https://player.smotrim.ru/iframe/stream/live_id/60264
-#EXTINF:-1 group-title="другие",Россия 1 +6
-https://player.smotrim.ru/iframe/stream/live_id/58509
-#EXTINF:-1 group-title="другие",Россия 1 +7
-https://player.smotrim.ru/iframe/stream/live_id/60265
-#EXTINF:-1 group-title="другие",Россия 1 +8
-https://player.smotrim.ru/iframe/stream/live_id/58508
-#EXTINF:-1 group-title="другие",Россия 1 +9
-https://player.smotrim.ru/iframe/stream/live_id/60266
 #EXTINF:-1 group-title="познание" tvg-logo="https://sun1-20.userapi.com/MhPzv9b8GJZQ-ukm32jnjBT7hSgzMSG08p9kUw/I4t7q7wPhsI.jpg",2x2
 https://cdn-cache01.voka.tv/live/220.m3u8
 #EXTINF:-1 group-title="познание" tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
