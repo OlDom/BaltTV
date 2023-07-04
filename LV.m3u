@@ -236,6 +236,30 @@ https://cdn-cache01.voka.tv/live/588.m3u8
 https://cdn-cache01.voka.tv/live/506.m3u8
 #EXTINF:-1 group-title="спорт" tvg-logo="https://www.cableman.ru/sites/default/files/viju_sport_color_rgb_02_1.png",viju+ sport
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Арена
+http://streamer1.ruslanatv.ru/russia/match_arena_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Боец
+http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Футбол 1
+http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Футбол 2
+http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Футбол 3
+http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Премьер
+http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч! Страна
+http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Матч ТВ
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Телеканал Футбол
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Eurosport 2
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Extreme sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="",Мир Баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="детям" tvg-logo="https://toplogos.ru/images/logo-mult.png",Мульт HD
