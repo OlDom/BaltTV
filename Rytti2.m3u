@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTM3U
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:новости
 http://he11o.akadatel.com/iptv/G8K83VRM8BL63W/435/index.m3u8
