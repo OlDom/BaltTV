@@ -148,6 +148,8 @@ https://cdn-cache01.voka.tv/live/242.m3u8
 http://46.151.151.245:10007/play/a007
 #EXTINF:-1 group-title="музыка" tvg-logo="https://yug-link.ru/media/channels/tntmusic_new.png",TNT Music
 https://cdn-cache01.voka.tv/live/37.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/09/MY3-TV-999x999.png",МузТВ
+http://185.90.224.28:8080/20/index.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://i.ytimg.com/vi/97dvLq2P0pA/maxresdefault.jpg",ТВ Шансон
 https://cdn-cache01.voka.tv/live/235.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",Первый Музыкальный Канал
