@@ -44,7 +44,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3J0X2hkLnBuZw==?width=205&height=115&quality=933",RT
-http://arbiter.bolshoe.tv/?path=abr2/rtdhden/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjMgNjo1NjozNiBBTSZoYXNoX3ZhbHVlPWdMb2tCUzFtMXMrcmh0aklsM2JMVXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8?
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
 http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://storage.myseldon.com/yugo/BC66AB837D9CB6F6C391BABE56C2DF53.png",УП ТВ
