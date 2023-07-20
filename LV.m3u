@@ -35,6 +35,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://cdn-cache01.voka.tv/live/84.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://iks-online.net/wp-content/uploads/2018/07/REN-TV-HD.png",РЕН ТВ
 https://mhd116.iptv2022.com/p/2qMir5eluRaJR1GBQ6XJLA,1689886807/streaming/rentvott/324/1/index.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://radioarz.ru/assets/pyatnica-6883616114144ccc5ca9bc1804869c33441559d4ae3075f39dc619ecf9d661ad.png",Пятница HD
 https://mhd116.iptv2022.com/p/2qMir5eluRaJR1GBQ6XJLA,1689886807/streaming/rentvott/324/1/index.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2tpbm8tdHYucG5n?width=205&height=115&quality=93",Кино ТВ
