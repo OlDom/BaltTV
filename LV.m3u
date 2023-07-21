@@ -53,6 +53,66 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a001/index.m3u8
+#EXTINF:-1,02 РОССИЯ-1
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00k/index.m3u8
+#EXTINF:-1,03 МАТЧ!
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a002/index.m3u8
+#EXTINF:-1,04 НТВ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a003/index.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a004/index.m3u8
+#EXTINF:-1,06 РОССИЯ-К
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a005/index.m3u8
+#EXTINF:-1,07 РОССИЯ-24
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00l/index.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a006/index.m3u8
+#EXTINF:-1,09 ОТР
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00m/index.m3u8
+#EXTINF:-1,10 ТВ Центр
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a007/index.m3u8
+#EXTINF:-1,11 РЕН ТВ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00a/index.m3u8
+#EXTINF:-1,12 Спас
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00b/index.m3u8
+#EXTINF:-1,13 СТС
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00c/index.m3u8
+#EXTINF:-1,14 Домашний
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00d/index.m3u8
+#EXTINF:-1,15 ТВ3
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00e/index.m3u8
+#EXTINF:-1,16 Пятница
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00f/index.m3u8
+#EXTINF:-1,17 Звезда
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00g/index.m3u8
+#EXTINF:-1,18 МИР
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00h/index.m3u8
+#EXTINF:-1,19 ТНТ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00i/index.m3u8
+#EXTINF:-1,20 МУЗ ТВ
+#EXTGRP:federal
+http://81.177.197.13:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://lh3.googleusercontent.com/fife/AKsag4M9D_WJqqOqPip7NRhRE5XDL95nBBpKtl78DXZ3xEYi_qBM-LD7wMzaMWNKnzzEmuhCEJRWOkrjwCxwTCTt5YFyRiv4mQ6ZccoRf3LX7J4kNF-kWF9cO0O2ZYMyZMh99bwPArhsIQ7yZNXMLfrkf06-hKzGsx0NwXxcgUzrD9hQk06jO-8c0rTN84aL07qoKGQ6GYpNUS4YsX5Z_Rz4kQqvuIxulkdrfZ1FZRGX4Mv4h853EuHa0UCk_51xgGnT7soFoBkNalyBglP6uebzw5viMDS1szf-T0CY-4bFQ3orhycKCFh2ZjNzSX548ujwH86xQjO2Mo1j7oUuTYefNltE3MWQxLqbhDlELgqo2Lpd0N72LpwEmZzfwV2LQOF0avxYHCLW1nFNiO1U1pulMpcqg_qmmxaj2ImHq2Tdq7nokHbpZveWvoOrhkKPDYwnzNC4gNCnj4aYdLzs8NoYbreXIpydEdSkKpQTeUR7TMPd_Ny6DeZJk8KoRAnoKpZBBrtUHLOkkfNuwLP9ccfpnJH98tagv1ERfe7upwbWCYLa90ttzk7jwFIJ2VSm8Sk6_DTgiSyvZ38B2faQHi10oONaTdn-TfKY8ZCpjZ-TMtS5uQ06Qu08C585oDFVY7eotIoJ-ln2_hj4NrXSZcLGxG03RLJ1tFJHqM3dyEdv3Y8ILkKcrjqQoLP3G3kLDMkjZLFyatzj8PCInSMbThmodh0FFabf0OmhifAGymkhp990LbWw_gDxIxGjwuUWWOVuX_yLPzGfpTQCoZhDmETZIa8s8JcxgD9SXyNxSDTjRBA0XPXjGUfmZCh8WiiBibV9hA6qZD2HdECmTwThyxmdSxjfdgqhjnLJM1U-kvQe5meREkMbpmvcFNVTeUZ_jGZkNjo4X0fR87jst6vsw83aselY1cOOkUgw3sN-wTDp_q-065vkchMkBKWmm0661SS-FyRVwGU1GqoOO8KAI2Ff4P4EHw6wT1eyJU785E3fyjjfrfJDQQiuuzQWX-ysa1XbhWI9ENGNKEAktLmm5WBpsPYSdqzWLmB04fcnJ10sI7Bz19A8_N1_dvdoZl-x2Z1neRoAuT52rtjpP8TpZUb57hvrNsJtlxjnaecF14MqEkAuC-kTIkM_aTuB9GfROt_rCqBU0ZXPolAS_h0DZkqmQONHkT3E0qwij1LfIw7uLiCbnWh1-hG0MuKhuVM6X9laH5YJavaPTU3-9VkhIhpgzbrbGoyAE0nghzBuzyaIQmoRo3mzTgiv0uurSePqt4MNHi58jC0gaszcYMk9GUp_N-sX0d6heLIRx7EFGTYuRkpuqh27Kp8o3-jsOEP13qDjR1496lZ4M6BQc6gcyjCrTj0g3OK6ohdNYsaDKtUCRIlsz2vwUhDeWAJOsu3QKggTi8263mfhXaOCy-UlFSqhmM5mllQc2Z4JVuFtO2lnNN5LJfsM25Y10l5gIRCm4hbOpldIsxRMEY8ghx8rexBdUTFK3eTMptMbh0vekRo9gd3t_iEe4zZjD0DRbs9i4-4k0m22cOcf=w633-h474-p-k-nu",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
