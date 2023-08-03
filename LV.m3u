@@ -114,6 +114,180 @@ http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTGRP:federal
 http://81.177.197.13:8000/play/a00j/index.m3u8
 
+
+
+#EXTINF:-1 group-title="интер",ПЕРВЫЙ КАНАЛ
+https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",РТР ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/rtr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",НТВ МИР
+https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",РЕН ТВ
+https://tbs01-edge11.itdc.ge/rentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ДОМАШНИЙ
+https://tbs01-edge11.itdc.ge/domashni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ПЯТНИЦА
+https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",САРАФАН
+https://tbs01-edge11.itdc.ge/sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ПЕРЕЦ
+https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",СТС
+https://tbs01-edge11.itdc.ge/ctctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ТВЦ
+https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",РОССИЯ К
+https://tbs01-edge11.itdc.ge/russiaculture/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МОЯ ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/myplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ОХОТА И РЫБАЛКА
+https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ЖИВАЯ ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Viasat Explore
+https://tbs01-edge11.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Viasat History
+https://tbs01-edge11.itdc.ge/viasathist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер", Travel+Adventure
+https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",НАУКА
+https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ИСТОРИЯ
+https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",HD Life
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",VIP HIT
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",VIP FAMILY
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",TV1000 Русское кино
+https://tbs01-edge11.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Amedia 1
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Cinema
+https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ДОМ КИНО
+https://tbs01-edge11.itdc.ge/domkino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ДОМ КИНО ПРЕМИУМ
+https://tbs01-edge11.itdc.ge/domkinopremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",РЕТРО
+https://tbs01-edge11.itdc.ge/retro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",РУССКИЙ ИЛЛЮЗИОН
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ИЛЛЮЗИОН+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МУЖСКОЕ КИНО
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Кинопремьера HD
+https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МИР СЕРИАЛА
+https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Киносерия
+https://tbs01-edge11.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ИНДИЙСКОЕ КИНО
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",КИНОХИТ
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Киноужас
+https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Hollywood HD
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",НСТ
+https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ЕВРОКИНО
+https://tbs01-edge11.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ИНДИЯ
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ФЕНИКС+КИНО 
+https://tbs01-edge11.itdc.ge/fenixkino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",FilmBox Arthouse
+https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",FilmBox
+https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",24 ТЕХНО
+https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",АВТО ПЛЮС
+https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",АВТО 24
+https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ДРАЙВ
+https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",УСАДЬБА
+https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",365 ДНЕЙ
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ОРУЖИЕ
+https://tbs01-edge11.itdc.ge/oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ЗООПАРК
+https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",КТО ЕСТЬ КТО
+https://tbs01-edge11.itdc.ge/ktoestkto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",КУХНЯ ТВ
+https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ТЕЛЕКАФЕ
+https://tbs01-edge11.itdc.ge/telecafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",RTVI
+https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МИР 24
+https://tbs01-edge11.itdc.ge/mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МИР
+https://tbs01-edge11.itdc.ge/mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер", English Club TV
+https://tbs01-edge11.itdc.ge/engclub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",DocuBox HD
+https://tbs01-edge11.itdc.ge/docuboxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",FashionBox
+https://tbs01-edge11.itdc.ge/fashionbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Fashion TV
+https://tbs01-edge11.itdc.ge/fasiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",360tunebox
+https://tbs01-edge11.itdc.ge/360tunebox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ТНТ Music
+https://tbs01-edge11.itdc.ge/rutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ЛЯ-МИНОР
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер", Russian music box
+https://tbs01-edge11.itdc.ge/musicboxru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",9 ВОЛНА
+https://tbs01-edge11.itdc.ge/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Abkhaz HD
+https://tbs01-edge11.itdc.ge/abkhaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Egrisi TV
+https://tbs01-edge11.itdc.ge/egrisitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Nwbctv
+https://tbs01-edge11.itdc.ge/nwbctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Stereoplus
+https://tbs01-edge11.itdc.ge/stereoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Music Box
+https://tbs01-edge11.itdc.ge/musicbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Music TV HD
+https://tbs01-edge11.itdc.ge/musictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",НОСТАЛЬГИЯ
+https://tbs01-edge11.itdc.ge/nostalgy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ШАНСОН ТВ
+https://tbs01-edge11.itdc.ge/shanson/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Da Vinci
+https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",ДЕТСКИЙ МИР
+https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МУЛЬТ
+https://tbs01-edge11.itdc.ge/multtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",УНИКУМ
+https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",КАРУСЕЛЬ
+https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",Viasat Sport
+https://tbs01-edge11.itdc.ge/viasatsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",БОКС ТВ
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",MMA-TV.COM
+https://tbs01-edge11.itdc.ge/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",FightBox
+https://tbs01-edge11.itdc.ge/fightboxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="интер",МАТЧ! ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/matchplaneta/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="кино" tvg-logo="https://lh3.googleusercontent.com/fife/AKsag4M9D_WJqqOqPip7NRhRE5XDL95nBBpKtl78DXZ3xEYi_qBM-LD7wMzaMWNKnzzEmuhCEJRWOkrjwCxwTCTt5YFyRiv4mQ6ZccoRf3LX7J4kNF-kWF9cO0O2ZYMyZMh99bwPArhsIQ7yZNXMLfrkf06-hKzGsx0NwXxcgUzrD9hQk06jO-8c0rTN84aL07qoKGQ6GYpNUS4YsX5Z_Rz4kQqvuIxulkdrfZ1FZRGX4Mv4h853EuHa0UCk_51xgGnT7soFoBkNalyBglP6uebzw5viMDS1szf-T0CY-4bFQ3orhycKCFh2ZjNzSX548ujwH86xQjO2Mo1j7oUuTYefNltE3MWQxLqbhDlELgqo2Lpd0N72LpwEmZzfwV2LQOF0avxYHCLW1nFNiO1U1pulMpcqg_qmmxaj2ImHq2Tdq7nokHbpZveWvoOrhkKPDYwnzNC4gNCnj4aYdLzs8NoYbreXIpydEdSkKpQTeUR7TMPd_Ny6DeZJk8KoRAnoKpZBBrtUHLOkkfNuwLP9ccfpnJH98tagv1ERfe7upwbWCYLa90ttzk7jwFIJ2VSm8Sk6_DTgiSyvZ38B2faQHi10oONaTdn-TfKY8ZCpjZ-TMtS5uQ06Qu08C585oDFVY7eotIoJ-ln2_hj4NrXSZcLGxG03RLJ1tFJHqM3dyEdv3Y8ILkKcrjqQoLP3G3kLDMkjZLFyatzj8PCInSMbThmodh0FFabf0OmhifAGymkhp990LbWw_gDxIxGjwuUWWOVuX_yLPzGfpTQCoZhDmETZIa8s8JcxgD9SXyNxSDTjRBA0XPXjGUfmZCh8WiiBibV9hA6qZD2HdECmTwThyxmdSxjfdgqhjnLJM1U-kvQe5meREkMbpmvcFNVTeUZ_jGZkNjo4X0fR87jst6vsw83aselY1cOOkUgw3sN-wTDp_q-065vkchMkBKWmm0661SS-FyRVwGU1GqoOO8KAI2Ff4P4EHw6wT1eyJU785E3fyjjfrfJDQQiuuzQWX-ysa1XbhWI9ENGNKEAktLmm5WBpsPYSdqzWLmB04fcnJ10sI7Bz19A8_N1_dvdoZl-x2Z1neRoAuT52rtjpP8TpZUb57hvrNsJtlxjnaecF14MqEkAuC-kTIkM_aTuB9GfROt_rCqBU0ZXPolAS_h0DZkqmQONHkT3E0qwij1LfIw7uLiCbnWh1-hG0MuKhuVM6X9laH5YJavaPTU3-9VkhIhpgzbrbGoyAE0nghzBuzyaIQmoRo3mzTgiv0uurSePqt4MNHi58jC0gaszcYMk9GUp_N-sX0d6heLIRx7EFGTYuRkpuqh27Kp8o3-jsOEP13qDjR1496lZ4M6BQc6gcyjCrTj0g3OK6ohdNYsaDKtUCRIlsz2vwUhDeWAJOsu3QKggTi8263mfhXaOCy-UlFSqhmM5mllQc2Z4JVuFtO2lnNN5LJfsM25Y10l5gIRCm4hbOpldIsxRMEY8ghx8rexBdUTFK3eTMptMbh0vekRo9gd3t_iEe4zZjD0DRbs9i4-4k0m22cOcf=w633-h474-p-k-nu",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://lh3.googleusercontent.com/fife/AKsag4PyA120vhahrgZfpAMwY0v95QEt9ww0IsC0IB2erXt92fprJcn8pq6V_Ruq60K3GZ88GNJyaPjGxGy2KL54iErA0yIF2cBMPEec8C2QG-mFd63cyluxmu_GfT2JINtYrlE2wBk-fWPXa8YMYAuxJxgEpBhyc_6YmMgy-NYooU9v_yx36SvOdcWoInIXadKHB0PJSnArv0flMC0MZg87bXrDft6W4jrNTDx7dLxpY5OWV2JqjrFvP80xKW3lTJukulUV0gif25qXwN1flzXuoeQytrksW1d1TeqDWBCUQq7kA5s6A82viPw755iAf6IOvAvScTGTKzq6C38_LI5iQ7MtZ3KzNxECew3-vdKJ5x1tWAhBReYy4IW1gHYT_qo_rNIeGGIsyi9g5TbQrf8PACIfpURX-Gmod4r-I68WCiv5uNTx4r5pQxjwYxvn1B5TuEdpbGPzeiX2t40tbv2UFq_MlxqS970VS3Z4FBQxSay52OmgoCWrOSeasaSTeaHaxB9AL-EN0RT7ONZ3ArrclsYpWFhUtBcDTQly4ha2Z4QlyuwRtaqH785fYdxkSwoEqjhLX4sFKDAy_wBEqoq_G5-1LgGTFJZpyP0Jr9_nIpOqKiZrH97qy_OkauUKTjgzW4hyXlLTvHf6STz19XWvIyxu28otvbQ61_TvQAy-hPRVGh8eCiM0j-nXuoShKwKoaBoN2mdBqek01ZRw09gPHd_IPgmXBYUZz6Fx4OmbwWCq0-bnp6J8lrl82i0Mdsr6iV-fipFPr25DhEEi7BM_-g2FgAWMntK_uecy68SQ1tY9F6lAlxiM801U3kPpe_3xWqXSHiEppV2Cl_bBAVcI1GO5pBJbz6q6bu6KAtKg4i3nLvcASsVpFVDpf96640S5Z9y1NnHQaxnOPULg6MPXrMX3y0N0FZu12asLnXoRJsTQHs_C77VJlSzYMp13heAy0pfzJLNKbHf7nZA8ViF6W9dm1C4ou3sEZGuRM-e95V27mlWqlwg2rXG_yo39Yhns-wg4xOlRHb7K4O0OaZtYtj0nn_qijTWqWixPuISof5EWeWmN_Clmxw_xeej_xGstO-5RZhVn75RWI0oEhHg_RYc_YVawHSrvNTs6silH2MdvJJo7O7ncrQ9tiFYbhXklBAUlK3cM1O9660tC-6m_38K0bbNgrrRLwYgdCbvOg_nqDpm2WZtb8HNR6wrZ6tLUav9JbmBEZNtqQnqURceeNB6UWOQUy98MvxN27Q-asHyAY_GKqg7XUaqf8fiMA_dAbn2bhp9m4-c0wAX28c1EbtKQBMeiAZTMVpBO9mwtlhWOeFINaGI-dHNAC7m8b1wrBW_jiU2oVoj9yZkfplDdDUD2absig-1gKq7l_R2s1QbsB4f3EHKI0873DvRjPmFkRpkSrY-PE9T46lEZ4dgHUoaXJBKkMpvJ3XYsRSpkm2S69ud3dUfG6ihzOuZU1mBeiGvu-0dQ1tZYSA05MpIK5czkDFmYTJjtAiN3FlNwn4dWF4u-6C0rCV6KqE_NU5cqcYWb2TIa=w633-h474-p-k-nu",Мелодрамы
