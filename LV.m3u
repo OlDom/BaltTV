@@ -119,6 +119,193 @@ http://81.177.197.13:8000/play/a00i/index.m3u8
 http://81.177.197.13:8000/play/a00j/index.m3u8
 
 
+#EXTINF:-1 group-title="federal+",Первый канал
+rtmp://178.159.112.198//pervyj
+#EXTINF:-1 group-title="federal+",Россия HD
+rtmp://178.159.112.198//russia_hd
+#EXTINF:-1 group-title="federal+",ТНТ
+rtmp://178.159.112.198//tnt
+#EXTINF:-1 group-title="federal+",ТНТ HD
+rtmp://178.159.112.198//tnt_hd
+#EXTINF:-1 group-title="federal+",ТНТ4
+rtmp://178.159.112.198//tnt4
+#EXTINF:-1 group-title="federal+",Рен ТВ
+rtmp://178.159.112.198//rentv
+#EXTINF:-1 group-title="federal+",НТВ
+rtmp://178.159.112.198//ntv
+#EXTINF:-1 group-title="federal+",НТВ HD
+rtmp://178.159.112.198//ntv_hd
+#EXTINF:-1 group-title="federal+",Animal Planet HD
+rtmp://178.159.112.198//animal_planet
+#EXTINF:-1 group-title="federal+",Discovery HD
+rtmp://178.159.112.198//discovery
+#EXTINF:-1 group-title="federal+",Нано ТВ
+rtmp://178.159.112.198//nano
+#EXTINF:-1 group-title="federal+",Планета HD
+rtmp://178.159.112.198//planeta_hd
+#EXTINF:-1 group-title="federal+",Travel Channel
+rtmp://178.159.112.198//travel
+#EXTINF:-1 group-title="federal+",TV1000
+rtmp://178.159.112.198//tv1000
+#EXTINF:-1 group-title="federal+",2x2
+rtmp://178.159.112.198//2x2
+#EXTINF:-1 group-title="federal+",Amedia 1
+rtmp://178.159.112.198//a1
+#EXTINF:-1 group-title="federal+",Amedia 2 HD
+rtmp://178.159.112.198//a2
+#EXTINF:-1 group-title="federal+",Авто 24
+rtmp://178.159.112.198//avto_24
+#EXTINF:-1 group-title="federal+",Че
+rtmp://178.159.112.198//che
+#EXTINF:-1 group-title="federal+",Cinema
+rtmp://178.159.112.198//cinema
+#EXTINF:-1 group-title="federal+",Дом Кино
+rtmp://178.159.112.198//dom_kino
+#EXTINF:-1 group-title="federal+",Дом Кино Премиум HD
+rtmp://178.159.112.198//dom_kino_premium_hd
+#EXTINF:-1 group-title="federal+",Домашний
+rtmp://178.159.112.198//domashnij
+#EXTINF:-1 group-title="federal+",Еврокино
+rtmp://178.159.112.198//evrokino
+#EXTINF:-1 group-title="federal+",Galaxy
+rtmp://178.159.112.198//galaxy
+#EXTINF:-1 group-title="federal+",Иллюзион+
+rtmp://178.159.112.198//illuzion_plus
+#EXTINF:-1 group-title="federal+",Кино ТВ
+rtmp://178.159.112.198//kino_tv
+#EXTINF:-1 group-title="federal+",Кино ТВ HD
+rtmp://178.159.112.198//kino_tv_hd
+#EXTINF:-1 group-title="federal+",Кинохит
+rtmp://178.159.112.198//kinohit
+#EXTINF:-1 group-title="federal+",Кинопоказ
+rtmp://178.159.112.198//kinopokaz
+#EXTINF:-1 group-title="federal+",Киносемья
+rtmp://178.159.112.198//kinosemja
+#EXTINF:-1 group-title="federal+",Мужское кино
+rtmp://178.159.112.198//muzhskoe_kino
+#EXTINF:-1 group-title="federal+",Киносвидание
+rtmp://178.159.112.198//kinosvidanie
+#EXTINF:-1 group-title="federal+",Комедия
+rtmp://178.159.112.198//komedija
+#EXTINF:-1 group-title="federal+",Мосфильм. Золотая коллекция
+rtmp://178.159.112.198//mosfilm
+#EXTINF:-1 group-title="federal+",Москва 24
+rtmp://178.159.112.198//moskva_24
+#EXTINF:-1 group-title="federal+",НСТ
+rtmp://178.159.112.198//nst
+#EXTINF:-1 group-title="federal+",О!
+rtmp://178.159.112.198//o
+#EXTINF:-1 group-title="federal+",ОТР
+rtmp://178.159.112.198//otr
+#EXTINF:-1 group-title="federal+",Пятница
+rtmp://178.159.112.198//pjatnica
+#EXTINF:-1 group-title="federal+",Победа
+rtmp://178.159.112.198//pobeda
+#EXTINF:-1 group-title="federal+",Поехали!
+rtmp://178.159.112.198//poehali
+#EXTINF:-1 group-title="federal+",Психология 21
+rtmp://178.159.112.198//psihologia21
+#EXTINF:-1 group-title="federal+",Ретро
+rtmp://178.159.112.198//retro
+#EXTINF:-1 group-title="federal+",Русский бестселлер
+rtmp://178.159.112.198//rus_bestseller
+#EXTINF:-1 group-title="federal+",Русский роман
+rtmp://178.159.112.198//rus_roman
+#EXTINF:-1 group-title="federal+",СТС
+rtmp://178.159.112.198//sts
+#EXTINF:-1 group-title="federal+",Суббота!
+rtmp://178.159.112.198//super
+#EXTINF:-1 group-title="federal+",Театр
+rtmp://178.159.112.198//teatr
+#EXTINF:-1 group-title="federal+",Телекафе
+rtmp://178.159.112.198//telekafe
+#EXTINF:-1 group-title="federal+",TLC
+rtmp://178.159.112.198//tlc
+#EXTINF:-1 group-title="federal+",ТНОМЕР
+rtmp://178.159.112.198//tnomer
+#EXTINF:-1 group-title="federal+",Точка
+rtmp://178.159.112.198//tochka
+#EXTINF:-1 group-title="federal+",Точка отрыва
+rtmp://178.159.112.198//tochka_otryva
+#EXTINF:-1 group-title="federal+",ТВ3
+rtmp://178.159.112.198//tv3
+#EXTINF:-1 group-title="federal+",ТВЦ
+rtmp://178.159.112.198//tvc
+#EXTINF:-1 group-title="federal+",Усадьба
+rtmp://178.159.112.198//usadba
+#EXTINF:-1 group-title="federal+",VIP Comedy HD
+rtmp://178.159.112.198//vip_comedy
+#EXTINF:-1 group-title="federal+",VIP Megahit HD
+rtmp://178.159.112.198//vip_megahit
+#EXTINF:-1 group-title="federal+",TV XXI
+rtmp://178.159.112.198//xxi
+#EXTINF:-1 group-title="federal+",Ю
+rtmp://178.159.112.198//yu
+#EXTINF:-1 group-title="federal+",Здоровое ТВ
+rtmp://178.159.112.198//zdorovoe_tv
+#EXTINF:-1 group-title="federal+",Зоопарк
+rtmp://178.159.112.198//zoopark
+#EXTINF:-1 group-title="federal+",Звезда
+rtmp://178.159.112.198//zvezda
+#EXTINF:-1 group-title="federal+",RU.TV
+rtmp://178.159.112.198//rutv
+#EXTINF:-1 group-title="federal+",Шансон ТВ
+rtmp://178.159.112.198//shanson
+#EXTINF:-1 group-title="federal+",Мультимузыка
+rtmp://178.159.112.198//strana
+#EXTINF:-1 group-title="federal+",Уникум
+rtmp://178.159.112.198//unikum
+#EXTINF:-1 group-title="federal+",Мульт HD
+rtmp://178.159.112.198//tlum_hd
+#EXTINF:-1 group-title="federal+",Сарафан
+rtmp://178.159.112.198//sarafan
+#EXTINF:-1 group-title="federal+",Мульт
+rtmp://178.159.112.198//mult
+#EXTINF:-1 group-title="federal+",Карусель
+rtmp://178.159.112.198//karusel
+#EXTINF:-1 group-title="federal+",Детский мир
+rtmp://178.159.112.198//detskij_mir
+#EXTINF:-1 group-title="federal+",Бобёр
+rtmp://178.159.112.198//bober
+#EXTINF:-1 group-title="federal+",Ani
+rtmp://178.159.112.198//ani
+#EXTINF:-1 group-title="federal+",Солнце
+rtmp://178.159.112.198//disney
+#EXTINF:-1 group-title="federal+",Футбол
+rtmp://178.159.112.198//futbol
+#EXTINF:-1 group-title="federal+",Матч! Боец
+rtmp://178.159.112.198//boec
+#EXTINF:-1 group-title="federal+",Eurosport 1 HD
+rtmp://178.159.112.198//eurosport
+#EXTINF:-1 group-title="federal+",Eurosport 2 HD
+rtmp://178.159.112.198//eurosport2_hd
+#EXTINF:-1 group-title="federal+",Матч ТВ
+rtmp://178.159.112.198//match
+#EXTINF:-1 group-title="federal+",Матч! Арена
+rtmp://178.159.112.198//match_arena
+#EXTINF:-1 group-title="federal+",Матч! Футбол 1 
+rtmp://178.159.112.198//match_futbol_1
+#EXTINF:-1 group-title="federal+",Матч! Футбол 1 HD
+rtmp://178.159.112.198//match_futbol_1_hd
+#EXTINF:-1 group-title="federal+",Матч! Футбол 2
+rtmp://178.159.112.198//match_futbol_2
+#EXTINF:-1 group-title="federal+",Матч! Футбол 2 HD
+rtmp://178.159.112.198//match_futbol_2_hd
+#EXTINF:-1 group-title="federal+",Матч! Футбол 3
+rtmp://178.159.112.198//match_futbol_3
+#EXTINF:-1 group-title="federal+",Матч! Футбол 3 HD
+rtmp://178.159.112.198//match_futbol_3_hd
+#EXTINF:-1 group-title="federal+",Матч HD
+rtmp://178.159.112.198//match_hd
+#EXTINF:-1 group-title="federal+",Матч! Игра
+rtmp://178.159.112.198//match_igra
+#EXTINF:-1 group-title="federal+",Матч Премьер
+rtmp://178.159.112.198//match_premiere
+#EXTINF:-1 group-title="federal+",Матч! Страна
+rtmp://178.159.112.198//match_strana
+
+
+
 
 #EXTINF:-1 group-title="интер",ПЕРВЫЙ КАНАЛ
 https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
@@ -335,9 +522,9 @@ https://cdn-cache01.voka.tv/live/79.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/08/logo-rodnoe-kino.png",РОДНОЕ КИНО
 https://cdn-cache01.voka.tv/live/80.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1588.png" group-title="кино",Остросюжетное HD
-https://cdn-cache01.voka.tv/live/567.m3u8
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2732.png" group-title="кино",Премиальное HD
-https://cdn-cache01.voka.tv/live/567.m3u8
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.tildacdn.com/tild3036-6238-4364-b735-636536653436/retro_obychnyy_0.png",Ретро
 https://cdn-cache01.voka.tv/live/335.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/01/fenixplus-tv-logo.png",Феникс плюс
