@@ -57,6 +57,108 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+
+
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Первый канал
+http://188.143.128.24:30000/play/a1/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Рен ТВ
+http://188.143.128.24:30000/play/a11/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Россия 1
+http://188.143.128.24:30000/play/a2/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ТНТ
+http://188.143.128.24:30000/play/a19/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ТНТ 4
+http://188.143.128.24:30000/play/a28/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",НТВ
+http://188.143.128.24:30000/play/a4/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Россия 24
+http://188.143.128.24:30000/play/a7/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Культура
+http://188.143.128.24:30000/play/a6/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ОТР
+http://188.143.128.24:30000/play/a9/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Карусель
+http://188.143.128.24:30000/play/a8/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Пятый канал
+http://188.143.128.24:30000/play/a5/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ТНТ Music
+http://188.143.128.24:30000/play/a48/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Киномикс
+http://188.143.128.24:30000/play/a47/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Санкт-Петербург
+http://188.143.128.24:30000/play/a46/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Кино ТВ
+http://188.143.128.24:30000/play/a45/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Авто плюс
+http://188.143.128.24:30000/play/a44/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Бобер
+http://188.143.128.24:30000/play/a43/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",РБК
+http://188.143.128.24:30000/play/a42/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Русский бестселлер
+http://188.143.128.24:30000/play/a41/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Союз
+http://188.143.128.24:30000/play/a40/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",RU.TV
+http://188.143.128.24:30000/play/a39/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Музыка первого
+http://188.143.128.24:30000/play/a38/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",2x2
+http://188.143.128.24:30000/play/a37/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",О!
+http://188.143.128.24:30000/play/a36/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Bridge TV
+http://188.143.128.24:30000/play/a35/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Сапфир
+http://188.143.128.24:30000/play/a34/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Че
+http://188.143.128.24:30000/play/a33/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Ю
+http://188.143.128.24:30000/play/a32/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Bridge TV Русский хит
+http://188.143.128.24:30000/play/a31/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Мама
+http://188.143.128.24:30000/play/a30/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Матч ТВ
+http://188.143.128.24:30000/play/a3/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",СТС Love
+http://188.143.128.24:30000/play/a29/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Ювелирочка
+http://188.143.128.24:30000/play/a27/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Shopping Live
+http://188.143.128.24:30000/play/a26/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Солнце
+http://188.143.128.24:30000/play/a25/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",360
+http://188.143.128.24:30000/play/a24/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Мульт
+http://188.143.128.24:30000/play/a23/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Европа Плюс ТВ
+http://188.143.128.24:30000/play/a22/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Суббота
+http://188.143.128.24:30000/play/a21/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",МузТВ
+http://188.143.128.24:30000/play/a20/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Мир
+http://188.143.128.24:30000/play/a18/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Звезда
+http://188.143.128.24:30000/play/a17/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть", Пятница
+http://188.143.128.24:30000/play/a16/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ТВ3
+http://188.143.128.24:30000/play/a15/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Домашний
+http://188.143.128.24:30000/play/a14/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",СТС
+http://188.143.128.24:30000/play/a13/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",Спас
+http://188.143.128.24:30000/play/a12/index.m3u8
+#EXTINF:-1 group-title="Санкт-Петербургская Интернет Сеть",ТВЦ
+http://188.143.128.24:30000/play/a10/index.m3u8
+
+
+
+
 #EXTINF:-1,ПЕРВЫЙ КАНАЛ
 #EXTGRP:federal
 http://81.177.197.13:8000/play/a001/index.m3u8
