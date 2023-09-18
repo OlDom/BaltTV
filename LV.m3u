@@ -1,23 +1,29 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" 
 
-
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый канал
-http://95.46.43.215:8081/play/a008
+http://195.54.42.9:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый канал (+2)
+http://195.54.42.9:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
-http://95.46.43.215:8081/play/a009
+http://195.54.42.9:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 +2
+http://195.54.42.9:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ
-http://188.143.128.24:30000/play/a4/index.m3u8
+http://195.54.42.9:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",,НТВ +2
+http://195.54.42.9:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/21
-
+#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
+http://195.54.42.9:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Current_Time_TV_Logo.png",Настоящее время
