@@ -4,16 +4,14 @@
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый канал
 http://195.54.42.9:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый канал (+2)
-http://195.54.42.9:8000/play/a032/index.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
 http://195.54.42.9:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 +2
 http://195.54.42.9:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/index.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ
 http://195.54.42.9:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",,НТВ +2
@@ -397,6 +395,10 @@ http://91.233.215.250:7272/Wetd63YgcVe23Jk
 
 
 
+
+
+
+
 #EXTINF:-1  group-title="RTPM",Униан
 rtmp://93.189.60.202//1023
 #EXTINF:-1  group-title="RTPM",ТЕТ HD
@@ -517,6 +519,8 @@ rtmp://93.189.60.202//272
 
 
 
+
+
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.4/${start}-${end}/index.m3u8" group-title="НашНет",Інтер HD
 https://ext.cdn.nashnet.tv/228.0.0.4/index.m3u8
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.9/${start}-${end}/index.m3u8" group-title="НашНет",1+1
@@ -593,6 +597,10 @@ https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.3.231/${start}-${end}/index.m3u8" group-title="НашНет" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2205_color.svg", Ісландія HD
 https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
+
+
+
+
 
 
 
@@ -816,6 +824,7 @@ https://sc.id-tv.kz:443/KHL_36_37.m3u8
 
 
 
+
 #EXTINF:-1 group-title="РуТьюб",Пятница HD
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="РуТьюб",Суббота HD
@@ -850,6 +859,8 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="РуТьюб" tvg-logo="http://epg.it999.ru/img/2838.png",VIP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
+
 
 
 
