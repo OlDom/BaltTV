@@ -66,6 +66,150 @@ https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 
+
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ПЕРВЫЙ КАНАЛ
+http://93.189.224.202:82/live/Ch385/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РОССИЯ 1
+http://93.189.224.202:82/live/Ch41/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РОССИЯ К
+http://93.189.224.202:82/live/Ch21/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ТВ 3 БЕЛАРУСЬ
+http://93.189.224.202:82/live/Ch66/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БЕЛАРУСЬ 1
+http://93.189.224.202:82/live/Ch73/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БЕЛАРУСЬ 2
+http://93.189.224.202:82/live/Ch64/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БЕЛАРУСЬ 3
+http://93.189.224.202:82/live/Ch71/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РТР БЕЛАРУСЬ
+http://93.189.224.202:82/live/Ch77/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",НТВ БЕЛАРУСЬ
+http://93.189.224.202:82/live/Ch78/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ОНТ 
+http://93.189.224.202:82/live/Ch74/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",TRAVEL+ADVENTURE
+http://93.189.224.202:82/live/Ch62/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ОХОТА И РЫБАЛКА
+http://93.189.224.202:82/live/Ch83/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ИСТОРИЯ
+http://93.189.224.202:82/live/Ch89/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",VIASAT EXPLORE
+http://93.189.224.202:82/live/Ch263/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",VIASAT HISTORY
+http://93.189.224.202:82/live/Ch264/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",VIASAT NATURE
+http://93.189.224.202:82/live/Ch265/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",НАУКА
+http://93.189.224.202:82/live/Ch282/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ДОКТОР
+http://93.189.224.202:82/live/Ch366/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",СТБ
+http://93.189.224.202:82/live/Ch75/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Amedia 1
+http://93.189.224.202:82/live/Ch422/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Amedia 2
+http://93.189.224.202:82/live/Ch4/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Amedia Hit
+http://93.189.224.202:82/live/Ch224/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Amedia Premium
+http://93.189.224.202:82/live/Ch225/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",.RED
+http://93.189.224.202:82/live/Ch13/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",.BLACK
+http://93.189.224.202:82/live/Ch337/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КУХНЯ ТВ
+http://93.189.224.202:82/live/Ch20/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",SHOT TV
+http://93.189.224.202:82/live/Ch23/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",АВТО ПЛЮС
+http://93.189.224.202:82/live/Ch38/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МИР
+http://93.189.224.202:82/live/Ch45/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РУССКИЙ ИЛЛЮЗИОН
+http://93.189.224.202:82/live/Ch55/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КТО ЕСТЬ КТО
+http://93.189.224.202:82/live/Ch56/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",365 ДНЕЙ
+http://93.189.224.202:82/live/Ch70/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МУВИ ТВ
+http://93.189.224.202:82/live/Ch82/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",УСАДЬБА
+http://93.189.224.202:82/live/Ch91/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ЕВРОКИНО
+http://93.189.224.202:82/live/Ch222/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНЕКО
+http://93.189.224.202:82/live/Ch235/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",TV1000 РУССКОЕ КИНО
+http://93.189.224.202:82/live/Ch237/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",TV1000
+http://93.189.224.202:82/live/Ch238/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",TV1000 ACTION
+http://93.189.224.202:82/live/Ch239/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РАДОСТЬ МОЯ
+http://93.189.224.202:82/live/Ch258/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ПЕРЕЦ
+http://93.189.224.202:82/live/Ch259/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ИЛЛЮЗИОН+
+http://93.189.224.202:82/live/Ch271/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МИР СЕРИАЛА
+http://93.189.224.202:82/live/Ch338/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КВН ТВ
+http://93.189.224.202:82/live/Ch419/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ВРЕМЯ
+http://93.189.224.202:82/live/Ch371/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ДОМАШНИЕ ЖИВОТНЫЕ
+http://93.189.224.202:82/live/Ch373/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ПОЕХАЛИ!
+http://93.189.224.202:82/live/Ch374/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",НОСТАЛЬГИЯ
+http://93.189.224.202:82/live/Ch399/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ИНДИЙСКОЕ КИНО
+http://93.189.224.202:82/live/Ch400/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОПРЕМЬЕРА
+http://93.189.224.202:82/live/Ch221/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",РОДНОЕ КИНО
+http://93.189.224.202:82/live/Ch6/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОСВИДАНИЕ
+http://93.189.224.202:82/live/Ch7/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОМИКС
+http://93.189.224.202:82/live/Ch28/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",НАШЕ НОВОЕ КИНО
+http://93.189.224.202:82/live/Ch12/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОСЕРИЯ
+http://93.189.224.202:82/live/Ch42/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОКОМЕДИЯ
+http://93.189.224.202:82/live/Ch19/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МУЖСКОЕ КИНО
+http://93.189.224.202:82/live/Ch268/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ЛЮБИМОЕ КИНО
+http://93.189.224.202:82/live/Ch339/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОХИТ
+http://93.189.224.202:82/live/Ch59/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",КИНОСЕМЬЯ
+http://93.189.224.202:82/live/Ch60/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",TIJI
+http://93.189.224.202:82/live/Ch256/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МУЛЬТИЛАНДИЯ
+http://93.189.224.202:82/live/Ch94/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",УНИКУМ
+http://93.189.224.202:82/live/Ch49/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",KHL
+http://93.189.224.202:82/live/Ch25/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МАТЧ ПРЕМЬЕР
+http://93.189.224.202:82/live/Ch36/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",VIASAT SPORT
+http://93.189.224.202:82/live/Ch247/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ФУТБОЛ
+http://93.189.224.202:82/live/Ch272/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",МАТЧ! ПЛАНЕТА
+http://93.189.224.202:82/live/Ch284/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БОКС ТВ
+http://93.189.224.202:82/live/Ch418/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БЕЛАРУСЬ 5
+http://93.189.224.202:82/live/Ch81/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Орбита Плюс",Первый канал
 https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",РОССИЯ 24
