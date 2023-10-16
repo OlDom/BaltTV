@@ -42,7 +42,7 @@ rtmp://178.159.112.198//kino_tv_hd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="кино",Мосфильм. Золотая коллекция
 http://89.104.114.32:8080/mosfilm/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 group-title="новости" tvg-logo="https://storage.yandexcloud.net/webbyon/upload/photos/2022/06/6qmwhHwhqIwFHiZOibf2_13_af5ef192bba6912412bb8ad36096721d_image.jpg",СОЛОВЬЁВLIVE
-https://mhd116.iptv2022.com/p/jXzIH4egCrol_oOQHWjnDA,1695502816/streaming/solovyevlive/324/1/index.m3u8
+http://194.26.229.162:88/channel/n1bc11283/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2xkcHJfdHYucG5n?width=205&height=115&quality=93",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
