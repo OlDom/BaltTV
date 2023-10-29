@@ -565,8 +565,17 @@ http://91.142.158.107:8092/play/3/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="РуТьюб",Первый канал
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8?utcstart=1646211600
+#EXTINF:-1 group-title="РуТьюб",Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8?utcstart=1646258400
+#EXTINF:-1 group-title="РуТьюб",НТВ
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/iframes.m3u8?utcstart=1646211600
+#EXTINF:-1 group-title="РуТьюб",Россия 24 
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/iframes.m3u8?utcstart=1660006800
+#EXTINF:-1 group-title="РуТьюб",Мосфильм. Золотая коллекция
+http://stream-msk-08.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/04/plst.m3u8
+#EXTINF:-1 group-title="РуТьюб",
 #EXTINF:-1 group-title="РуТьюб",Пятница HD
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="РуТьюб",Суббота HD
