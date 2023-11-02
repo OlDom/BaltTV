@@ -1,200 +1,197 @@
 #EXTM3U
-#EXTINF:0,360 TV SD
+#EXTINF:-1 group-title="UK",360 TV SD
 https://list.iptvcat.com/my_list/s/dea308268576ee5fbd1f1e1042a3a0db.m3u8
-#EXTINF:0,360 [HD]
+#EXTINF:-1 group-title="UK",360 [HD]
 https://list.iptvcat.com/my_list/s/6d25ce113413b2c5e2e39969ae1d97d3.m3u8
-
-
-#EXTINF:0,Ahlulbayt TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="UK",Ahlulbayt TV (1080p) [Not 24/7]
 https://list.iptvcat.com/my_list/s/e431ff8029702505e19349cc11f6249b.m3u8
-#EXTINF:0,Akaal TV, UK | Akaal TV
+#EXTINF:-1 group-title="UK",Akaal TV, UK | Akaal TV
 https://list.iptvcat.com/my_list/s/1498fe38bb8b75f1eed23939e971a45c.m3u8
-#EXTINF:0,Animal Planet UK
+#EXTINF:-1 group-title="UK",Animal Planet UK
 https://list.iptvcat.com/my_list/s/65634976d6e438eb02525a0dd1034347.m3u8
-#EXTINF:0,Arab's Sky News (Backup), makkah, Sky News Arabia
+#EXTINF:-1 group-title="UK",Sky News Arabia
 https://list.iptvcat.com/my_list/s/7e8635913b15f88ead9e3a23b872db7c.m3u8
-#EXTINF:0,BBC 1
+#EXTINF:-1 group-title="UK",BBC 1
 https://list.iptvcat.com/my_list/s/1c09b22cb89e40b10168aa6334f37508.m3u8
-#EXTINF:0,BBC 2
+#EXTINF:-1 group-title="UK",BBC 2
 https://list.iptvcat.com/my_list/s/5a3ddf9a624aee4096aaee4223177d47.m3u8
-#EXTINF:0,BBC 4
+#EXTINF:-1 group-title="UK",BBC 4
 https://list.iptvcat.com/my_list/s/c35bc0159a519f1fcd05c4181742b961.m3u8
-#EXTINF:0,BBC London
+#EXTINF:-1 group-title="UK",BBC London
 https://list.iptvcat.com/my_list/s/7b11a853a6453783e8b3414d4d36bc8a.m3u8
-#EXTINF:0,BBC News
+#EXTINF:-1 group-title="UK",BBC News
 https://list.iptvcat.com/my_list/s/a8dd1a06cb9807378d7ee409f3009ef2.m3u8
-#EXTINF:0,BBC One North West
+#EXTINF:-1 group-title="UK",BBC One North West
 https://list.iptvcat.com/my_list/s/a845ea7aaf581d8025a537fb6e99b7b5.m3u8
-#EXTINF:0,BBC One Northern Ireland
+#EXTINF:-1 group-title="UK",BBC One Northern Ireland
 https://list.iptvcat.com/my_list/s/3f53e588e5061b586b972f9ca72bb2c0.m3u8
-#EXTINF:0,BBC One Scot
+#EXTINF:-1 group-title="UK",BBC One Scot
 https://list.iptvcat.com/my_list/s/3db8f25ed3e3497ad80e3db228f0f5dd.m3u8
-#EXTINF:0,BBC One South
+#EXTINF:-1 group-title="UK",BBC One South
 https://list.iptvcat.com/my_list/s/24a8ab995f932371b67cd9e6de65f685.m3u8
-#EXTINF:0,BBC One Wales
+#EXTINF:-1 group-title="UK",BBC One Wales
 https://list.iptvcat.com/my_list/s/b39d17192b60aadec325268e274e86af.m3u8
-#EXTINF:0,BBC Scotland
+#EXTINF:-1 group-title="UK",BBC Scotland
 https://list.iptvcat.com/my_list/s/5f617fe87caba15c78166093ba5d0063.m3u8
-#EXTINF:0,BBC Three
+#EXTINF:-1 group-title="UK",BBC Three
 https://list.iptvcat.com/my_list/s/1b730385c0d0e5cd14704e31dc29ff85.m3u8
-#EXTINF:0,BBC Two Northern Ireland
+#EXTINF:-1 group-title="UK",BBC Two Northern Ireland
 https://list.iptvcat.com/my_list/s/6a73fda54adb32cfeb5183a70390f3fc.m3u8
-#EXTINF:0,BBC Two Wales
+#EXTINF:-1 group-title="UK",BBC Two Wales
 https://list.iptvcat.com/my_list/s/5063ab4ff94561625b8438ac71f01cbd.m3u8
-#EXTINF:0,Blaze UK
+#EXTINF:-1 group-title="UK",Blaze UK
 https://list.iptvcat.com/my_list/s/4892501746eaddf8e957ff01e58340ac.m3u8
-#EXTINF:0,Bloomberg UK
+#EXTINF:-1 group-title="UK",Bloomberg UK
 https://list.iptvcat.com/my_list/s/219b2658d6abf7c4a8e80493097f0706.m3u8
-#EXTINF:0,Boomerang UK
+#EXTINF:-1 group-title="UK",Boomerang UK
 https://list.iptvcat.com/my_list/s/18f1251906c9357a80d50896ba7c658d.m3u8
-#EXTINF:0,Box Hits
+#EXTINF:-1 group-title="UK",Box Hits
 https://list.iptvcat.com/my_list/s/170e7c51c5163329ad7a3828dc4ee29e.m3u8
-#EXTINF:0,CBBC
+#EXTINF:-1 group-title="UK",CBBC
 https://list.iptvcat.com/my_list/s/5fceea06b8eabed307291c135540fe30.m3u8
-#EXTINF:0,CBS Action
+#EXTINF:-1 group-title="UK",CBS Action
 https://list.iptvcat.com/my_list/s/58c0b1e3acae392503d8e361a0631234.m3u8
-#EXTINF:0,CBS Drama
+#EXTINF:-1 group-title="UK",CBS Drama
 https://list.iptvcat.com/my_list/s/55428a499312fdd780ac4129c7effdb4.m3u8
-#EXTINF:0,CBS Reality
+#EXTINF:-1 group-title="UK",CBS Reality
 https://list.iptvcat.com/my_list/s/42549eaf7859e2c544dcb77500708bb6.m3u8
-#EXTINF:0,CITV
+#EXTINF:-1 group-title="UK",CITV
 https://list.iptvcat.com/my_list/s/584c6e038f687a8dda405f3f5c90a7a3.m3u8
-#EXTINF:0,CNBC UK
+#EXTINF:-1 group-title="UK",CNBC UK
 https://list.iptvcat.com/my_list/s/06d3cd3bcc757ed88a32ced41facf55a.m3u8
-#EXTINF:0,CNN UK
+#EXTINF:-1 group-title="UK",CNN UK
 https://list.iptvcat.com/my_list/s/00b7f18d92d975462211022f116c6bf7.m3u8
-#EXTINF:0,Cartoon Network UK
+#EXTINF:-1 group-title="UK",Cartoon Network UK
 https://list.iptvcat.com/my_list/s/1ba6316be127a915a346993ecc30db61.m3u8
-#EXTINF:0,Cartoonito UK
+#EXTINF:-1 group-title="UK",Cartoonito UK
 https://list.iptvcat.com/my_list/s/2d8b4d9b4951dfce66872f9a063313db.m3u8
-#EXTINF:0,Cbeebies UK
+#EXTINF:-1 group-title="UK",Cbeebies UK
 https://list.iptvcat.com/my_list/s/3b2c63c835a9f8bc9003c0a3c342a61d.m3u8
-#EXTINF:0,Challenge
+#EXTINF:-1 group-title="UK",Challenge
 https://list.iptvcat.com/my_list/s/17eb3d9be8e9c1777667e27ab44606d6.m3u8
-#EXTINF:0,Channel 4
+#EXTINF:-1 group-title="UK",Channel 4
 https://list.iptvcat.com/my_list/s/3db45c6adbc46e94a8fdaec05cb97ebf.m3u8
-#EXTINF:0,Channel 5
+#EXTINF:-1 group-title="UK",Channel 5
 https://list.iptvcat.com/my_list/s/3eb4bc28318efe625ae74da4815e7fc6.m3u8
-#EXTINF:0,Channel S (576p) [Not 24/7]
+#EXTINF:-1 group-title="UK",Channel S (576p) [Not 24/7]
 https://list.iptvcat.com/my_list/s/4d206ba461924ddd242af318dbfa4605.m3u8
-#EXTINF:0,Clubland TV UK
+#EXTINF:-1 group-title="UK",Clubland TV UK
 https://list.iptvcat.com/my_list/s/82198e2cee1daf9b934c4d62531a97b3.m3u8
-#EXTINF:0,Colors
+#EXTINF:-1 group-title="UK",Colors
 https://list.iptvcat.com/my_list/s/4ac3298b10014b5f2a24b90fc30bd0cf.m3u8
-#EXTINF:0,Comedy Central UK
+#EXTINF:-1 group-title="UK",Comedy Central UK
 https://list.iptvcat.com/my_list/s/20fc9bd5bbf32e0bf8a8ba34e745ce84.m3u8
-#EXTINF:0,ComedyXtra
+#EXTINF:-1 group-title="UK",ComedyXtra
 https://list.iptvcat.com/my_list/s/3acc16bac429b13a238a7f7508b81beb.m3u8
-#EXTINF:0,Crime Investigation
+#EXTINF:-1 group-title="UK",Crime Investigation
 https://list.iptvcat.com/my_list/s/375db29d32ae0aafab651c33e040c627.m3u8
-#EXTINF:0,DMAX
+#EXTINF:-1 group-title="UK",DMAX
 https://list.iptvcat.com/my_list/s/f73fd40ed1cfb197be671199ce6a992e.m3u8
-#EXTINF:0,Dave
+#EXTINF:-1 group-title="UK",Dave
 https://list.iptvcat.com/my_list/s/e3fce9bc4c4841103019e4886399a48d.m3u8
-#EXTINF:0,Discovery History UK
+#EXTINF:-1 group-title="UK",Discovery History UK
 https://list.iptvcat.com/my_list/s/f76fb1ff59863d7cabaca41f528c332c.m3u8
-#EXTINF:0,Discovery Science UK
+#EXTINF:-1 group-title="UK",Discovery Science UK
 https://list.iptvcat.com/my_list/s/b83cb955dd7f9cb550892b57c6cabdb4.m3u8
-#EXTINF:0,Discovery Turbo UK
+#EXTINF:-1 group-title="UK",Discovery Turbo UK
 https://list.iptvcat.com/my_list/s/b5bc2e53860c1fcead8501179f0145bf.m3u8
-#EXTINF:0,Discovery UK
+#EXTINF:-1 group-title="UK",Discovery UK
 https://list.iptvcat.com/my_list/s/9837896029d25a3230844079f509404a.m3u8
-#EXTINF:0,Drama UK
+#EXTINF:-1 group-title="UK",Drama UK
 https://list.iptvcat.com/my_list/s/5f555ac77d69faedfab3091ee599e4d0.m3u8
-#EXTINF:0,E! UK
+#EXTINF:-1 group-title="UK",E! UK
 https://list.iptvcat.com/my_list/s/fd89b296bb39895b7b0dbc844b46f0c0.m3u8
-#EXTINF:0,E4
+#EXTINF:-1 group-title="UK",E4
 https://list.iptvcat.com/my_list/s/34edff3394f72f8c5ec8ca03e1c0d309.m3u8
-#EXTINF:0,EIR Sports 1 UK
+#EXTINF:-1 group-title="UK",EIR Sports 1 UK
 https://list.iptvcat.com/my_list/s/6e91467e0878e768c312e58d46764a10.m3u8
-#EXTINF:0,EUA
+#EXTINF:-1 group-title="UK",EUA
 https://list.iptvcat.com/my_list/s/a061843e78f49fca368215b240641132.m3u8
-#EXTINF:0,EUA
+#EXTINF:-1 group-title="UK",EUA
 https://list.iptvcat.com/my_list/s/b8889543b7fac8515971100031a626d7.m3u8
-
-#EXTINF:0,EUA
+#EXTINF:-1 group-title="UK",EUA
 https://list.iptvcat.com/my_list/s/e72893fbebb11e0e9f325d48fde7c0c2.m3u8
-#EXTINF:0,EUA
+#EXTINF:-1 group-title="UK",EUA
 https://list.iptvcat.com/my_list/s/aa60cccbb5497dde4a8250202022f666.m3u8
-#EXTINF:0,Eden
+#EXTINF:-1 group-title="UK",Eden
 https://list.iptvcat.com/my_list/s/9d48d77408cad4075fc8ed6e467da57e.m3u8
-#EXTINF:0,Eman Channel
+#EXTINF:-1 group-title="UK",Eman Channel
 https://list.iptvcat.com/my_list/s/cdf2ad388d5aad7ed0a425d6831f2634.m3u8
-#EXTINF:0,EuroNews UK
+#EXTINF:-1 group-title="UK",EuroNews UK
 https://list.iptvcat.com/my_list/s/4e1cb5ae80f6a7649a6796157321eee3.m3u8
-#EXTINF:0,FOX
+#EXTINF:-1 group-title="UK",FOX
 https://list.iptvcat.com/my_list/s/b6964a027408e2e538d038b4e679163c.m3u8
-#EXTINF:0,Film4
+#EXTINF:-1 group-title="UK",Film4
 https://list.iptvcat.com/my_list/s/a6dafc5ecc829d2d2fc3eb94e0fdb96e.m3u8
-#EXTINF:0,Food Network UK
+#EXTINF:-1 group-title="UK",Food Network UK
 https://list.iptvcat.com/my_list/s/48a6ebe3ff7aca846cb817aae7c11563.m3u8
-#EXTINF:0,Forces TV
+#EXTINF:-1 group-title="UK",Forces TV
 https://list.iptvcat.com/my_list/s/691d456f3e2f69d1644c5ad89033d8c8.m3u8
-#EXTINF:0,GB News
+#EXTINF:-1 group-title="UK",GB News
 https://list.iptvcat.com/my_list/s/3eb4a37ce494de1f50a7b959815b786c.m3u8
-#EXTINF:0,GOLD
+#EXTINF:-1 group-title="UK",GOLD
 https://list.iptvcat.com/my_list/s/477792811ae597d0ca6834ceba097434.m3u8
-#EXTINF:0,Gemporia, Gems TV
+#EXTINF:-1 group-title="UK",Gemporia, Gems TV
 https://list.iptvcat.com/my_list/s/e2b9b242a6c05f926149427f1b59f5ce.m3u8
-#EXTINF:0,Great TV
+#EXTINF:-1 group-title="UK",Great TV
 https://list.iptvcat.com/my_list/s/988df078d7f28b707462b93f00077e82.m3u8
-#EXTINF:0,H2 UK
+#EXTINF:-1 group-title="UK",H2 UK
 https://list.iptvcat.com/my_list/s/426c1bb880d6ab1d80d42ec3741dbc8f.m3u8
-#EXTINF:0,HGTV
+#EXTINF:-1 group-title="UK",HGTV
 https://list.iptvcat.com/my_list/s/cffb4e8a6558c871dc0f42f9039c7a10.m3u8
-#EXTINF:0,Horror Channel
+#EXTINF:-1 group-title="UK",Horror Channel
 https://list.iptvcat.com/my_list/s/6bb4ac0ff667981737582752affc4804.m3u8
-#EXTINF:0,Horse & Country TV (1080p)
+#EXTINF:-1 group-title="UK",Horse & Country TV (1080p)
 https://list.iptvcat.com/my_list/s/7ad70468aa07a0dfbb07c4a63844ac41.m3u8
-#EXTINF:0,ITV
+#EXTINF:-1 group-title="UK",ITV
 https://list.iptvcat.com/my_list/s/1596f910064d3b1a4a6429fa03e6caad.m3u8
-#EXTINF:0,ITV 2
+#EXTINF:-1 group-title="UK",ITV 2
 https://list.iptvcat.com/my_list/s/9ff6f26c95ccc5ade27a39821f38fc23.m3u8
-#EXTINF:0,ITV 3
+#EXTINF:-1 group-title="UK",ITV 3
 https://list.iptvcat.com/my_list/s/aefa1ccec97b1e5862b41ee7c1e6d6ef.m3u8
-#EXTINF:0,ITV 4
+#EXTINF:-1 group-title="UK",ITV 4
 https://list.iptvcat.com/my_list/s/69cb9bf4f787280b656331116a528da3.m3u8
-#EXTINF:0,ITV East
+#EXTINF:-1 group-title="UK",ITV East
 https://list.iptvcat.com/my_list/s/a73b4bd28c8ebf0ebb6b30f9cfce9a78.m3u8
-#EXTINF:0,ITV London
+#EXTINF:-1 group-title="UK",ITV London
 https://list.iptvcat.com/my_list/s/d909ec1ad87579ff459530aae0847e36.m3u8
-#EXTINF:0,ITV Meridian Thamesvalley
+#EXTINF:-1 group-title="UK",ITV Meridian Thamesvalley
 https://list.iptvcat.com/my_list/s/2b346e43ebf51a339993487064b4ba4c.m3u8
-#EXTINF:0,ITV Wales
+#EXTINF:-1 group-title="UK",ITV Wales
 https://list.iptvcat.com/my_list/s/cdc81f135c9817a9bbefadab327e8a72.m3u8
-#EXTINF:0,ITV West
+#EXTINF:-1 group-title="UK",ITV West
 https://list.iptvcat.com/my_list/s/b3393d4ad5e6a61eb91253762b4d3bf0.m3u8
-#EXTINF:0,ITVBe
+#EXTINF:-1 group-title="UK",ITVBe
 https://list.iptvcat.com/my_list/s/7cb57d508af796e2cd2dc864923d2978.m3u8
-#EXTINF:0,Iqra Bangla (576p)
+#EXTINF:-1 group-title="UK",Iqra Bangla (576p)
 https://list.iptvcat.com/my_list/s/5e2558f6a3a98420d29331a758582a4f.m3u8
-#EXTINF:0,Iqra Bangla (720p)
+#EXTINF:-1 group-title="UK",Iqra Bangla (720p)
 https://list.iptvcat.com/my_list/s/31fee1f22957cd285fe21fec116a0be3.m3u8
-#EXTINF:0,Iqra TV (576p)
+#EXTINF:-1 group-title="UK",Iqra TV (576p)
 https://list.iptvcat.com/my_list/s/2b62bded4d1c8b5818522a5b197c23a7.m3u8
-#EXTINF:0,Iqra TV (576p)
+#EXTINF:-1 group-title="UK",Iqra TV (576p)
 https://list.iptvcat.com/my_list/s/c1af1266f870b453b6ebb9e7789e1783.m3u8
-#EXTINF:0,Iran International (1080p)
+#EXTINF:-1 group-title="UK",Iran International (1080p)
 https://list.iptvcat.com/my_list/s/9ba6b769325fd61abdfd34bc1f2c6bfa.m3u8
-#EXTINF:0,Islam Channel Urdu
+#EXTINF:-1 group-title="UK",Islam Channel Urdu
 https://list.iptvcat.com/my_list/s/1cc30a1b57dabbe094030f9f0912314f.m3u8
-#EXTINF:0,Itv Granada
+#EXTINF:-1 group-title="UK",Itv Granada
 https://list.iptvcat.com/my_list/s/11b8c5ed6ac4d772c5ae1a09cc1f5f84.m3u8
-#EXTINF:0,KISS
+#EXTINF:-1 group-title="UK",KISS
 https://list.iptvcat.com/my_list/s/abc85ecc4283a5a3d6a1f8b3561b58d1.m3u8
-#EXTINF:0,Kalsan TV (576p)
+#EXTINF:-1 group-title="UK",Kalsan TV (576p)
 https://list.iptvcat.com/my_list/s/99d466a7f94e49e801957f3fe8300840.m3u8
-#EXTINF:0,Kanshi TV, UK | Kanshi TV
+#EXTINF:-1 group-title="UK",Kanshi TV, UK | Kanshi TV
 https://list.iptvcat.com/my_list/s/515a908c9182049a4aa1374b0921e899.m3u8
-#EXTINF:0,Kerrang!
+#EXTINF:-1 group-title="UK",Kerrang!
 https://list.iptvcat.com/my_list/s/ac965733d7013f8985235989704aa671.m3u8
-#EXTINF:0,Lifetime
+#EXTINF:-1 group-title="UK",Lifetime
 https://list.iptvcat.com/my_list/s/53071b93cbe8c75867746b62190bab4e.m3u8
-#EXTINF:0,Liverpool TV
+#EXTINF:-1 group-title="UK",Liverpool TV
 https://list.iptvcat.com/my_list/s/03c3973ed8ff35167df754ca52accf5b.m3u8
-#EXTINF:0,London Live
+#EXTINF:-1 group-title="UK",London Live
 https://list.iptvcat.com/my_list/s/465cb06d34b44b450d597ea51ed85a73.m3u8
-#EXTINF:0,MM Somali TV (720p)
+#EXTINF:-1 group-title="UK",MM Somali TV (720p)
 https://list.iptvcat.com/my_list/s/0d58df3849c48bf62387145c1912b55f.m3u8
-#EXTINF:0,MTV
+#EXTINF:-1,MTV
 https://list.iptvcat.com/my_list/s/4526890060b4d2c590cc260a270db2ea.m3u8
