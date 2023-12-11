@@ -1633,6 +1633,8 @@ https://cdn-cache01.voka.tv/live/541.m3u8
 https://cdn-cache01.voka.tv/live/540.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="http://oklivetv.com/wp-content/uploads/media/02ddb27fde06bb5391db4feb08e42b87.jpeg",MCM Top
 https://cdn-cache01.voka.tv/live/242.m3u8
+#EXTINF:-1 group-title="музыка" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg",Cumbia TV de Música Tropical
+https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/chunklist_w683631350.m3u8
 #EXTINF:-1 group-title="музыка" tvg-logo="https://toplogos.ru/images/logo-muzika-pervogo.png",Музыка первого
 http://46.151.151.245:10007/play/a007
 #EXTINF:-1 group-title="музыка" tvg-logo="https://yug-link.ru/media/channels/tntmusic_new.png",TNT Music
