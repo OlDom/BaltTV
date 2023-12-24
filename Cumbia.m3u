@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rep. Dominicana" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-րդ ալիք (480p)
+#EXTINF:-1 tvg-id="Cumbia TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg" group-title="Rep. Dominicana" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-րդ ալիք (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/chunklist_w1720690552.m3u8
