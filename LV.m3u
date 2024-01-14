@@ -36,32 +36,6 @@ http://91.233.215.250:7272/J8BymSQSWStHrzm
 
 
 
-
-Звезда - https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-Первый канал HD -
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8
-
-Первый канал - https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8
-
-НТВ HD - http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8
-
-НТВ - https://ntv-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv_msk/tracks-v5a1/mono.m3u8
-
-Звезда - https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-ОТР - https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8
-Пятый канал - https://tv5-live-megafon2.mediavitrina.ru/hls-livef2/tv-5/tracks-v3a1/mono.m3u8
-РЕН ТВ - https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m3u8
-Россия 1 - https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
-Россия HD -https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
