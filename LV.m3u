@@ -78,288 +78,187 @@ https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 
 
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/36.jpg",Первый канал
+http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/78.png",НТВ
+http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/54.png",Россия 1
+http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/152.jpg",Россия 24
+http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/165.png",Россия Культура
+http://213.172.73.170:8081/nimble_live/1059__Rossiya_Kultura/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/142.png",РЕН ТВ
+http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/180.png",ТНТ
+http://213.172.73.170:8081/nimble_live/1069__TNT/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/163.jpg",ТНТ4
+http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/21.jpg",Охота и Рыбалка
+http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
+http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png",Animal Planet
+http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/123.png",Da Vinci Learning
+http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg",DTX
+http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  ,Доктор
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png",History
+http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/128.jpg",ID Xtra
+http://213.172.73.170:8081/nimble_live/1050__ID_Xtra/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/167.png",Viasat History
+http://213.172.73.170:8081/nimble_live/1074__ViaSat_History/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/109.png",Звезда
+http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/106.png",Наука 2.0
+http://213.172.73.170:8081/nimble_live/1134__Nauka_2_0/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/96.png",Ностальгия
+http://213.172.73.170:8081/nimble_live/1067__Nostalgiya/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/32.jpg",Совершенно Секретно
+http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/149.jpg",Техно 24
+http://213.172.73.170:8081/nimble_live/1056__24_Texno/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/107.png",Пятый канал
+http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/442.png",Amedia 1
+http://213.172.73.133:8081/nimble_live/9026_Amedia_1/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/138.png",Amedia 2
+http://213.172.73.170:8081/nimble_live/1137__AMEDIA2/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/55.jpg",Cinema
+http://213.172.73.170:8081/nimble_live/1142__Sinema/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Cinema Classic
+http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://epg.it999.ru/img/934.png" ,Hollywood HD
+http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/175.png",Paramount Comedy
+http://213.172.73.170:8081/nimble_live/1047__Paramaunt_Comedy/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/100.png",TV1000
+http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/64.jpg",TV1000 Action
+http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/118.png",TV1000 Русское Кино
+http://213.172.73.170:8081/nimble_live/1075__Tv_1000_Russkoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/178.png",TV XXI
+http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/75.png",Дом Кино
+http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/43.png",Домашний
+http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/11.png",Еврокино
+http://213.172.73.170:8081/nimble_live/1139__EvroKino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/181.png",Иллюзион+
+http://213.172.73.170:8081/nimble_live/1138__Illyuzion_Plus/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/129.png",Кинокомедия
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/158.png",Киномикс
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/57.png",Киносвидание
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/76.png",Киносемья
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/116.jpg",Киносерия
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/30.png",КИНОХИТ
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/59.jpg",Мужское кино
+http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/177.jpg",Наше любимое кино
+http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/95.png",Наше Новое Кино
+http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/69.png",НСТ
+http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/349.jpg",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL" ,Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/113.png",Родное Кино
+http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/52.jpg",Русский Бестселлер
+http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/160.png",Русский Иллюзион
+http://213.172.73.170:8081/nimble_live/1141__Russkiy_Illyuzion/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/89.png",2x2
+http://213.172.73.171:8081/nimble_live/1162__2x2/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/101.png",Детский
+http://213.172.73.170:8081/nimble_live/1027__Detskiy/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/13.png",Детский Мир
+http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/34.png",Канал Disney
+http://213.172.73.170:8081/nimble_live/1061__Kanal_Disney_ru/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/72.png",Карусель
+http://213.172.73.170:8081/nimble_live/1011__Karusel/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/40.jpg",Мама
+http://213.172.73.170:8081/nimble_live/1052__MAMA/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/130.png",Мульт
+http://213.172.73.170:8081/nimble_live/1084__Mult/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/112.png",Мультимания
+http://213.172.73.170:8081/nimble_live/1078__Multimaniya/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/10.jpg",BRIDGE TV
+http://213.172.73.170:8081/nimble_live/1092__Bridge_Tv_russkiy_xit/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/144.png",Europa Plus TV
+http://213.172.73.170:8081/nimble_live/1081__Evropa_Plus_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/189.jpg",Mezzo
+http://213.172.73.170:8081/nimble_live/1091__Mezzo/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://epg.it999.ru/img/2138.png" ,BOLT
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/345.jpg",Ocko Expres
+http://213.172.73.132:8081/nimble_live/4055_Ocko_Expres/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/346.jpg",Ocko Star
+http://213.172.73.132:8081/nimble_live/4056_Ocko_Star/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/171.png",RU.TV
+http://213.172.73.170:8081/nimble_live/1088__RU_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Страна FM HD
+http://213.172.73.132:8081/nimble_live/StranaFM_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/63.png",TMB
+http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/126.png",Муз ТВ
+http://213.172.73.170:8081/nimble_live/1132__Muz_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/104.png",Музыка Первого
+http://213.172.73.170:8081/nimble_live/1130__Muzika_Pervogo/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/156.jpg",Шансон ТВ
+http://213.172.73.170:8081/nimble_live/1104__Shanson/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/99.jpg",CNN International
+http://213.172.73.170:8081/nimble_live/1044__CNN_International/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/134.png",Мир
+http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/131.png",РБК
+http://213.172.73.170:8081/nimble_live/1096__RBK/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/66.png",360°
+http://213.172.73.170:8081/nimble_live/1133__360_turk/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/357.jpg",ATR
+http://213.172.73.132:8081/nimble_live/4079_ATR/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/179.png",Fashion TV
+http://213.172.73.170:8081/nimble_live/1036__Fashion/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/212.png",Kronehit HD
+http://213.172.73.132:8081/nimble_live/4072_Kronehit_HD/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg",TLC
+http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/155.png",Авто 24
+http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/84.png",Авто плюс
+http://213.172.73.170:8081/nimble_live/1015__Avto_Plyus/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/23.png",Кухня ТВ
+http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/82.png",Пятница
+http://213.172.73.170:8081/nimble_live/1070__Pyatnica/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/157.png",СТС
+http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/42.png",ТВ3
+http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/139.jpg",ТВЦ
+http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/16.jpg",Че
+http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
+#EXTINF:-1 group-title="AZ-EVRO TEL"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/74.png",Ю
+http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
 
-
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Первый канал
-http://89.104.114.26:8080/ort/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РЕН ТВ
-http://89.104.114.26:8080/ren-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТНТ
-http://89.104.114.26:8080/tnt/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТНТ4
-http://89.104.114.26:8080/tnt-4/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НТВ
-http://89.104.114.26:8080/ntv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НТВ ПРАВО
-http://89.104.114.26:8080/ntv_pravo/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НТВ СЕРИАЛ
-http://89.104.114.26:8080/ntv_serial/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НТВ СТИЛЬ
-http://89.104.114.26:8080/ntv_stil/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НТВ ХИТ
-http://89.104.114.26:8080/ntv_hit/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТЕХНО 24
-http://89.104.114.26:8080/t24/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/1681.png" ,Охотник и Рыболов HD
-http://89.104.114.26:8080/ohot_i_rybolov_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МОЯ ПЛАНЕТА
-http://89.104.114.26:8080/moya_planeta/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,История
-http://89.104.114.26:8080/istoriya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ГЛАЗАМИ ТУРИСТА HD
-http://89.104.114.26:8080/glazami_turista_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Приключения HD
-http://89.104.114.26:8080/teletravel_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ПЛАНЕТА HD
-http://89.104.114.26:8080/planeta_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЖИВАЯ ПЛАНЕТА
-http://89.104.114.26:8080/zhivaya-planeta/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЖИВАЯ ПРИРОДА HD
-http://89.104.114.26:8080/jivaya_priroda_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,HD Life
-http://89.104.114.26:8080/hd-life/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,NAT GEO WILD HD
-http://89.104.114.26:8080/natgeo_wild_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,National Geographic
-http://89.104.114.26:8080/natgeo/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,National Geographic HD
-http://89.104.114.26:8080/natgeo_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,RTG HD
-http://89.104.114.26:8080/rtg_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,RTG TV
-http://89.104.114.26:8080/rtg/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,1HD
-http://89.104.114.26:8080/1hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,2x2
-http://89.104.114.26:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img2/5775.png" ,7 канал
-http://89.104.114.26:8080/7tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,9 ВОЛНА
-http://89.104.114.26:8080/9-volna/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,AIVA HD
-http://89.104.114.26:8080/aiva_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Amedia 1
-http://89.104.114.26:8080/amedia/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Amedia Hit HD
-http://89.104.114.26:8080/amedia_hit_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Ani
-http://89.104.114.26:8080/ani/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ATV HD
-http://89.104.114.26:8080/atv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Bridge TV Classic
-http://89.104.114.26:8080/topsong/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Bridge TV Hits
-http://89.104.114.26:8080/dange/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Bridge TV русский хит
-http://89.104.114.26:8080/rusong/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Disney
-http://89.104.114.26:8080/disney/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,FAN
-http://89.104.114.26:8080/fan/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2209.png" ,HDFASHION&LifeStyle
-http://89.104.114.26:8080/fashion_one_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Fox HD
-http://89.104.114.26:8080/fox_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,FOX LIFE HD
-http://89.104.114.26:8080/fox_life_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/3551.png" ,Gags Network
-http://89.104.114.26:8080/raz-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,RT HD
-http://89.104.114.26:8080/rt_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,RU.TV
-http://89.104.114.26:8080/ru-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,TV1000 Русское кино
-http://89.104.114.26:8080/tv1000rus/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/153.png" ,Авто Плюс
-http://89.104.114.26:8080/test/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Бобёр
-http://89.104.114.26:8080/bober/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,БОЛЬШАЯ АЗИЯ
-http://89.104.114.26:8080/a-one/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ВРЕМЯ
-http://89.104.114.26:8080/vremya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ДЕТСКИЙ
-http://89.104.114.26:8080/detskiy/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ДОКТОР HD
-http://89.104.114.26:8080/doctor/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ДОМ КИНО
-http://89.104.114.26:8080/dom_kino/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ДОМАШНИЙ
-http://89.104.114.26:8080/domashniy/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ДОМАШНИЙ HD
-http://89.104.114.26:8080/domashniy_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/681.png" ,Europa Plus TV HD
-http://89.104.114.26:8080/europa-plus-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЕДА HD
-http://89.104.114.26:8080/eda_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЖИВИ
-http://89.104.114.26:8080/jivi/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЗВЕЗДА
-http://89.104.114.26:8080/zvezda/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2271.png" ,Известия HD
-http://89.104.114.26:8080/izvestiya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ИНДИЯ ТВ
-http://89.104.114.26:8080/indiya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КАРУСЕЛЬ
-http://89.104.114.26:8080/karusel/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/1700.png" ,КВН ТВ
-http://89.104.114.26:8080/kvn_tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОПОКАЗ
-http://89.104.114.26:8080/kinopokaz/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Киносат
-http://89.104.114.26:8080/kinosat/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНО ТВ
-http://89.104.114.26:8080/kino-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНО ТВ HD
-http://89.104.114.26:8080/kino_tv_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОКОМЕДИЯ
-http://89.104.114.26:8080/kinokomediya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОМИКС
-http://89.104.114.26:8080/kinomix/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Кинопремьера HD
-http://89.104.114.26:8080/premiera/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОСВИДАНИЕ HD
-http://89.104.114.26:8080/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОСЕМЬЯ HD
-http://89.104.114.26:8080/kinosemya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Киносерия
-http://89.104.114.26:8080/mnogo-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КИНОХИТ HD
-http://89.104.114.26:8080/kinohit/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МУЖСКОЕ КИНО HD
-http://89.104.114.26:8080/muzhskoe-kino_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НАШЕ НОВОЕ КИНО HD
-http://89.104.114.26:8080/nashe-novoe-kino/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Кинокомедия HD
-http://89.104.114.26:8080/komediya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КОННЫЙ МИР
-http://89.104.114.26:8080/konniy_mir/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КТО ЕСТЬ КТО
-http://89.104.114.26:8080/kto-est-kto/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/614.png" ,Кухня ТВ
-http://89.104.114.26:8080/kuhnya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2465.png" ,ЛДПР ТВ
-http://89.104.114.26:8080/ldpr/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЛЕН ТВ 24 HD
-http://89.104.114.26:8080/lot/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2408.png" ,Ля-минор ТВ
-http://89.104.114.26:8080/la-minor/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МАЛЫШ
-http://89.104.114.26:8080/malish/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МАМА
-http://89.104.114.26:8080/mama/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МОСКВА ДОВЕРИЕ
-http://89.104.114.26:8080/moskva_doverie/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Мосфильм. Золотая коллекция
-http://89.104.114.26:8080/mosfilm/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МУЗЫКА ПЕРВОГО
-http://89.104.114.26:8080/muz-pervogo/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МУЛЬТ
-http://89.104.114.26:8080/mult/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Мульт HD
-http://89.104.114.26:8080/thlum_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МУЛЬТИМАНИЯ
-http://89.104.114.26:8080/multimania/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Мультимузыка
-http://89.104.114.26:8080/strana/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НАНО HD
-http://89.104.114.26:8080/nano_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НАША ТЕМА HD
-http://89.104.114.26:8080/nasha_tema_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НАШЕ
-http://89.104.114.26:8080/nashe/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НАШЕ КИНО
-http://89.104.114.26:8080/nashe-kino/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НОСТАЛЬГИЯ
-http://89.104.114.26:8080/nostalgia/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,НСТ
-http://89.104.114.26:8080/nstv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,О2 ТВ HD
-http://89.104.114.26:8080/o2_tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ОРУЖИЕ
-http://89.104.114.26:8080/oruzhie/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ОТР
-http://89.104.114.26:8080/otr/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ПОБЕДА
-http://89.104.114.26:8080/pobeda/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ПРОСВЕЩЕНИЕ
-http://89.104.114.26:8080/prosveshenie/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ПЯТНИЦА
-http://89.104.114.26:8080/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/427.png" ,Пятый канал
-http://89.104.114.26:8080/5_kanal/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РАДОСТЬ МОЯ
-http://89.104.114.26:8080/radost-moya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2470.png" ,Ратник
-http://89.104.114.26:8080/ratnik_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РБК
-http://89.104.114.26:8080/rbc/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РУССКАЯ КОМЕДИЯ
-http://89.104.114.26:8080/comedy/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РУССКИЙ ДЕТЕКТИВ
-http://89.104.114.26:8080/rus-detective/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РУССКИЙ РОМАН
-http://89.104.114.26:8080/rus-roman/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РУССКИЙ ЭКСТРИМ
-http://89.104.114.26:8080/rus-extrim/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Рыболов
-http://89.104.114.26:8080/ohotnik/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,РЫЖИЙ
-http://89.104.114.26:8080/ryzhiy/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,САРАФАН
-http://89.104.114.26:8080/sarafan/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2448.png" ,Союз
-http://89.104.114.26:8080/soyuz/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СПАС
-http://89.104.114.26:8080/spas/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СТАРТ HD
-http://89.104.114.26:8080/start_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СТС
-http://89.104.114.26:8080/sts/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СТС Kids HD
-http://89.104.114.26:8080/sts_kids/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СТС Love
-http://89.104.114.26:8080/sts-love/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,СУББОТА
-http://89.104.114.26:8080/super/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТВ3
-http://89.104.114.26:8080/tv3/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2400.png" ,Центральное телевидение
-http://89.104.114.26:8080/ctv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ЧЕ
-http://89.104.114.26:8080/che/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Ю
-http://89.104.114.26:8080/utv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТВЦ
-http://89.104.114.26:8080/tv-centr/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТЕАТР HD
-http://89.104.114.26:8080/strk_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТЕЛЕДОМ HD
-http://89.104.114.26:8080/teledom_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТЕЛЕКАФЕ
-http://89.104.114.26:8080/telecafe/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ТНТ Music
-http://89.104.114.26:8080/tnt_music/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2425.png" ,Тонус ТВ
-http://89.104.114.26:8080/tonus/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2044.png" ,МАТЧ! Футбол 1 HD
-http://89.104.114.26:8080/football1_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/1042.png" ,Матч! Футбол 2 HD
-http://89.104.114.26:8080/football2_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" tvg-logo="http://epg.it999.ru/img/2005.png" ,Матч! Футбол 3 HD
-http://89.104.114.26:8080/football3_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,ФУТБОЛ HD
-http://89.104.114.26:8080/football/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,КХЛ
-http://89.104.114.26:8080/khl/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,БОКС ТВ
-http://89.104.114.26:8080/boks-tv/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,МАТЧ ТВ
-http://89.104.114.26:8080/match/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Матч! АРЕНА HD
-http://89.104.114.26:8080/arena_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS" ,Матч! Премьер
-http://89.104.114.26:8080/nash-football/index.m3u8
 
 
 
