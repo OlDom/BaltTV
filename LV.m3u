@@ -881,7 +881,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="техничка", НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-
+#EXTINF:-1 group-title="техничка", НТВ HD
+https://st1.musical.uz/ntvhd_web/index.m3u8?token=e97df7608cc8c0faa82e34f8cff0adf1659922bd-3d1d64be74b28790952849c5f7228d3d-1705351117-1705340317&remote=90.190.102.138
 #EXTINF:-1 group-title="техничка", ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 group-title="техничка", Звезда
