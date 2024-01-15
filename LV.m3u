@@ -408,6 +408,8 @@ http://91.142.158.107:8092/play/3/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8?utcstart=1646211600
 #EXTINF:-1 group-title="РуТьюб",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8?utcstart=1646258400
+#EXTINF:-1 group-title="РуТьюб",РТР Планета
+https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
 #EXTINF:-1 group-title="РуТьюб",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/iframes.m3u8?utcstart=1646211600
 #EXTINF:-1 group-title="РуТьюб",Россия 24 
