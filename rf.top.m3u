@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/belarus.jpg",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/belarus24.jpg",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/vmesterf.jpg",Вместе РФ
+https://vmesterf.bonus-tv.ru/cdn/vmesterf/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/zvezda.jpg",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/rline.jpg",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/krik.jpg",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ntv.jpg",НТВ
+https://ntv-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv_msk/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ntvhd.jpg",НТВ HD
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/1tv.jpg",Первый канал
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/1tvhd.jpg",Первый канал HD
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/5tv.jpg",Пятый канал
+https://tv5-live-megafon2.mediavitrina.ru/hls-livef2/tv-5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/russia.jpg",Россия 1
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/russiahd.jpg",Россия HD
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/soyuz.jpg",Союз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/spas.jpg",Спас ТВ
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/tvc.jpg",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/tro.jpg",ТРО Союза
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
