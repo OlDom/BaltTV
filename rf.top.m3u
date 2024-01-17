@@ -37,3 +37,98 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/tracks-v3a1/mono.m3u
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/tro.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/365days.jpg",365 Дней
+http://94.232.104.237:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/discovery.jpg",Discovery Channel
+http://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/discoveryhd.jpg",Discovery Channel HD
+http://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/discoveryscience.jpg",Discovery Science
+http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/discoverysciencehd.jpg",Discovery Science HD
+http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/englishclub.jpg",English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/foodnetwork.jpg",Food Network
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/galaxy.jpg",Galaxy TV
+http://94.232.104.237:8000/play/083/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/h2hd.jpg",History 2 HD
+http://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/history.jpg",History Channel
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/historyhd.jpg",History Channel HD
+http://mfe.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/natgeo.jpg",National Geographic
+http://45.159.74.13/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/rtghd.jpg",RTG HD
+http://94.232.104.237:8000/play/085/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/rtg.jpg",RTG TV
+http://94.232.104.237:8000/play/085/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/traveladventurehd.jpg",Travel + adventure HD
+http://mfe.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/viasatexplore.jpg",viju Explore
+http://91.205.165.11:22888/play/077/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/viasathistory.jpg",viju History
+http://94.232.104.237:8000/play/078/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/viasatnature.jpg",viju Nature
+http://94.232.104.237:8000/play/079/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/bober.jpg",Бобер
+http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/timetv.jpg",Время
+http://31.148.48.15/Vremya/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/doctv.jpg",Доктор
+http://31.148.48.15/Doktor/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/domashniezhivotnye.jpg",Домашние животные
+http://109.239.208.82/animals/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/liveplanet.jpg",Живая Планета
+http://109.239.208.82/liveplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/zagorod.jpg",Загородная жизнь
+http://94.232.104.237:8000/play/045/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/zagorodniy.jpg",Загородный
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/zdorovoe.jpg",Здоровое ТВ
+http://91.205.165.11:22888/play/94/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/telezoo.jpg",Зоо ТВ
+http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/zoopark.jpg",Зоопарк
+http://109.239.208.82/zoo/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/istoriya.jpg",История
+http://109.239.208.82/history/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/kaleidoskop.jpg",Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/ktoestkto.jpg",Кто есть кто
+http://135.181.115.81/russia/kto_est_kto/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/kuhnya.jpg",Кухня ТВ
+http://94.232.104.237:8000/play/094/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/moyaplaneta.jpg",Моя планета
+http://streaming.tv-teleport.ru/Moya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/nano.jpg",Нано ТВ
+https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/nauka.jpg",Наука 2.0
+http://109.239.208.82/nauka20/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/ntvpravo.jpg",НТВ Право
+https://str13.mediatech.by/ntvpravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/planetahd.jpg",Планета HD
+http://109.239.208.82/myplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/poehali.jpg",Поехали!
+http://streaming.tv-teleport.ru/MTV_Live_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/adventurehd.jpg",Приключения HD
+http://135.181.115.81/russia/priklyucheniya/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/prosveshenie.jpg",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/psihologiya21.jpg",Психология 21
+http://91.205.165.11:22888/play/96/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/rzd.jpg",РЖД ТВ
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/kultura.jpg",Россия К
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/russiak/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/sovsek.jpg",Совершенно секретно
+http://94.232.104.237:8000/play/107/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/telecafe.jpg",Телекафе
+http://31.148.48.15/Telekafe/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/teletravel.jpg",Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/usadba.jpg",Усадьба
+http://94.232.104.237:8000/play/121/index.m3u8
