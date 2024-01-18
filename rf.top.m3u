@@ -202,3 +202,25 @@ http://94.232.104.237:8000/play/031/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://rftv.top/img/detskiy.jpg",Уникум
 http://94.232.104.237:8000/play/031/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/1hd.jpg",1HD
+http://91.247.68.229:8000/play/1HD/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/bridge.jpg",Bridge TV
+http://94.232.104.237:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/europaplus.jpg",Europa Plus TV
+http://135.181.115.81/russia/evropaplus/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/mcmtop.jpg",MCM Top
+http://live-3.otcnet.ru/mcmtop/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/rutv.jpg",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/stv.jpg",Жара
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/tntmusic.jpg",ТНТ-Music
+http://94.232.104.237:8000/play/120/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://rftv.top/img/shanson.jpg",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
+
+
+
