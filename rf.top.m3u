@@ -224,3 +224,16 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://rftv.top/img/eurosport1.jpg",Eurosport 1
+https://bal.varcdn.top/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://rftv.top/img/eurosport1hd.jpg",Eurosport 1 HD
+https://bal.varcdn.top/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://rftv.top/img/setantasportshd.jpg",Setanta Sports Eurasia HD
+https://bal.varcdn.top/setanta1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://rftv.top/img/viasatsporthd.jpg",viju+ Sport HD
+https://bal.varcdn.top/ViasatSport/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://rftv.top/img/futbol.jpg",Футбол
+https://bal.varcdn.top/footbolru/index.m3u8
+
+
+
