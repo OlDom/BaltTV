@@ -237,3 +237,44 @@ https://bal.varcdn.top/footbolru/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amedia1hd.jpg",Amedia 1 HD
+http://streaming.tv-teleport.ru/A1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amedia2.jpg",Amedia 2
+http://streaming.tv-teleport.ru/A2/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amediahit.jpg",Amedia Hit
+http://89.104.114.2:8080/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amediahithd.jpg",Amedia Hit HD
+http://89.104.114.2:8080/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amediapremium.jpg",Amedia Premium
+http://streaming.tv-teleport.ru/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/amediapremiumhd.jpg",Amedia Premium HD
+http://streaming.tv-teleport.ru/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/sethd.jpg",Red HD
+http://92.100.39.32:2289/play/a090/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/sonyscifi.jpg",Sci-Fi
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/video/bw1600000/65a936c9cff6f94d8e6cf9bc.mp4
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/tv21.jpg",TV XXI (TV21)
+http://94.232.104.237:8000/play/050/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/tv1000.jpg",viju TV1000
+http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/tv1000action.jpg",viju TV1000 action
+http://94.232.104.237:8000/play/040/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/tv1000rus.jpg",viju TV1000 Русское кино
+http://135.181.115.81/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/vipcomedyhd.jpg",viju+ Comedy HD
+http://135.181.115.81/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/vippremiumhd.jpg",viju+ Premiere HD
+http://94.232.104.237:8000/play/076/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/vipserialhd.jpg",viju+ Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/domkino.jpg",Дом кино
+http://86.57.211.182:32200/Dom_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/dorama.jpg",Дорама
+http://94.232.104.237:8000/play/075/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/eurokino.jpg",Еврокино
+http://94.232.104.237:8000/play/046/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://rftv.top/img/illusionplus.jpg",Иллюзион+
+http://94.232.104.237:8000/play/049/index.m3u8
+
+
+
