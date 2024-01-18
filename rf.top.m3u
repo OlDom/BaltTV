@@ -132,3 +132,21 @@ http://31.148.48.15/Telekafe/index.m3u8?token=test
 http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://rftv.top/img/usadba.jpg",Усадьба
 http://94.232.104.237:8000/play/121/index.m3u8
+
+
+					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/78.jpg",78 канал					
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/channel78/tracks-v5a1/mono.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/dw.jpg",Deutsche Welle					
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/euronews.jpg",EuroNews					
+http://45.11.139.43:8081/stream/euronews/hls/playlist.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/rt.jpg",Russia Today					
+https://hls.rt.com/hls/rtdru360.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/mir24.jpg",Мир 24					
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/mono.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/m24.jpg",Москва 24					
+http://91.205.165.11:22888/play/28/index.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/rbc.jpg",РБК					
+https://ntv-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv_msk/tracks-v5a1/mono.m3u8					
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/vesti.jpg",Россия 24					
