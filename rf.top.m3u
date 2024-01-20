@@ -45,6 +45,8 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/vesti.jpg",Россия 24					
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia24/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://epg.it999.ru/img/2271.png",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-logo="http://rftv.top/img/rbc.jpg",РБК					
 https://ntv-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv_msk/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
