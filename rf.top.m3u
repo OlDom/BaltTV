@@ -56,7 +56,7 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/channel78/tracks-v5a1/mon
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8					
 #EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/euronews.jpg",EuroNews					
 http://45.11.139.43:8081/stream/euronews/hls/playlist.m3u8					
-#EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/rt.jpg",Russia Today					
+#EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/rt.jpg",RTД				
 https://hls.rt.com/hls/rtdru360.m3u8					
 #EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/mir24.jpg",Мир 24					
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/mono.m3u8					
