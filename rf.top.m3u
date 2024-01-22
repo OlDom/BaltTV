@@ -48,7 +48,7 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/tracks-v3a1/mono.m3u
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://alllogos.ru/images/thumbs/preview-logotip-mir-tv.png",Мир
 https://streaming.televizor-24-tochka.ru/live/22.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21vc2ZpbG0ucG5n?width=340&height=192&quality=93",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="общие" tvg-logo="https://www.comboplayer.ru/static/channels/0be/447/conversions/0be44742dca76843361147f64e0d4a93516e2cb6-thumb.jpg",Мосфильм. Золотая коллекция
 http://135.181.115.81/russia/mosfilm/playlist.m3u8
 
 
