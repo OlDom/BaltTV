@@ -67,7 +67,10 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia24/tracks-v3a1/mono
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8					
 #EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/euronews.jpg",EuroNews					
 https://edge02.odtv.az/o1/euronews/playlist.m3u8	
-
+#EXTINF:-1 group-title="новости" tvg-logo="https://stv.ee/uploads/RAW94e11735ba01d510786b0f333794c25a.jpg",Дождь
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="новости" tvg-logo="https://www.futuromediagroup.org/wp-content/uploads/2021/01/FM_News_500-12-300x300.jpg",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 					
 					
 
@@ -335,7 +338,8 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="спорт" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/eurosport1.jpg",Eurosport 1
 https://bal.varcdn.top/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/eurosport1hd.jpg",Eurosport 1 HD
