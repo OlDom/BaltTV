@@ -17,7 +17,7 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia24/tracks-v3a1/mono
 #EXTINF:-1 group-title="новости" tvg-logo="http://epg.it999.ru/img/2271.png",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="http://rftv.top/img/rbc.jpg",РБК					
-https://ntv-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv_msk/tracks-v5a1/mono.m3u8
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/tvc.jpg",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
