@@ -46,7 +46,7 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/tro.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://omg56.ru/wp-content/uploads/2022/12/omg-tv-mir-logo.png",Мир
+#EXTINF:-1 group-title="общие" tvg-logo="https://toplogos.ru/images/logo-telekanal-mir.png",Мир
 https://streaming.televizor-24-tochka.ru/live/22.m3u8
 
 
