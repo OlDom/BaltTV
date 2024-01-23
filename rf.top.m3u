@@ -33,6 +33,8 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://seeklogo.com/images/D/domashniy-logo-51FA8EAA16-seeklogo.com.png",Домашний
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://assets.turbologo.ru/blog/ru/2020/02/18162943/logo-tnt-2017-1.png",ТНТ
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-pyatnica.jpg",Пятница
 https://streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/belarus.jpg",Беларусь 1
