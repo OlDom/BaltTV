@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/1tvhd.jpg",Первый канал HD
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8
@@ -346,19 +346,60 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="спорт" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/eurosport1.jpg",Eurosport 1
-https://bal.varcdn.top/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/eurosport1hd.jpg",Eurosport 1 HD
-https://bal.varcdn.top/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/setantasportshd.jpg",Setanta Sports Eurasia HD
-https://bal.varcdn.top/setanta1/index.m3u8
-#EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/viasatsporthd.jpg",viju+ Sport HD
-https://bal.varcdn.top/ViasatSport/index.m3u8
-#EXTINF:-1 group-title="спорт" tvg-logo="http://rftv.top/img/futbol.jpg",Футбол
-https://bal.varcdn.top/footbolru/index.m3u8
-
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/1m.png", Матч! Футбол HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/3m.png", Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2017.png", Матч! HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://www.oreol.tv/img/premier_s_1.jpg", Матч Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2003.png", Матч! Арена
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2043.png", Матч! Планета
+http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2042.png", МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/21.png", Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/18.png", Матч! Игра
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/b5.png", Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2530.png", СТАРТ HD
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://st2.depositphotos.com/4149157/6382/v/950/depositphotos_63828707-stock-illustration-motor-racing-logo-event.jpg", Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="http://epg.it999.ru/img/2048.png", KHL
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/16.png", KHL Prime
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1528142094_konniy-mir.png", Конный мир HD
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://internetvergelijken.org/wp-content/uploads/2021/04/motors-tv.png", Motors TV
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://www.edgesports.eu/assets/images/layout/logo.png", Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/6/0/8/17608_wildmoka4_97978.jpg", Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2023/03/18/Boxing-TV-Show-vector-logo-design-Graphics-64643590-1-1-580x377.jpg", TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://media.info/i/lf/300/1690027797/1539.png", TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://media.info/i/lf/300/1690027877/1540.png", TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://media.info/i/lf/300/1690027954/5712.png", TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://media.info/i/lf/300/1690027975/1491.png", TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png", TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://varplatform.top/logo/22.png", Телеканал Футбол
+http://213.172.73.170:8081/nimble_live/1025__Futbol/playlist.m3u8
+#EXTINF:-1 group-title="спорт" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 		
