@@ -43,9 +43,9 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/russi
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
-http://45.144.31.195:8011/playlist.m3u8
+http://31.148.48.15/Sarafan/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://storage.yandexcloud.net/webbyon/upload/photos/2022/06/6qmwhHwhqIwFHiZOibf2_13_af5ef192bba6912412bb8ad36096721d_image.jpg",СОЛОВЬЁВLIVE
