@@ -59,7 +59,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
+https://edge03-alm.beetv.kz/bpk-token/2an@qwilfuurcnvqsxksur34vrwkibuf0kbfqmtl4caa/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://storage.myseldon.com/yugo/BC66AB837D9CB6F6C391BABE56C2DF53.png",УП ТВ
 http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
