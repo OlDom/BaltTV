@@ -65,7 +65,7 @@ https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",ОХОТА И РЫБАЛКА
 http://45.144.31.195:8007/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
-https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002510.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjQgNTozNTo1MCBQTSZoYXNoX3ZhbHVlPVZMd2JoVFA3Tzc3L3JMVVo4V1phTmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 group-title="общие" tvg-logo="http://epg.it999.ru/img/2627.png",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="общие"tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
