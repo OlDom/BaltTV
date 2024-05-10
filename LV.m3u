@@ -8,6 +8,8 @@ https://streaming.televizor-24-tochka.ru/live/4.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
 https://streaming.televizor-24-tochka.ru/live/5.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/c/c3/RTRPlaneta.png/revision/latest/scale-to-width-down/150?cb=20221102062220&path-prefix=ru",РТР-Планета. Европа
+https://player.smotrim.ru/iframe/stream/live_id/63251?e=1715393049&s=596
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ
