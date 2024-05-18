@@ -26,6 +26,8 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 http://91.142.158.107:8092/play/7/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://media.24h.tv/img/ch/80/ab/80abd4b3c799e98128d79cdf0d668abc.png?w=100&format=webp",РЕН HD
+https://rec101.24h.tv/hlsjwt/9d07afbdb9460d8edc93b72cc499ec801260fa58-111-0-24h15502738-5-1346519121-1716045284-e128-Ec90UZtz1hCRT7daIbquWtyDEvkzUs4hviP5tJzYaJM/index.m3u8?ml=true&mp4=true
 
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
