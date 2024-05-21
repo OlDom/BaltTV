@@ -41,7 +41,7 @@ https://bkm.beetv.kz/btv/live/hls/000002510.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8
 #EXTINF:-1 group-title="общие" tvg-logo="http://epg.it999.ru/img/2627.png",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="общие"tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
-https://cdn-cache01.voka.tv/live/212.m3u8
+https://s1.tv-nano.com/Luxury_rec/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
 https://cdn-cache01.voka.tv/live/753.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://novtele.ru/wp-content/uploads/2020/01/89.jpg",МИР HD
