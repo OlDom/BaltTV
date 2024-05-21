@@ -56,7 +56,7 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 http://91.142.158.107:8092/play/7/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/ocn-tv.png",Общественная Служба Новостей
+#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/ocn-tv.png",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
 https://sb.err.ee/live/etv.m3u8
