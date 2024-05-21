@@ -723,6 +723,8 @@ http://91.142.158.107:8092/play/9/index.m3u8
 http://91.142.158.107:8092/play/16/index.m3u8
 #EXTINF:-1 group-title="federal++",ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
+#EXTINF:-1 group-title="federal++" tvg-logo="https://static.okko.tv/images/v3/20929146?width=154&scale=1.4&quality=80&mediaType=jpeg",Общественная Служба Новостей
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 
 #EXTINF:-1 group-title="federal++",Моя Планета
 https://livetv.mylifeisgood.net.ru/channels/myplanet.m3u8
