@@ -19,7 +19,7 @@ https://streaming.televizor-24-tochka.ru/live/7.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
 http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://media.24h.tv/img/ch/80/ab/80abd4b3c799e98128d79cdf0d668abc.png?w=100&format=webp",РЕН HD
-http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+https://ser1.musical.uz/rentv/index.m3u8?token=c5e7e5bdb337928bc20ef50cda4b67afd13e0e81-adcd2f3d6e8442e976cae0e8f239a230-1716414433-1716403633&remote=212.231.123.173
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",Дом Кино Премиум
