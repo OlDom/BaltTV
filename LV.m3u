@@ -2,20 +2,17 @@
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3BlcnZpeS5wbmc=?width=205&height=115&quality=93",Первый канал 
-https://streaming.televizor-24-tochka.ru/live/4.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?ext=.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/c/c3/RTRPlaneta.png/revision/latest/scale-to-width-down/150?cb=20221102062220&path-prefix=ru",РТР-Планета. СНГ
 https://player.smotrim.ru/iframe/stream/live_id/63251?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://oneliketv.net/images/rtrplaneta.png",РТР Планета. Европа
 https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ
-https://streaming.televizor-24-tochka.ru/live/7.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
 http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://media.24h.tv/img/ch/80/ab/80abd4b3c799e98128d79cdf0d668abc.png?w=100&format=webp",РЕН HD
@@ -33,7 +30,7 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/russi
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
+https://bl.webcaster.pro/media/start/free_ddf476433f4e186a1f6ff825d34b229d/5_1585122629/6ec5af83352a01919fc804af84983f36/1716448524.m3u8?sr=65&seek=1716401400&ref=https%3A%2F%2Ftv-pult.com%2F&
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8?token=test
 #EXTINF:-1 group-title="общие" tvg-logo="http://http://tvset.sbs/img/ohotnik-i-rybolov-hd.png",Охотник и рыболов
