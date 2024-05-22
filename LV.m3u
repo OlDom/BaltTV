@@ -22,6 +22,8 @@ http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",Дом Кино Премиум
+http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
