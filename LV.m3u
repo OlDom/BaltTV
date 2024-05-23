@@ -6,17 +6,31 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?ext=.m3u8
 
-#EXTINF:-1 group-title="общие" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/c/c3/RTRPlaneta.png/revision/latest/scale-to-width-down/150?cb=20221102062220&path-prefix=ru",РТР-Планета. СНГ
-https://player.smotrim.ru/iframe/stream/live_id/63251?ext=.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="http://oneliketv.net/images/rtrplaneta.png",РТР Планета. Европа
-https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
-http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
+https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://storage.yandexcloud.net/webbyon/upload/photos/2022/06/6qmwhHwhqIwFHiZOibf2_13_af5ef192bba6912412bb8ad36096721d_image.jpg",СОЛОВЬЁВLIVE
+https://player.smotrim.ru/iframe/stream/live_id/63338?ext=.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/ocn-tv.png",Общественная Служба Новостей
+https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://media.24h.tv/img/ch/80/ab/80abd4b3c799e98128d79cdf0d668abc.png?w=100&format=webp",РЕН HD
-https://ser1.musical.uz/rentv/index.m3u8?token=c5e7e5bdb337928bc20ef50cda4b67afd13e0e81-adcd2f3d6e8442e976cae0e8f239a230-1716414433-1716403633&remote=212.231.123.173
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
@@ -25,21 +39,25 @@ http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201?ext=.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livec2/streams/vitrina-hls/russiak/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png",РТР-Планета Азия
+http://46.29.234.74:8081/iptv/rtr-planeta-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDExOjQxOjEzIEFNJmhhc2hfdmFsdWU9UUY5V0FZcG9LaUd4bVJNR0c4cE5nUT09JnZhbGlkbWludXRlcz01
+#EXTINF:-1 group-title="общие" tvg-logo="http://oneliketv.net/images/rtrplaneta.png",РТР-Планета Европа
+https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
+http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
 https://bl.webcaster.pro/media/start/free_ddf476433f4e186a1f6ff825d34b229d/5_1585122629/6ec5af83352a01919fc804af84983f36/1716448524.m3u8?sr=65&seek=1716401400&ref=https%3A%2F%2Ftv-pult.com%2F&
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8?token=test
-#EXTINF:-1 group-title="общие" tvg-logo="http://http://tvset.sbs/img/ohotnik-i-rybolov-hd.png",Охотник и рыболов
+#EXTINF:-1 group-title="общие" tvg-logo="https://toplogos.ru/images/logo-ohotnik-i-ribolov.png",Охотник и рыболов
 https://bkm.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
 https://bkm.beetv.kz/btv/live/hls/000002510.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjQgNTozNTo1MCBQTSZoYXNoX3ZhbHVlPVZMd2JoVFA3Tzc3L3JMVVo4V1phTmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 group-title="общие" tvg-logo="http://epg.it999.ru/img/2627.png",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1 group-title="общие"tvg-logo="https://www.meniki.ru/uploads/tv_image/luxury-hd.jpg",Luxury HD
+#EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -47,19 +65,6 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
-https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
-http://91.142.158.107:8092/play/7/index.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/ocn-tv.png",ОСН
-https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn.teleon.tv/logo/etv_plus_ee.png",ETV+
@@ -70,8 +75,6 @@ https://sb.err.ee/live/etv2.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
-#EXTINF:-1 group-title="новости" tvg-logo="https://storage.yandexcloud.net/webbyon/upload/photos/2022/06/6qmwhHwhqIwFHiZOibf2_13_af5ef192bba6912412bb8ad36096721d_image.jpg",СОЛОВЬЁВLIVE
-https://player.smotrim.ru/iframe/stream/live_id/63338?ext=.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2xkcHJfdHYucG5n?width=205&height=115&quality=93",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcjI0LnBuZw==?width=205&height=115&quality=93",МИР 24
@@ -81,7 +84,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661?ext=.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
+http://45.82.13.93:8081/iptv/rtvi-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDExOjM5OjE3IEFNJmhhc2hfdmFsdWU9dG9mamJNOHBuT2J5RlF4T3l3dlM2QT09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
@@ -770,7 +773,8 @@ http://91.142.158.107:8092/play/3/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="federal++" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24
+http://91.142.158.107:8092/play/7/index.m3u8
 
 
 
@@ -779,6 +783,8 @@ https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 group-title="federal++",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 
+#EXTINF:-1 group-title="federal++" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/c/c3/RTRPlaneta.png/revision/latest/scale-to-width-down/150?cb=20221102062220&path-prefix=ru",РТР-Планета
+https://player.smotrim.ru/iframe/stream/live_id/63251?ext=.m3u8
 
 #EXTINF:-1 group-title="federal++",РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
@@ -1115,8 +1121,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="техничка", НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 group-title="техничка", НТВ HD
-https://st1.musical.uz/ntvhd_web/index.m3u8?token=e97df7608cc8c0faa82e34f8cff0adf1659922bd-3d1d64be74b28790952849c5f7228d3d-1705351117-1705340317&remote=90.190.102.138
 #EXTINF:-1 group-title="техничка", ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 group-title="техничка", Звезда
