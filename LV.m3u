@@ -90,9 +90,8 @@ https://player.smotrim.ru/iframe/stream/live_id/1661?ext=.m3u8
 http://45.82.13.93:8081/iptv/rtvi-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDExOjM5OjE3IEFNJmhhc2hfdmFsdWU9dG9mamJNOHBuT2J5RlF4T3l3dlM2QT09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-
-
-
+#EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png",Euronews
+https://edge02.odtv.az/o1/euronews/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Россия 1
