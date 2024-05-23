@@ -31,8 +31,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-znachok-ren-tv-na-prozrachnom-fone-1.png",РЕН HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
-http://edge02.odtv.az/o2/rentv/playlist.m3u8
+
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
 http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
@@ -45,6 +44,10 @@ http://46.29.234.74:8081/iptv/rtr-planeta-channel/playlist.m3u8?wmsAuthSign=c2Vy
 https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
 http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
