@@ -39,7 +39,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png",РТР-Планета Азия
-http://46.29.234.74:8081/iptv/rtr-planeta-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDExOjQxOjEzIEFNJmhhc2hfdmFsdWU9UUY5V0FZcG9LaUd4bVJNR0c4cE5nUT09JnZhbGlkbWludXRlcz01
+https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://oneliketv.net/images/rtrplaneta.png",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
