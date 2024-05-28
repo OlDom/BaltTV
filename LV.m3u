@@ -34,6 +34,12 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
 http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="кино" tvg-logo="https://ladamedia.ru/files/news/logos_start_air-01-kopiya_full_1695978215.png",START Air
+http://188.113.190.15/139/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="кино" tvg-logo="https://dantser.ru/wp-content/uploads/2023/01/start-world.png",START World
+http://188.113.190.15/111/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
