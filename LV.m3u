@@ -51,7 +51,7 @@ http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
-https://bl.webcaster.pro/media/start/free_ddf476433f4e186a1f6ff825d34b229d/5_1585122629/6ec5af83352a01919fc804af84983f36/1716448524.m3u8?sr=65&seek=1716401400&ref=https%3A%2F%2Ftv-pult.com%2F&
+http://188.113.190.15/148/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8?token=test
 #EXTINF:-1 group-title="общие" tvg-logo="https://toplogos.ru/images/logo-ohotnik-i-ribolov.png",Охотник и рыболов
