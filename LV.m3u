@@ -16,24 +16,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
 
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/hd/501/304/3.jpg",1 серия
-https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/984/493_d20240412190911.smil/playlist.m3u8?auth=mh&vid=2984493&uid=wKgcMGYakvKpeSL5CnIYAg==
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://img.imgilall.me/movies/video/6/8/9/5/6/6/0/0/0/0/800x450_689566.jpg",2 серия
-https://hye1eaipby4w.otsdkstub.ws/05_30_24/05/30/18/2VI7HL4Q/VOHS7TPR.mp4/master.m3u8
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://img.imgilall.me/movies/video/6/8/9/5/6/4/0/0/0/0/800x450_689564.jpg",3 серия
-https://hye1eaipby4w.otsdkstub.ws/05_30_24/05/30/17/FMYKRLNN/BOKG7WRB.mp4/master.m3u8
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://img.imgilall.me/movies/video/6/8/9/7/1/1/0/0/0/0/800x450_689711.jpg",4 серия
-https://cdn4502.ccdnbst.com/stream2/b-401/5317b705550cc33c135690305971acc3/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaVlnTqNGePRlQppFVNhnTql0MOpXSzklMGpmTy4kaOJjUq9EROlWTqVUP:1718490244:212.231.123.173:e57d9c56089a6759bd97ffe84086c3628304946c8d42be8bcc8504740cab2ed4/1080/index.m3u8
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jiay5wbmc=?width=205&height=115&quality=93",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/hd/501/304/3.jpg",13 серия
-https://filmos.in/7d61cc6e4f3ac37b6ee68f1a47e70eaf:2024062519/tvseries/09621e4fcb7214fae03c663b0b62997ce589d85a/240.mp4
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/hd/501/304/3.jpg",14 серия
-https://glory.filmos.in/5261c4d9aedd728e867efe06b7527ea4:2024062520/tvseries/b053b6a9d66ee437ceb1322c8f6b4ee0b3206ab4/240.mp4
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/hd/501/304/3.jpg",15 серия
-https://fiber.filmos.in/e40e6b59d9969139f7b0ef288beed721:2024062521/tvseries/58097869e37ba056fd96093a29b92f8a883dadf1/240.mp4
-#EXTINF:-1 group-title="За семью печатями" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/hd/501/304/3.jpg",16 серия
-https://kurt.filmos.in/5221b84594ca0b018c9adb82365915dd:2024062521/tvseries/3098997f7fd10d2b40a22beff67badf4e629c417/240.mp4
+
 #EXTINF:-1 group-title="новости" tvg-logo="https://storage.yandexcloud.net/webbyon/upload/photos/2022/06/6qmwhHwhqIwFHiZOibf2_13_af5ef192bba6912412bb8ad36096721d_image.jpg",СОЛОВЬЁВLIVE
 https://player.smotrim.ru/iframe/stream/live_id/63338?ext=.m3u8
 
