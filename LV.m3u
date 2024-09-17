@@ -30,8 +30,9 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-znachok-ren-tv-na-prozrachnom-fone-1.png",РЕН HD
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
 http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
 
@@ -46,22 +47,17 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
 http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/ren.jpg",РЕН ТВ
-http://edge02.odtv.az/o2/rentv/playlist.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
-http://45.159.74.14:80/RenTv/index.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
-http://188.113.190.15/148/tracks-v1a1/index.m3u8
+https://bl.webcaster.pro/media/start/free_c6909756a8f44d780f1ed566e2fe8a28/5_1585122629/b4e6b07056773d7aa29412cf5e197cd6/1726648204.m3u8?sr=65&seek=1726601400&uid=LZOFTWIQ-6XMT-I7HC-G4M2-9URB10PRWLHG&ref=https%3A%2F%2Fsmotret.tv%2F&
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8?token=test
-#EXTINF:-1 group-title="общие" tvg-logo="https://toplogos.ru/images/logo-ohotnik-i-ribolov.png",Охотник и рыболов
-https://bkm.beetv.kz/btv/live/hls/000000608.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
 https://bkm.beetv.kz/btv/live/hls/000002510.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjQgNTozNTo1MCBQTSZoYXNoX3ZhbHVlPVZMd2JoVFA3Tzc3L3JMVVo4V1phTmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:-1 group-title="общие" tvg-logo="http://epg.it999.ru/img/2627.png",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+
 #EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
