@@ -19,6 +19,9 @@ https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://vg-news.ru/files/news/202407/%D0%A2%D0%92%20%D0%91%D0%A0%D0%98%D0%9A%D0%A1_%D0%BB%D0%BE%D0%B3%D0%BE.jpg",Brics
 https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="новости" tvg-logo="https://millionkartinok.com/data/2024-04/rbk-logotip-foto-1159599.jpg",РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+
 #EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
