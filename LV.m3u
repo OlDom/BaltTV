@@ -85,7 +85,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/323/059/5.png",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661?ext=.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/RTVI_Logo_magenta_fill_2021.png",RTVi
-http://45.82.13.93:8081/iptv/rtvi-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDExOjM5OjE3IEFNJmhhc2hfdmFsdWU9dG9mamJNOHBuT2J5RlF4T3l3dlM2QT09JnZhbGlkbWludXRlcz01
+https://ser2.musical.uz/rtvi/tracks-v1a1/mono.m3u8?remote=212.231.121.14&token=fd80d5cd5d6625b8c92cb1d3f16324311a76df93-fd855bbb735673d6278ad8afc5ecae45-1726616643-1726605843
 #EXTINF:-1 group-title="новости" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png",Euronews
