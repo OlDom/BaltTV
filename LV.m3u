@@ -27,8 +27,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://i.pinimg.com/736x/9f/c5/e8/9fc5e8f300cbf2a01b25476684c3ee72.jpg",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
-
-
+#EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-znachok-ren-tv-na-prozrachnom-fone-1.png",РЕН HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 
