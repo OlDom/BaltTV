@@ -16,10 +16,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
 
-
-#EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTI0LnBuZw==?width=205&height=115&quality=93",Россия 24 HD
-https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
-
 #EXTINF:-1 group-title="новости" tvg-logo="https://vg-news.ru/files/news/202407/%D0%A2%D0%92%20%D0%91%D0%A0%D0%98%D0%9A%D0%A1_%D0%BB%D0%BE%D0%B3%D0%BE.jpg",Brics
 https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 
