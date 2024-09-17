@@ -17,7 +17,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/21?ext=.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10618/logo_256_1655389346.png",Brics
-https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://millionkartinok.com/data/2024-04/rbk-logotip-foto-1159599.jpg",РБК
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
