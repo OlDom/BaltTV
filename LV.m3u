@@ -145,8 +145,6 @@ http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Okko
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Осетия Иристон
