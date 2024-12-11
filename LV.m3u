@@ -49,7 +49,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://oneliketv.net/images/rtrplaneta.png",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
-http://45.159.74.13/HTB/tracks-v1a1/mono.m3u8
+http://stream2.cinerama.uz/1434/index.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
