@@ -62,7 +62,8 @@ http://31.148.48.15/Sarafan/index.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
-
+#EXTINF:-1 group-title="общие" tvg-logo="https://www.adrenalin.ru/upload/medialibrary/bf3/Okhotnik-i-rybolov-SD-gor.-blok.jpg",Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=1zJ1nVINgLx6vqhsR_JSkQ&e=1738020525&scheme=httpshttps://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=1zJ1nVINgLx6vqhsR_JSkQ&e=1738020525&scheme=https
 #EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
