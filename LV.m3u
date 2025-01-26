@@ -57,7 +57,7 @@ https://bl.webcaster.pro/media/start/free_c6909756a8f44d780f1ed566e2fe8a28/5_158
 https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
-https://bkm.beetv.kz/btv/live/hls/000002510.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjQgNTozNTo1MCBQTSZoYXNoX3ZhbHVlPVZMd2JoVFA3Tzc3L3JMVVo4V1phTmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
