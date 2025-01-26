@@ -47,7 +47,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://player.smotrim.ru/images/logos/logo_rtr_planet.png",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
-http://stream2.cinerama.uz/1434/index.m3u8
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
