@@ -41,7 +41,7 @@ http://45.159.74.13/THT/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
-https://player.smotrim.ru/iframe/stream/live_id/19201?ext=.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png",РТР-Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://player.smotrim.ru/images/logos/logo_rtr_planet.png",РТР-Планета Европа
