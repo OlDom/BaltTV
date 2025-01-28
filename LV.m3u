@@ -16,7 +16,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_solovyev-live.jpg",Соловьёв LIVE
-https://bl.rutube.ru/livestream/c9b87c0b00cfff9b37f95b9c8e4eed42/index.m3u8?s=OGc2hInjy8AuQwWLJRMkHw&e=1737992183&scheme=https
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10618/logo_256_1655389346.png",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/master.m3u8
