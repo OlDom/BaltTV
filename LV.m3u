@@ -46,8 +46,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://epgx.site/p/rtr-planeta-azia.png",РТР-Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/63254?ext=.m3u8
+
 #EXTINF:-1 group-title="общие" tvg-logo="https://player.smotrim.ru/images/logos/logo_rtr_planet.png",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
@@ -55,8 +54,7 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТР
-https://bl.webcaster.pro/media/start/free_c6909756a8f44d780f1ed566e2fe8a28/5_1585122629/b4e6b07056773d7aa29412cf5e197cd6/1726648204.m3u8?sr=65&seek=1726601400&uid=LZOFTWIQ-6XMT-I7HC-G4M2-9URB10PRWLHG&ref=https%3A%2F%2Fsmotret.tv%2F&
+#EXTINF:-1 group-title="общие" tvg-logo="http://rftv.top/img/otr.jpg",ОТРhttps://mhd.iptv2022.com/p/gUb3Y3VT0_52zCz1z50g2g,1738183895/streaming/otr-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8
 
