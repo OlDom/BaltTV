@@ -44,13 +44,10 @@ http://45.159.74.14:80/RenTv/index.m3u8
 http://213.226.137.140:81/tl/l75/index.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://alltv.su/wp-content/uploads/2023/03/kino-1.jpg",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="кино",.red (EDTV)
-http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
@@ -79,10 +76,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ikstv.info/wp-content/uploads/2020/02/6624944_640.jpg",САРАФАН
 http://31.148.48.15/Sarafan/index.m3u8
 
-#EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",РЫБАЛКА И ОХОТА
+#EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",Охота и Рыбалка
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="общие" tvg-logo="http://rutuner.ru/sites/default/files/sites/default/files/images/logo-channel/ohota-i-rybalka-logo.png",Охота и Рыбалка
-https://balancer.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
+
 #EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
