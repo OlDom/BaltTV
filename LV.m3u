@@ -100,6 +100,9 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=2S
 #EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/df/39/df39e8330c1b620ccebe2558201a14c6.jpg?width=34&height=34",Общественное Телевидение России - ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=x0cE1qEK-vU81pEZM6ZMkw&e=1745349606&scheme=https
 
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/04/c9/04c99cd18d31ebeff6794da2d3fbf374.png?size=s",МУЗ-ТВ
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=qDQBP6Dp5881Lo14gLjqtw&e=1745353202&scheme=https
+
 #EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/9c/f9/9cf9a35ef44db905f86510421510b99d.jpg?width=102&height=102",Телеканал ТВ-3
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=DzqulDyg4YZOiHOmGTR2BQ&e=1745349708&scheme=https
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
