@@ -91,6 +91,12 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/1f/ec/1fec36d83dfaabbf819c84a5cb044858.jpg?width=102&height=102",НТВ
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=lkJlOnF-mhlj5oQTTFbkxg&e=1745349101&scheme=https
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn.teleon.tv/logo/etv_plus_ee.png",ETV+
