@@ -91,19 +91,19 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/1f/ec/1fec36d83dfaabbf819c84a5cb044858.jpg?width=102&height=102",НТВ
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/df/9f/df9fed912020bab24e22ac9d31932565.jpg?width=300",НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=lkJlOnF-mhlj5oQTTFbkxg&e=1745349101&scheme=https
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/63/a2/63a2eb1886a45be2b1da64729397230c.jpg?width=34&height=34",Первый канал
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/2025-03-25/b2/86/b286e076039bc3d67da44f325af529e9.jpg?width=300",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=2SHrspext-82tkvNm8mNbg&e=1745349362&scheme=https
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/df/39/df39e8330c1b620ccebe2558201a14c6.jpg?width=34&height=34",Общественное Телевидение России - ОТР
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/cd/8c/cd8c3cc6a023238e1547d0811c2c3821.jpg?width=300",Общественное Телевидение России - ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=x0cE1qEK-vU81pEZM6ZMkw&e=1745349606&scheme=https
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/9c/f9/9cf9a35ef44db905f86510421510b99d.jpg?width=102&height=102",Телеканал ТВ-3
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/d6/19/d61968a776ff79de72a1d0a98a2e8c28.jpg?width=300",Телеканал ТВ-3
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=DzqulDyg4YZOiHOmGTR2BQ&e=1745349708&scheme=https
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/04/c9/04c99cd18d31ebeff6794da2d3fbf374.png?size=s",МУЗ-ТВ
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/fa/54/fa548936c1ce92980af6a4960c2a68ca.jpg?width=300",МУЗ-ТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=qDQBP6Dp5881Lo14gLjqtw&e=1745353202&scheme=https
 
 
