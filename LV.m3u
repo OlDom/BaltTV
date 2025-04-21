@@ -90,6 +90,7 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+
 #EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/1f/ec/1fec36d83dfaabbf819c84a5cb044858.jpg?width=102&height=102",НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=lkJlOnF-mhlj5oQTTFbkxg&e=1745349101&scheme=https
 
@@ -106,8 +107,7 @@ https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Dz
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=qDQBP6Dp5881Lo14gLjqtw&e=1745353202&scheme=https
 
 
-#EXTINF:-1 group-title="youtube" tvg-logo="#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/user/04/c9/04c99cd18d31ebeff6794da2d3fbf374.png?size=s",МУЗ-ТВ
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=qDQBP6Dp5881Lo14gLjqtw&e=1745353202&scheme=https",ТНТ
+#EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/2024-10-10/65/9e/659ec429122b04b1b4a4e16c08d6fb4e.jpg?width=300",ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=tLFc8qgtnOVbV_CPimpZaQ&e=1745354577&scheme=https
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/f6/30/f63059849e2cfee5b73ec6f73d2c16e6.jpg?width=300",Пятница
@@ -127,6 +127,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=kd
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://pic.rutubelist.ru/video/2025-01-10/8e/29/8e2938a7e26214558849a344fc27041f.jpg?width=300",Marvel TV
 https://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=jHLnznb_YJ-aomdqOM9y8g&e=1745354478&scheme=https
+
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn.teleon.tv/logo/etv_plus_ee.png",ETV+
