@@ -1051,6 +1051,39 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="детям", Карусель Международный
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="da-vinci" group-title="Детские", Да Винчи
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUzMjU5ODAsImlhdCI6MTc0NTIzOTU4MCwiY2lkIjo2LCJ1aWQiOjkxMDYzOTM3NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vuV8aEeVReAqoXJrTPGzgSUVyez691t0UwQOCStSuuI&offset=3
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Мультиландия
+http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUzMjU5ODAsImlhdCI6MTc0NTIzOTU4MCwiY2lkIjo2LCJ1aWQiOjkxMDYzOTM3NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vuV8aEeVReAqoXJrTPGzgSUVyez691t0UwQOCStSuuI&offset=3
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Лёва
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUzMjU5ODAsImlhdCI6MTc0NTIzOTU4MCwiY2lkIjo2LCJ1aWQiOjkxMDYzOTM3NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vuV8aEeVReAqoXJrTPGzgSUVyez691t0UwQOCStSuuI&offset=3
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские", Duck TV HD
+http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUzMjU5ODAsImlhdCI6MTc0NTIzOTU4MCwiY2lkIjo2LCJ1aWQiOjkxMDYzOTM3NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vuV8aEeVReAqoXJrTPGzgSUVyez691t0UwQOCStSuuI&offset=3
+
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://213.91.178.133:8000/play/a07g
+#EXTINF:-1 group-title="Детские", Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://130.193.73.10:8937/play/a016
+#EXTINF:-1 group-title="Детские", Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Детские",СуперГерои
+http://178.124.179.122:8088/Malish/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
+http://109.200.130.123:7537/play/a024
+#EXTINF:-1 tvg-id="nick-jr" group-title="Детские",Nick Jr
+rtmp://212.0.213.132//NickJr
+
 
 
 
