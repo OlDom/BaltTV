@@ -56,8 +56,7 @@ https://s.ontivi.net/534/index.m3u8?k=1745420941p4i121i132i212S9129790a293cc477f
 https://s.ontivi.net/243/index.m3u8?k=1745421043p4i121i132i212S8e52c19b871e846512d79679eb652e4e
 #EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/lyubimoe.png",Любимое HD
 https://s.ontivi.net/236/index.m3u8?k=1745421161p4i121i132i212S6f6c6b67db0a6b458af04fb84c9b1c98
-#EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/enter-film.png",Enter-фильм
-https://s.ontivi.net/529/index.m3u8?k=1745421464p4i121i132i212Seab5f2e2aee6ca72dd14a9e151d555ca
+
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
 https://s.ontivi.net/577/index.m3u8?k=1745420485p4i121i132i212S5b94df4ac983a297b91881e3722de59e
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://ip.ontivi.net/img/sony-channel.png" group-title="кино",Red
@@ -86,6 +85,10 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=4R
 http://130.193.73.10:8937/play/a02m
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (FWVGA)
 http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://amediatv.ru/wp-content/uploads/2024/05/amhit.svg" group-title="кино",AMEDIA HIT
+http://31.173.165.29:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://amediatv.ru/wp-content/uploads/2024/09/logo-premium.svg" group-title="кино",Amedia Premium HD
+http://195.18.23.20:8000/play/3/index.m3u8
 
 
 
@@ -1047,210 +1050,8 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Россия 1
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Россия К
-https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Россия 24
-https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Москва 24
-https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",РЕН ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Хит
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Сериал
-https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Право
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ Стиль
-https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",DTX HD
-https://livetv.mylifeisgood.net.ru/channels/discoverydtx.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Discovery Science HD
-https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Моя Планета
-https://livetv.mylifeisgood.net.ru/channels/myplanet.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Загородный Int
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",HD Life
-https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Приключения HD
-https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый Космический HD
-https://livetv.mylifeisgood.net.ru/channels/firstspace.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat History HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Explore HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Nature HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Nature/History HD
-https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TERRA
-https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Animal Planet HD
-https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Discovery channel HD
-https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Investigation Discovery HD
-https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Top Secret
-https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Диалоги о Рыбалке
-https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Оружие
-https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Глазами Туриста
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
-https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Наша сибирь 4K
-https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ОТР
-https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",МИР HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ТВЦ
-https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",СПАС
-https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",СТС HD
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",СТС Love
-https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Домашний HD
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ТВ3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Пятница HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Звезда
-https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Кино ТВ HD (+7)
-https://livetv.mylifeisgood.net.ru/channels/kinotvst.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Кинеко
-https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Сапфир
-https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Fox HD
-https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Fox Life HD
-https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Start Air HD
-https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Start World HD
-https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Vip Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Vip Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Vip Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Vip Serial HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TV1000 Русское Кино HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Феникс+Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",День победы
-https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Арсенал 
-https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Trash
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Москва Доверие
-https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Санкт-Петербург
-https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ЧЕ
-https://livetv.mylifeisgood.net.ru/channels/che.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Суббота
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Paramount Comedy
-https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Paramount Channel
-https://livetv.mylifeisgood.net.ru/channels/paramount_channel.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",360°
-https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",360 новости
-https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Анекдот ТВ
-https://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живи Активно HD
-https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Мир 24 HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Известия
-https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",МузТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Russian Music Box
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",ТНТ Music
-https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",1HD
-https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Bridge TV Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Baby Time
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",СОЛНЦЕ
-https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Nickelodeon HD
-https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Смайлик ТВ
-https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Da Vinci
-https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",СТС Kids HD
-https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Gulli Girl
-https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",TIJI
-https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Рыжий
-https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Карусель
-https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="детям", Карусель Международный
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 
 
