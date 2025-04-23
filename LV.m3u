@@ -82,12 +82,13 @@ https://s.ontivi.net/529/index.m3u8?k=1745421464p4i121i132i212Seab5f2e2aee6ca72d
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://pic.rutubelist.ru/video/59/f3/59f30518fabc2e0145c2e6d27cbc23df.jpg?width=300",Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=4ReSDp15RBtYk6LQvbQzPQ&e=1745494062&scheme=https
-
-
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
-http://65.21.85.175:8000/play/a00g/88527861.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (EDTV)
-http://31.148.48.15/A2/index.m3u8
+http://130.193.73.10:8937/play/a02m
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (FWVGA)
+http://ott-cdn.ucom.am/s33/04.m3u8
+
+
+
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="кино",Amedia Hit (HD)
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="кино",Amedia Premium (HD)
