@@ -37,24 +37,24 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="новости",Мосфильм. Золотая коллекция
-https://s.ontivi.net/235/index.m3u8?k=1745378064p4i121i132i212S8fdbbc8ad35f74c160a0ff90ea435d3c
+https://s.ontivi.net/235/index.m3u8?k=1745420451p4i121i132i212S4f25608bbeee61317895038a5cd37c6c
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="новости",RTVi (EDTV)
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://s.ontivi.net/543/index.m3u8?k=1745378101p4i121i132i212Sfd50bde83dfc7660945e930d3ee7dfd0
+https://s.ontivi.net/543/index.m3u8?k=1745420560p4i121i132i212S6df757f9ccc7565c5adebab7f5da3fe7
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
-https://s.ontivi.net/187/index.m3u8?k=1745378138p4i121i132i212S3caecdd72dc804d216f431b15a98d81c
+https://s.ontivi.net/187/index.m3u8?k=1745420585p4i121i132i212Sed88c3826b4b225ccd3e31c91a706414
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://www.kartina.tv/storage/contents/8998/perec.png/",Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
-https://s.ontivi.net/577/index.m3u8?k=1745378185p4i121i132i212S0346e12624896e13069a2ebfa47bb566
+https://s.ontivi.net/577/index.m3u8?k=1745420485p4i121i132i212S5b94df4ac983a297b91881e3722de59e
 
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
-https://s.ontivi.net/145/index.m3u8?k=1745378213p4i121i132i212Sc0b272c55e9785995c5c99305a0e7dff
+https://s.ontivi.net/145/index.m3u8?k=1745420513p4i121i132i212Sbf0303e04005cbdd91d45e1d1f912718
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
 http://65.21.85.175:8000/play/a00g/88527861.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (EDTV)
