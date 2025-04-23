@@ -1050,29 +1050,29 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 
+
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="детям", Карусель Международный
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="детям", Смайлик ТВ
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://rustv.live/images/logos_tv/smailik-tv.png" group-title="детям", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="детям", СТС Kids
+#EXTINF:-1 tvg-logo="https://insideok.ru/wp-content/uploads/2022/12/top_ctc-min.jpg" group-title="детям", СТС Kids
 http://213.91.178.133:8000/play/a07g
-#EXTINF:-1 group-title="детям", Мульт
+#EXTINF:-1 tvg-logo="https://rustv.live/images/logos_tv/mult.png" group-title="детям", Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="детям",Мульт HD
+#EXTINF:-1 tvg-logo="https://rustv.live/images/logos_tv/mult.png" group-title="детям",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="детям",О!
+#EXTINF:-1 tvg-logo="https://ntvplus-rostov.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=100&h=100&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F24%2F361.png" group-title="детям",О!
 http://130.193.73.10:8937/play/a016
-#EXTINF:-1 group-title="детям", Мульт и музыка
+#EXTINF:-1 tvg-logo="https://rustv.live/images/logos_tv/ani.png" group-title="детям", Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:-1 group-title="детям",СуперГерои
+#EXTINF:-1 tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2022/03/logo-final.png" group-title="детям",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
-#EXTINF:-1 group-title="детям",Ani
+#EXTINF:-1 tvg-logo="https://rustv.live/images/logos_tv/ani.png" group-title="детям",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="kinomult" group-title="детям",Киномульт
+#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://kinomult.tv/video/km-poster.gif" group-title="детям",Киномульт
 http://109.200.130.123:7537/play/a024
-#EXTINF:-1 tvg-id="nick-jr" group-title="детям",Nick Jr
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://rustv.live/images/logos_tv/nick-jr.png" group-title="детям",Nick Jr
 rtmp://212.0.213.132//NickJr
-
 
 
 
