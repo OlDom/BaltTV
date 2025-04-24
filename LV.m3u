@@ -64,22 +64,6 @@ https://s.ontivi.net/576/index.m3u8?k=1745542601p4i121i132i212Sb8d317e3f33d9920d
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
 https://s.ontivi.net/145/index.m3u8?k=1745542618p4i121i132i212Sf9bde5718ea78ebc2e2a774cbe999102
 
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2025-01-10/8e/29/8e2938a7e26214558849a344fc27041f.jpg?width=300",Marvel TV
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2025-01-14/e4/e6/e4e6dad0beb2cdc1e26ac3d24d2cbdbb.jpg?width=300",Netflix TV
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2024-11-29/6e/2b/6e2b6d7b1262868cce00ad6dd66a2b94.jpg?width=900",HollyWood Movies 
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2025-01-28/70/64/70645c728cc4be78f625f891f35c7766.jpg?width=900",MIX
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2024-11-29/b0/96/b09610f88273cf39f9d07c08af5cda88.jpg?width=900",Paramount Network
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2024-11-29/6e/2b/6e2b6d7b1262868cce00ad6dd66a2b94.jpg?width=900",DiscoverFilm
-
-#EXTINF:-1 group-title="кино" tvg-logo="https://pic.rutubelist.ru/video/2024-12-02/53/58/535898ee4ec18e7f8ba951e2e8e77a14.jpg?width=300",Apple TV+
-
-#EXTINF:-1 group-title="новости" tvg-logo="https://pic.rutubelist.ru/video/59/f3/59f30518fabc2e0145c2e6d27cbc23df.jpg?width=300",Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=4ReSDp15RBtYk6LQvbQzPQ&e=1745494062&scheme=https
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
 http://130.193.73.10:8937/play/a02m
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (FWVGA)
