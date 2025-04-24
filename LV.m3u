@@ -24,7 +24,7 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/master.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://logowik.com/content/uploads/images/rbk-tv-rbk9452.jpg",РБК
 https://online-video.rbc.ru/online2/rbctv.m3u8
 
-#EXTINF:-1 group-title="новости" tvg-logo="https://tvapp.su/images/logo-channel/tass-tv.png",ТАСС
+#EXTINF:-1 group-title="новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TASS_Logo_Cyrillic.svg/300px-TASS_Logo_Cyrillic.svg.png",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://i.pinimg.com/736x/9f/c5/e8/9fc5e8f300cbf2a01b25476684c3ee72.jpg",ОСН
@@ -34,7 +34,7 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="кино" tvg-logo="https://www.kartina.tv/storage/contents/8998/perec.png/",Перец
+#EXTINF:-1 group-title="кино" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/f/f7/Peretz_International_logo.PNG",Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="новости",RTVi (EDTV)
 http://45.143.108.110:2203/RTVi
