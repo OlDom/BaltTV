@@ -99,8 +99,8 @@ http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://fast.ntvplus.tv/files/image/12/43/91/-channel!myo.png",Охота и Рыбалка
 http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 
-#EXTINF:-1 group-title="общие"tvg-logo="https://2.bp.blogspot.com/_Ldo6gcEAKNk/TLzlascN3lI/AAAAAAAAAMM/7SzAHHi56kg/s1600/LUXELOGO!.jpg",Luxury HD
-https://s1.tv-nano.com/Luxury_rec/index.m3u8
+#EXTINF:-1 group-title="кино" tvg-logo="https://tvrain.tv/static/svg/tvrain-v2.svg",TV Rain
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://pbs.twimg.com/media/FfWCUNkX0AQ5C0u?format=jpg",СТВ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://novtele.ru/wp-content/uploads/2020/01/89.jpg",МИР HD
