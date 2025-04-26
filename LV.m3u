@@ -60,9 +60,9 @@ https://s.ontivi.net/529/index.m3u8?k=1745695800p4i121i132i212Secbc245b5439f527e
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
 https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://ip.ontivi.net/img/sony-channel.png" group-title="кино",Red
-https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
+https://gist.githubusercontent.com/OlDom/85fe7e6ee19886cc99dcd3ad58e64c53/raw/374945b24cb11a1ae7f1c9fc469194824f1a97d1/red.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
-https://s.ontivi.net/145/index.m3u8?k=1745695731p4i121i132i212Sdb52e2f2a6e552948da0b8cbb45cfc69
+https://gist.githubusercontent.com/OlDom/85fe7e6ee19886cc99dcd3ad58e64c53/raw/374945b24cb11a1ae7f1c9fc469194824f1a97d1/.sci-fi.m3u8
 
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
