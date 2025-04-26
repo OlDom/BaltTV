@@ -41,28 +41,28 @@ http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://s.ontivi.net/543/index.m3u8?k=1745687747p4i121i132i212Sb0f1ac53e76a381eed69c5a300e346ee
+https://s.ontivi.net/543/index.m3u8?k=1745695978p4i121i132i212S8736497302952f5cbb2b121224a77045
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
-https://s.ontivi.net/235/index.m3u8?k=1745687707p4i121i132i212S446a1d284a19b29a6a326b87941a842c
+https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
-https://s.ontivi.net/187/index.m3u8?k=1745687662p4i121i132i212Sbbdc7d158cbd63892aaed2795853fae2
+https://s.ontivi.net/187/index.m3u8?k=1745695923p4i121i132i212Sc80fb0a3443a504e8ab83e55968356aa
 #EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/lyubimoe-kino.png",Любимое кино
-https://s.ontivi.net/236/index.m3u8?k=1745687637p4i121i132i212S9bae4f06dbe71c3da9a2c92ea70fd98e
+https://s.ontivi.net/236/index.m3u8?k=1745695888p4i121i132i212S6b459cbd721b6b11dea27e828e982b3b
 #EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/sovetskoe-kino.png",Советское кино
-https://s.ontivi.net/243/index.m3u8?k=1745687619p4i121i132i212S197c3c7d8e56d1f5e0767af067d41b2c
+https://s.ontivi.net/243/index.m3u8?k=1745695862p4i121i132i212S1d0a20750ea20a92fe3124ef76938504
 #EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/lyubimoe.png",Любимое HD
-https://s.ontivi.net/534/index.m3u8?k=1745687582p4i121i132i212S0760fb68502b665b2e5f8c0838651aa5
+https://s.ontivi.net/534/index.m3u8?k=1745695827p4i121i132i212S6c1fbbd30d164d479cc27c0c29905ce4
 #EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/enter-film.png",Enter-фильм
-https://s.ontivi.net/529/index.m3u8?k=1745687547p4i121i132i212S7ab86af5400d3363d4e8292a8344d659
+https://s.ontivi.net/529/index.m3u8?k=1745695800p4i121i132i212Secbc245b5439f527e0bfdd6126a7fd2b
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
-https://s.ontivi.net/577/index.m3u8?k=1745687519p4i121i132i212S88eff710b75d3b6dca94aada81709e04
+https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://ip.ontivi.net/img/sony-channel.png" group-title="кино",Red
-https://s.ontivi.net/576/index.m3u8?k=1745687498p4i121i132i212S5c56abfea172c29697903a838af15e07
+https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
-https://s.ontivi.net/145/index.m3u8?k=1745687471p4i121i132i212S616f44e0624f4a039917a421ff2f9c0a
+https://s.ontivi.net/145/index.m3u8?k=1745695731p4i121i132i212Sdb52e2f2a6e552948da0b8cbb45cfc69
 
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
