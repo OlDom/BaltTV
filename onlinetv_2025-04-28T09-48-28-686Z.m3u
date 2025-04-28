@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1734419181_1734095930_1734026078_1709134648_1kanal-5_svg.webp" group-title="Общие",Россия 1
+https://edge01d.mediavitrina.ru/hls-livef1/russia1/tracks-v3a1/mono.m3u8?token=v2.yn5EY-C6ZcJIAm_e6IRdfCcWm1uTDfqz6ldToJ6VXNA.AI-A78GQtdZH3k24VjNckBxIkCA7Ixhhi-X1oAZR-h8.1746438228.8c163d315c94f021be7a0a4455010706
+#EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1734519646_1732774211_1732649841_1732009189_1731602256_1730393862_matchtv_logo_svg.webp" group-title="Общие",Матч ТВ
+https://edge01r.mediavitrina.ru/hls-livef1/matchtv/tracks-v3a1/mono.m3u8?token=v2.xjDE2hWtk5X3c1-Qwa0f-ZWz2uS2GbXbx7ZOe_rOYzA.Npv2k9D_dbZmCZhq93sYRsXj2gFjdP8Tc1XSF0hxZoQ.1746438232.499e13918e99e2f233abf70fd3583de3
+#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1711517063_1711474396_1704023709_start-triumph.webp" group-title="Общие",НТВ
+https://edge02r.mediavitrina.ru/hls-livef7/ntv0h/tracks-v3a1/mono.m3u8?token=v2._81pWhlG70aLe-XaFDIr28fi-HMFlworxCryA6nIHFs.TTmG6qSDmHmh4I4LJWqV37SaLDSb20Q3skF0eOAdIcI.1746438240.f11366926b3627aeeede8688e775e2c8
+#EXTINF:-1 tvg-id="Мосфильм золотая коллекция" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1709143322_1kanal-5_svg.webp" group-title="Общие",Мосфильм золотая коллекция
+https://server1.musical.uz/tv/mos-film_web/index.m3u8?token=cba3f02de256875d49e0348169b7bc6e529d7777-83ba7510295d9be0a4b337dc0d004ad2-1745843942-1745833142&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Рен ТВ" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1711535474_1711474396_1704023709_start-triumph.webp" group-title="Общие",Рен ТВ
+https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.okAXO2AwuYns1t2_MsSrVi23TeQl2p3z3tHWkgMk0L0.Z59UtfTHkKuauRkeeVgcDnM3Ngw0LuxWQpmjLgtq5QE.1746438245.cc39fe4a95e9a1f3615719f8ffcaa6d2
+#EXTINF:-1 tvg-id="Русский роман" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1734375453_1734101169_1711478807_1704023709_start-triumph.webp" group-title="Общие",Русский роман
+https://server1.musical.uz/tv/rus_roman_web/index.m3u8?token=40a847081edfa7f64e93562660cda87fd7bb3ba2-b6535d30cea89a45cf1a48702e970e17-1745843948-1745833148&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Русский детектив" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1734420075_1709144547_1kanal-5_svg.webp" group-title="Общие",Русский детектив
+https://server1.musical.uz/tv/rus_detektiv_web/index.m3u8?token=c2e5aac9739c3346909310b3edc68dae611e62ec-6c4f7809af644606b993216e2bee45f1-1745843950-1745833150&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1kanal-5_svg.webp" group-title="Общие",Первый канал
+https://edge02r.mediavitrina.ru/hls-livef1/1tv/tracks-v3a1/mono.m3u8?token=v2.ZLxueyG_cZ-F7GxTrDcn4O9x1Sk64wquEVsl3n8zizk.kdfDugNSqX0LH7QW7JNDoGFvR-W3tiWhXYV-IUyWfq4.1746438253.e95dc3047b5be16110e7fab7ee75044f
+#EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1711537789_1711474396_1704023709_start-triumph.webp" group-title="Общие",ТНТ
+https://edge01r.mediavitrina.ru/hls-livef8/tnt/tracks-v3a1/mono.m3u8?token=v2._2O-d46Dy9cCLd4vywqjH7IsutZA03odS9E2Baq43xk.FFi1aZDSVqZuyFQQooTjHZovhtTfqWKFzbW6Y5z8kkg.1746438255.7377a35f85a094feb6553ebbddab4b5e
+#EXTINF:-1 tvg-id="Домашний" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1704023709_start-triumph.webp" group-title="Общие",Домашний
+https://edge01d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v3a1/mono.m3u8?token=v2.UMrPK_jJyyVg8o7QOMLDLcF7AdwAMIEax5PTNoaDvfQ.ItM7-YTlYM95uvJSlx02kUbBoN_Qe_Y69JQgadjtNM0.1746438259.31d2f4fb703cb9d5c91c53081983a9f5
+#EXTINF:-1 tvg-id="ОТР" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1713013518_1709134648_1kanal-5_svg.jpg" group-title="Общие",ОТР
+https://server1.musical.uz/tv/otp/index.m3u8?token=e664a048b7de6dc3200bedf165bb7a9e1196448b-69c13a9fa056eaa7826df5b5d568555f-1745843962-1745833162&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Россия-Культура" tvg-logo="https://onlinetv.su/uploads/posts/2024-08/1709134648_1kanal-5_svg.jpg" group-title="Общие",Россия-Культура
+https://server1.musical.uz/tv/russia-k/index.m3u8?token=d94c8e98bee66f5d2b62e6cbf22b40ee05e4d284-8ca4589da32bcb4e77e541a5a0bdcd3b-1745843964-1745833164&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1kanal-5_svg.webp" group-title="Общие",Первый канал
+https://edge01d.mediavitrina.ru/hls-livef1/1tv/tracks-v3a1/mono.m3u8?token=v2.wAeXGny-oSY3iYAb1ASPj9RHyU0BqVrq7jO9Ob_VGRk.dEkXv0JbNltylbNY7NjqZpfESV1rLUbCpbprn7cMNQY.1746438270.75750d7a106734af1591464f4c8d83d9
+#EXTINF:-1 tvg-id="Рен ТВ" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1711535474_1711474396_1704023709_start-triumph.webp" group-title="Общие",Рен ТВ
+https://edge01r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.F9Ir5bB-jwaRug00tgKDXMxhCwArQuklmDvy0YZWg0s.IzrE1NdC6Ju9zLmdmXMTBc8hbqYpd7TuTdIWJ0xR_ag.1746438271.9ddef9afac34ebbebaee22b57a76d008
+#EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://onlinetv.su/uploads/posts/2024-12/1711801577_1704023709_start-triumph.jpg" group-title="Общие",Пятый канал
+https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v3a1/mono.m3u8?token=v2.CUip5Adq-5h7amjKzeGZdMLTXYXsJJQyo9e9yPjYUDo.0HnbOasJZW9E-2f7JXsxLcqJ9dheIlCWVBjVtN9oY_M.1746438275.87002ce6e46cd14dc087cb63f9b02014
+#EXTINF:-1 tvg-id="Звезда" tvg-logo="https://onlinetv.su/uploads/posts/2024-12/1712492568_1704023709_start-triumph.jpg" group-title="Общие",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="QazSport" tvg-logo="https://onlinetv.su/uploads/posts/2024-08/1724742291_1712406008_1704023709_start-triumph.jpg" group-title="Общие",QazSport
+https://server1.musical.uz/tv/qazsport/index.m3u8?token=22770f6f928b1abb5ca64a0a3071a23028c4db2c-e29c3597d450cbbc5d42771250026b95-1745843984-1745833184&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Матч! Футбол 2" tvg-logo="https://onlinetv.su/uploads/posts/2024-12/1734520677_1733145216_1709134648_1kanal-5_svg.png" group-title="Общие",Матч! Футбол 2
+https://server1.musical.uz/tv/futbol2/index.m3u8?token=2d653ba4e91553a9b54b571aeb7f1bc1458ca897-06fcfa8b7cc9b8cbbda1d9b3fdaea988-1745843986-1745833186&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Матч! Планета" tvg-logo="https://onlinetv.su/uploads/posts/2025-04/thumbs/1733503722_1732885594_1732650203_1732347624_1587708118.webp" group-title="Общие",Матч! Планета
+https://server1.musical.uz/tv/match-planeta/index.m3u8?token=e2f0d4113ddde5fce8d1bb02544e805b969c0687-cddaef2b3236d6c6cd5d637fe96efdb4-1745843990-1745833190&remote=212.231.121.4
+#EXTINF:-1 tvg-id="viju+ Sport" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712169543_1704023709_start-triumph.jpg" group-title="Общие",viju+ Sport
+https://server1.musical.uz/tv/vijusport_web/index.m3u8?token=9bc093e5b363bd2d91c425ae66f7dfefec2ec771-e4c303bb1a05ff14ea0b68789f722781-1745843995-1745833195&remote=212.231.121.4
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712405579_1704023709_start-triumph.jpg" group-title="Общие",NBA TV
+https://server1.musical.uz/tv/nbatv/index.m3u8?token=3293a23f0f1fa276c84d76755722b94557f178fe-7b4d35b524726e34073fe91e68fee8ca-1745843998-1745833198&remote=212.231.121.4
+#EXTINF:-1 tvg-id="MMA-TV" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712851012_1704023709_start-triumph.jpg" group-title="Общие",MMA-TV
+https://server1.musical.uz/tv/mma-tv_web/index.m3u8?token=27d9226b7a2188a93cc440c7afb6bd58533d89ba-835442861f419f3c1a0226f4bec52db4-1745844001-1745833201&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Матч Игра" tvg-logo="https://onlinetv.su/uploads/posts/2024-12/1712406008_1704023709_start-triumph.jpg" group-title="Общие",Матч Игра
+https://server1.musical.uz/tv/match-igra/index.m3u8?token=a6b581b9f224900dcd89d2c45fe10135328e2fc7-48a6e99b5ca862a0909c282bb879f60b-1745844007-1745833207&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Оружие" tvg-logo="https://onlinetv.su/uploads/posts/2024-02/111111.jpg" group-title="Общие",Оружие
+https://server1.musical.uz/tv/orujiye/index.m3u8?token=7c59917172a12eeecc283a4d85cd6439cad1624b-d2e7f771ac360ee933fa838e11e7d6c3-1745844012-1745833212&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Арсенал" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/arsenal.png" group-title="Общие",Арсенал
+https://server1.musical.uz/tv/arsenal/index.m3u8?token=418d67b7d80d9ee7e2363bfb3b537407aaeb7479-143dc05dcceb1033fbfcce038333471a-1745844016-1745833216&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Спас" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1713009659_1709134648_1kanal-5_svg.jpg" group-title="Общие",Спас
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-id="Viju Nature" tvg-logo="https://onlinetv.su/uploads/posts/2024-10/1712495283_1704023709_start-triumph.jpg" group-title="Общие",Viju Nature
+https://server1.musical.uz/tv/viju_nature_web/index.m3u8?token=92087fca7081da161954eb3063cfe2a52e5a3fe9-7ed82266ef84182ee43a7a94555453c5-1745844024-1745833224&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Viju+ Planet" tvg-logo="https://onlinetv.su/uploads/posts/2024-10/1712667730_1704023709_start-triumph.jpg" group-title="Общие",Viju+ Planet
+https://server1.musical.uz/tv/viasat_planet_web/index.m3u8?token=169e8cf159f847aca1c2a46acd434ebefaffed61-2d5f99ea2204ebba5c5c297c31fbb6a6-1745844028-1745833228&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/1711802627_1704023709_start-triumph.jpg" group-title="Общие",Nat Geo Wild
+https://server1.musical.uz/tv/nat-geowild_web/index.m3u8?token=224404aad3a9044d12ba9d4b34f0a41e2c144435-0152f4a01571195cd06cbf080bf5f344-1745844031-1745833231&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Охота и рыбалка" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712566104_1704023709_start-triumph.jpg" group-title="Общие",Охота и рыбалка
+https://server1.musical.uz/tv/oxota_i_ribalka_web/index.m3u8?token=848144940da70f74a0fb72a7ad5f280b71a16c7a-a1870fdffc1d6b6add9de08687ec3818-1745844035-1745833235&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Viju Explore" tvg-logo="https://onlinetv.su/uploads/posts/2024-10/1711800096_1704023709_start-triumph.jpg" group-title="Общие",Viju Explore
+https://server1.musical.uz/tv/viju-explore_web/index.m3u8?token=f3729f2b3deda3e8d8f554c9f219891b788edb60-d07f6a67020e730e61c050e66356731f-1745844038-1745833238&remote=212.231.121.4
+#EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://onlinetv.su/uploads/posts/2025-03/1711537789_1711474396_1704023709_start-triumph.webp" group-title="Общие",ТНТ
+https://edge02r.mediavitrina.ru/hls-livef8/tnt/tracks-v3a1/mono.m3u8?token=v2.4nyU6kQE4TjW28weCaIRM3ThWC0GPaI-nFY-Buv9XCU.L36XhziEmw9BfL4-DVdlfFEXDzMMRAFY-aJXi-70zG4.1746438341.230c4d5b170ebc5b87f27199433b6629
+#EXTINF:-1 tvg-id="Пятница" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1713013226_1709134648_1kanal-5_svg.jpg" group-title="Общие",Пятница
+https://server1.musical.uz/tv/friday/index.m3u8?token=94dfc8c2f6288ecfe9aa0fc8b9b2347543b24575-e63d7e813a3623f29c87dddc67ff0150-1745844044-1745833244&remote=212.231.121.4
+#EXTINF:-1 tvg-id="2x2" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712152133_1704023709_start-triumph.jpg" group-title="Общие",2x2
+https://server1.musical.uz/tv/22_Web/index.m3u8?token=74c4a9cf19b298affc63a3578a0cd49de60477fd-fd6730ae4defaa409e95827fe6696224-1745844047-1745833247&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Анекдот ТВ" tvg-logo="https://onlinetv.su/uploads/posts/2025-02/ctv.webp" group-title="Общие",Анекдот ТВ
+https://server1.musical.uz/tv/anekdot/index.m3u8?token=0d0a97d377d87278ea426e47fbf11130ec9c2703-5b678bfc483ef1b64c3a240af2f0c08b-1745844053-1745833253&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Телекафе" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/1711802335_1704023709_start-triumph.jpg" group-title="Общие",Телекафе
+https://server1.musical.uz/tv/telekafe-web/index.m3u8?token=2885962c7780b5bca3f41e09f1151b4e983e9c19-e4aa4aed742fc3d810341c97942a62d5-1745844056-1745833256&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Суббота" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1713014003_1709134648_1kanal-5_svg.jpg" group-title="Общие",Суббота
+https://server1.musical.uz/tv/subota/index.m3u8?token=c0d66f2dfc779b43f8a29996c709bf874e61c192-ee960accc162ffee2ea71d5166ee32a1-1745844059-1745833259&remote=212.231.121.4
+#EXTINF:-1 tvg-id="ТНТ4" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712152413_1704023709_start-triumph.jpg" group-title="Общие",ТНТ4
+https://server1.musical.uz/tv/tnt4/index.m3u8?token=6305e31f82b6ebee56adf8a98e3ba093238bb5ed-a7f7e04c488c0abf409b33b55648655e-1745844062-1745833262&remote=212.231.121.4
+#EXTINF:-1 tvg-id="НТВ Сериал" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712667820_1704023709_start-triumph.jpg" group-title="Общие",НТВ Сериал
+https://server1.musical.uz/tv/ntv_serial_web/index.m3u8?token=2f56d2589ec57e15c137ed57554c838f3cf33ea0-197a80800130e2daed0ec65b549e76a3-1745844065-1745833265&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Фантастика HD" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/1711803993_1704023709_start-triumph.jpg" group-title="Общие",Фантастика HD
+https://server1.musical.uz/tv/fantastikahd/index.m3u8?token=e51ed86ed8c48459241541db820ee03f4a30f078-0cc6e7af646c464a0ed8a5636e53d247-1745844068-1745833268&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Еврокино" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712640839_1704023709_start-triumph.jpg" group-title="Общие",Еврокино
+https://server1.musical.uz/tv/euro-kino_web/index.m3u8?token=2db7b84b92d5460fbc88891951268598a39b5a1b-429f744ee2177ac4e2bf19e6ce9d1090-1745844070-1745833270&remote=212.231.121.4
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712494738_1704023709_start-triumph.jpg" group-title="Общие",FOX
+https://server1.musical.uz/tv/fox_web/index.m3u8?token=a87ed85afc9041b4d381b050ee9459f4acbbb88a-10e0a149b6d2430aa3809b0929f0776b-1745844073-1745833273&remote=212.231.121.4
+#EXTINF:-1 tvg-id="ТВ3" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/1711518085_1711474396_1704023709_start-triumph.jpg" group-title="Общие",ТВ3
+https://server1.musical.uz/tv/tv3/index.m3u8?token=e5e13f3e339428dd88296472e64d8b5efc8946e1-64909e90e32d4e5a821b67a41fca4417-1745844077-1745833277&remote=212.231.121.4
+#EXTINF:-1 tvg-id="Русский роман" tvg-logo="https://onlinetv.su/uploads/posts/2025-01/1734375453_1734101169_1711478807_1704023709_start-triumph.webp" group-title="Общие",Русский роман
+https://server1.musical.uz/tv/rus_roman_web/index.m3u8?token=92e74f96deaf134a486c13f5b96323ebd8785aab-ad83dd53b70f8942007fb2277089a2d8-1745844080-1745833280&remote=212.231.121.4
+#EXTINF:-1 tvg-id="КиноСат" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712819244_1704023709_start-triumph.jpg" group-title="Общие",КиноСат
+https://server1.musical.uz/tv/kinosat_web/index.m3u8?token=3453ebe120b8f5ff9b96d6f222e40bc7e7813e13-90ccfb20a41281e65d10e26144b2b824-1745844085-1745833285&remote=212.231.121.4
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/1704023709_start-triumph.jpg" group-title="Новостные",CGTN
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="360 градусов" tvg-logo="https://onlinetv.su/uploads/posts/2023-11/1700807217_russia-1_svg.png" group-title="Новостные",360 градусов
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 tvg-id="RTVi" tvg-logo="https://onlinetv.su/uploads/posts/2024-03/rtvi.jpg" group-title="Новостные",RTVi
+https://server1.musical.uz/tv/rtvi/index.m3u8?token=7d90df57711c8c0da01dbb128ad1a6271884023c-2a236a0ba8598024e89771b046f9794f-1745844173-1745833373&remote=212.231.121.4
+#EXTINF:-1 tvg-id="ТАСС" tvg-logo="https://onlinetv.su/uploads/posts/2023-11/1700807111_russia-1_svg.png" group-title="Новостные",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Дождь" tvg-logo="https://onlinetv.su/uploads/posts/2024-04/1712819709_1704023709_start-triumph.jpg" group-title="Новостные",Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-id="360 Новости" tvg-logo="https://onlinetv.su/uploads/posts/2024-01/1704182362_prikluchenia-hd.jpg" group-title="Новостные",360 Новости
+https://server1.musical.uz/tv/360news_Web/index.m3u8?token=61759eec1c3a707821fcf7f314c5a5f882bd1ad9-e9c91f8d4a45cbc0a119d62c60bf3432-1745844186-1745833386&remote=212.231.121.4
