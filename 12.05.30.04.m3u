@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Start",Моя Планета
+https://server1.musical.uz/tv/moya-planeta_web/index.m3u8?token=9572b4d1aa851a05582d40393eff2437b2943c83-7cc2e8039db151096bceb82b457d23d0-1746021049-1746010249&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч Планета
+https://server1.musical.uz/tv/match-planeta/index.m3u8?token=a7ae79a7b3dee7cae20811ea426a17fda55a0b2d-b7a0575c72765a8bbf73045c0d190c26-1746021055-1746010255&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Русский бестселлер
+https://server1.musical.uz/tv/rus_bestseller_web/index.m3u8?token=8ce3b554d35dd0abd4da27aa641c55973ce4eac3-0d32726da098f2275bc518617dbe5cd9-1746021057-1746010257&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч Боец
+https://server1.musical.uz/tv/match-boess/index.m3u8?token=af8522a228d9fd1fa5851c893fd8615c42119a19-832fc7636b734f25f092fc9ffa460af4-1746021059-1746010259&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч ТВ
+https://edge01d.mediavitrina.ru/hls-livef1/matchtv/tracks-v3a1/mono.m3u8?token=v2.6WLhr_Y4nKbo7FEmadKqrr9U-GTuUrOlI2bovPOaSuY.FIn5sTRqbF4_U1zQXKRy03LMQue60y91_UQMWD9vzF8.1746615361.f034304471434363f6c3d429e58a6026
+#EXTINF:-1 group-title="Start",Futbol tv
+https://server1.musical.uz/tv/futboltv_uz/index.m3u8?token=ca38dd65c140f3e54c9270ebebbd9455a1a27fef-ff3be2e573c69c12208a3e54e0ac4b5f-1746021070-1746010270&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Пятница онлайн прямой эфир смотреть бесплатно в хорошем качестве
+https://server1.musical.uz/tv/friday/index.m3u8?token=71d38cde4f71dee5dfcb8e9ec91abc30f2b863d3-ae95dba5868e514a4420625a993ee373-1746021072-1746010272&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Волга 24
+https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 group-title="Start",Amedia Premium
+https://server1.musical.uz/tv/amedia_premium/index.m3u8?token=d8f2e4e1a8af950c58724582068f04b0cc5b3be8-7531fbc91ca0d6a1eba7e5815786da08-1746021090-1746010290&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Амедиа 2
+https://server1.musical.uz/tv/amedia2/index.m3u8?token=a3a2b2743e774b7da91ffd001a47be3107c66ec2-452d92affbaeae796f84e1bd3e9b3d39-1746021093-1746010293&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Амедиа 1
+https://server1.musical.uz/tv/amedia1/index.m3u8?token=284137d18cf46f7fa97ac8afcc5fb0143e9dec65-a3168809e33e0181875978dae345fa66-1746021095-1746010295&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 group-title="Start",КиноСезон
+https://server1.musical.uz/tv/kino-sezon/index.m3u8?token=1d80c48dfed328f4f1f9a8882b4b16c6984f909e-e32615ceefc336f5050bb4f62cc9e8eb-1746021127-1746010327&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Классика Кино
+https://server1.musical.uz/tv/klassika-kino/index.m3u8?token=878e90413bfa964f7a61da60b428f5c8ad737d85-ed684f9e62c5568d220c8364583b73b7-1746021129-1746010329&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Советское кино
+https://server1.musical.uz/tv/sovet-kino/index.m3u8?token=2b686eee80d7739ac0b43120d832913e5baaad48-cdb35e23e6a8a781ab089b7dfe946f95-1746021131-1746010331&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Любимое кино
+https://server1.musical.uz/tv/lyubimoe-kin/index.m3u8?token=f68664ee670ea77e0311d7b63da452155e2dc12c-55e47e9a770e1190edd25393e8a3baf9-1746021133-1746010333&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Zor tv
+https://server1.musical.uz/tv/zor-tv-uz/index.m3u8?token=866ec9be50b7c8a2fceb0b420785c1a5290abcd5-e9066765dec1a1712b999ce4bbc1a11b-1746021136-1746010336&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Sport tv
+https://server1.musical.uz/tv/sport-tv-uz/index.m3u8?token=7a62188caa35bf12a91777b2070404b36a822a0b-8dc1e510a47b8d78d3f8812e9e90fe56-1746021138-1746010338&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Анекдот ТВ
+https://server1.musical.uz/tv/anekdot/index.m3u8?token=c95bf1a4e7ec81b62c3b0cfd1460c02620aea59d-85a661b962e3f41714c9339d214e9d10-1746021140-1746010340&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Ювелирочка
+https://server1.musical.uz/tv/yuverlirocha/index.m3u8?token=eee98db6457caf28c8988c9cdda92da14f395b0d-3b5a9d6c2cc1003bd71be279fd509ee0-1746021142-1746010342&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч Игра
+https://server1.musical.uz/tv/match-igra/index.m3u8?token=de30c1f9fb958f755791f4f2ef53cc6bfdba287a-080757886fa727d76404af0359cdf11c-1746021145-1746010345&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",5 канал
+https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v3a1/mono.m3u8?token=v2.ldxkTNo1RutXioOwJ8-P__q1Qwd_p96gA_rvETiM1gM.X1efj7r2wHaCtV8K23SqjZcmdaKbqniwhqqAEpqvSqk.1746615448.eaaa81db97a999a2523f0f2d0121148f
+#EXTINF:-1 group-title="Start",ТНТ
+https://edge01d.mediavitrina.ru/hls-livef8/tnt/tracks-v3a1/mono.m3u8?token=v2.cAE7IJuW5ZQxHJQEiNos6ncNOzHAmk6XuHzfXWA4pGI._99kmQIiygDWC21zxe4MuYwOasFmP-MZikwKZuHH_ck.1746615451.80e25d88d76dbbcd927ff8aaf473005e
+#EXTINF:-1 group-title="Start",Nick Jr
+https://server1.musical.uz/tv/nick-jr_web/index.m3u8?token=af5b08dda57117aea0cd5a30d56e92159a33d731-83ec80f17b440cb877d49c96b97dd530-1746021153-1746010353&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",СТС Kids
+https://server1.musical.uz/tv/ctck_web/index.m3u8?token=20d2772b7942e9f376e067c706b1b93cd8336e4b-c811ba9495c909797998acda13002ddc-1746021155-1746010355&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч Арена
+https://server1.musical.uz/tv/match-arena/index.m3u8?token=8e4a08df6d11e29f3dc571307ce4b0b55deef985-bdf3c35977943a9692a2c1952b777536-1746021157-1746010357&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч! Футбол 2
+https://server1.musical.uz/tv/futbol2/index.m3u8?token=60d64cfec8aec0dc7c7c05e76fd321626c9d4af7-d67ccfb49a80f1849045d3ede251b10d-1746021161-1746010361&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч! Футбол 1
+https://server1.musical.uz/tv/futbol1/index.m3u8?token=0bac793196386eb6061cfc3ef33277b32d8476f5-baa77d0f2d8e32a62bddb60d51559fd5-1746021163-1746010363&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Домашний канал онлайн прямой эфир смотреть сейчас бесплатно в хорошем качестве
+https://edge02d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v3a1/mono.m3u8?token=v2.WDAGILZj1h-Pi2Sj60uHhb_LWnWS4xeaNmNJv2QDPfg.9Fv5UP3y7_d6RJQarCdCo3QLPiAXfYWXRtluKjcJEMo.1746615471.51b2a4149099b8f62df6a408969fe181
+#EXTINF:-1 group-title="Start",Дом кино
+https://server1.musical.uz/tv/domkino_web/index.m3u8?token=fb2c704b9accc5869c3e142e4ec4d5e391e62380-0dec383515b0fb9e7d32066c020a51b8-1746021173-1746010373&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Рен тв
+https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.FEg1RNK5M2GHx3Ums_9sKKifZftx5vaa8gb9iYH-5AI.RztUzKpVuSvT-xinf1XiwBpG_RAFbv8WLims5h4brcc.1746615476.b96328daccc47aa4dc99af60edbbecc4
+#EXTINF:-1 group-title="Start",Кино ТВ
+https://server1.musical.uz/tv/kinotv_web/index.m3u8?token=4a72f2c493585704af568bf34e14f507636f6423-5e952ccc005f7e557c71f07553fbcae4-1746021178-1746010378&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",НТВ Хит прямой эфир онлайн смотреть бесплатно в хорошем качестве сейчас
+https://server1.musical.uz/tv/ntvxit_web/index.m3u8?token=1dcf45703fcd76ccc98463f1ff3ae594ffcf5d03-d6f79da2700617d2782b29bc098bd0b6-1746021180-1746010380&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Соловьев Лайф прямой эфир сейчас онлайн смотреть бесплатно в хорошем качестве
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1?e=1734034699.m3u8
+#EXTINF:-1 group-title="Start",Nickelodeon
+https://server1.musical.uz/tv/nick_web/index.m3u8?token=6a26272629e9560db1c7de1a150d54d22cdd971e-76cffdc9573e96b2b4e22fafd34084b3-1746021184-1746010384&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Карусель
+https://server1.musical.uz/tv/karusel_web/index.m3u8?token=474eb664cc49a9e44cc6d926069d63c42e7e0832-3e44cc91bbfc3becd8de1389c43642a5-1746021187-1746010387&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Start",Дорама тв
+https://server1.musical.uz/tv/dorama/index.m3u8?token=f28bce72bddcf63336a23b6fa65d8496cf9849f0-fddcf650226d79ac640caf03d3739ba6-1746021192-1746010392&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",СТС Лав онлайн прямой эфир бесплатно смотреть в хорошем качестве
+https://server1.musical.uz/tv/ctclove_web/index.m3u8?token=1fa554f7bdd50ad554d17e9a14d93bf165928d42-3841a4495950463f75c350e89b2abcba-1746021194-1746010394&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Евроньюс онлайн на русском языке прямой эфир смотреть сейчас бесплатно
+https://server1.musical.uz/tv/euronews/index.m3u8?token=de63475df052b568158309b1513937ecad244e7e-351f7e92a71872770add9a3b07133dc8-1746021198-1746010398&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",канал Русский Детектив смотреть онлайн бесплатно
+https://server1.musical.uz/tv/rus_detektiv_web/index.m3u8?token=d2e88e9f512c3017d9d4db999b0dc95de5775d10-1ac32cdeadc9df505f0e5f3a3c3348a9-1746021201-1746010401&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Россия 1
+https://edge01d.mediavitrina.ru/hls-livef1/russia1/tracks-v3a1/mono.m3u8?token=v2.L4Qd9tqkBFgepGAEwx64IUV7fpNAiVGXHzhS3eGKQz0.eP_q92e1zItLMsw4WolySscJJJ_83pP7m6x2wRN0iDo.1746615506.6116588d82397cfcd0747531608da1c7
+#EXTINF:-1 group-title="Start",Русский роман
+https://server1.musical.uz/tv/rus_roman_web/index.m3u8?token=42ab58bdf3b5f4d53ab0af9bea6c45abe1530f1e-133b72c90784431525526fcc861b20f7-1746021208-1746010408&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Матч Страна
+https://server1.musical.uz/tv/match-strana/index.m3u8?token=d21b8d502b303db822a6ab30d521abbc71223865-fa0f62163905268a22155796b71e65f9-1746021211-1746010411&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Удар
+https://server1.musical.uz/tv/udar/index.m3u8?token=a35c4982061f15dac496935ede2dc56bb907a9eb-d2d31faed71305000df3d5966da9d566-1746021214-1746010414&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Сапфир
+https://server1.musical.uz/tv/saphir/index.m3u8?token=b36ce5bd17a21b0f57a50c7addb52798379f807a-38fdf2896d4284a8bf21d3393463c8b4-1746021216-1746010416&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Победа
+https://server1.musical.uz/tv/pobeda/index.m3u8?token=756fefa52328a2a1b6cdff31a872f2eb01a92fc2-aec380cb9a8f7de5b6617380e2a96568-1746021218-1746010418&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Киноужас
+https://server1.musical.uz/tv/kinoujas/index.m3u8?token=f2d36b837c7380b581ba7de473b1d63ad83e6d2b-b806c63714a17a2dd39db672d29b19dc-1746021221-1746010421&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Смотреть Первый канал онлайн прямой эфир бесплатно в хорошем качестве
+https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v3a1/mono.m3u8?token=v2.8Umk2IaSJBVbA0ugNJdeamEymzCQNS6O1A0C0xqCvMA.h2OfcuJS5HqlBj79Es2BsfrcKlZUyexPtRwhOpRP2Xg.1746615523.993da8d6a12c9e5453839e1e1d11c742
+#EXTINF:-1 group-title="Start",Техно 24
+https://server1.musical.uz/tv/texno24_web/index.m3u8?token=b6bddea47ac1ebd0e849e459b0695fc1f6e6a82d-8c6bb26b108b741c9f131b6cea15b1fc-1746021231-1746010431&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Мульт тв
+https://server1.musical.uz/tv/multv_web/index.m3u8?token=0a7e561d9082e06c71c6f0407058e3347c455633-09b5b51de92e90094f26dda1520e435b-1746021234-1746010434&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Живая Планета смотреть онлайн бесплатно в хорошем качестве
+https://server1.musical.uz/tv/jivaya-planeta_web/index.m3u8?token=67d5edd4a808c62814c44827751c7311e98fc15c-9a57f369c58d34496cdb332b3d866d6b-1746021236-1746010436&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Viasat Explorer
+https://server1.musical.uz/tv/viju-explore_web/index.m3u8?token=ba5070b9b64e4e36930af493540906f9ea05b3ff-a886435eea6b43ced4e05aeafc400ab9-1746021239-1746010439&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Viju History
+https://server1.musical.uz/tv/viju_history_web/index.m3u8?token=f9c92ab074a5204d15dcea64301f63936ed7fc91-f250c9481d2b1fa29c7b2e1610882cfa-1746021241-1746010441&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Viju Planet онлайн прямая трансляция бесплатно в хорошем качестве
+https://server1.musical.uz/tv/viasat_planet_web/index.m3u8?token=f43a34a1b69229784b483cf34755e36e96b2ceab-4147cd5141fc06f2a1be200d532a8728-1746021244-1746010444&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Viasat Nature смотреть онлайн прямой эфир в хорошем качестве бесплатно
+https://server1.musical.uz/tv/viju_nature_web/index.m3u8?token=07729cc6fe12451ae9e640d92804b6deffae0a4d-3414354be14cad994d87500392f66465-1746021246-1746010446&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Красная линия
+https://server1.musical.uz/tv/red_line/index.m3u8?token=93aef18e4b50218863814709da412db787f88e19-e904b83cf99a906c8da443f86f817b5a-1746021248-1746010448&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Наука 2.0
+https://server1.musical.uz/tv/nauka20_web/index.m3u8?token=7cb6ff9935dadef6df919febed22753b49ff4941-a66af82e0929a88eb18fbc33e1da709f-1746021251-1746010451&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Звезда Плюс
+https://server1.musical.uz/tv/zvezda_plus/index.m3u8?token=1e8b27ad9587b6a640f9b644bf9c5d2e77a92564-96dd66e63ddc9c32cc031c3dec71d260-1746021253-1746010453&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Сарафан
+https://server1.musical.uz/tv/sarafan_web/index.m3u8?token=dea497ec8d832ecea74c6a3de195e187944a99d1-43f7dc498b7608a79989a6d2aef66959-1746021256-1746010456&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",СТС
+https://server1.musical.uz/tv/ctc_web/index.m3u8?token=b77472ca2075f293d4d0ba371f0e1270f7ae927e-f82bdb51fe0e66b40e447a79a34163c8-1746021259-1746010459&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Синема
+https://server1.musical.uz/tv/cinem_web/index.m3u8?token=de7498f21ac109f1549b41651c59f19911c3a816-6b578cbf22fab8341fab4c0e92f49fe3-1746021261-1746010461&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Кинопоказ
+https://server1.musical.uz/tv/kino-pokaz_web/index.m3u8?token=5a043f1060cd4ba47177ae178308362708ec88c2-28f60cab0f5524f1d3872fd00d8c42c3-1746021264-1746010464&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",РТР Планета
+https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="Start",Россия 24
+https://edge01d.mediavitrina.ru/hls-livef1/russia24/tracks-v3a1/mono.m3u8?token=v2.JESlhWI9822nwqmo9b1vEGy1GSN7X1Ttj98eq8wvQh4.6mBH5ZNbH6SmCGG7TeYWaI9Gqm2xWN6dIz5ITAaOLVw.1746615568.86c4c5658cefd48de4221cf96aa41e5f
+#EXTINF:-1 group-title="Start",Россия культура онлайн прямой эфир смотреть сейчас бесплатно в хорошем качестве
+https://server1.musical.uz/tv/russia-k/index.m3u8?token=2249e97779afcb763d7db6e3688ab6e1440c46c9-647606ebbe0b0c89d5c5197053d65106-1746021270-1746010470&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Беларусь 5
+https://server1.musical.uz/tv/belarus5_web/index.m3u8?token=a5f3568ab308257e75d17292a22ce31d2cf2b4f5-cf564dc5dd4e21cdfe612c6c5e9fc35e-1746021273-1746010473&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Казспорт онлайн прямой эфир бесплатно в хорошем качестве
+https://server1.musical.uz/tv/qazsport/index.m3u8?token=e94a2cbe9c4815c13cbe1663e676155771dfc008-d5e21eaa862f1bc7f27bd17e7da702f1-1746021275-1746010475&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",НБА прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/nbatv/index.m3u8?token=ac5dc6972216f9b372325da4be11f5c8abd46375-22188a96cc53b578632f6c36a481f8bf-1746021277-1746010477&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",ЦТВ
+https://server1.musical.uz/tv/centraltv/index.m3u8?token=68815c0c31759b9fb4184e6c7b2941accefedfe4-d817f667b126251b71208116fd5ba1cc-1746021280-1746010480&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",рт новости
+https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1 group-title="Start",Москва доверие канал
+https://server1.musical.uz/tv/moskva-doveria/index.m3u8?token=39cbd7e3f5f954ce54a9cfd1a439e3a06090b096-9606edb2e53c09ac27dded74056ecd26-1746021284-1746010484&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",нтв право
+https://server1.musical.uz/tv/ntv_pravo/index.m3u8?token=18ceac04d9febccd98c523e9ab96aa06467493b8-c503026e329902b8ed259ea47ae9c3f2-1746021286-1746010486&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",нтв стиль
+https://server1.musical.uz/tv/ntv_stil/index.m3u8?token=beca5dc262baf93085df2cb8baa70b1b75ed036a-bc16b5278424c8721ecf33c7f1b660a6-1746021289-1746010489&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",RTVi
+https://server1.musical.uz/tv/rtvi/index.m3u8?token=01e4322d07b75338c8379cc5a77a81ccecd1d564-7029f8450ea09429edc23ee21006c651-1746021291-1746010491&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Арсенал
+https://server1.musical.uz/tv/arsenal/index.m3u8?token=bc28ba2e44f0efe5dc69e229fd92a7f441cdfb9b-3cd464ee83b5cfb6dfb7e5771fc43022-1746021294-1746010494&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",CGTN » Смотреть тв онлайн прямая трансляция прямо сейчас бесплатно все каналы
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="Start",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Start",Оружие
+https://server1.musical.uz/tv/orujiye/index.m3u8?token=1767dd35f98382dd03ce69950e408262be33ec0a-7d16879d061a7652a9e725ee34d43cc8-1746021301-1746010501&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge Шлягер
+https://server1.musical.uz/tv/bridge_shlyager_web/index.m3u8?token=f9b40808197bec8b5389edd2bba080dfdf9756e7-a371bec19ec86a3f2c2bcf53597a7e3e-1746021304-1746010504&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge Русский Хит
+https://server1.musical.uz/tv/bridge_rusxit_web/index.m3u8?token=256041cbf41b4a5ff956a48085c9791c1dfc2ed7-e56fe45a3cebd33ad965103a629ec45b-1746021306-1746010506&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge Rock
+https://server1.musical.uz/tv/bridge_rock_web/index.m3u8?token=8e74e1452b92a4265fd5dd5697fabf989e750289-ba5c5c2a1a10cc94d98f2966986208bd-1746021309-1746010509&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge Deluxe
+https://server1.musical.uz/tv/bridge_deluxe_web/index.m3u8?token=0d13cc8013a2c4b0d1acdc66bb45b60c7b77017b-eef92c1ecd287f6b6a723d12189c003b-1746021311-1746010511&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge Classic
+https://server1.musical.uz/tv/bridge_classic_web/index.m3u8?token=71f5ff6b633901bc71d3b77385f73fa380ac15f1-689c9e682cdb8e2a4cc2a8276d477c14-1746021313-1746010513&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Discovery Science прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/discovery_science-web/index.m3u8?token=fd7b95cf270b149e61b5a7b05529a3e68af85476-932df16bd53be8fbe9c850cfa99240df-1746021316-1746010516&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",MusicBox Gold
+https://server1.musical.uz/tv/music_box_gold_web/index.m3u8?token=5d49d9238d00f784ec2a3e51568f6f15446d5ae5-664a6aaa8769e0cffffdc12a3497b4b5-1746021349-1746010549&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Gulli Girl
+https://server1.musical.uz/tv/gulli_girl_Web/index.m3u8?token=2b78c06d69d8f2b8c81ae3a26cf88d8b1d6e8ed2-a16fa1bcddae15ae30638a39310a432a-1746021351-1746010551&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Авто плюс тв онлайн смотреть бесплатно прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/avto_plus_web/index.m3u8?token=3860b100041455abd5f9c2fed2b9f5d01390a71d-8437f00101144503600997e9bd447a07-1746021354-1746010554&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",360 Новости
+https://server1.musical.uz/tv/360news_Web/index.m3u8?token=976e6d016b946da2ec9a6c79f88157edc4e113ff-e1fc76981395aa8510eae35b5e46ef1d-1746021356-1746010556&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Galaxy tv смотреть онлайн бесплатно в хорошем качестве
+https://server1.musical.uz/tv/galaxytv_Web/index.m3u8?token=c44c082b9c7029662ee54d45aa0de9c07db7148a-b5463fb7ae918209329a67ea2d464060-1746021359-1746010559&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Nat Geo Wild прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/nat-geowild_web/index.m3u8?token=93c9b49599f4962c4053e5a91ced6c44f078fe03-056b7feb123ee64ab60a89413cfb1de1-1746021361-1746010561&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",National Geographic прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/nat-geo_web/index.m3u8?token=b5552428814aaab91e4d8e701cb05db27ebb2dcd-f7d26b79666a16def576c5c6701a1616-1746021364-1746010564&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Приключения HD
+https://server1.musical.uz/tv/prikluchenia_web/index.m3u8?token=a9333892780d0173ba1bff952206f68c03138111-d16bf3a48d693dd108438b9202fc62a7-1746021366-1746010566&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Зоо ТВ
+https://server1.musical.uz/tv/zootv_web/index.m3u8?token=4831cace1e7856420b91360666d39dc6bf00623c-1d6bbbc4c0d9c12970834af203fab23a-1746021368-1746010568&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",История
+https://server1.musical.uz/tv/istoriya_web/index.m3u8?token=e6fbce24f1dc01c7cd1a27b0fe36b7683be0e50f-c22208aa778bd0a543d4655fe7eba02e-1746021371-1746010571&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Ани
+https://server1.musical.uz/tv/ani_web/index.m3u8?token=1726d3feaf75d32450f8e4f39b4da938cde2d7a9-25b7476ba696b79c3e4e2aa7a0c2bac6-1746021373-1746010573&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Бобер ТВ
+https://server1.musical.uz/tv/bober_tv_web/index.m3u8?token=b22d644a7eb7c0a60fb499e63c375185ce1f5fe0-52b902bb27575a1f009dbaea239b3811-1746021375-1746010575&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Охота и рыбалка смотреть онлайн прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/oxota_i_ribalka_web/index.m3u8?token=de7a571417f9236aa2bb1094252b5576b69d4f32-1c771db874fc70d2f218c11116428c10-1746021378-1746010578&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Охотник и рыболов телеканал смотреть онлайн прямой эфир бесплатно
+https://server1.musical.uz/tv/oxotniki_ribolov_web/index.m3u8?token=3afe8c49be96bb4992b5a00cccdf9f3abb8d8fe2-f52ac0b59fe6d67eaa4ab08871831259-1746021380-1746010580&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",В мире животных смотреть онлайн бесплатно в хорошем качестве
+https://server1.musical.uz/tv/vmirejivotnix_web/index.m3u8?token=2893234e89130582238020638753cf1d92932bbe-32a23664f0868db95b7fae72fe681b7d-1746021383-1746010583&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Animal Planet
+https://server1.musical.uz/tv/animal-planet_web/index.m3u8?token=39dfe882c4c3afd3b20692bf1268c6104aea1c7b-516c79910c7be8cb4cea406f1c33168b-1746021385-1746010585&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Загородная жизнь
+https://server1.musical.uz/tv/zagorodniy_jizn_web/index.m3u8?token=01b26c21cecfa17a5bf9054264843aa6e2547002-43a897f16f3f9b593ecafdfb0521f699-1746021387-1746010587&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Футбол онлайн прямая трансляция бесплатно в хорошем качестве
+https://server1.musical.uz/tv/futbol_tv/index.m3u8?token=40135b486dbc460cd266cee6458f53ae55a75629-45d2a70296c3559aa730e677824c346b-1746021390-1746010590&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",ММА тв онлайн смотреть бесплатно прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/mma-tv_web/index.m3u8?token=aa1d2838cca09e75a4a74522314680a08924bea5-bda4c5ea9adc8bd5f5096acbe98bdaa8-1746021393-1746010593&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Мужской
+https://server1.musical.uz/tv/mujskotv_web/index.m3u8?token=6f13fdf1a496acc33eddf475b7b5e9332ff14f23-a4192f87ced503e91f774f85da52980c-1746021395-1746010595&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Viju Sport смотреть бесплатно онлайн
+https://server1.musical.uz/tv/vijusport_web/index.m3u8?token=0f06d34c4062953e37875d682969b41b4f2ee4c0-a272b0ae6fcd675b7a9bb0c12cbae9df-1746021398-1746010598&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Беларусь 24
+https://server1.musical.uz/tv/belarus24_web/index.m3u8?token=f7d40f5c3f91261b24b10c603996272b3f7027a3-f94679a249de42f0e54f1efcf0a88db0-1746021400-1746010600&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Конный Мир
+https://server1.musical.uz/tv/kon_mir_web/index.m3u8?token=61e81c38f59bf5d9100281ebe536b00ca0ee0493-81bc5dac57dc27ff9bd0a9925047f3f3-1746021403-1746010603&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Старт Триумф смотреть онлайн бесплатно в хорошем качестве
+https://server1.musical.uz/tv/start_triumf_web/index.m3u8?token=6f2b673dad9f94eb5dc0deb3817010a51b630b4e-0aab8bb9dee5374aee67338b6788c56a-1746021405-1746010605&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Сетанта спорт 1 прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/setanta1/index.m3u8?token=47c9af92393b3f60e7c27b6325b168dcd42f7796-a0325ca4c753b9f3e72654cb65ed8591-1746021410-1746010610&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Сетанта спорт 2 прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/setanta2/index.m3u8?token=f17df756d0cebfd034e48a4fd9f10326d994657a-7d0e615d08164a6cc28a60664c1badf5-1746021411-1746010611&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Сетанта Спорт Казахстан смотреть онлайн прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/setanta-kz/index.m3u8?token=1e2b94547fa7562039509f13ae1a027c1c1dacad-b239db06d5a7122e2c789a7318dc0661-1746021413-1746010613&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Мосфильм золотая коллекция канал онлайн смотреть бесплатно прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/mos-film_web/index.m3u8?token=d0679781fab4975991ff05f774a548b4b2e1d4ff-7aff2702bcd1ee7ed5bf70bd8fe65d59-1746021415-1746010615&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Ретро тв
+https://server1.musical.uz/tv/retrotv_web/index.m3u8?token=f72ae86739721017f459af5507bd81d43c6401cf-3a8f6d63031107bf6a0bd61871a0763f-1746021418-1746010618&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",телеканал Дождь смотреть онлайн прямой эфир в хорошем качестве
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b2692000.m3u8
+#EXTINF:-1 group-title="Start",НСТ онлайн смотреть бесплатно прямой эфир в хорошем качестве бесплатно
+https://server1.musical.uz/tv/nct_Web/index.m3u8?token=558f60b9d6f63bb18734bb1de222a51f8da0a865-4e6ff3099f2520e548e0070784d6bae2-1746021423-1746010623&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Sci fi смотреть онлайн прямой эфир
+https://server1.musical.uz/tv/scifi_web/index.m3u8?token=14f8e0ad841b777f696f1205569020c844f2c33b-aa5fa05529561880199ed58c5d291dc6-1746021425-1746010625&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Red
+https://server1.musical.uz/tv/red_web/index.m3u8?token=ec12deda04410a24f0a6895ae6c2f57e9af92d56-58ea45b30be4b13e7fe389735575e369-1746021428-1746010628&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Black
+https://server1.musical.uz/tv/black_web/index.m3u8?token=8270f07d22e9708c131e43c7b79ae99ddd51278f-fb4578081df45e7f60fe17614ddcb8c4-1746021431-1746010631&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bollywood HD
+https://server1.musical.uz/tv/bollywood_web/index.m3u8?token=cbb4ea88d61c584b0e9cc23a0280b572ed282804-8a1135030f4ff2efe9df4470f5ba88b4-1746021433-1746010633&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Еврокино
+https://server1.musical.uz/tv/euro-kino_web/index.m3u8?token=9466a8ad3c1cb451cf724f1f0275e49e4f5a1d7b-5d7663a12012ef17497d0c9f2273577f-1746021435-1746010635&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Мир сериала смотреть онлайн прямой эфир в хорошем качестве
+https://server1.musical.uz/tv/mir-seriala_web/index.m3u8?token=da4d33b433466cce31c18ceb1780ac46e0714408-a71afe3cfd92dd69bf7badb1fc6f34b9-1746021438-1746010638&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Дом кино Премиум
+https://server1.musical.uz/tv/dom-kino-premium_web/index.m3u8?token=5d37d49b232975bdbff2386aaa15f2ed9eb2e5f9-3d4883c201c534610a47fb09da2ee019-1746021440-1746010640&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Hollywood HD смотреть онлайн прямой эфир
+https://server1.musical.uz/tv/hollywd_web/index.m3u8?token=57a84bafbb73a4d6fa0feb29b4dfa56787277c0a-68cff6b7a90b1ae07567d2c9962b5361-1746021443-1746010643&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Русский иллюзион
+https://server1.musical.uz/tv/rusiluzion_web/index.m3u8?token=8dbd11ec6ca6a51c439753ce1187d3538b72db21-780972f9a8db3e67e18c14e54502e725-1746021445-1746010645&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Fox tv прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/fox_web/index.m3u8?token=3c916a47e05bf4553697b4d1b0c00869e0262fea-ff8b41871122b1b0e62ee9c5b5aa7518-1746021448-1746010648&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Фокс лайф
+https://server1.musical.uz/tv/fox_life_web/index.m3u8?token=aa6076f64ff5eeb9e5d77de0469acb05536de85e-6149effea413683454e05e48c0859da6-1746021450-1746010650&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",КиноСат
+https://server1.musical.uz/tv/kinosat_web/index.m3u8?token=f6f17d7c2612a5d2ebe6b4b48c71966d518b27aa-38a45986eb981af1e6bf0025c25b1b9d-1746021453-1746010653&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Фантастика HD прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/fantastikahd/index.m3u8?token=2de1b12ae535a53be1b9a305accc8f1410a59193-d665376596cbf767fbd23c15576238f1-1746021455-1746010655&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",НТВ Сериал
+https://server1.musical.uz/tv/ntv_serial_web/index.m3u8?token=f9d2242f9fb4a09f82f85970fbcaf40bbf930a62-3621a62990de66684a9cad173ba41091-1746021456-1746010656&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Шокирующее HD
+https://server1.musical.uz/tv/shokiruyushee/index.m3u8?token=d1d15bdf4d0c114e78552175818d771e56abcabe-35dacef41399ab79aceb5d8c0d992ee6-1746021476-1746010676&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Страшное HD смотреть онлайн тв канал прямой эфир бесплатно в хорошем качестве
+https://server1.musical.uz/tv/strashnoe_hd/index.m3u8?token=dcf844ea07b1749e8b8f04395fe4c32b7bd6dbbb-2fb78dd06b1517a213f9ff203a53ebf0-1746021478-1746010678&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Мультиландия
+https://server1.musical.uz/tv/mlandia_web/index.m3u8?token=60d3fe88cae664d42e0a8201226a18ed608cd41e-41e83a4ec8ad255b26be7e9e9c05e162-1746021498-1746010698&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Дисней прямой эфир бесплатно смотреть онлайн
+https://server1.musical.uz/tv/dsn_web/index.m3u8?token=b8090cd22c4cfa22d76852e8b70f10b82ae29814-4c70494f326d8bf3e886c6b05f00c981-1746021500-1746010700&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Детский мир
+https://server1.musical.uz/tv/detmir_web/index.m3u8?token=5fa756d463ac175a28bda84fdaaa280778b96102-4b3981cbe5f9afdb4583e2fbb0f1d8ee-1746021502-1746010702&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Советские мультфильмы смотреть бесплатно в хорошем качестве
+https://server1.musical.uz/tv/sovetmul_web/index.m3u8?token=1cf2ee97349689d99f7a61a2d67f72050a6d4739-08434cdc60e959a795ab993806d8455a-1746021512-1746010712&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Cartoon Network смотреть онлайн прямой эфир на русском
+https://server1.musical.uz/tv/cartonnet_web/index.m3u8?token=fe2804f12e0d0f4fcad13650d115db325cdbc1a5-06908353da9345940f8e5dc6ad6bda0e-1746021517-1746010717&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",канал Солнце
+https://server1.musical.uz/tv/solnce/index.m3u8?token=49b29b7a59aa92554ee619fd878c259dcd4f0cf9-1442bdcbac57c39f1fadc0c42302c451-1746021522-1746010722&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",2х2
+https://server1.musical.uz/tv/22_Web/index.m3u8?token=14356a1fd9b7c80b7a6a6472276fdbf81f0edf56-24488c5bdb0979b4917a6d04f05d517a-1746021524-1746010724&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Первый музыкальный
+https://server1.musical.uz/tv/perviy_muzikalniy/index.m3u8?token=93af6941679f2fc717fbc5b7a26ca7ea5b55adb5-ac654539afda8e5c7a5bff3324b83adf-1746021535-1746010735&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Bridge TV Hits
+https://server1.musical.uz/tv/bridgehits_web/index.m3u8?token=4da95549c715fd6c7012c5ff8b7a5fe317e0b78c-ef92123c9bccd8405079ff2e6df35c4b-1746021537-1746010737&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Start",тнт музыка
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="Start",Bridge TV
+https://server1.musical.uz/tv/bridgetv_web/index.m3u8?token=8411e967e36bfeb4e1dc43489813a45b90193298-b7f640b8c5c03f1f8db3bd65617426d2-1746021546-1746010746&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Муз тв онлайн прямой эфир смотреть бесплатно в хорошем качестве
+https://server1.musical.uz/tv/muz-tv_web/index.m3u8?token=23bc4dee8df7fbcd4bda959f5b137448708ab7a7-dc080ae90b302aad178a5d8d73eccb01-1746021551-1746010751&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Канал ю
+https://server1.musical.uz/tv/utv_web/index.m3u8?token=a7785583a4468056526c9074716360f9d5c62603-724483f4df1d149b52063524c4d9104c-1746021556-1746010756&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Че
+https://server1.musical.uz/tv/che-web/index.m3u8?token=b8a3b48fa29379fc479b1d5a11e6956b2e447628-4244a1eb1f8ab4bb5a9b7de9d859be7b-1746021558-1746010758&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",Суббота
+https://server1.musical.uz/tv/subota/index.m3u8?token=1e3909cca67cab9c16a24c7c6cf459fe6c4dbd92-bef8a35c6d31b18a9c5f0c5446b05c3f-1746021560-1746010760&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",ТНТ 4 онлайн прямой эфир бесплатно смотреть в хорошем качестве
+https://server1.musical.uz/tv/tnt4/index.m3u8?token=e90a89e84afaee8a5940dad7f9c0a15656fa3ed9-6e0f9c8a042d8e6004ee2479554aaf35-1746021562-1746010762&remote=212.231.121.4
+#EXTINF:-1 group-title="Start",World Fashion Channel
+https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
