@@ -41,7 +41,7 @@ http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.okAXO2AwuYns1t2_MsSrVi23TeQl2p3z3tHWkgMk0L0.Z59UtfTHkKuauRkeeVgcDnM3Ngw0LuxWQpmjLgtq5QE.1746438245.cc39fe4a95e9a1f3615719f8ffcaa6d2
+https://edge01r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.SI-iDfGnjUZv04ZOMURXXI9DeEzyvSWm0P7FGQgwEF0.dnrPPwdDuOYuBvf3tjoxf06Ed6FrnuCoWxzNo6rpyj8.1747138725.252376a47b4744a3ba81d9b297f6c044
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
