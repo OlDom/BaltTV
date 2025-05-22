@@ -42,6 +42,11 @@ http://45.143.108.110:2203/RTVi
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
 https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.oW8FksTm7N5MoNm98M_zSOdC3AB7Pyb2gwmduA93_LY.XWq_pRKw7d1AX-Bp4zO3fN-0dNzFBMeuZPZ1nX5NDO4.1748517968.d62b9b05c3c13b2387704ec8b2995c20
+#EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/moya-planeta.png",Моя Планета
+http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
+
+#EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
+http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
@@ -49,37 +54,36 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
 https://streaming.goodstream.cyou/live/44.m3u8
-#EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/lyubimoe-kino.png",Любимое кино
-https://s.ontivi.net/236/index.m3u8?k=1745695888p4i121i132i212S6b459cbd721b6b11dea27e828e982b3b
-#EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/sovetskoe-kino.png",Советское кино
-https://s.ontivi.net/243/index.m3u8?k=1745695862p4i121i132i212S1d0a20750ea20a92fe3124ef76938504
-#EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/lyubimoe.png",Любимое HD
-https://s.ontivi.net/534/index.m3u8?k=1745695827p4i121i132i212S6c1fbbd30d164d479cc27c0c29905ce4
-#EXTINF:-1 group-title="кино" tvg-logo="https://ip.ontivi.net/img/enter-film.png",Enter-фильм
-https://s.ontivi.net/529/index.m3u8?k=1745695800p4i121i132i212Secbc245b5439f527e0bfdd6126a7fd2b
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="кино",.black (EDTV)
-https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://ip.ontivi.net/img/sony-channel.png" group-title="кино",Red
-https://s.ontivi.net/576/index.m3u8?k=1745695750p4i121i132i212S98d0657d4626c720cb1ea13c184d06a9
+
+#EXTINF:-1 tvg-id="Amedia 1" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-1.png",Amedia 1
+http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Amedia 2" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-2.png",Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-id="Amedia Premium" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-premium.png",Amedia Premium
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Ani" group-title="кино" tvg-logo="http://v-tv.top/images/ani.png",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" group-title="кино" tvg-logo="http://v-tv.top/images/animal-planet.png",Animal Planet
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Black" group-title="кино" tvg-logo="http://v-tv.top/images/black.png",Black
+#EXTINF:-1 tvg-id="viju TV1000" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000.png",viju TV1000
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viju TV1000 action" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000-action.png",viju TV1000 action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viju TV1000 Русское кино" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000-russkoe-kino.png",viju TV1000 Русское кино
+http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viju+ Comedy HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-comedy-hd.png",viju+ Comedy HD
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viju+ Megahit HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-megahit-hd.png",viju+ Megahit HD
+http://31.173.165.29:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="viju+ Premiere HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-premiere-hd.png",viju+ Premiere HD
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 
 
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="кино",Amedia 1 (EDTV)
-http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="кино",Amedia 2 (FWVGA)
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="кино",AMEDIA HIT
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="кино",Amedia Premium
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 
 
-
-#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="кино",Amedia Hit (HD)
-http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="кино",Amedia Premium (HD)
-http://65.21.85.175:8000/play/a01p/11956700.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYWsucG5n?width=205&height=115&quality=93",Россия К HD
