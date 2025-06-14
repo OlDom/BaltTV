@@ -43,8 +43,7 @@ http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.oW8FksTm7N5MoNm98M_zSOdC3AB7Pyb2gwmduA93_LY.XWq_pRKw7d1AX-Bp4zO3fN-0dNzFBMeuZPZ1nX5NDO4.1748517968.d62b9b05c3c13b2387704ec8b2995c20
-#EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/moya-planeta.png",Моя Планета
+https://edge01p.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.4ybJEzQzjihUJZO9KwaYxkoE6TgM-NSdFOtAkgOwK9Y.ALUDtFAUwqnXbCRM0aWZHoIU_GrERJJZcqwKNkVZAZ4.1750550155.5bac72fdd9de6b5fc2828d12104a72dc#EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/moya-planeta.png",Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
