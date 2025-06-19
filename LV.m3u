@@ -47,7 +47,7 @@ https://edge01p.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2
 http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
-http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
