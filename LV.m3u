@@ -8,7 +8,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
-https://edge02p.mediavitrina.ru/hls-livef7/ntv0h/tracks-v3a1/mono.m3u8?token=v2.Kt5GXcGvBlAqQjrocxin5eFBlSuyjw6v8r54Jwd33EA.JbR64N11iXo4eTqPUQf3Uh7gY6oXmyUh6SQ0iuoIz7E.1752160272.2cdcd4c45451d20a269945499841e453
+https://server.musical.uz/ntvhd_web/rewind-86400.m3u8?token=24d77dc50ce06a4d2b39f263b7f0b12e538dd3c4-0cd1a6dc9b39cb11d8c8d6804eceaaeb-1752289936-1752279136
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
