@@ -48,8 +48,7 @@ http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="https://image.openmoviedb.com/kinopoisk-images/10768063/332e6a89-d7fd-487f-8aee-6c73a1c7eafd/orig",Plevako 10
-https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVspWTqF1dORVR31ERJd3TUpFbaRVV0kFVVpXW6RGaOpWT3l1VVRTWXVVP:1752749633:212.231.121.4:9834f03dc86e7652564e4cad6a9a83fa4d84c1de92daf0ceddc2b936a1d88581/index.m3u8
-
+https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVspWTqF1dORVR31ERJd3TUpFbaRVV0kFVVpXW6RGaOpWT3l1VVRTWXVVP:1752789410:212.231.121.4:9834f03dc86e7652564e4cad6a9a83fa4d84c1de92daf0ceddc2b936a1d88581/index.m3u8
 #EXTINF:-1 group-title="кино" tvg-logo="https://region-tyumen.ru/upload/iblock/bf4/83t7h6odvab5f81y84ogx0z4c5hxyv2z.jpg/",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
