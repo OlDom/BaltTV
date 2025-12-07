@@ -115,10 +115,10 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/podslushano-v-rybinske-season-1-trailer-1.jpg",Podslushano v rybinske 1
+#EXTINF:-1 group-title="kino"  Podslushano v rybinske 1
 https://storage.izi.media/40fc33424b58973733f90d359f2c8011:2025120818/tvseries/4826eed218430ef6296d84dfa8385eb3e37eab21/360.mp4
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/episodes_frames/50975446-5245532.jpg",Podslushano v rybinske 2
+#EXTINF:-1 group-title="kino" Podslushano v rybinske 2
 https://151-082-401gv.stream-balancer-allo-1.live/M2/68/1/1765154088/hDSCClrjwp_r9Uuf8kcflg/5/480/1/1018058/master.m3u8
 
 
