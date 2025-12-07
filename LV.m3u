@@ -115,35 +115,30 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/podslushano-v-rybinske-season-1-trailer-1.jpg",Podslushano v rybinske 1
+#EXTINF:-1 group-title="kino" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/podslushano-v-rybinske-season-1-trailer-1.jpg",Podslushano v rybinske 1
 https://storage.izi.media/40fc33424b58973733f90d359f2c8011:2025120818/tvseries/4826eed218430ef6296d84dfa8385eb3e37eab21/360.mp4
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/episodes_frames/50975446-5245532.jpg",Podslushano v rybinske 2
+#EXTINF:-1 group-title="kino" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/episodes_frames/50975446-5245532.jpg",Podslushano v rybinske 2
 https://151-082-401gv.stream-balancer-allo-1.live/M2/68/1/1765154088/hDSCClrjwp_r9Uuf8kcflg/5/480/1/1018058/master.m3u8
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://img.championat.com/news/big/p/c/podslushano-v-rybinske-2025_17388416331829120665.jpg",Podslushano v rybinske 3
+
+
+#EXTINF:-1 group-title="kino" tvg-logo="https://img.championat.com/news/big/p/c/podslushano-v-rybinske-2025_17388416331829120665.jpg",Podslushano v rybinske 3
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/68/1/1765154106/ZVd3PzkgcBf0rfgQCf3SuA/5/480/1/1008704/master.m3u8
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://img.championat.com/s/732x488/news/big/a/k/raspisanie-vyhoda-detektivnogo-seriala-podslushano-v-rybinske-s-ruzilem-minekaevym_1737552857197698134.jpg",Podslushano v rybinske 4
+#EXTINF:-1 group-title="kino" tvg-logo="https://img.championat.com/s/732x488/news/big/a/k/raspisanie-vyhoda-detektivnogo-seriala-podslushano-v-rybinske-s-ruzilem-minekaevym_1737552857197698134.jpg",Podslushano v rybinske 4
 https://0a2-ebd-400gv.stream-balancer-allo-1.live/M2/68/1/1765154126/jONOeN6jWEmTPEbhumaP9Q/5/480/1/1011777/master.m3u8
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://opis-cdn.tinkoffjournal.ru/mercury/in-out-podslyshano-v-ribinske-2025.jpg",Podslushano v rybinske 5
+#EXTINF:-1 group-title="kino" tvg-logo="https://opis-cdn.tinkoffjournal.ru/mercury/in-out-podslyshano-v-ribinske-2025.jpg",Podslushano v rybinske 5
 https://913-f8a-406gv.stream-balancer-allo-1.live/M2/68/1/1765154146/Z8rXgtn4mGUD4pY-uu6CEQ/5/480/1/1018060/master.m3u8
 
 #EXTINF:-1 group-title="kino"
 tvg-logo="https://resizer.mail.ru/p/e8b16d3c-4b08-590d-b08f-800faa6b1fc6/AQAC9Zdkstb8MMW2KSgv2IrP1Q_iSiI-GEdmon1RrsmecIgj2jMd1hTcYb5SPdiTiTgQmGaw-j0xatUojW1tuKDgKLA.jpg",Podslushano v rybinske 6
 https://ce1-048-404gv.stream-balancer-allo-1.live/M2/68/1/1765154165/mCZIHsLLOrwQ5FED9OpzAA/5/480/1/1018062/master.m3u8
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://n1s1.hsmedia.ru/07/d7/36/07d736ae7f7d78d177526572102a0a30/656x369_1_9dc3abb773ce850af243abd567cb0dc0@1536x864_0xUAg5cdLu_0679984793343566791.jpg.webp",Podslushano v rybinske 7
+#EXTINF:-1 group-title="kino" tvg-logo="https://n1s1.hsmedia.ru/07/d7/36/07d736ae7f7d78d177526572102a0a30/656x369_1_9dc3abb773ce850af243abd567cb0dc0@1536x864_0xUAg5cdLu_0679984793343566791.jpg.webp",Podslushano v rybinske 7
 https://0a2-ebd-400gv.stream-balancer-allo-1.live/M2/66/1/1765154182/GudRJU71MzZcgGYm1U6Skg/5/480/1/1021096/master.m3u8
 
-#EXTINF:-1 group-title="kino"
-tvg-logo="https://static.zhizn.ru/unsafe/rs:fit:850:700/plain/s3:/zhizn/37a3ec82-0409-47c4-9c6a-518c1ed6a50f.jpeg",Podslushano v rybinske 8
+#EXTINF:-1 group-title="kino" tvg-logo="https://static.zhizn.ru/unsafe/rs:fit:850:700/plain/s3:/zhizn/37a3ec82-0409-47c4-9c6a-518c1ed6a50f.jpeg",Podslushano v rybinske 8
 https://151-082-401gv.stream-balancer-allo-1.live/M2/69/1/1765154200/lEcP0H3Eh4YUtcANyQsuXg/5/480/1/1023398/master.m3u8
 
 
