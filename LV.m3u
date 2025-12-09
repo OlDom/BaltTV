@@ -116,7 +116,7 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", Palmy v snegu
-https://edge2.start.film/storage5/1/hlsjs-no-iframe/6/1d/b2a9ff57-86a0-45ef-b6ec-692d19f321d6/fhd__subs/master.m3u8?token=1ju9xFfzos_U86e-gzGp2w&expires=1765401282
+https://api.start.ru/stream/movie/d5db6946-7e1b-4963-b49f-7b0aff4c5320/trailer.m3u8?apikey=a20b12b279f744f2b3c7b5c5400c4eb5&locale=ru&content_lang=ru
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
 https://sb.err.ee/live/etv.m3u8
