@@ -116,15 +116,16 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg",1
-https://5c0-31d-106gv.stream-balancer-allo-1.live/M2/61/1/1765510034/NpIm_Pgg84cEmSmBs-Uamw/5/480/1/904850/master.m3u8
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964597/index.mp4
+
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 2
-https://consul.stream.voidboost.cc/05c6bd7f916dfa13c9d95d936358ee75:2025121219:SnpjeTJBa09GODEyWnpzTVdCa3lXMG5EU2NLM2Q1QkdyZkdmN3lWOGkwOUZzVy9Ra2VicFJSRzIrc1RrS1Z6M094ZmkwaDFsZmdnejZkaUdVSnhjL2c9PQ==/9/4/6/6/1/9/ut06f.mp4:hls:manifest.m3u8
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964598/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 3
-https://scandium.stream.voidboost.cc/7fbdbcb1c7561f62bcb2f5a8abfaf017:2025121219:SnpjeTJBa09GODEyWnpzTVdCa3lXMG5EU2NLM2Q1QkdyZkdmN3lWOGkwOUZzVy9Ra2VicFJSRzIrc1RrS1Z6MzZDK0ZGUUVIMTdlUXZTOVFmYXNOa1E9PQ==/9/4/6/6/2/0/vx2zf.mp4:hls:manifest.m3u8
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964599/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 4
-https://atomic.stream.voidboost.cc/fadf8746795a1453b684d34357e4f103:2025121219:SnpjeTJBa09GODEyWnpzTVdCa3lXMG5EU2NLM2Q1QkdyZkdmN3lWOGkwOUZzVy9Ra2VicFJSRzIrc1RrS1Z6M3ZFSzZseFd4N2toSXhYT2NCbnZaQ3c9PQ==/9/4/6/6/1/2/5ubcp.mp4:hls:manifest.m3u8
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964600/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 5
 https://grendel.stream.voidboost.cc/8f3855c08e9d46c168644b67aa84c1fb:2025121119:SnpjeTJBa09GODEyWnpzTVdCa3lXLzVrODB6Tm0xK1RlNVl3SmVRWnFOV1lvUnJ3NjdqNVpSMXF4c0JTa3B1WjZRaEw3V2h2MElLQzBibXdORXh6bU52elRIZzJyN1lDcEJjVWNsc1REeVU9/1/3/8/0/9/8/7/pv9qv.mp4:hls:manifest.m3u8
