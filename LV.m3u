@@ -116,16 +116,16 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg",1
-https://api.rstprgapipt.com/balancer-api/proxy/153871/964597/index.mp4
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964601/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 2
-https://api.rstprgapipt.com/balancer-api/proxy/153871/964598/index.mp4
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964602/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 3
-https://api.rstprgapipt.com/balancer-api/proxy/153871/964599/index.mp4
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964603/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 4
-https://api.rstprgapipt.com/balancer-api/proxy/153871/964600/index.mp4
+https://api.rstprgapipt.com/balancer-api/proxy/153871/964604/index.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 5
 https://grendel.stream.voidboost.cc/8f3855c08e9d46c168644b67aa84c1fb:2025121119:SnpjeTJBa09GODEyWnpzTVdCa3lXLzVrODB6Tm0xK1RlNVl3SmVRWnFOV1lvUnJ3NjdqNVpSMXF4c0JTa3B1WjZRaEw3V2h2MElLQzBibXdORXh6bU52elRIZzJyN1lDcEJjVWNsc1REeVU9/1/3/8/0/9/8/7/pv9qv.mp4:hls:manifest.m3u8
