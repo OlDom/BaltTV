@@ -16,7 +16,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_solovyev-live.jpg",Соловьёв LIVE
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+http://178.212.71.253:8000/play/111/index.m3u8
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/thumbs/1681620171_papik-pro-p-logotip-briks-vektor-4.jpg",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/master.m3u8
@@ -40,8 +40,7 @@ http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/ren_tv_international_2022.png",Рен ТВ Международный
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://edge01p.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2.4ybJEzQzjihUJZO9KwaYxkoE6TgM-NSdFOtAkgOwK9Y.ALUDtFAUwqnXbCRM0aWZHoIU_GrERJJZcqwKNkVZAZ4.1750550155.5bac72fdd9de6b5fc2828d12104a72dc#EXTINF:-1 group-title="общие" tvg-logo="https://ip.ontivi.net/img/moya-planeta.png",Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
+http://178.212.71.253:8000/play/11/index.m3u8
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
 http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
