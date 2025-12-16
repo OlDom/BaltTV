@@ -6,8 +6,8 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3Jvc3NpYTEucG5n?width=205&height=115&quality=93",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ HD
+https://vod.splay.uz/live_splay/original/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL250di5wbmc=?width=205&height=115&quality=93",НТВ-Мир
 http://157.90.0.245:8070/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2l6dmVzdGlhLnBuZw==?width=205&height=115&quality=93",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
