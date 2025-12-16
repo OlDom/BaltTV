@@ -44,7 +44,7 @@ https://edge01p.mediavitrina.ru/hls-livef1/ren-tv/tracks-v3a1/mono.m3u8?token=v2
 http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
-http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
 
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="https://image.openmoviedb.com/kinopoisk-images/10768063/332e6a89-d7fd-487f-8aee-6c73a1c7eafd/orig",Plevako 10
