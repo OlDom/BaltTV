@@ -114,17 +114,17 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="новости" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/523/913/7.png",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg",1
-https://temp-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Lihie.S02.E01.2025.WEB-DL.1080p.ExKinoRay.v1a1.11.09.25.mp4
+#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg",7
+https://temp-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E07.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 2
-https://data01-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_[NOOBDL]Lihie.S02E02.2160p.WEB-DL.x265.v1a1.18.09.25.mp4
+#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 8
+https://data04-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E08.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 3
-https://temp-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E03.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
+#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 9
+https://data11-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E09.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 4
-https://temp-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E04.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
+#EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 10
+https://data08-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E10.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://static.hdrezka.ac/i/2016/5/11/ue0c18147c0fcll77e61u.jpg", 5
 https://temp-cdn.11cdn.org/fi2lm/6326e49a4ec2209a561f1e61a46b8f97/7f_Bolshaya.voda.S01.E05.2023.WEB-DL.1080p.ExKinoRay.v1a1.16.12.25.mp4
