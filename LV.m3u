@@ -115,32 +115,33 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp",Otpechatki 1 seria
-https://store.ikinogo.com/trailers/7670559/s01/1898387354695d6ab7b5676.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", Фейк 1 сезон
-https://store.ikinogo.com/trailers/6462564/s01/1816017714695d6afedf558.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp",1
+https://store.ikinogo.com/serials/5357681/s01/93890620565e9075969cf1.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", Айда!
-https://store.ikinogo.com/trailers/7283766/s01/1771920317695d611a1f0b7.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 2
+https://store.ikinogo.com/serials/5357681/s01/129586249265e96ca41c843.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", Тайный знак
-https://store.ikinogo.com/trailers/7328688/s01/1458873680695d60e191c73.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 3
+https://store.ikinogo.com/serials/5357681/s01/40319313665f263cf5774a.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", 5
-https://store.ikinogo.com/serials/5436748/s01/18313884416763e86d4da3d.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 4
+https://store.ikinogo.com/serials/5357681/s01/25971441165fbf3cba0690.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", 6
-https://store.ikinogo.com/serials/5436748/s01/14079733856763e948721ff.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 5
+https://store.ikinogo.com/serials/5357681/s01/2627095266051af045f29.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp",7
-https://store.ikinogo.com/serials/5436748/s01/1936503366763ea48a7742.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 6
+https://store.ikinogo.com/serials/5357681/s01/1494827771660f037b99c05.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", 8
-https://store.ikinogo.com/serials/5436748/s01/14143754776763eb3f42ffd.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp",7
+https://store.ikinogo.com/serials/5357681/s01/18177170406617895a72076.mp4/index.m3u8
 
-#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/ff/c246304cd3c31bcc4fe88a9aac1f36.webp", 9
-https://store.ikinogo.com/trailers/5436748/s01/1263895326675bf9c387c13.mp4/index.m3u8
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 8
+https://store.ikinogo.com/serials/5357681/s01/6900749376620bc252775b.mp4/index.m3u8
+
+#EXTINF:-1 group-title="kino" tvg-logo="https://ikinogo.com/uploads/mini/poster-main/fc/6cc2e55c978f573d6017ebb316dafc.webp", 9
+https://store.ikinogo.com/trailers/5357681/s01/106234519065e0e593484d7.mp4/index.m3u8
 
 
 #EXTINF:-1 group-title="новости" tvg-logo="https://amw.starman.ee/content/Assets/Images/channels-dark/channel_etv.png",ETV
