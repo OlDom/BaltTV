@@ -53,7 +53,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
 https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
-http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
+https://tv.tvcdnpotok.com/-gp1TRwU2MrxQIG4v9hVHg/187/1770065297/index.m3u8
 
 #EXTINF:-1 tvg-id="Amedia 1" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-1.png",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
