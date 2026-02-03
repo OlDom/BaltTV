@@ -56,8 +56,7 @@ https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
 https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
-#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
-https://s.ontivi.net/187/index.m3u8?k=1770126731p502i89i921i19S62d1aef90b66fbea9d50319b7cfe374c
+
 
 #EXTINF:-1 tvg-id="Amedia 1" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-1.png",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
@@ -119,40 +118,43 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/pervyy-kanal.png",Первый канал
-https://s.ontivi.net/540/index.m3u8?k=1770126935p502i89i921i19Sacd1619ab5b99f1b81cd3623723de62d
+https://s.ontivi.net/540/index.m3u8?k=1770172164p502i89i921i19S7d4c958f47a059f7f7b502cfba827af1
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/rossiya-1.png",Россия 1
-https://s.ontivi.net/544/index.m3u8?k=1770126947p502i89i921i19S52b57423634abe24fd13cc9e2acc6822
+https://s.ontivi.net/544/index.m3u8?k=1770172181p502i89i921i19S8bc480b7b6654e59073ca5325323fae6
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/ntv.png",НТВ
-https://s.ontivi.net/537/index.m3u8?k=1770126903p502i89i921i19Sc57cbf58e7ffed94d4f05ff18d59d390
+https://s.ontivi.net/537/index.m3u8?k=1770172199p502i89i921i19S20414f5ce0f3cd9a7f2f75f9493de4a2
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/ren-tv.png",Рен ТВ
-https://s.ontivi.net/543/index.m3u8?k=1770126782p502i89i921i19Sd3ed77d210c225f39415571f1c4314bd
+https://s.ontivi.net/543/index.m3u8?k=1770172213p502i89i921i19Sc5d4dab0fa8769688fd07b41a44d7f90
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/tvc-tv.png",ТВЦ
-https://s.ontivi.net/548/index.m3u8?k=1770126920p502i89i921i19S1e1dc6ea0a97ac8b04e2bd416e5d389a
+https://s.ontivi.net/548/index.m3u8?k=1770172226p502i89i921i19S96616d08a3424bad399784fcb6337e9b
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/5-kanal.png",Пятый канал
-https://s.ontivi.net/524/index.m3u8?k=1770126959p502i89i921i19S08fdbff9867f59c9c8aa9fa60b6b0fbb
+https://s.ontivi.net/524/index.m3u8?k=1770172243p502i89i921i19S1e8cdc874674d065cf47ef5e475ac02f
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/zvezdatv.png",Звезда
-https://s.ontivi.net/125/index.m3u8?k=1770126977p502i89i921i19S9c733b09ec9b612ccf40719bce749b77
+https://s.ontivi.net/125/index.m3u8?k=1770172256p502i89i921i19Sce4049450852ba558b44b0061ec17da2
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/domashniytv.png",Домашний
-https://s.ontivi.net/561/index.m3u8?k=1770126869p502i89i921i19S1a0241aa02db7b3bdd0ce0e753010e2f
+https://s.ontivi.net/561/index.m3u8?k=1770172270p502i89i921i19Sef0820c11c462bc12794b0830f6bba68
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/chetv.png",Че
-https://s.ontivi.net/526/index.m3u8?k=1770126890p502i89i921i19S78aa621825fcf103bcac3c1323329b7e
+https://s.ontivi.net/526/index.m3u8?k=1770172283p502i89i921i19Sd85635da8e50176926b917112d137e51
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/krim-1.png",Крым 1
-https://s.ontivi.net/533/index.m3u8?k=1770126991p502i89i921i19S93b67362a7b7ed299419d5b912423f0e
+https://s.ontivi.net/533/index.m3u8?k=1770172298p502i89i921i19S053928024bfe512b0f4f741ec30bfdab
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/9-kanal-izrail.png",9 канал Израиль
-https://s.ontivi.net/185/index.m3u8?k=1770081908p502i89i921i19Sc7226b4f1a5dbddb95eb27022bd147cc
+https://s.ontivi.net/185/index.m3u8?k=1770172312p502i89i921i19Sac3831eff4c0c4dbf6133a75ac6bc3a4
 
 #EXTINF:-1 group-title="Общенациональные" tvg-logo="https://ip.ontivi.net/img/360.png",360
-https://s.ontivi.net/523/index.m3u8?k=1770127005p502i89i921i19Sf7408625cdc9245e3add1daf09a4b740
+https://s.ontivi.net/523/index.m3u8?k=1770172324p502i89i921i19S1a0fbcf89a03ed92db0e98e60dca6b4b
+
+#EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
+https://s.ontivi.net/187/index.m3u8?k=1770172372p502i89i921i19S0216443e6d370de703a6078ff51020f2
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://kinogo.li/uploads/mini/220x305/a4/f9600eb4e005aa562636bfa9e94120.jpg",1
 https://mediaaly.pro/tvseries/9ca90da5d21ba3982b163d249bbee0542d1529a8/c0ede11a4af79b44c0ec0bd6bb922185:2026011300/hls.m3u8
