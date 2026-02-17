@@ -47,7 +47,7 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="http://v-tv.top/images/kino-tv.png",Кино ТВ
-http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
+http://cdn.lamro.tv/KinoTVHD/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Кино ТВ"  group-title="кино" tvg-logo="https://image.openmoviedb.com/kinopoisk-images/10768063/332e6a89-d7fd-487f-8aee-6c73a1c7eafd/orig",Plevako 10
@@ -96,7 +96,7 @@ http://93.189.224.246:52900/play/a00j/index.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="https://player.smotrim.ru/images/logos/logo_rtr_planet.png",РТР-Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603/playlist.m3u8
 #EXTINF:-1 group-title="общие" tvg-logo="http://telik.live/images/ntv-mir.png",НТВ-Мир
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
+https://edge02-alm.beetv.kz/bpk-token/3an@dkwqz0dzzcglpvrf2eg5nmbtvxqsfmw4duyvzhba/bpk-tv/000000079/tve/000000079-audio_82882_rus=82400-video=562400.m3u8
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3p2ZXpkYS5wbmc=?width=205&height=115&quality=93",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -154,7 +154,7 @@ https://s.ontivi.net/185/index.m3u8?k=1770172312p502i89i921i19Sac3831eff4c0c4dbf
 https://s.ontivi.net/523/index.m3u8?k=1770172324p502i89i921i19S1a0fbcf89a03ed92db0e98e60dca6b4b
 
 #EXTINF:-1 group-title="кино" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dom_Kino_Premium.png/",Дом Кино Премиум
-https://s.ontivi.net/187/index.m3u8?k=1770172372p502i89i921i19S0216443e6d370de703a6078ff51020f2
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 
 #EXTINF:-1 group-title="kino" tvg-logo="https://kinogo.li/uploads/mini/220x305/a4/f9600eb4e005aa562636bfa9e94120.jpg",1
 https://mediaaly.pro/tvseries/9ca90da5d21ba3982b163d249bbee0542d1529a8/c0ede11a4af79b44c0ec0bd6bb922185:2026011300/hls.m3u8
@@ -1096,6 +1096,3 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://rustv.live/images/logos_tv/nick-jr.png" group-title="детям",Nick Jr
 rtmp://212.0.213.132//NickJr
-
-
-
