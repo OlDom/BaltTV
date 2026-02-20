@@ -56,6 +56,13 @@ https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
 https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
+#EXTINF:-1 tvg-name="amedia-1" tvg-logo="http://tv-online.top/img/amedia1.jpg" group-title="кино",amedia-1
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 tvg-name="amedia-2" tvg-logo="http://tv-online.top/img/amedia2.jpg" group-title="кино",amedia-2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 tvg-name="amedia-premium" tvg-logo="http://tv-online.top/img/amediapremium.jpg" group-title="кино",amedia-premium
+https://edge03-alm.beetv.kz/bpk-token/3an@fv0jadulkhbmq0grdn5stvtagyjvocyaf3jma4ca/bpk-tv/000000709/tve/000000709-audio_82882_rus=82400-video=3712400.m3u8
+
 
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://pokaz.me/posts/2017-11/1511429376_1463597059_pervyy-kanal.png",Первый канал
 https://s.pokaz.me/540/index.m3u8?k=1771584108p532i99i921i19S1be304f20cc5f037e450a91a9ac695ca
