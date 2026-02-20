@@ -56,7 +56,7 @@ https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://ip.ontivi.net/img/mosfilm.png" group-title="кино",Мосфильм. Золотая коллекция
 https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
-#EXTM3U
+
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://pokaz.me/posts/2017-11/1511429376_1463597059_pervyy-kanal.png",Первый канал
 https://s.pokaz.me/540/index.m3u8?k=1771584108p532i99i921i19S1be304f20cc5f037e450a91a9ac695ca
 #EXTINF:-1 tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="https://pokaz.me/posts/2017-11/1511432255_rossiya-1.png",Россия 1
@@ -205,35 +205,6 @@ https://s.pokaz.me/588/index.m3u8?k=1771584148p532i99i921i19Sdb36a21cdeb2be077b6
 https://s.pokaz.me/567/index.m3u8?k=1771584149p532i99i921i19S8c2574be22dffcf754586d5431815e45
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://pokaz.me/posts/2017-11/1511428941_1388683762_vesti.png",Россия 24
 https://s.pokaz.me/563/index.m3u8?k=1771584149p532i99i921i19S60c56b028423a5ff9f1bcf6958a45e97
-
-
-#EXTINF:-1 tvg-id="Amedia 1" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-1.png",Amedia 1
-http://cdn.lamro.tv/Amedia1/mono.m3u8
-#EXTINF:-1 tvg-id="Amedia 2" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-2.png",Amedia 2
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-id="Amedia Premium" group-title="кино" tvg-logo="http://v-tv.top/images/amedia-premium.png",Amedia Premium
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="Ani" group-title="кино" tvg-logo="http://v-tv.top/images/ani.png",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" group-title="кино" tvg-logo="http://v-tv.top/images/animal-planet.png",Animal Planet
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="Black" group-title="кино" tvg-logo="http://v-tv.top/images/black.png",Black
-#EXTINF:-1 tvg-id="viju TV1000" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000.png",viju TV1000
-http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="viju TV1000 action" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000-action.png",viju TV1000 action
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="viju TV1000 Русское кино" group-title="кино" tvg-logo="http://v-tv.top/images/viju-tv1000-russkoe-kino.png",viju TV1000 Русское кино
-http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="viju+ Comedy HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-comedy-hd.png",viju+ Comedy HD
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="viju+ Megahit HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-megahit-hd.png",viju+ Megahit HD
-http://31.173.165.29:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="viju+ Premiere HD" group-title="кино" tvg-logo="http://v-tv.top/images/viju-premiere-hd.png",viju+ Premiere HD
-http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="кино",.sci-fi (EDTV)
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-
-
 
 
 #EXTINF:-1 group-title="общие" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3R2Y2VudGVyLnBuZw==?width=205&height=115&quality=93",ТВ Центр
