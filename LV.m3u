@@ -332,8 +332,8 @@ http://185.23.80.28:8080/Galaxy/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID (HD)
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo-500x281.png" group-title="Познавательные",Animal Planet
-http://cdn.lamro.tv/AnimalPlanetHD/mono.m3u8
+#EXTINF:-1 tvg-name="animal-planet" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo-500x281.png" group-title="Познавательные",animal-planet
+https://edge06-alm.beetv.kz/bpk-token/3an@oyrinsmwhcvjcotos1xejdr0ezdoekteoohdfsaa/bpk-tv/000000216/tve/000000216-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic (EDTV)
 http://cdn.lamro.tv/NationalGeographic/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (EDTV)
